@@ -91,8 +91,8 @@
       "language": "Sanskrit",
       "category": "Mantra",
       "lyrics": {
-        "hindi": "ॐ भूर्भुवः स्वः...",
-        "english": "Om Bhur Bhuvah Swaha..."
+        "hindi": "ॐ भूः। ॐ भुवः। ॐ स्वः।\nॐ महः। ॐ जनः। ॐ तपः। ॐ सत्यम्॥\n\nॐ तत्सवितुर्वरेण्यम्\nभर्गो देवस्य धीमहि।\nधियो यो नः प्रचोदयात्॥\n\nॐ आपो ज्योतिः रसोऽमृतम्\nब्रह्म भूर्भुवः स्वरोम्॥\n\nॐ भूर्भुवः स्वः।\nतत्सवितुर्वरेण्यम्।\nभर्गो देवस्य धीमहि।\nधियो यो नः प्रचोदयात्॥",
+        "english": "Om Bhuh. Om Bhuvah. Om Swah.\nOm Mahah. Om Janah. Om Tapah. Om Satyam.\n\nOm Tat Savitur Varenyam\nBhargo Devasya Dhimahi.\nDhiyo Yo Nah Prachodayat.\n\nOm Apo Jyotih Raso Amritam\nBrahma Bhur Bhuvah Swarom.\n\nOm Bhur Bhuvah Swah.\nTat Savitur Varenyam.\nBhargo Devasya Dhimahi.\nDhiyo Yo Nah Prachodayat."
       },
       "audio_url": "https://example.com/audio/gayatri_mantra.mp3",
       "image_url": "https://example.com/images/gayatri_mata.jpg",
@@ -105,8 +105,8 @@
       "language": "Sanskrit",
       "category": "Mantra",
       "lyrics": {
-        "hindi": "ॐ त्र्यम्बकं यजामहे...",
-        "english": "Om Tryambakam Yajamahe..."
+        "hindi": "ॐ हौं जूं सः।\nॐ भूर्भुवः स्वः।\nॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्।\nउर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय माऽमृतात्।\nस्वः भुवः भूः ॐ।\nसः जूं हौं ॐ॥\n\nॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्।\nउर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय माऽमृतात्॥\n\nत्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्।\nउर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय माऽमृतात्॥",
+        "english": "Om Haum Jum Sah.\nOm Bhur Bhuvah Swah.\nOm Tryambakam Yajamahe Sugandhim Pushtivardhanam.\nUrvarukamiva Bandhanat Mrityormukshiya Mamritat.\nSwah Bhuvah Bhuh Om.\nSah Jum Haum Om.\n\nOm Tryambakam Yajamahe Sugandhim Pushtivardhanam.\nUrvarukamiva Bandhanat Mrityormukshiya Mamritat.\n\nTryambakam Yajamahe Sugandhim Pushtivardhanam.\nUrvarukamiva Bandhanat Mrityormukshiya Mamritat."
       },
       "audio_url": "https://example.com/audio/mahamrityunjaya.mp3",
       "image_url": "https://example.com/images/shiva.jpg",
@@ -119,8 +119,8 @@
       "language": "Hindi",
       "category": "Bhajan",
       "lyrics": {
-        "hindi": "राधे राधे जपो...",
-        "english": "Chant Radhe Radhe..."
+        "hindi": "राधे राधे राधे राधे श्याम मिलाय दे।\nराधे राधे राधे राधे प्रेम दिखाय दे॥\n\nवृन्दावन की कुंज गलिन में राधा रानी विराजती।\nश्याम सुंदर के संग मिलकर यमुना तट पर गाती॥\nराधे राधे राधे राधे श्याम मिलाय दे॥\n\nबरसाने वाली राधा रानी भक्तन की सुनवाई।\nनाम जपो इनका भाई दुःखन दूर हो जाई॥\nराधे राधे राधे राधे प्रेम दिखाय दे॥\n\nराधा नाम है प्रेम का दाता कृष्ण प्रिया जग माता।\nजो जन इनको ध्यावे मनवांछित फल पावे॥\nराधे राधे राधे राधे श्याम मिलाय दे॥\n\nराधे राधे बोलो राधे राधे बोलो।\nमन के द्वार खोलो राधे राधे बोलो॥\nराधे राधे राधे राधे प्रेम दिखाय दे॥",
+        "english": "Radhe Radhe Radhe Radhe Shyam Milay De.\nRadhe Radhe Radhe Radhe Prem Dikhay De.\n\nVrindavan Ki Kunj Galin Mein Radha Rani Virajati.\nShyam Sundar Ke Sang Milkar Yamuna Tat Par Gati.\nRadhe Radhe Radhe Radhe Shyam Milay De.\n\nBarsane Wali Radha Rani Bhaktan Ki Sunwai.\nNam Japo Inka Bhai Dukhna Door Ho Jaai.\nRadhe Radhe Radhe Radhe Prem Dikhay De.\n\nRadha Naam Hai Prem Ka Data Krishna Priya Jag Mata.\nJo Jan Inko Dhyave Manvanchhit Phal Pave.\nRadhe Radhe Radhe Radhe Shyam Milay De.\n\nRadhe Radhe Bolo Radhe Radhe Bolo.\nMan Ke Dwar Kholo Radhe Radhe Bolo.\nRadhe Radhe Radhe Radhe Prem Dikhay De."
       },
       "audio_url": "https://example.com/audio/radhe_radhe.mp3",
       "image_url": "https://example.com/images/radha.jpg",
@@ -133,8 +133,8 @@
       "language": "Hindi",
       "category": "Mantra",
       "lyrics": {
-        "hindi": "श्री राम जय राम जय जय राम...",
-        "english": "Shree Ram Jai Ram Jai Jai Ram..."
+        "hindi": "श्री राम जय राम जय जय राम।\nश्री राम जय राम जय जय राम॥\n\nराम राम राम राम राम राम राम।\nराम राम राम राम राम राम राम॥\n\nदशरथ नंदन राम रघुनंदन।\nसीतापति राम भक्त वत्सल॥\nश्री राम जय राम जय जय राम॥\n\nकौशल्या के लाल राम।\nअयोध्या के राजा राम।\nलक्ष्मण के भ्राता राम।\nहनुमत के स्वामी राम॥\nश्री राम जय राम जय जय राम॥\n\nहरे राम हरे राम राम राम हरे हरे।\nहरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे॥\nश्री राम जय राम जय जय राम॥",
+        "english": "Shri Ram Jai Ram Jai Jai Ram.\nShri Ram Jai Ram Jai Jai Ram.\n\nRam Ram Ram Ram Ram Ram Ram.\nRam Ram Ram Ram Ram Ram Ram.\n\nDasharath Nandan Ram Raghunandan.\nSita Pati Ram Bhakta Vatsal.\nShri Ram Jai Ram Jai Jai Ram.\n\nKaushalya Ke Lal Ram.\nAyodhya Ke Raja Ram.\nLakshman Ke Bhrata Ram.\nHanumat Ke Swami Ram.\nShri Ram Jai Ram Jai Jai Ram.\n\nHare Ram Hare Ram Ram Ram Hare Hare.\nHare Krishna Hare Krishna Krishna Krishna Hare Hare.\nShri Ram Jai Ram Jai Jai Ram."
       },
       "audio_url": "https://example.com/audio/shree_ram.mp3",
       "image_url": "https://example.com/images/ramji.jpg",
