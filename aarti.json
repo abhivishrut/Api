@@ -363,6 +363,356 @@
       "audio_url": "https://example.com/audio/shani_aarti.mp3",
       "image_url": "https://c9admin.cottage9.com/uploads/5850/shani-jayanti.jpg",
       "duration": "6:00"
+    },
+    {
+      "id": 27,
+      "name": "Ambe Tu Hai Jagdambe Kali",
+      "god_name": "Durga Maa",
+      "language": "Hindi",
+      "category": "Aarti",
+      "lyrics": {
+        "hindi": "अम्बे तू है जगदम्बे काली, जय दुर्गे खप्पर वाली।\nतेरे ही गुण गावें भारती, ओ मैया हम सब उतारें तेरी आरती॥\n\nतेरे भक्त जनों पर माता, भीर पड़ी है भारी।\nदानव दल पर टूट पड़ो माँ, करके सिंह सवारी॥\nसौ-सौ सिंहों से है बलशाली, है अष्ट भुजाओं वाली।\nदुष्टों को तू ही मारती, ओ मैया हम सब उतारें तेरी आरती॥\n\nमाँ बेटे का है इस जग में, बड़ा ही निर्मल नाता।\nपूत कपूत सुने हैं पर ना, माता सुनी कुमाता॥\nसब पर करुणा दर्शाने वाली, अमृत बरसाने वाली।\nदुखियों के दुखड़े निवारती, ओ मैया हम सब उतारें तेरी आरती॥\n\nनहीं मांगते धन और दौलत, न चांदी न सोना।\nहम तो मांगें तेरे चरणों में, एक छोटा सा कोना॥\nसबकी बिगड़ी बनाने वाली, लाज बचाने वाली।\nसतियों के सत को संवारती, ओ मैया हम सब उतारें तेरी आरती॥",
+        "english": "Ambe Tu Hai Jagdambe Kali, Jai Durge Khappar Wali.\nTere Hi Gun Gaaven Bharati, O Maiya Hum Sab Utaaren Teri Aarti.\n\nTere Bhakt Janon Par Mata, Bhir Padi Hai Bhari.\nDanav Dal Par Toot Pado Maa, Karke Singh Savari.\nSau-Sau Singhon Se Hai Balshali, Hai Asht Bhujaon Wali.\nDushton Ko Tu Hi Maarati, O Maiya Hum Sab Utaaren Teri Aarti.\n\nMaa Bete Ka Hai Is Jag Mein, Bada Hi Nirmal Nata.\nPoot Kapoot Sune Hain Par Na, Mata Suni Kumata.\nSab Par Karuna Darshane Wali, Amrit Barsane Wali.\nDukhiyon Ke Dukhde Nivarati, O Maiya Hum Sab Utaaren Teri Aarti.\n\nNahin Mangte Dhan Aur Daulat, Na Chandi Na Sona.\nHum To Mangen Tere Charanon Mein, Ek Chhota Sa Kona.\nSabki Bigadi Banane Wali, Laaj Bachane Wali.\nSatiyon Ke Sat Ko Sanvarati, O Maiya Hum Sab Utaaren Teri Aarti."
+      },
+      "audio_url": "https://example.com/audio/ambe_tu_hai.mp3",
+      "image_url": "https://example.com/images/ambe_kali.jpg",
+      "duration": "5:15"
+    },
+    {
+      "id": 28,
+      "name": "Shri Ram Chandra Kripalu",
+      "god_name": "Ram Ji",
+      "language": "Sanskrit/Awadhi",
+      "category": "Bhajan",
+      "lyrics": {
+        "hindi": "श्रीरामचन्द्र कृपालु भजु मन हरण भवभय दारुणम्।\nनव कंज लोचन कंज मुख कर कंज पद कंजारुणम्॥\n\nकंदर्प अगणित अमित छबि नवनील नीरद सुन्दरम्।\nपट पीत मानहु तड़ित रुचि शुचि नौमि जनक सुतावरम्॥\n\nभजु दीनबंधु दिनेश दानव दैत्यवंश निकन्दनम्।\nरघुनंद आनंदकंद कोशलचंद दशरथ नन्दनम्॥\n\nशिर मुकुट कुंडल तिलक चारु उदार अङ्ग विभूषणम्।\nआजानुभुज शर चाप धर संग्राम जित खरदूषणम्॥\n\nइति वदति तुलसीदास शंकर शेष मुनि मन रंजनम्।\nमम हृदय कंज निवास कुरु कामादि खलदल भंजनम्॥",
+        "english": "Shri Ram Chandra Kripalu Bhaju Man Haran Bhavabhaya Darunam.\nNav Kanj Lochan Kanj Mukh Kar Kanj Pad Kanjarunam.\n\nKandarpa Aganita Amit Chhabi Navneel Neerad Sundaram.\nPat Peet Manahu Tadita Ruchi Shuchi Naumi Janak Sutavaram.\n\nBhaju Deenbandhu Dinesh Danav Daityavansh Nikandanam.\nRaghunand Anandkand Koshalchand Dasharath Nandanam.\n\nShir Mukut Kundal Tilak Charu Udar Anga Vibhushanam.\nAajanubhuj Shar Chaap Dhar Sangram Jit Khardushanam.\n\nIti Vadati Tulsidas Shankar Shesh Muni Man Ranjanam.\nMama Hriday Kanj Nivas Kuru Kamadi Khaldal Bhanjanam."
+      },
+      "audio_url": "https://example.com/audio/shri_ram_chandra_kripalu.mp3",
+      "image_url": "https://example.com/images/ram_kripalu.jpg",
+      "duration": "4:40"
+    },
+    {
+      "id": 29,
+      "name": "Ganesh Chalisa",
+      "god_name": "Ganesha Ji",
+      "language": "Hindi",
+      "category": "Chalisa",
+      "lyrics": {
+        "hindi": "॥ दोहा ॥\nजय गणपति सद्गुण सदन, कविवर बदन कृपाल।\nविघ्न हरण मंगल करण, जय जय गिरिजालाल॥\n\n॥ चौपाई ॥\nजय जय जय गणपति गणराजू। मंगल भरण करण शुभ काजू॥\nजय गजबदन सदन सुखदाता। विश्व विनायक बुद्धि विधाता॥\nवक्र तुण्ड शुचि शुण्ड सुहावन। तिलक त्रिपुण्ड भाल मन भावन॥\nराजत मणि मुक्तन उर माला। स्वर्ण मुकुट शिर नयन विशाला॥\nपुस्तक पाणि कुठार त्रिशूलं। मोदक भोग सुगन्धित फूलं॥\nसुन्दर पीताम्बर तन साजित। चरण पादुका मुनि मन राजित॥\nधनि शिव सुवन षडानन भ्राता। गौरी ललन विश्व-विख्याता॥\nऋद्धि-सिद्धि तव चंवर सुधारे। मूषक वाहन सोहत द्वारे॥\nकहौ जन्म शुभ कथा तुम्हारी। अति शुचि पावन मंगलकारी॥\nएक समय गिरिराज कुमारी। पुत्र हेतु तप कीन्हो भारी॥",
+        "english": "|| Doha ||\nJai Ganapati Sadgun Sadan, Kavivar Badan Kripal.\nVighna Haran Mangal Karan, Jai Jai Girijalal.\n\n|| Chaupai ||\nJai Jai Jai Ganapati Ganraju. Mangal Bharan Karan Shubh Kaju.\nJai Gajbadan Sadan Sukhdata. Vishva Vinayak Buddhi Vidhata.\nVakra Tund Shuchi Shund Suhavan. Tilak Tripund Bhal Man Bhavan.\nRajat Mani Muktan Ur Mala. Swarn Mukut Shir Nayan Vishala.\nPustak Paani Kuthar Trishulam. Modak Bhog Sugandhit Phoolam.\nSundar Pitambar Tan Sajit. Charan Paduka Muni Man Rajit.\nDhani Shiv Suvan Shadanana Bhrata. Gauri Lalan Vishva-Vikhyata.\nRiddhi-Siddhi Tav Chanvar Sudhare. Mushak Vahan Sohat Dvare.\nKahau Janma Shubh Katha Tumhari. Ati Shuchi Pavan Mangalkari.\nEk Samay Giriraj Kumari. Putra Hetu Tap Kinho Bhari."
+      },
+      "audio_url": "https://example.com/audio/ganesh_chalisa.mp3",
+      "image_url": "https://example.com/images/ganesh_chalisa.jpg",
+      "duration": "8:20"
+    },
+    {
+      "id": 30,
+      "name": "Shiv Chalisa",
+      "god_name": "Lord Shiva",
+      "language": "Hindi",
+      "category": "Chalisa",
+      "lyrics": {
+        "hindi": "॥ दोहा ॥\nजय गणेश गिरिजा सुवन, मंगल मूल सुजान।\nकहत अयोध्यादास तुम, देहु अभय वरदान॥\n\n॥ चौपाई ॥\nजय गिरजा पति दीन दयाला। सदा करत सन्तन प्रतिपाला॥\nभाल चन्द्रमा सोहत नीके। कानन कुण्डल नागफनी के॥\nअंग गौर शिर गंग बहाये। मुण्डमाल तन छार लगाये॥\nवस्त्र छाल बाघम्बर सोहे। छवि को देख नाग मुनि मोहे॥\nमैना मातु की ह्वै दुलारी। बाम अंग सोहत छवि न्यारी॥\nकर त्रिशूल सोहत छवि भारी। करत सदा शत्रुन क्षयकारी॥\nनन्दि गणेश सोहै तहँ कैसे। सागर मध्य कमल हैं जैसे॥\nकार्तिक श्याम और गणराऊ। या छवि को कहि जात न काऊ॥\nदेवन जबहीं जाय पुकारा। तब ही दुख प्रभु आप निवारा॥\nकिया उपद्रव तारक भारी। देवन सब मिलि तुमहिं जुहारी॥",
+        "english": "|| Doha ||\nJai Ganesh Girija Suvan, Mangal Mool Sujan.\nKahat Ayodhyadas Tum, Dehu Abhay Vardan.\n\n|| Chaupai ||\nJai Girija Pati Deen Dayala. Sada Karat Santan Pratipala.\nBhal Chandrama Sohat Nike. Kanan Kundal Nagphani Ke.\nAng Gaur Shir Gang Bahaye. Mundmaal Tan Chhaar Lagaye.\nVastra Chhaal Baghambar Sohe. Chhavi Ko Dekh Nag Muni Mohe.\nMaina Maatu Ki Havai Dulari. Baam Ang Sohat Chhavi Nyari.\nKar Trishul Sohat Chhavi Bhari. Karat Sada Shatrun Kshaykari.\nNandi Ganesh Sohai Tahan Kaise. Sagar Madhya Kamal Hain Jaise.\nKartik Shyam Aur Ganraau. Ya Chhavi Ko Kahi Jaat Na Kaau.\nDevan Jabahin Jaay Pukara. Tab Hi Dukh Prabhu Aap Nivara.\nKiya Upadrav Tarak Bhari. Devan Sab Mili Tumahin Juhari."
+      },
+      "audio_url": "https://example.com/audio/shiv_chalisa.mp3",
+      "image_url": "https://example.com/images/shiv_chalisa.jpg",
+      "duration": "9:10"
+    },
+    {
+      "id": 31,
+      "name": "Saraswati Chalisa",
+      "god_name": "Saraswati Maa",
+      "language": "Hindi",
+      "category": "Chalisa",
+      "lyrics": {
+        "hindi": "॥ दोहा ॥\nजनक जननि पद्मरज, निज मस्तक पर धरि।\nबन्दौं मातु सरस्वती, बुद्धि बल दे दातारि॥\n\n॥ चौपाई ॥\nजय श्री सकल बुद्धि बलरासी। जय सर्वज्ञ अमर अविनासी॥\nजय जय जय वीणाकर धारी। करती सदा सुहंस सवारी॥\nरूप चतुर्भुज धारी माता। सकल विश्व अन्दर विख्याता॥\nजग में पाप बुद्धि जब होती। तब ही धर्म की फीकी ज्योती॥\nतब ही मातु ले निज अवतारा। पाप हीन करती महितारा॥\nवाल्मीकि जी थे हत्यारा। तव प्रसाद जानै संसारा॥\nरामचरित जो रचे बनाई। आदि कवि की पदवी पाई॥\nकालिदास जो भये विख्याता। तेरी कृपा दृष्टि से माता॥\nतुलसी सूर आदि विद्वाना। भये और जो ज्ञानी नाना॥\nतिन्ह न और रहेउ अवलम्बा। केवल कृपा आपकी अम्बा॥",
+        "english": "|| Doha ||\nJanak Janani Padmaraj, Nij Mastak Par Dhari.\nBandau Maatu Saraswati, Buddhi Bal De Daataari.\n\n|| Chaupai ||\nJai Shri Sakal Buddhi Balrasi. Jai Sarvagya Amar Avinasi.\nJai Jai Jai Veenakar Dhari. Karti Sada Suhansa Savari.\nRoop Chaturbhuj Dhari Mata. Sakal Vishva Andar Vikhyata.\nJag Mein Paap Buddhi Jab Hoti. Tab Hi Dharm Ki Phiki Jyoti.\nTab Hi Maatu Le Nij Avatara. Paap Heen Karti Mahitara.\nValmiki Ji The Hatyara. Tav Prasad Jaanai Sansara.\nRamcharit Jo Rache Banai. Aadi Kavi Ki Padvi Pai.\nKalidas Jo Bhaye Vikhyata. Teri Kripa Drishti Se Mata.\nTulsi Soor Aadi Vidvana. Bhaye Aur Jo Gyani Nana.\nTinh Na Aur Raheu Avalamba. Keval Kripa Aapki Amba."
+      },
+      "audio_url": "https://example.com/audio/saraswati_chalisa.mp3",
+      "image_url": "https://example.com/images/saraswati_chalisa.jpg",
+      "duration": "7:45"
+    },
+    {
+      "id": 32,
+      "name": "Shanti Mantra",
+      "god_name": "Universal Peace",
+      "language": "Sanskrit",
+      "category": "Mantra",
+      "lyrics": {
+        "hindi": "ॐ द्यौः शान्तिरन्तरिक्षं शान्तिः\nपृथिवी शान्तिरापः शान्तिरोषधयः शान्तिः।\nवनस्पतयः शान्तिर्विश्वेदेवाः शान्तिर्ब्रह्म शान्तिः\nसर्वं शान्तिः शान्तिरेव शान्तिः सा मा शान्तिरेधि॥\nॐ शान्तिः शान्तिः शान्तिः॥",
+        "english": "Om Dyauh Shanti Rantariksham Shanti\nPrithvi Shantir Aapah Shanti Roshadhayah Shanti.\nVanaspatayah Shanti Vishvedevah Shanti Brahma Shanti\nSarvam Shanti Shantireva Shanti Sa Ma Shantiredhi.\nOm Shanti Shanti Shanti."
+      },
+      "audio_url": "https://example.com/audio/shanti_mantra.mp3",
+      "image_url": "https://example.com/images/shanti_mantra.jpg",
+      "duration": "2:10"
+    },
+    {
+      "id": 33,
+      "name": "Surya Ashtakam",
+      "god_name": "Surya Dev",
+      "language": "Sanskrit",
+      "category": "Stotram",
+      "lyrics": {
+        "hindi": "आदिदेव नमस्तुभ्यं प्रसीद मम भास्कर।\nदिवाकर नमस्तुभ्यं प्रभाकर नमोऽस्तु ते॥१॥\n\nसप्ताश्वरथमारूढं प्रचण्डं कश्यपात्मजम्।\nश्वेतपद्मधरं देवं तं सूर्यं प्रणमाम्यहम्॥२॥\n\nलोहितं रथामा रूढं सर्वलोकपितामहम्।\nमहापापहरं देवं तं सूर्यं प्रणमाम्यहम्॥३॥\n\nत्रैगुण्यं च महाशूरं ब्रह्माविष्णुमहेश्वरम्।\nमहापापहरं देवं तं सूर्यं प्रणमाम्यहम्॥४॥\n\nबृंहितं तेजःपुञ्जं च वायुमाकाशमेव च।\nप्रभुं च सर्वलोकानां तं सूर्यं प्रणमाम्यहम्॥५॥\n\nबन्धूकपुष्पसङ्काशं हारकुण्डलभूषितम्।\nएकचक्रधरं देवं तं सूर्यं प्रणमाम्यहम्॥६॥\n\nतं सूर्यं जगत्कर्तारं महातेजःप्रदीपनम्।\nमहापापहरं देवं तं सूर्यं प्रणमाम्यहम्॥७॥\n\nतं सूर्यं जगतां नाथं ज्ञानविज्ञानमोक्षदम्।\nमहापापहरं देवं तं सूर्यं प्रणमाम्यहम्॥८॥",
+        "english": "Adideva Namastubhyam Prasida Mama Bhaskara.\nDivakara Namastubhyam Prabhakara Namostu Te.\n\nSaptashva Ratham Arudham Prachandam Kashyapatmajam.\nShveta Padmadharam Devam Tam Suryam Pranamamyaham.\n\nLohitam Ratham Arudham Sarvaloka Pitamaham.\nMahapapaharam Devam Tam Suryam Pranamamyaham.\n\nTraigunyam Cha Mahashuram Brahma Vishnu Maheshvaram.\nMahapapaharam Devam Tam Suryam Pranamamyaham.\n\nBrihmitam Tejah Punjam Cha Vayum Akasham Eva Cha.\nPrabhum Cha Sarvalokanam Tam Suryam Pranamamyaham.\n\nBandhuka Pushpa Sankasham Hara Kundala Bhushitam.\nEkachakradharam Devam Tam Suryam Pranamamyaham.\n\nTam Suryam Jagatkartaram Mahatejah Pradipanam.\nMahapapaharam Devam Tam Suryam Pranamamyaham.\n\nTam Suryam Jagatam Natham Jnana Vijnana Mokshadam.\nMahapapaharam Devam Tam Suryam Pranamamyaham."
+      },
+      "audio_url": "https://example.com/audio/surya_ashtakam.mp3",
+      "image_url": "https://example.com/images/surya_ashtakam.jpg",
+      "duration": "3:50"
+    },
+    {
+      "id": 34,
+      "name": "Navagraha Stotram",
+      "god_name": "Navagraha",
+      "language": "Sanskrit",
+      "category": "Stotram",
+      "lyrics": {
+        "hindi": "जपाकुसुम संकाशं काश्यपेयं महाद्युतिम्।\nतमोऽरिं सर्वपापघ्नं प्रणतोऽस्मि दिवाकरम्॥१॥\n\nदधिशङ्खतुषाराभं क्षीरोदार्णव सम्भवम्।\nनमामि शशिनं सोमं शम्भोर्मुकुट भूषणम्॥२॥\n\nधरणीगर्भसम्भूतं विद्युत्कान्ति समप्रभम्।\nकुमारं शक्तिहस्तं तं मङ्गलं प्रणमाम्यहम्॥३॥\n\nप्रियङ्गु कलिकाश्यामं रूपेणाप्रतिमं बुधम्।\nसौम्यं सौम्यगुणोपेतं तं बुधं प्रणमाम्यहम्॥४॥\n\nदेवानां च ऋषीणां च गुरुं काञ्चन सन्निभम्।\nबुद्धिभूतं त्रिलोकेशं तं नमामि बृहस्पतिम्॥५॥\n\nहिमकुन्द मृणालाभं दैत्यानां परमं गुरुम्।\nसर्वशास्त्र प्रवक्तारं भार्गवं प्रणमाम्यहम्॥६॥\n\nनीलाञ्जन समाभासं रविपुत्रं यमाग्रजम्।\nछायामार्तण्ड सम्भूतं तं नमामि शनैश्चरम्॥७॥\n\nअर्धकायं महावीर्यं चन्द्रादित्य विमर्दनम्।\nसिंहिकागर्भ सम्भूतं तं राहुं प्रणमाम्यहम्॥८॥\n\nपलाशपुष्प सङ्काशं तारकाग्रह मस्तकम्।\nरौद्रं रौद्रत्मकं घोरं तं केतुं प्रणमाम्यहम्॥९॥\n\nइति व्यामुखोद्गीतं यः पठेत् सुसमाहितः।\nदिवा वा यदि वा रात्रौ विघ्नशान्तिर्भविष्यति॥१०॥",
+        "english": "Japakusuma Sankasham Kashyapeyam Mahadyutim.\nTamorim Sarvapapaghnam Pranato'smi Divakaram.\n\nDadhishankha Tusharabham Kshirodarnava Sambhavam.\nNamami Shashinam Somam Shambhormukuta Bhushanam.\n\nDharanigarbha Sambhutam Vidyutkanti Samaprabham.\nKumaram Shaktihastam Tam Mangalam Pranamamyaham.\n\nPriyangu Kalikashyamam Rupenapratimam Budham.\nSaumyam Saumyagunopetam Tam Budham Pranamamyaham.\n\nDevanam Cha Rishinam Cha Gurum Kanchana Sannibham.\nBuddhibhutam Trilokesham Tam Namami Brihaspatim.\n\nHimakunda Mrinalabham Daityanam Paramam Gurum.\nSarvashastra Pravaktaram Bhargavam Pranamamyaham.\n\nNilanjana Samabhasam Raviputram Yamagrajam.\nChhayamartanda Sambhutam Tam Namami Shanaishcharam.\n\nArdhakayam Mahaviryam Chandraditya Vimardanam.\nSimhikagarbha Sambhutam Tam Rahum Pranamamyaham.\n\nPalashapushpa Sankasham Tarakagraha Mastakam.\nRaudram Raudratmakam Ghoram Tam Ketum Pranamamyaham.\n\nIti Vyamukhodgitam Yah Pathet Susamahitah.\nDiva Va Yadi Va Ratrau Vighnashantir Bhavishyati."
+      },
+      "audio_url": "https://example.com/audio/navagraha_stotram.mp3",
+      "image_url": "https://example.com/images/navagraha.jpg",
+      "duration": "4:20"
+    },
+    {
+      "id": 35,
+      "name": "Ganga Aarti",
+      "god_name": "Ganga Mata",
+      "language": "Hindi",
+      "category": "Aarti",
+      "lyrics": {
+        "hindi": "ॐ जय गंगे माता, मैया जय गंगे माता।\nजो नर तुमको ध्याता, मनवांछित फल पाता॥\nॐ जय गंगे माता॥\n\nचन्द्र सी जोत तुम्हारी, जल निर्मल आता।\nशरण पड़े जो तेरी, सो नर तर जाता॥\nॐ जय गंगे माता॥\n\nपुत्र सगर के तारे, सब जग को ज्ञाता।\nकृपा दृष्टि तुम्हारी, त्रिभुवन सुख दाता॥\nॐ जय गंगे माता॥\n\nएक ही नाम तुम्हारा, सब जग की त्राता।\nकोई भी नर ध्यावे, सब पाप मिट जाता॥\nॐ जय गंगे माता॥\n\nआरती मातु तुम्हारी, जो जन नित गाता।\nदास वही है तेरा, सहज परम पद पाता॥\nॐ जय गंगे माता॥",
+        "english": "Om Jai Gange Mata, Maiya Jai Gange Mata.\nJo Nar Tumko Dhyata, Manvanchhit Phal Pata.\nOm Jai Gange Mata.\n\nChandra Si Jot Tumhari, Jal Nirmal Aata.\nSharan Pade Jo Teri, So Nar Tar Jata.\nOm Jai Gange Mata.\n\nPutra Sagar Ke Tare, Sab Jag Ko Gyata.\nKripa Drishti Tumhari, Tribhuvan Sukh Data.\nOm Jai Gange Mata.\n\nEk Hi Naam Tumhara, Sab Jag Ki Trata.\nKoi Bhi Nar Dhyave, Sab Paap Mit Jata.\nOm Jai Gange Mata.\n\nAarti Maatu Tumhari, Jo Jan Nit Gata.\nDas Vahi Hai Tera, Sahaj Param Pad Pata.\nOm Jai Gange Mata."
+      },
+      "audio_url": "https://example.com/audio/ganga_aarti.mp3",
+      "image_url": "https://example.com/images/ganga_aarti.jpg",
+      "duration": "5:30"
+    },
+    {
+      "id": 36,
+      "name": "Khatu Shyam Aarti",
+      "god_name": "Khatu Shyam Baba",
+      "language": "Hindi",
+      "category": "Aarti",
+      "lyrics": {
+        "hindi": "ॐ जय श्री श्याम हरे, बाबा जय श्री श्याम हरे।\nखाटू वाले श्याम हरे, बाबा जय श्री श्याम हरे॥\n\nरतन जड़ित सिंहासन, सिर पर चंवर ढुरे।\nतन केसरिया बागा, कुण्डल श्रवण पड़े॥\nॐ जय श्री श्याम हरे॥\n\nगल पुष्पों की माला, सिर पर मुकुट धरे।\nखेवत धूप अग्नि पर, दीपक ज्योति जले॥\nॐ जय श्री श्याम हरे॥\n\nमोदक खीर चूरमा, सुवर्ण थाल भरे।\nसेवक भोग लगावत, सेवा नित्य करे॥\nॐ जय श्री श्याम हरे॥\n\nझांझ कटोरा और घड़ियावल, शंख मृदंग घुरे।\nभक्त आरती गावें, जय जयकार करे॥\nॐ जय श्री श्याम हरे॥\n\nजो ध्यावे फल पावे, सब दुख से उबरे।\nसेवक जन निज मुख से, श्री श्याम श्याम उचरे॥\nॐ जय श्री श्याम हरे॥",
+        "english": "Om Jai Shri Shyam Hare, Baba Jai Shri Shyam Hare.\nKhatu Wale Shyam Hare, Baba Jai Shri Shyam Hare.\n\nRatan Jadit Singhasan, Sir Par Chanvar Dhure.\nTan Kesariya Baga, Kundal Shravan Pade.\nOm Jai Shri Shyam Hare.\n\nGal Pushpon Ki Mala, Sir Par Mukut Dhare.\nKhevat Dhoop Agni Par, Deepak Jyoti Jale.\nOm Jai Shri Shyam Hare.\n\nModak Kheer Choorma, Suvarna Thaal Bhare.\nSevak Bhog Lagavat, Seva Nitya Kare.\nOm Jai Shri Shyam Hare.\n\nJhanjh Katora Aur Ghadiyaval, Shankh Mridang Ghure.\nBhakt Aarti Gaaven, Jai Jaikaar Kare.\nOm Jai Shri Shyam Hare.\n\nJo Dhyave Phal Pave, Sab Dukh Se Ubare.\nSevak Jan Nij Mukh Se, Shri Shyam Shyam Uchare.\nOm Jai Shri Shyam Hare."
+      },
+      "audio_url": "https://example.com/audio/khatu_shyam_aarti.mp3",
+      "image_url": "https://example.com/images/khatu_shyam.jpg",
+      "duration": "6:15"
+    },
+    {
+      "id": 37,
+      "name": "Kali Mata Aarti",
+      "god_name": "Kali Maa",
+      "language": "Hindi",
+      "category": "Aarti",
+      "lyrics": {
+        "hindi": "मंगल की सेवा सुन मेरी देवा, हाथ जोड़ तेरे द्वार खड़े।\nपान सुपारी ध्वजा नारियल, ले तेरी भेंट धरे॥\n\nसुन जगदम्बा कर न विलम्बा, संतन के भंडार भरे।\nसंतन प्रतिपाली सदा खुशहाली, मैया जैकार करे॥\n\nजय भवानी अष्ट भवानी, अमरों की तू पार करे।\nसिंह वाहिनी रक्त चाहिनी, असुरों का संहार करे॥\n\nचंड मुंड को मारने वाली, महिषासुर को मार गिरा।\nशुम्भ निशुम्भ को क्षण में मारे, भक्तन का उद्धार करे॥\n\nब्रह्मा विष्णु शिवजी ध्यावें, इंद्र भी तेरा ध्यान धरे।\nनारद मुनि तेरी महिमा गावें, चरण कमल में शीश धरे॥\n\nमंगल की सेवा सुन मेरी देवा, हाथ जोड़ तेरे द्वार खड़े।",
+        "english": "Mangal Ki Seva Sun Meri Deva, Hath Jod Tere Dwar Khade.\nPaan Supari Dhwaja Nariyal, Le Teri Bhent Dhare.\n\nSun Jagdamba Kar Na Vilamba, Santan Ke Bhandar Bhare.\nSantan Pratipali Sada Khushhali, Maiya Jaikaar Kare.\n\nJai Bhavani Asht Bhavani, Amaron Ki Tu Paar Kare.\nSingh Vahini Rakt Chahini, Asuron Ka Sanhaar Kare.\n\nChand Mund Ko Maarne Wali, Mahishasur Ko Maar Gira.\nShumbh Nishumbh Ko Kshan Mein Maare, Bhaktan Ka Uddhar Kare.\n\nBrahma Vishnu Shivji Dhyaven, Indra Bhi Tera Dhyan Dhare.\nNarad Muni Teri Mahima Gaaven, Charan Kamal Mein Shish Dhare.\n\nMangal Ki Seva Sun Meri Deva, Hath Jod Tere Dwar Khade."
+      },
+      "audio_url": "https://example.com/audio/kali_mata_aarti.mp3",
+      "image_url": "https://example.com/images/kali_mata.jpg",
+      "duration": "5:50"
+    },
+    {
+      "id": 38,
+      "name": "Sankat Mochan Hanuman Ashtak",
+      "god_name": "Hanuman Ji",
+      "language": "Awadhi",
+      "category": "Ashtak",
+      "lyrics": {
+        "hindi": "बाल समय रवि भक्ष लियो तब, तीनहुं लोक भयो अंधियारो।\nताहि सों त्रास भयो जग को, यह संकट काहु सों जात न टारो॥\nदेवन आनि करी विनती तब, छाड़ि दियो रवि कष्ट निवारो।\nको नहीं जानत है जग में कपि, संकटमोचन नाम तिहारो॥१॥\n\nबालि की त्रास कपीस बसै गिरि, जात महाप्रभु पंथ निहारो।\nचौंकि महामुनि शाप दियो तब, चाहिए कौन विचार विचारो॥\nकैरुप विप्र प्रभू पगु धारे, माथा नाय नाथ को तारो।\nको नहीं जानत है जग में कपि, संकटमोचन नाम तिहारो॥२॥\n\nअंगद के संग लेन गए सिय, खोज कपीस यह बैन उचारो।\nजीवत ना बचिहौ हम सो जु, बिना सुधि लाये इहाँ पगु धारो॥\nहेरि थके तट सिन्धु सबै तब, लाए सिया-सुधि प्राण उबारो।\nको नहीं जानत है जग में कपि, संकटमोचन नाम तिहारो॥३॥\n\nरावण त्रास दई सिय को सब, राक्षसी सों कही शोक निवारो।\nताहि समय हनुमान महाप्रभु, जाए महा रजनीचर मारो॥\nचाहत सीय अशोक सों आगि सु, दै प्रभु मुद्रिका शोक निवारो।\nको नहीं जानत है जग में कपि, संकटमोचन नाम तिहारो॥४॥\n\nबाण लग्यो उर लछिमन के तब, प्राण तजे सुत रावण मारो।\nलै गृह बैद्य सुषेन समेत, तबै गिरि द्रोण सु बीर उपारो॥\nआनि सजीवन हाथ दई तब, लछिमन के तुम प्राण उबारो।\nको नहीं जानत है जग में कपि, संकटमोचन नाम तिहारो॥५॥\n\nरावण जुद्ध अजान कियो तब, नाग कि फाँस सबै सिर डारो।\nश्री रघुनाथ समेत सबै दल, मोह भयो यह संकट भारो॥\nआनि खगेस तबै हनुमान जु, बंधन काटि सुत्रास निवारो।\nको नहीं जानत है जग में कपि, संकटमोचन नाम तिहारो॥६॥\n\nबंधु समेत जबै अहिरावण, लै रघुनाथ पाताल सिधारो।\nदेबिहिं पूजि भली बिधि सों बलि, देउ सबै मिलि मंत्र बिचारो॥\nजाय सहाय भयो तब ही, अहिरावण सैन्य समेत संहारो।\nको नहीं जानत है जग में कपि, संकटमोचन नाम तिहारो॥७॥\n\nकाज किए बड़ देवन के तुम, बीर महाप्रभु देखि बिचारो।\nकौन सो संकट मोर गरीब को, जो तुमसो नहिं जात है टारो॥\nबेगि हरो हनुमान महाप्रभु, जो कुछ संकट होय हमारो।\nको नहीं जानत है जग में कपि, संकटमोचन नाम तिहारो॥८॥",
+        "english": "Bal Samay Ravi Bhaksh Liyo Tab, Tinahun Lok Bhayo Andhiyaro.\nTahi Son Tras Bhayo Jag Ko, Yah Sankat Kahu Son Jat Na Taro.\nDevan Aani Kari Vinati Tab, Chhadi Diyo Ravi Kasht Nivaro.\nKo Nahin Janat Hai Jag Mein Kapi, Sankat Mochan Naam Tiharo.\n\nBali Ki Tras Kapis Basai Giri, Jaat Mahaprabhu Panth Niharo.\nChaunki Mahamuni Shap Diyo Tab, Chahiye Kaun Vichar Vicharo.\nKairup Vipra Prabhu Pagu Dhare, Matha Naay Nath Ko Taro.\nKo Nahin Janat Hai Jag Mein Kapi, Sankat Mochan Naam Tiharo.\n\nAngad Ke Sang Len Gaye Siy, Khoj Kapis Yah Bain Ucharo.\nJivat Na Bachihau Hum So Ju, Bina Sudhi Laye Ihan Pagu Dharo.\nHeri Thake Tat Sindhu Sabai Tab, Laye Siya-Sudhi Pran Ubaro.\nKo Nahin Janat Hai Jag Mein Kapi, Sankat Mochan Naam Tiharo.\n\nRavan Tras Dai Siy Ko Sab, Rakshasi Son Kahi Shok Nivaro.\nTahi Samay Hanuman Mahaprabhu, Jaye Maha Rajnichar Maaro.\nChahat Siy Ashok Son Aagi Su, Dai Prabhu Mudrika Shok Nivaro.\nKo Nahin Janat Hai Jag Mein Kapi, Sankat Mochan Naam Tiharo.\n\nBaan Lagyo Ur Lachhiman Ke Tab, Pran Taje Sut Ravan Maaro.\nLai Grah Vaidya Sushen Samet, Tabai Giri Dron Su Bir Uparo.\nAani Sajivan Hath Dai Tab, Lachhiman Ke Tum Pran Ubaro.\nKo Nahin Janat Hai Jag Mein Kapi, Sankat Mochan Naam Tiharo.\n\nRavan Juddh Ajan Kiyo Tab, Naag Ki Phans Sabai Sir Daro.\nShri Raghunath Samet Sabai Dal, Moh Bhayo Yah Sankat Bharo.\nAani Khages Tabai Hanuman Ju, Bandhan Kati Sutras Nivaro.\nKo Nahin Janat Hai Jag Mein Kapi, Sankat Mochan Naam Tiharo.\n\nBandhu Samet Jabai Ahiravan, Lai Raghunath Patal Sidharo.\nDebihin Puji Bhali Bidhi Son Bali, Deu Sabai Mili Mantra Bicharo.\nJaay Sahay Bhayo Tab Hi, Ahiravan Sainya Samet Sanharo.\nKo Nahin Janat Hai Jag Mein Kapi, Sankat Mochan Naam Tiharo.\n\nKaaj Kiye Bad Devan Ke Tum, Bir Mahaprabhu Dekhi Bicharo.\nKaun So Sankat Mor Garib Ko, Jo Tumso Nahin Jat Hai Taro.\nBegi Haro Hanuman Mahaprabhu, Jo Kuchh Sankat Hoy Hamaro.\nKo Nahin Janat Hai Jag Mein Kapi, Sankat Mochan Naam Tiharo."
+      },
+      "audio_url": "https://example.com/audio/sankat_mochan.mp3",
+      "image_url": "https://example.com/images/sankat_mochan.jpg",
+      "duration": "8:30"
+    },
+    {
+      "id": 39,
+      "name": "Hare Krishna Mahamantra",
+      "god_name": "Lord Krishna",
+      "language": "Sanskrit",
+      "category": "Mantra",
+      "lyrics": {
+        "hindi": "हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे।\nहरे राम हरे राम राम राम हरे हरे॥",
+        "english": "Hare Krishna Hare Krishna Krishna Krishna Hare Hare.\nHare Rama Hare Rama Rama Rama Hare Hare."
+      },
+      "audio_url": "https://example.com/audio/hare_krishna.mp3",
+      "image_url": "https://example.com/images/hare_krishna.jpg",
+      "duration": "10:00"
+    },
+    {
+      "id": 40,
+      "name": "Raghupati Raghava Raja Ram",
+      "god_name": "Ram Ji",
+      "language": "Hindi",
+      "category": "Bhajan",
+      "lyrics": {
+        "hindi": "रघुपति राघव राजाराम, पतित पावन सीताराम।\nसीताराम सीताराम, भज प्यारे तू सीताराम॥\n\nईश्वर अल्लाह तेरो नाम, सबको सन्मति दे भगवान।\nरघुपति राघव राजाराम, पतित पावन सीताराम॥\n\nराम रहीम करीम समान, हम सब हैं उनकी संतान।\nरघुपति राघव राजाराम, पतित पावन सीताराम॥",
+        "english": "Raghupati Raghava Rajaram, Patit Pavan Sitaram.\nSitaram Sitaram, Bhaj Pyare Tu Sitaram.\n\nIshwar Allah Tero Naam, Sabko Sanmati De Bhagwan.\nRaghupati Raghava Rajaram, Patit Pavan Sitaram.\n\nRam Rahim Karim Saman, Hum Sab Hain Unki Santan.\nRaghupati Raghava Rajaram, Patit Pavan Sitaram."
+      },
+      "audio_url": "https://example.com/audio/raghupati_raghava.mp3",
+      "image_url": "https://example.com/images/raghupati_raghava.jpg",
+      "duration": "4:45"
+    },
+    {
+      "id": 41,
+      "name": "Govind Bolo Hari Gopal Bolo",
+      "god_name": "Lord Krishna",
+      "language": "Hindi",
+      "category": "Bhajan",
+      "lyrics": {
+        "hindi": "गोविंद बोलो हरि गोपाल बोलो।\nराधा रमण हरि गोविंद बोलो॥\n\nगोविंद बोलो हरि गोपाल बोलो।\nराधा रमण हरि गोविंद बोलो॥\n\nश्री कृष्ण गोविंद हरे मुरारे।\nहे नाथ नारायण वासुदेवा॥\n\nगोविंद बोलो हरि गोपाल बोलो।\nराधा रमण हरि गोविंद बोलो॥",
+        "english": "Govind Bolo Hari Gopal Bolo.\nRadha Raman Hari Govind Bolo.\n\nGovind Bolo Hari Gopal Bolo.\nRadha Raman Hari Govind Bolo.\n\nShri Krishna Govind Hare Murare.\nHe Nath Narayana Vasudeva.\n\nGovind Bolo Hari Gopal Bolo.\nRadha Raman Hari Govind Bolo."
+      },
+      "audio_url": "https://example.com/audio/govind_bolo.mp3",
+      "image_url": "https://example.com/images/govind_bolo.jpg",
+      "duration": "5:20"
+    },
+    {
+      "id": 42,
+      "name": "Satyanarayan Aarti",
+      "god_name": "Lord Vishnu",
+      "language": "Hindi",
+      "category": "Aarti",
+      "lyrics": {
+        "hindi": "जय लक्ष्मी रमणा, स्वामी जय लक्ष्मी रमणा।\nसत्यनारायण स्वामी, जन पातक हरणा॥\nॐ जय लक्ष्मी रमणा॥\n\nरत्नजड़ित सिंहासन, अद्भुत छवि राजे।\nनारद करत नीराजन, घंटा ध्वनि बाजे॥\nॐ जय लक्ष्मी रमणा॥\n\nप्रकट भए कलिकानन, द्विज को दरश दियो।\nबूढ़ो ब्राह्मण बनकर, स्वर्ण महल कियो॥\nॐ जय लक्ष्मी रमणा॥\n\nदुर्बल भील कठारो, इन पर कृपा करी।\nचंद्रचूड़ एक राजा, तिनकी विपति हरी॥\nॐ जय लक्ष्मी रमणा॥\n\nवैश्य मनोरथ पायो, श्रद्धा तज दीन्ही।\nसो फल भोग्यो प्रभु जी, फिर स्तुति कीन्ही॥\nॐ जय लक्ष्मी रमणा॥\n\nभाव भक्ति के कारण, छिन-छिन रूप धर्यो।\nश्रद्धा धारण कीन्ही, तिनको काज सर्यो॥\nॐ जय लक्ष्मी रमणा॥\n\nग्वाल-बाल संग राजा, वन में भक्ति करी।\nमनवांछित फल दीन्हो, दीनदयाल हरि॥\nॐ जय लक्ष्मी रमणा॥\n\nचढ़त प्रसाद सवाया, कदली फल मेवा।\nधूप-दीप-तुलसी से, राजी सत्यदेवा॥\nॐ जय लक्ष्मी रमणा॥\n\nश्री सत्यनारायण जी की आरती जो कोई नर गावे।\nकहत शिवानंद स्वामी मनवांछित फल पावे॥\nॐ जय लक्ष्मी रमणा॥",
+        "english": "Jai Lakshmi Ramana, Swami Jai Lakshmi Ramana.\nSatyanarayan Swami, Jan Patak Harana.\nOm Jai Lakshmi Ramana.\n\nRatan Jadit Singhasan, Adbhut Chhavi Raje.\nNarad Karat Nirajan, Ghanta Dhwani Baje.\nOm Jai Lakshmi Ramana.\n\nPrakat Bhaye Kalikanan, Dvij Ko Darash Diyo.\nBoodho Brahman Bankar, Swarn Mahal Kiyo.\nOm Jai Lakshmi Ramana.\n\nDurbal Bhil Katharo, In Par Kripa Kari.\nChandrachood Ek Raja, Tinki Vipati Hari.\nOm Jai Lakshmi Ramana.\n\nVaishya Manorath Payo, Shraddha Taj Dinhi.\nSo Phal Bhogyo Prabhu Ji, Phir Stuti Kinhi.\nOm Jai Lakshmi Ramana.\n\nBhav Bhakti Ke Karan, Chhin-Chhin Roop Dharyo.\nShraddha Dharan Kinhi, Tinko Kaaj Saryo.\nOm Jai Lakshmi Ramana.\n\nGwal Baal Sang Raja, Van Mein Bhakti Kari.\nManvanchhit Phal Dinho, Deendayal Hari.\nOm Jai Lakshmi Ramana.\n\nChadhat Prasad Savaya, Kadali Phal Meva.\nDhoop Deep Tulsi Se, Raji Satyadeva.\nOm Jai Lakshmi Ramana.\n\nShri Satyanarayan Ji Ki Aarti Jo Koi Nar Gaave.\nKahat Shivanand Swami Manvanchhit Phal Paave.\nOm Jai Lakshmi Ramana."
+      },
+      "audio_url": "https://example.com/audio/satyanarayan_aarti.mp3",
+      "image_url": "https://example.com/images/satyanarayan.jpg",
+      "duration": "7:50"
+    },
+    {
+      "id": 43,
+      "name": "Saraswati Aarti",
+      "god_name": "Saraswati Maa",
+      "language": "Hindi",
+      "category": "Aarti",
+      "lyrics": {
+        "hindi": "जय सरस्वती माता, मैया जय सरस्वती माता।\nसद्गुण वैभव शालिनी, त्रिभुवन विख्याता॥\nजय सरस्वती माता॥\n\nचन्द्रवदनि पद्मासिनि, द्युति मंगलकारी।\nसोहे शुभ हंस सवारी, अतुल तेजधारी॥\nजय सरस्वती माता॥\n\nबाएं कर में वीणा, दाएं कर माला।\nशीश मुकुट मणि सोहे, गल मोतियन माला॥\nजय सरस्वती माता॥\n\nदेवि शरण जो आए, उनका उद्धार किया।\nपैठी मंथरा दासी, रावण संहार किया॥\nजय सरस्वती माता॥\n\nविद्या ज्ञान प्रदायिनि, ज्ञान प्रकाश भरो।\nमोह अज्ञान और तिमिर का, जग से नाश करो॥\nजय सरस्वती माता॥\n\nधूप दीप फल मेवा, माँ स्वीकार करो।\nज्ञानचक्षु दे माता, जग निस्तार करो॥\nजय सरस्वती माता॥\n\nमाँ सरस्वती की आरती, जो कोई जन गावे।\nहितकारी सुखकारी ज्ञान भक्ति पावे॥\nजय सरस्वती माता॥",
+        "english": "Jai Saraswati Mata, Maiya Jai Saraswati Mata.\nSadgun Vaibhav Shalini, Tribhuvan Vikhyata.\nJai Saraswati Mata.\n\nChandravadani Padmasini, Dyuti Mangalkari.\nSohe Shubh Hans Savari, Atul Tejdhari.\nJai Saraswati Mata.\n\nBaen Kar Mein Veena, Daen Kar Mala.\nShish Mukut Mani Sohe, Gal Motiyan Mala.\nJai Saraswati Mata.\n\nDevi Sharan Jo Aaye, Unka Uddhar Kiya.\nPaithi Manthara Daasi, Ravan Sanhaar Kiya.\nJai Saraswati Mata.\n\nVidya Gyan Pradayini, Gyan Prakash Bharo.\nMoh Agyan Aur Timir Ka, Jag Se Naash Karo.\nJai Saraswati Mata.\n\nDhoop Deep Phal Meva, Maa Sweekaar Karo.\nGyanchakshu De Mata, Jag Nistaar Karo.\nJai Saraswati Mata.\n\nMaa Saraswati Ki Aarti, Jo Koi Jan Gaave.\nHitkari Sukhkari Gyan Bhakti Paave.\nJai Saraswati Mata."
+      },
+      "audio_url": "https://example.com/audio/saraswati_aarti.mp3",
+      "image_url": "https://example.com/images/saraswati.jpg",
+      "duration": "6:05"
+    },
+    {
+      "id": 44,
+      "name": "Badrinath Aarti",
+      "god_name": "Lord Vishnu",
+      "language": "Hindi",
+      "category": "Aarti",
+      "lyrics": {
+        "hindi": "पवन मन्द सुगन्ध शीतल हेम मन्दिर शोभितं।\nनिकट गंगा बहति निर्मल, श्री बद्रीनाथ विश्वम्भरं॥\n\nशेष सुमिरन करत निशिदिन, धरत ध्यान महेश्वरं।\nवेद ब्रह्मा करत स्तुति, श्री बद्रीनाथ विश्वम्भरं॥\n\nइन्द्र चन्द्र कुबेर दिनकर, धूप दीप प्रकाशितं।\nसिद्धि मुनि जन करत जय जय, श्री बद्रीनाथ विश्वम्भरं॥\n\nशक्ति गौरी गणेश शारद, नारद मुनि उच्चारणं।\nयोग ध्यान अपार लीला, श्री बद्रीनाथ विश्वम्भरं॥\n\nयक्ष किन्नर करत कौतुक, गान गन्धर्व प्रकाशितं।\nलक्ष्मी कमला चंवर डोलें, श्री बद्रीनाथ विश्वम्भरं॥\n\nकैलास में एक देव निरंजन, शैल शिखर महेश्वरं।\nराजा युधिष्ठिर करत स्तुति, श्री बद्रीनाथ विश्वम्भरं॥\n\nश्री बद्रीनाथ जी की आरती, जो कोई नर गावे।\nकहत शिवानन्द स्वामी, भव सागर तर जावे॥",
+        "english": "Pavan Manda Sugandha Shital Hem Mandir Shobhitam.\nNikat Ganga Bahati Nirmal, Shri Badrinath Vishwambharam.\n\nShesh Sumiran Karat Nishidin, Dharat Dhyan Maheshwaram.\nVed Brahma Karat Stuti, Shri Badrinath Vishwambharam.\n\nIndra Chandra Kuber Dinakar, Dhoop Deep Prakashitam.\nSiddhi Muni Jan Karat Jai Jai, Shri Badrinath Vishwambharam.\n\nShakti Gauri Ganesh Sharad, Narad Muni Ucccharanam.\nYog Dhyan Apaar Leela, Shri Badrinath Vishwambharam.\n\nYaksha Kinnar Karat Kautuk, Gaan Gandharva Prakashitam.\nLakshmi Kamala Chanvar Dolen, Shri Badrinath Vishwambharam.\n\nKailas Mein Ek Dev Niranjan, Shail Shikhar Maheshwaram.\nRaja Yudhishthir Karat Stuti, Shri Badrinath Vishwambharam.\n\nShri Badrinath Ji Ki Aarti, Jo Koi Nar Gaave.\nKahat Shivanand Swami, Bhav Sagar Tar Jaave."
+      },
+      "audio_url": "https://example.com/audio/badrinath_aarti.mp3",
+      "image_url": "https://example.com/images/badrinath.jpg",
+      "duration": "6:20"
+    },
+    {
+      "id": 45,
+      "name": "Kedarnath Aarti",
+      "god_name": "Lord Shiva",
+      "language": "Hindi",
+      "category": "Aarti",
+      "lyrics": {
+        "hindi": "जय केदार उदार नाथ, विद्याधर ज्ञाननाथ।\nसब पातक हरण नाथ, दीन बन्धु दयाल नाथ॥\n\nआदि नाथ अनाथ नाथ, भूत नाथ अघोर नाथ।\nजगत नाथ जगदम्बा नाथ, विश्व नाथ अमर नाथ॥\n\nकेदार नाथ दयाल नाथ, सकल दुख हरण नाथ।\nभक्तों के प्रतिपाल नाथ, जय जय श्री केदार नाथ॥\n\nश्री केदारनाथ की आरती, जो कोई नर गावे।\nजन्म-मरण दुख मिट जावे, शिव पुरी को पावे॥",
+        "english": "Jai Kedar Udaar Nath, Vidyadhar Gyannath.\nSab Patak Haran Nath, Deen Bandhu Dayal Nath.\n\nAadi Nath Anath Nath, Bhoot Nath Aghor Nath.\nJagat Nath Jagdamba Nath, Vishwa Nath Amar Nath.\n\nKedar Nath Dayal Nath, Sakal Dukh Haran Nath.\nBhakton Ke Pratipal Nath, Jai Jai Shri Kedar Nath.\n\nShri Kedarnath Ki Aarti, Jo Koi Nar Gaave.\nJanm-Maran Dukh Mit Jaave, Shiv Puri Ko Paave."
+      },
+      "audio_url": "https://example.com/audio/kedarnath_aarti.mp3",
+      "image_url": "https://example.com/images/kedarnath.jpg",
+      "duration": "4:15"
+    },
+    {
+      "id": 46,
+      "name": "Annapurna Stotram",
+      "god_name": "Annapurna Mata",
+      "language": "Sanskrit",
+      "category": "Stotram",
+      "lyrics": {
+        "hindi": "नित्यानन्दकरी वराभयकरी सौन्दर्यरत्नाकरी\nनिर्धूताखिलघोरपावनकरी प्रत्यक्षमाहेश्वरी।\nप्रालेयाचलवंशपावनकरी काशीपुराधीश्वरी\nभिक्षां देहि कृपावलम्बनकरी मातान्नपूर्णेश्वरी॥१॥\n\nनानानारत्नविचित्रभूषणकरी हेमाम्बराडम्बरी\nमुक्ताहारविलम्बमानविलसद्वक्षोजकुम्भान्तरी।\nकाश्मीरागरुवासिता रुचिकरी काशीपुराधीश्वरी\nभिक्षां देहि कृपावलम्बनकरी मातान्नपूर्णेश्वरी॥२॥\n\nअन्नपूर्णे सदापूर्णे शङ्करप्राणवल्लभे।\nज्ञानवैराग्यसिद्ध्यर्थं भिक्षां देहि च पार्वति॥३॥\n\nमाता मे पार्वती देवी पिता देवो महेश्वरः।\nबान्धवाः शिवभक्ताश्च स्वदेशो भुवनत्रयम्॥४॥",
+        "english": "Nityanandakari Varabhayakari Saundaryaratnakari\nNirdhutakhilaghorapavanakari Pratyakshamaheshwari.\nPraleyachalavanshapavanakari Kashipuradhishwari\nBhiksham Dehi Kripavalambanakari Matannapurneshwari.\n\nNananaratnavichitrabhushanakari Hemambaradambari\nMuktaharavilambamanavilasadvakshojakumbhantari.\nKashmiragaruvasita Ruchikari Kashipuradhishwari\nBhiksham Dehi Kripavalambanakari Matannapurneshwari.\n\nAnnapurne Sadapurne Shankarapranavallabhe.\nJnanavairagyasiddhyartham Bhiksham Dehi Cha Parvati.\n\nMata Me Parvati Devi Pita Devo Maheshwarah.\nBandhavah Shivabhaktashcha Svadesho Bhuvanatrayam."
+      },
+      "audio_url": "https://example.com/audio/annapurna_stotram.mp3",
+      "image_url": "https://example.com/images/annapurna.jpg",
+      "duration": "4:10"
+    },
+    {
+      "id": 47,
+      "name": "Ram Raksha Stotram",
+      "god_name": "Ram Ji",
+      "language": "Sanskrit",
+      "category": "Stotram",
+      "lyrics": {
+        "hindi": "चरितं रघुनाथस्य शतकोटिप्रविस्तरम्।\nएकैकमक्षरं पुंसां महापातकनाशनम्॥१॥\n\nध्यात्वा नीलोत्पलश्यामं रामं राजीवलोचनम्।\nजानकीलक्ष्मणोपेतं जटामुकुटमण्डितम्॥२॥\n\nसासितूणधनुर्बाणपाणिं नक्तञ्चरान्तकम्।\nस्वलीलया जगत्रातुमाविर्भूतमजं विभुम्॥३॥\n\nरामरक्षां पठेत्प्राज्ञः पापघ्नीं सर्वकामदाम्।\nशिरो मे राघवः पातु भालं दशरथात्मजः॥४॥\n\nकौसल्येयो दृशौ पातु विश्वामित्रप्रियः श्रुती।\nघ्राणं पातु मखत्राता मुखं सौमित्रिवत्सलः॥५॥\n\nजिह्वां विद्यानिधिः पातु कण्ठं भरतवन्दितः।\nस्कन्धौ दिव्यायुधः पातु भुजौ भग्नेशकार्मुकः॥६॥\n\nकरौ सीतापतिः पातु हृदयं जामदग्न्यजित्।\nमध्यं पातु खरध्वंसी नाभिं जाम्बवदाश्रयः॥७॥\n\nसुग्रीवेशः कटी पातु सक्थिनी हनुमत्प्रभुः।\nऊरू रघूत्तमः पातु रक्षःकुलविनाशकृत्॥८॥\n\nजानुनी सेतुकृत्पातु जङ्घे दशमुखान्तकः।\nपादौ विभीषणश्रीदः पातु रामोऽखिलं वपुः॥९॥",
+        "english": "Charitam Raghunathasya Shatakoti Pravistaram.\nEkaikamaksharam Pumsam Mahapatakanashanam.\n\nDhyatva Nilotpalashyamam Ramam Rajivalochanam.\nJanakilakshmanopetam Jatamukutamanditam.\n\nSasitunadhanurbanapanim Naktancharantakam.\nSvalilaya Jagatratumavirbhutamajam Vibhum.\n\nRamaraksham Pathetprajnah Papaghnim Sarvakamadam.\nShiro Me Raghavah Patu Bhalam Dasharathatmajah.\n\nKausalyeyo Drishau Patu Vishvamitrapriyah Shruti.\nGhranam Patu Makhatrata Mukham Saumitrivatsalah.\n\nJihvam Vidyanidhih Patu Kantham Bharatavanditah.\nSkandhau Divyayudhah Patu Bhujau Bhagneshakarmukah.\n\nKarau Sitapatih Patu Hridayam Jamadagnyajit.\nMadhyam Patu Kharadhvamsi Nabhim Jambavadashrayah.\n\nSugriveshash Kati Patu Sakthini Hanumatprabhuh.\nUru Raghuttamah Patu Rakshahkulavinashakrit.\n\nJanuni Setukritpatu Janghe Dashamukhantakah.\nPadau Vibhishanashridah Patu Ramo'khilam Vapuh."
+      },
+      "audio_url": "https://example.com/audio/ram_raksha.mp3",
+      "image_url": "https://example.com/images/ram_raksha.jpg",
+      "duration": "9:30"
+    },
+    {
+      "id": 48,
+      "name": "Sheetala Mata Aarti",
+      "god_name": "Sheetala Mata",
+      "language": "Hindi",
+      "category": "Aarti",
+      "lyrics": {
+        "hindi": "जय शीतला माता, मैया जय शीतला माता।\nआदि ज्योति महारानी, सब फल की दाता॥\nजय शीतला माता॥\n\nरतन सिंहासन शोभित, श्वेत छत्र भ्राजा।\nऋद्धि-सिद्धि चंवर डोलावें, जगमग छवि छाजा॥\nजय शीतला माता॥\n\nविष्णु सेवत शिव ध्यावत, ब्रह्मा वेद पढ़े।\nइन्द्र मृदंग बजावत, सुर नर मुनि खड़े॥\nजय शीतला माता॥\n\nशीतला मात की आरती, जो कोई नर गावे।\nकहत शिवानन्द स्वामी, मनवांछित फल पावे॥\nजय शीतला माता॥",
+        "english": "Jai Sheetala Mata, Maiya Jai Sheetala Mata.\nAadi Jyoti Maharani, Sab Phal Ki Data.\nJai Sheetala Mata.\n\nRatan Singhasan Shobhit, Shwet Chhatra Bhraja.\nRiddhi-Siddhi Chanvar Dolaven, Jagmag Chhavi Chhaja.\nJai Sheetala Mata.\n\nVishnu Sevat Shiv Dhyavat, Brahma Ved Padhe.\nIndra Mridang Bajavat, Sur Nar Muni Khade.\nJai Sheetala Mata.\n\nSheetala Maat Ki Aarti, Jo Koi Nar Gaave.\nKahat Shivanand Swami, Manvanchhit Phal Paave.\nJai Sheetala Mata."
+      },
+      "audio_url": "https://example.com/audio/sheetala_aarti.mp3",
+      "image_url": "https://example.com/images/sheetala.jpg",
+      "duration": "4:20"
+    },
+    {
+      "id": 49,
+      "name": "Bhairav Aarti",
+      "god_name": "Bhairav Ji",
+      "language": "Hindi",
+      "category": "Aarti",
+      "lyrics": {
+        "hindi": "जय भैरव देवा, प्रभु जय भैरव देवा।\nसुर नर मुनि सब करते, प्रभु तुम्हारी सेवा॥\nजय भैरव देवा॥\n\nतुम हो पाप विनाशक, दुख दारिद्र हारी।\nमहाकाल विकराला, शिव के अवतारी॥\nजय भैरव देवा॥\n\nश्वान सवारी राजत, कर त्रिशूल धारी।\nचन्द्र मुकुट सिर सोहत, महिमा अति भारी॥\nजय भैरव देवा॥\n\nभूत पिशाच निकट नहीं आवें, जब तेरा नाम सुनें।\nभक्तों के सब संकट, एक पल में हरें॥\nजय भैरव देवा॥\n\nभैरव जी की आरती, जो कोई जन गावे।\nकहत शिवानन्द स्वामी, मनवांछित फल पावे॥\nजय भैरव देवा॥",
+        "english": "Jai Bhairav Deva, Prabhu Jai Bhairav Deva.\nSur Nar Muni Sab Karte, Prabhu Tumhari Seva.\nJai Bhairav Deva.\n\nTum Ho Paap Vinashak, Dukh Daridra Haari.\nMahakal Vikrala, Shiv Ke Avatari.\nJai Bhairav Deva.\n\nShwan Savari Rajat, Kar Trishul Dhari.\nChandra Mukut Sir Sohat, Mahima Ati Bhari.\nJai Bhairav Deva.\n\nBhoot Pishach Nikat Nahin Aaven, Jab Tera Naam Sunen.\nBhakton Ke Sab Sankat, Ek Pal Mein Haren.\nJai Bhairav Deva.\n\nBhairav Ji Ki Aarti, Jo Koi Jan Gaave.\nKahat Shivanand Swami, Manvanchhit Phal Paave.\nJai Bhairav Deva."
+      },
+      "audio_url": "https://example.com/audio/bhairav_aarti.mp3",
+      "image_url": "https://example.com/images/bhairav.jpg",
+      "duration": "5:10"
+    },
+    {
+      "id": 50,
+      "name": "Radha Chalisa",
+      "god_name": "Radha Rani",
+      "language": "Hindi",
+      "category": "Chalisa",
+      "lyrics": {
+        "hindi": "॥ दोहा ॥\nश्री राधे वृषभानजा, भक्तनि प्राणाधार।\nवृन्दावन विपिन विहारिणि, प्रणवौं बारम्बार॥\n\n॥ चौपाई ॥\nजयति जयति राधे महारानी। नमो नमो वृषभान दुलारी॥\nसुर नर मुनि सब तुमको ध्यावें। चारहु वेद यश तेरा गावें॥\nतू है कृष्ण प्रेम की दासी। वृन्दावन की तू है वासी॥\nकृष्ण वाम अंग प्रगटी आई। तू ही है जग की महामाई॥\nश्याम सुन्दर की प्राण पियारी। जय जय जय वृषभान कुमारी॥\nनन्द नन्दन के संग तू राजै। तेरी महिमा जग में छाजै॥\nतू है करुणा की भण्डारी। भक्तन के दुख हरने हारी॥\nजो जन तेरा नाम उचारै। भव सागर से पार उतारै॥\nमहिमा अगम अगोचर तेरी। तू है भक्तन की रखवेरी॥\nराधा नाम जो सुमिरन करई। ताके सब दुख संकट टरई॥",
+        "english": "|| Doha ||\nShri Radhe Vrishabhanaja, Bhaktani Pranadhar.\nVrindavan Vipin Viharini, Pranavau Barambar.\n\n|| Chaupai ||\nJayati Jayati Radhe Maharani. Namo Namo Vrishabhan Dulari.\nSur Nar Muni Sab Tumko Dhyaven. Charahu Ved Yash Tera Gaaven.\nTu Hai Krishna Prem Ki Daasi. Vrindavan Ki Tu Hai Vaasi.\nKrishna Vam Ang Pragati Aai. Tu Hi Hai Jag Ki Mahamai.\nShyam Sundar Ki Pran Piyari. Jai Jai Jai Vrishabhan Kumari.\nNand Nandan Ke Sang Tu Rajai. Teri Mahima Jag Mein Chhajai.\nTu Hai Karuna Ki Bhandari. Bhaktan Ke Dukh Harne Haari.\nJo Jan Tera Naam Ucharai. Bhav Sagar Se Paar Utaarai.\nMahima Agam Agochar Teri. Tu Hai Bhaktan Ki Rakhaveri.\nRadha Naam Jo Sumiran Karai. Taake Sab Dukh Sankat Tarai."
+      },
+      "audio_url": "https://example.com/audio/radha_chalisa.mp3",
+      "image_url": "https://example.com/images/radha_chalisa.jpg",
+      "duration": "8:00"
+    },
+    {
+      "id": 51,
+      "name": "Shri Ram Chalisa",
+      "god_name": "Ram Ji",
+      "language": "Hindi",
+      "category": "Chalisa",
+      "lyrics": {
+        "hindi": "॥ दोहा ॥\nश्री रघुबीर भक्त हितकारी। सुनि लीजै प्रभु अरज हमारी॥\nनिशिदिन ध्यान धरै जो कोई। ता सम भक्त और नहिं होई॥\n\n॥ चौपाई ॥\nध्यान धरै शिवजी मन माहीं। ब्रह्मा इन्द्र पार नहिं पाहीं॥\nजय जय जय रघुनाथ कृपाला। सदा करो सन्तन प्रतिपाला॥\nदूत तुम्हार वीर हनुमाना। जासु प्रभाव तिहूँ पुर जाना॥\nतव भुज दण्ड प्रचण्ड कृपाला। रावण मारि सुरन प्रतिपाला॥\nतुम अनाथ के नाथ गोसाईं। दीनन के प्रभु सदा सहाई॥\nब्रह्मादिक तव पार न पावैं। सदा ईश तुम्हरे गुण गावैं॥\nचारिउ वेद भरत पुर जाना। महिमा तुम्हारी सब जग माना॥\nगौतम नारि अहल्या तारी। शाप मुक्त भई भव निवारी॥\nशबरी के फल जूठे खाये। भक्ति प्रेम ते अति मन भाये॥\nनाम तुम्हार लेत जो कोई। भव बन्धन छूटै महा सुख होई॥",
+        "english": "|| Doha ||\nShri Raghubir Bhakt Hitkari. Suni Lijai Prabhu Araj Hamari.\nNishidin Dhyan Dharai Jo Koi. Ta Sam Bhakt Aur Nahin Hoi.\n\n|| Chaupai ||\nDhyan Dharai Shivji Man Mahin. Brahma Indra Paar Nahin Pahin.\nJai Jai Jai Raghunath Kripala. Sada Karo Santan Pratipala.\nDoot Tumhar Veer Hanumana. Jasu Prabhav Tihun Pur Jana.\nTav Bhuj Dand Prachand Kripala. Ravan Mari Suran Pratipala.\nTum Anath Ke Nath Gosain. Deenan Ke Prabhu Sada Sahai.\nBrahmadik Tav Paar Na Paavain. Sada Eesh Tumhre Gun Gaavain.\nChariu Ved Bharat Pur Jana. Mahima Tumhari Sab Jag Mana.\nGautam Nari Ahalya Taari. Shaap Mukt Bhai Bhav Nivari.\nShabari Ke Phal Joothe Khaaye. Bhakti Prem Te Ati Man Bhaye.\nNaam Tumhar Let Jo Koi. Bhav Bandhan Chhutai Maha Sukh Hoi."
+      },
+      "audio_url": "https://example.com/audio/ram_chalisa.mp3",
+      "image_url": "https://example.com/images/ram_chalisa.jpg",
+      "duration": "8:45"
     }
   ],
   "meta": {
