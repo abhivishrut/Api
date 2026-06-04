@@ -1,0 +1,32 @@
+{
+    "banners": [
+        {
+            "id": "banner_001",
+            "imageUrl": "https://example.com/images/banner_summer_sale.png",
+            "title": "Summer Sale 50% Off!",
+            "description": "Get the best deals on our exclusive summer collections.",
+            "actionUrl": "myapp://promotions/summer_sale",
+            "isActive": true
+        },
+        {
+            "id": "banner_002",
+            "imageUrl": "https://example.com/images/banner_new_arrival.png",
+            "title": "New Arrivals are Here",
+            "description": "Check out the latest electronics and gadgets.",
+            "actionUrl": "myapp://products/new",
+            "isActive": true
+        },
+        {
+            "id": "banner_003",
+            "imageUrl": "https://example.com/images/banner_app_update.png",
+            "title": "Update Available",
+            "description": "Update your app to experience the latest features.",
+            "actionUrl": "market://details?id=com.yourapp.package",
+            "isActive": false
+        }
+    ],
+    "meta": {
+        "version": 1.0,
+        "lastUpdated": "2026-06-04T16:24:00Z"
+    }
+}
