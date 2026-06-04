@@ -1,0 +1,454 @@
+{
+    "quotes": [
+        {
+            "id": 1,
+            "text": "The soul is neither born, nor does it ever die.",
+            "source": "Bhagavad Gita 2.20"
+        },
+        {
+            "id": 2,
+            "text": "You have a right to perform your prescribed duty, but not to the fruits of action.",
+            "source": "Bhagavad Gita 2.47"
+        },
+        {
+            "id": 3,
+            "text": "A person is made by their faith. Whatever their faith is, that they become.",
+            "source": "Bhagavad Gita 17.3"
+        },
+        {
+            "id": 4,
+            "text": "For one who has conquered the mind, the mind is the best friend.",
+            "source": "Bhagavad Gita 6.6"
+        },
+        {
+            "id": 5,
+            "text": "The mind acts like an enemy for those who do not control it.",
+            "source": "Bhagavad Gita 6.6"
+        },
+        {
+            "id": 6,
+            "text": "Peace comes to those who are free from desire and ego.",
+            "source": "Bhagavad Gita 2.71"
+        },
+        {
+            "id": 7,
+            "text": "One who sees inaction in action and action in inaction is wise.",
+            "source": "Bhagavad Gita 4.18"
+        },
+        {
+            "id": 8,
+            "text": "Knowledge is the purifier of all impurities.",
+            "source": "Bhagavad Gita 4.38"
+        },
+        {
+            "id": 9,
+            "text": "The wise see all beings with equal vision.",
+            "source": "Bhagavad Gita 5.18"
+        },
+        {
+            "id": 10,
+            "text": "Elevate yourself through the power of your own mind.",
+            "source": "Bhagavad Gita 6.5"
+        },
+        {
+            "id": 11,
+            "text": "The restless mind can be controlled through practice and detachment.",
+            "source": "Bhagavad Gita 6.35"
+        },
+        {
+            "id": 12,
+            "text": "Whatever action a great person performs, ordinary people follow.",
+            "source": "Bhagavad Gita 3.21"
+        },
+        {
+            "id": 13,
+            "text": "The self-controlled soul remains peaceful amidst pleasure and pain.",
+            "source": "Bhagavad Gita 2.15"
+        },
+        {
+            "id": 14,
+            "text": "Desire leads to anger, anger leads to delusion.",
+            "source": "Bhagavad Gita 2.62-63"
+        },
+        {
+            "id": 15,
+            "text": "A disciplined person enjoys lasting happiness.",
+            "source": "Bhagavad Gita 5.21"
+        },
+        {
+            "id": 16,
+            "text": "There is nothing so uplifting as spiritual wisdom.",
+            "source": "Bhagavad Gita 4.38"
+        },
+        {
+            "id": 17,
+            "text": "He who is free from attachment attains supreme peace.",
+            "source": "Bhagavad Gita 2.71"
+        },
+        {
+            "id": 18,
+            "text": "The unreal has no existence; the real never ceases to be.",
+            "source": "Bhagavad Gita 2.16"
+        },
+        {
+            "id": 19,
+            "text": "Even a little progress on the spiritual path protects one from great fear.",
+            "source": "Bhagavad Gita 2.40"
+        },
+        {
+            "id": 20,
+            "text": "One who is steady in wisdom remains undisturbed.",
+            "source": "Bhagavad Gita 2.56"
+        },
+        {
+            "id": 21,
+            "text": "Truth is the highest virtue.",
+            "source": "Mahabharata"
+        },
+        {
+            "id": 22,
+            "text": "Non-violence is the greatest duty.",
+            "source": "Mahabharata"
+        },
+        {
+            "id": 23,
+            "text": "Forgiveness is strength.",
+            "source": "Mahabharata"
+        },
+        {
+            "id": 24,
+            "text": "A wise person speaks only what is beneficial.",
+            "source": "Mahabharata"
+        },
+        {
+            "id": 25,
+            "text": "Greed destroys wisdom.",
+            "source": "Mahabharata"
+        },
+        {
+            "id": 26,
+            "text": "Dharma protects those who protect Dharma.",
+            "source": "Mahabharata"
+        },
+        {
+            "id": 27,
+            "text": "Contentment is the greatest wealth.",
+            "source": "Mahabharata"
+        },
+        {
+            "id": 28,
+            "text": "Knowledge is the true friend in adversity.",
+            "source": "Mahabharata"
+        },
+        {
+            "id": 29,
+            "text": "The root of happiness is righteousness.",
+            "source": "Mahabharata"
+        },
+        {
+            "id": 30,
+            "text": "Patience is the highest austerity.",
+            "source": "Mahabharata"
+        },
+        {
+            "id": 31,
+            "text": "Self-control is the foundation of character.",
+            "source": "Mahabharata"
+        },
+        {
+            "id": 32,
+            "text": "Anger destroys judgment.",
+            "source": "Mahabharata"
+        },
+        {
+            "id": 33,
+            "text": "One should treat others as one wishes to be treated.",
+            "source": "Mahabharata"
+        },
+        {
+            "id": 34,
+            "text": "Truthfulness leads to lasting glory.",
+            "source": "Mahabharata"
+        },
+        {
+            "id": 35,
+            "text": "A person reaps what they sow.",
+            "source": "Mahabharata"
+        },
+        {
+            "id": 36,
+            "text": "The greatest victory is victory over oneself.",
+            "source": "Mahabharata"
+        },
+        {
+            "id": 37,
+            "text": "Wisdom grows through humility.",
+            "source": "Mahabharata"
+        },
+        {
+            "id": 38,
+            "text": "Compassion is the mark of nobility.",
+            "source": "Mahabharata"
+        },
+        {
+            "id": 39,
+            "text": "A disciplined life leads to success.",
+            "source": "Mahabharata"
+        },
+        {
+            "id": 40,
+            "text": "Good conduct is the ornament of life.",
+            "source": "Mahabharata"
+        },
+        {
+            "id": 41,
+            "text": "Duty is greater than comfort.",
+            "source": "Ramayana"
+        },
+        {
+            "id": 42,
+            "text": "Righteousness always triumphs in the end.",
+            "source": "Ramayana"
+        },
+        {
+            "id": 43,
+            "text": "Honor your parents with devotion.",
+            "source": "Ramayana"
+        },
+        {
+            "id": 44,
+            "text": "Truth is the foundation of virtue.",
+            "source": "Ramayana"
+        },
+        {
+            "id": 45,
+            "text": "A noble person keeps their promises.",
+            "source": "Ramayana"
+        },
+        {
+            "id": 46,
+            "text": "Patience brings strength during adversity.",
+            "source": "Ramayana"
+        },
+        {
+            "id": 47,
+            "text": "Kindness is the highest expression of power.",
+            "source": "Ramayana"
+        },
+        {
+            "id": 48,
+            "text": "A leader serves before commanding.",
+            "source": "Ramayana"
+        },
+        {
+            "id": 49,
+            "text": "Humility enhances greatness.",
+            "source": "Ramayana"
+        },
+        {
+            "id": 50,
+            "text": "A pure heart attracts divine grace.",
+            "source": "Ramayana"
+        },
+        {
+            "id": 51,
+            "text": "Courage is standing firm in righteousness.",
+            "source": "Ramayana"
+        },
+        {
+            "id": 52,
+            "text": "Good company elevates the soul.",
+            "source": "Ramayana"
+        },
+        {
+            "id": 53,
+            "text": "Character is greater than wealth.",
+            "source": "Ramayana"
+        },
+        {
+            "id": 54,
+            "text": "Devotion leads to inner peace.",
+            "source": "Ramayana"
+        },
+        {
+            "id": 55,
+            "text": "Compassion wins hearts.",
+            "source": "Ramayana"
+        },
+        {
+            "id": 56,
+            "text": "Duty performed sincerely becomes worship.",
+            "source": "Ramayana"
+        },
+        {
+            "id": 57,
+            "text": "Respect for elders is a sign of wisdom.",
+            "source": "Ramayana"
+        },
+        {
+            "id": 58,
+            "text": "Selfless service pleases the Divine.",
+            "source": "Ramayana"
+        },
+        {
+            "id": 59,
+            "text": "Faith removes fear.",
+            "source": "Ramayana"
+        },
+        {
+            "id": 60,
+            "text": "A truthful life is a blessed life.",
+            "source": "Ramayana"
+        },
+        {
+            "id": 61,
+            "text": "Serve humanity with compassion.",
+            "source": "Swami Vivekananda"
+        },
+        {
+            "id": 62,
+            "text": "Arise, awake and stop not till the goal is reached.",
+            "source": "Swami Vivekananda"
+        },
+        {
+            "id": 63,
+            "text": "Strength is life, weakness is death.",
+            "source": "Swami Vivekananda"
+        },
+        {
+            "id": 64,
+            "text": "Purity, patience and perseverance are the keys to success.",
+            "source": "Swami Vivekananda"
+        },
+        {
+            "id": 65,
+            "text": "Take up one idea and make it your life.",
+            "source": "Swami Vivekananda"
+        },
+        {
+            "id": 66,
+            "text": "The greatest religion is to be true to your own nature.",
+            "source": "Swami Vivekananda"
+        },
+        {
+            "id": 67,
+            "text": "All power is within you.",
+            "source": "Swami Vivekananda"
+        },
+        {
+            "id": 68,
+            "text": "Fear is death, fearlessness is life.",
+            "source": "Swami Vivekananda"
+        },
+        {
+            "id": 69,
+            "text": "Learn everything that is good from others.",
+            "source": "Swami Vivekananda"
+        },
+        {
+            "id": 70,
+            "text": "Education is the manifestation of perfection already in man.",
+            "source": "Swami Vivekananda"
+        },
+        {
+            "id": 71,
+            "text": "The entire universe exists within the Divine.",
+            "source": "Upanishads"
+        },
+        {
+            "id": 72,
+            "text": "Truth alone triumphs.",
+            "source": "Mundaka Upanishad"
+        },
+        {
+            "id": 73,
+            "text": "From joy all beings are born.",
+            "source": "Taittiriya Upanishad"
+        },
+        {
+            "id": 74,
+            "text": "The Self is to be realized.",
+            "source": "Upanishads"
+        },
+        {
+            "id": 75,
+            "text": "Knowledge removes ignorance.",
+            "source": "Upanishads"
+        },
+        {
+            "id": 76,
+            "text": "The wise see unity in diversity.",
+            "source": "Upanishads"
+        },
+        {
+            "id": 77,
+            "text": "He who knows the Self crosses sorrow.",
+            "source": "Upanishads"
+        },
+        {
+            "id": 78,
+            "text": "The Divine dwells in every heart.",
+            "source": "Upanishads"
+        },
+        {
+            "id": 79,
+            "text": "Awaken to your highest nature.",
+            "source": "Upanishads"
+        },
+        {
+            "id": 80,
+            "text": "Real wealth is inner wisdom.",
+            "source": "Upanishads"
+        },
+        {
+            "id": 81,
+            "text": "Devotion is the path to liberation.",
+            "source": "Narada Bhakti Sutra"
+        },
+        {
+            "id": 82,
+            "text": "Love for God is the highest goal.",
+            "source": "Narada Bhakti Sutra"
+        },
+        {
+            "id": 83,
+            "text": "A devoted heart knows no fear.",
+            "source": "Narada Bhakti Sutra"
+        },
+        {
+            "id": 84,
+            "text": "Divine love grows through remembrance.",
+            "source": "Narada Bhakti Sutra"
+        },
+        {
+            "id": 85,
+            "text": "The devotee sees God everywhere.",
+            "source": "Narada Bhakti Sutra"
+        },
+        {
+            "id": 86,
+            "text": "Faith nourishes spiritual growth.",
+            "source": "Narada Bhakti Sutra"
+        },
+        {
+            "id": 87,
+            "text": "Pure devotion expects nothing in return.",
+            "source": "Narada Bhakti Sutra"
+        },
+        {
+            "id": 88,
+            "text": "Love transforms the soul.",
+            "source": "Narada Bhakti Sutra"
+        },
+        {
+            "id": 89,
+            "text": "Humility deepens devotion.",
+            "source": "Narada Bhakti Sutra"
+        },
+        {
+            "id": 90,
+            "text": "The highest happiness is divine love.",
+            "source": "Narada Bhakti Sutra"
+        }
+    ]
+}
