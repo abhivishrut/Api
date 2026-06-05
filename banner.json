@@ -1,32 +1,28 @@
 {
     "banners": [
         {
-            "id": "banner_001",
-            "imageUrl": "https://example.com/images/banner_summer_sale.png",
-            "title": "Summer Sale 50% Off!",
-            "description": "Get the best deals on our exclusive summer collections.",
-            "actionUrl": "myapp://promotions/summer_sale",
-            "isActive": true
+            "id": "1",
+            "imageUrl": "https://abhivishrut.github.io/Api/img/4.png"
         },
         {
-            "id": "banner_002",
-            "imageUrl": "https://example.com/images/banner_new_arrival.png",
-            "title": "New Arrivals are Here",
-            "description": "Check out the latest electronics and gadgets.",
-            "actionUrl": "myapp://products/new",
-            "isActive": true
+            "id": "2",
+            "imageUrl": "https://abhivishrut.github.io/Api/img/5.png"
         },
         {
-            "id": "banner_003",
-            "imageUrl": "https://example.com/images/banner_app_update.png",
-            "title": "Update Available",
-            "description": "Update your app to experience the latest features.",
-            "actionUrl": "market://details?id=com.yourapp.package",
-            "isActive": false
+            "id": "3",
+            "imageUrl": "https://abhivishrut.github.io/Api/img/3.png"
+        },
+        {
+            "id": "4",
+            "imageUrl": "https://abhivishrut.github.io/Api/img/2.png"
+        },
+        {
+            "id": "5",
+            "imageUrl": "https://abhivishrut.github.io/Api/img/1.png"
         }
     ],
     "meta": {
         "version": 1.0,
-        "lastUpdated": "2026-06-04T16:24:00Z"
+        "lastUpdated": "2026-06-05"
     }
 }
