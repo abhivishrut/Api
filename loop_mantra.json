@@ -1,0 +1,19 @@
+{
+  "songs": [
+    {
+      "song_name": "Gayatri Mantra",
+      "subtitle": "ॐ भूर्भुवः स्वः ।तत्सवितुर्वरेण्यं ।भर्गो देवस्य धीमहि ।धियो यो नः प्रचोदयात ॥",
+      "url": "https://api.example.com/stream/bohemian-rhapsody"
+    },
+    {
+      "song_name": "Blinding Lights",
+      "subtitle": "The Weeknd",
+      "url": "https://api.example.com/stream/blinding-lights"
+    },
+    {
+      "song_name": "Humble",
+      "subtitle": "Kendrick Lamar",
+      "url": "https://api.example.com/stream/humble"
+    }
+  ]
+}
