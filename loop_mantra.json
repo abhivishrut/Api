@@ -3,17 +3,21 @@
     {
       "song_name": "Gayatri Mantra",
       "subtitle": "ॐ भूर्भुवः स्वः ।तत्सवितुर्वरेण्यं ।भर्गो देवस्य धीमहि ।धियो यो नः प्रचोदयात ॥",
-      "url": "https://abhivishrut.github.io/Api/music/gayatri_mantra.mp3"
+      "url": "https://abhivishrut.github.io/Api/music/gayatri_mantra.mp3",
+      "img": "https://i.pinimg.com/originals/6c/70/e5/6c70e5fda0ef61c37695839eb286877e.jpg"
+    
     },
     {
       "song_name": "Blinding Lights",
       "subtitle": "The Weeknd",
-      "url": ""
+      "url": "",
+      "img": ""
     },
     {
       "song_name": "Humble",
       "subtitle": "Kendrick Lamar",
-      "url": ""
+      "url": "",
+      "img": ""
     }
   ]
 }
