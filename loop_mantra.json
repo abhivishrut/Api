@@ -8,16 +8,16 @@
     
     },
     {
-      "song_name": "Blinding Lights",
-      "subtitle": "The Weeknd",
-      "url": "",
-      "img": ""
+      "song_name": "Maha Mrityunjaya Mantra",
+      "subtitle": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्।उर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय मामृतात्॥",
+      "url": "https://abhivishrut.github.io/Api/music/Maha Mrityunjaya Mantra.mp3",
+      "img": "https://gurukul.org/wp-content/uploads/2026/02/01-third-eye-lord-shiva_50-1024x765.jpg"
     },
     {
-      "song_name": "Humble",
-      "subtitle": "Kendrick Lamar",
+      "song_name": "Om Namo Bhagavate Vasudevaya",
+      "subtitle": "ॐ नमो भगवते वासुदेवाय",
       "url": "",
-      "img": ""
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCS-_8h6UuynKjl8ybk6jDelaMmLenmLfgRerlTV5YXsfNJ7MFh5B7s2UM&s=10"
     }
   ]
 }
