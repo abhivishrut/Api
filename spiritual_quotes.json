@@ -3,452 +3,722 @@
         {
             "id": 1,
             "text": "The soul is neither born, nor does it ever die.",
-            "source": "Bhagavad Gita 2.20"
+            "source": "Bhagavad Gita 2.20",
+            "text_hindi": "आत्मा न तो जन्म लेती है, और न ही कभी मरती है।",
+            "explanation": "This quote highlights the eternal and indestructible nature of the soul, which exists beyond physical birth and death.",
+            "explanation_hindi": "यह उद्धरण आत्मा की शाश्वत और अविनाशी प्रकृति पर प्रकाश डालता है, जो भौतिक जन्म और मृत्यु से परे मौजूद है।"
         },
         {
             "id": 2,
             "text": "You have a right to perform your prescribed duty, but not to the fruits of action.",
-            "source": "Bhagavad Gita 2.47"
+            "source": "Bhagavad Gita 2.47",
+            "text_hindi": "तुम्हारा अधिकार केवल कर्म करने में है, उसके फलों में कभी नहीं।",
+            "explanation": "This emphasizes focusing on the process and doing one's duty without becoming attached to the outcome or rewards.",
+            "explanation_hindi": "यह प्रक्रिया पर ध्यान केंद्रित करने और परिणाम या पुरस्कार के प्रति आसक्त हुए बिना अपना कर्तव्य निभाने पर जोर देता है।"
         },
         {
             "id": 3,
             "text": "A person is made by their faith. Whatever their faith is, that they become.",
-            "source": "Bhagavad Gita 17.3"
+            "source": "Bhagavad Gita 17.3",
+            "text_hindi": "मनुष्य अपने विश्वास से निर्मित होता है। जैसा उसका विश्वास होता है, वैसा ही वह बन जाता है।",
+            "explanation": "Our deeply held beliefs and convictions fundamentally shape our character and ultimate destiny.",
+            "explanation_hindi": "हमारी गहरी मान्यताएं और विश्वास मौलिक रूप से हमारे चरित्र और अंतिम नियति को आकार देते हैं।"
         },
         {
             "id": 4,
             "text": "For one who has conquered the mind, the mind is the best friend.",
-            "source": "Bhagavad Gita 6.6"
+            "source": "Bhagavad Gita 6.6",
+            "text_hindi": "जिसने मन को जीत लिया है, उसके लिए मन सबसे अच्छा मित्र है।",
+            "explanation": "Self-mastery and discipline turn the mind into a powerful ally rather than a source of distraction.",
+            "explanation_hindi": "आत्म-नियंत्रण और अनुशासन मन को ध्यान भटकाने के स्रोत के बजाय एक शक्तिशाली सहयोगी में बदल देते हैं।"
         },
         {
             "id": 5,
             "text": "The mind acts like an enemy for those who do not control it.",
-            "source": "Bhagavad Gita 6.6"
+            "source": "Bhagavad Gita 6.6",
+            "text_hindi": "जो लोग मन को नियंत्रित नहीं करते हैं, उनके लिए मन एक शत्रु की तरह काम करता है।",
+            "explanation": "An undisciplined mind leads to internal conflict, bad decisions, and suffering.",
+            "explanation_hindi": "एक अनुशासनहीन मन आंतरिक संघर्ष, बुरे निर्णयों और पीड़ा की ओर ले जाता है।"
         },
         {
             "id": 6,
             "text": "Peace comes to those who are free from desire and ego.",
-            "source": "Bhagavad Gita 2.71"
+            "source": "Bhagavad Gita 2.71",
+            "text_hindi": "शांति उसे मिलती है जो इच्छा और अहंकार से मुक्त है।",
+            "explanation": "True tranquility is achieved by letting go of selfish cravings and a self-centered identity.",
+            "explanation_hindi": "सच्ची शांति स्वार्थी लालसाओं और आत्मकेंद्रित पहचान को छोड़ने से प्राप्त होती है।"
         },
         {
             "id": 7,
             "text": "One who sees inaction in action and action in inaction is wise.",
-            "source": "Bhagavad Gita 4.18"
+            "source": "Bhagavad Gita 4.18",
+            "text_hindi": "जो कर्म में अकर्म और अकर्म में कर्म देखता है, वही बुद्धिमान है।",
+            "explanation": "True wisdom is understanding that inner peace can exist amid intense activity, and choosing not to act is still a conscious action.",
+            "explanation_hindi": "सच्चा ज्ञान यह समझना है कि तीव्र गतिविधि के बीच भी आंतरिक शांति मौजूद हो सकती है, और कार्य न करने का चुनाव भी एक सचेत कार्य है।"
         },
         {
             "id": 8,
             "text": "Knowledge is the purifier of all impurities.",
-            "source": "Bhagavad Gita 4.38"
+            "source": "Bhagavad Gita 4.38",
+            "text_hindi": "ज्ञान सभी अशुद्धियों को पवित्र करने वाला है।",
+            "explanation": "Spiritual wisdom cleanses the mind of ignorance, leading to ultimate clarity and truth.",
+            "explanation_hindi": "आध्यात्मिक ज्ञान मन को अज्ञानता से शुद्ध करता है, जिससे अंतिम स्पष्टता और सत्य प्राप्त होता है।"
         },
         {
             "id": 9,
             "text": "The wise see all beings with equal vision.",
-            "source": "Bhagavad Gita 5.18"
+            "source": "Bhagavad Gita 5.18",
+            "text_hindi": "ज्ञानी सभी प्राणियों को समान दृष्टि से देखते हैं।",
+            "explanation": "An enlightened person recognizes the same divine essence in every living creature, treating all with equal respect.",
+            "explanation_hindi": "एक प्रबुद्ध व्यक्ति हर जीवित प्राणी में उसी दिव्य सार को पहचानता है, और सभी के साथ समान सम्मान का व्यवहार करता है।"
         },
         {
             "id": 10,
             "text": "Elevate yourself through the power of your own mind.",
-            "source": "Bhagavad Gita 6.5"
+            "source": "Bhagavad Gita 6.5",
+            "text_hindi": "अपने ही मन की शक्ति से स्वयं को ऊपर उठाएं।",
+            "explanation": "Personal growth and spiritual elevation are achieved through self-reliance and mental discipline.",
+            "explanation_hindi": "व्यक्तिगत विकास और आध्यात्मिक उत्थान आत्मनिर्भरता और मानसिक अनुशासन के माध्यम से प्राप्त किए जाते हैं।"
         },
         {
             "id": 11,
             "text": "The restless mind can be controlled through practice and detachment.",
-            "source": "Bhagavad Gita 6.35"
+            "source": "Bhagavad Gita 6.35",
+            "text_hindi": "अशांत मन को अभ्यास और वैराग्य से नियंत्रित किया जा सकता है।",
+            "explanation": "Continuous effort and letting go of worldly attachments are the keys to taming a wandering mind.",
+            "explanation_hindi": "निरंतर प्रयास और सांसारिक मोह को छोड़ना भटकते मन को वश में करने की कुंजी है।"
         },
         {
             "id": 12,
             "text": "Whatever action a great person performs, ordinary people follow.",
-            "source": "Bhagavad Gita 3.21"
+            "source": "Bhagavad Gita 3.21",
+            "text_hindi": "महान पुरुष जो भी आचरण करता है, सामान्य लोग उसी का अनुसरण करते हैं।",
+            "explanation": "Leaders and role models carry the responsibility of setting a good example, as society naturally mimics them.",
+            "explanation_hindi": "नेताओं और आदर्शों पर एक अच्छा उदाहरण स्थापित करने की जिम्मेदारी होती है, क्योंकि समाज स्वाभाविक रूप से उनकी नकल करता है।"
         },
         {
             "id": 13,
             "text": "The self-controlled soul remains peaceful amidst pleasure and pain.",
-            "source": "Bhagavad Gita 2.15"
+            "source": "Bhagavad Gita 2.15",
+            "text_hindi": "आत्म-नियंत्रित आत्मा सुख और दुख के बीच शांत रहती है।",
+            "explanation": "Emotional resilience allows a person to stay balanced regardless of life's highs and lows.",
+            "explanation_hindi": "भावनात्मक लचीलापन एक व्यक्ति को जीवन के उतार-चढ़ाव की परवाह किए बिना संतुलित रहने की अनुमति देता है।"
         },
         {
             "id": 14,
             "text": "Desire leads to anger, anger leads to delusion.",
-            "source": "Bhagavad Gita 2.62-63"
+            "source": "Bhagavad Gita 2.62-63",
+            "text_hindi": "इच्छा से क्रोध उत्पन्न होता है, और क्रोध से मोह उत्पन्न होता है।",
+            "explanation": "Unmet cravings result in frustration, which clouds judgment and leads to irrational behavior.",
+            "explanation_hindi": "अधूरी लालसाओं के परिणामस्वरूप निराशा होती है, जो निर्णय को धुंधला कर देती है और तर्कहीन व्यवहार की ओर ले जाती है।"
         },
         {
             "id": 15,
             "text": "A disciplined person enjoys lasting happiness.",
-            "source": "Bhagavad Gita 5.21"
+            "source": "Bhagavad Gita 5.21",
+            "text_hindi": "एक अनुशासित व्यक्ति स्थायी सुख का आनंद लेता है।",
+            "explanation": "True and enduring joy is found within through self-control, rather than in temporary external pleasures.",
+            "explanation_hindi": "सच्चा और स्थायी आनंद अस्थायी बाहरी सुखों के बजाय आत्म-नियंत्रण के माध्यम से भीतर पाया जाता है।"
         },
         {
             "id": 16,
             "text": "There is nothing so uplifting as spiritual wisdom.",
-            "source": "Bhagavad Gita 4.38"
+            "source": "Bhagavad Gita 4.38",
+            "text_hindi": "आध्यात्मिक ज्ञान के समान पवित्र करने वाला और कुछ नहीं है।",
+            "explanation": "True understanding of oneself and the universe is the ultimate source of spiritual elevation.",
+            "explanation_hindi": "स्वयं और ब्रह्मांड की सच्ची समझ आध्यात्मिक उत्थान का अंतिम स्रोत है।"
         },
         {
             "id": 17,
             "text": "He who is free from attachment attains supreme peace.",
-            "source": "Bhagavad Gita 2.71"
+            "source": "Bhagavad Gita 2.71",
+            "text_hindi": "जो मोह से मुक्त है, वह परम शांति प्राप्त करता है।",
+            "explanation": "Letting go of possessiveness and emotional dependency brings ultimate mental tranquility.",
+            "explanation_hindi": "अधिकार की भावना और भावनात्मक निर्भरता को छोड़ने से अंतिम मानसिक शांति मिलती है।"
         },
         {
             "id": 18,
             "text": "The unreal has no existence; the real never ceases to be.",
-            "source": "Bhagavad Gita 2.16"
+            "source": "Bhagavad Gita 2.16",
+            "text_hindi": "असत् का कोई अस्तित्व नहीं है; और सत् का कभी अभाव नहीं होता।",
+            "explanation": "Temporary, material things are fleeting, while the absolute truth and the soul are permanent.",
+            "explanation_hindi": "अस्थायी, भौतिक चीजें क्षणभंगुर हैं, जबकि पूर्ण सत्य और आत्मा स्थायी हैं।"
         },
         {
             "id": 19,
             "text": "Even a little progress on the spiritual path protects one from great fear.",
-            "source": "Bhagavad Gita 2.40"
+            "source": "Bhagavad Gita 2.40",
+            "text_hindi": "आध्यात्मिक मार्ग पर थोड़ी सी भी प्रगति मनुष्य को बड़े भय से बचाती है।",
+            "explanation": "Any effort made toward righteousness and self-realization is never wasted and provides immense inner security.",
+            "explanation_hindi": "धर्म और आत्म-साक्षात्कार की दिशा में किया गया कोई भी प्रयास कभी व्यर्थ नहीं जाता है और अपार आंतरिक सुरक्षा प्रदान करता है।"
         },
         {
             "id": 20,
             "text": "One who is steady in wisdom remains undisturbed.",
-            "source": "Bhagavad Gita 2.56"
+            "source": "Bhagavad Gita 2.56",
+            "text_hindi": "जो ज्ञान में स्थिर है, वह विचलित नहीं होता।",
+            "explanation": "A person anchored in profound truth maintains their composure through all adversities.",
+            "explanation_hindi": "गहन सत्य में लंगर डाले हुए व्यक्ति सभी विपत्तियों के माध्यम से अपना संयम बनाए रखता है।"
         },
         {
             "id": 21,
             "text": "Truth is the highest virtue.",
-            "source": "Mahabharata"
+            "source": "Mahabharata",
+            "text_hindi": "सत्य ही सर्वोच्च धर्म है।",
+            "explanation": "Honesty and adherence to truth are the greatest moral principles one can uphold.",
+            "explanation_hindi": "ईमानदारी और सत्य का पालन सबसे महान नैतिक सिद्धांत हैं जिन्हें कोई अपना सकता है।"
         },
         {
             "id": 22,
             "text": "Non-violence is the greatest duty.",
-            "source": "Mahabharata"
+            "source": "Mahabharata",
+            "text_hindi": "अहिंसा परमो धर्मः (अहिंसा सबसे बड़ा कर्तव्य है)।",
+            "explanation": "Causing no harm to others in thought, word, or deed is the highest moral obligation.",
+            "explanation_hindi": "विचार, शब्द या कर्म में दूसरों को कोई नुकसान न पहुंचाना सर्वोच्च नैतिक दायित्व है।"
         },
         {
             "id": 23,
             "text": "Forgiveness is strength.",
-            "source": "Mahabharata"
+            "source": "Mahabharata",
+            "text_hindi": "क्षमा ही बल है।",
+            "explanation": "Pardoning others is not a sign of weakness, but a profound display of inner power and character.",
+            "explanation_hindi": "दूसरों को क्षमा करना कमजोरी का संकेत नहीं है, बल्कि आंतरिक शक्ति और चरित्र का गहरा प्रदर्शन है।"
         },
         {
             "id": 24,
             "text": "A wise person speaks only what is beneficial.",
-            "source": "Mahabharata"
+            "source": "Mahabharata",
+            "text_hindi": "बुद्धिमान व्यक्ति वही बोलता है जो लाभकारी हो।",
+            "explanation": "Prudent individuals measure their words, ensuring they contribute positively to a situation.",
+            "explanation_hindi": "विवेकपूर्ण व्यक्ति अपने शब्दों को तौलते हैं, यह सुनिश्चित करते हुए कि वे किसी स्थिति में सकारात्मक योगदान देते हैं।"
         },
         {
             "id": 25,
             "text": "Greed destroys wisdom.",
-            "source": "Mahabharata"
+            "source": "Mahabharata",
+            "text_hindi": "लालच बुद्धि का नाश करता है।",
+            "explanation": "An intense desire for more clouds rational thinking and ethical judgment.",
+            "explanation_hindi": "अधिक पाने की तीव्र इच्छा तर्कसंगत सोच और नैतिक निर्णय को धुंधला कर देती है।"
         },
         {
             "id": 26,
             "text": "Dharma protects those who protect Dharma.",
-            "source": "Mahabharata"
+            "source": "Mahabharata",
+            "text_hindi": "धर्मो रक्षति रक्षितः (जो धर्म की रक्षा करता है, धर्म उसकी रक्षा करता है)।",
+            "explanation": "By upholding righteousness and duty, a person builds a moral foundation that safeguards them in life.",
+            "explanation_hindi": "धर्म और कर्तव्य का पालन करके, एक व्यक्ति एक नैतिक नींव बनाता है जो जीवन में उसकी रक्षा करती है।"
         },
         {
             "id": 27,
             "text": "Contentment is the greatest wealth.",
-            "source": "Mahabharata"
+            "source": "Mahabharata",
+            "text_hindi": "संतोष ही सबसे बड़ा धन है।",
+            "explanation": "True richness lies in being satisfied with what one has, rather than constantly seeking more.",
+            "explanation_hindi": "सच्ची अमीरी इस बात में है कि जो है उसी में संतुष्ट रहा जाए, न कि लगातार और अधिक की तलाश की जाए।"
         },
         {
             "id": 28,
             "text": "Knowledge is the true friend in adversity.",
-            "source": "Mahabharata"
+            "source": "Mahabharata",
+            "text_hindi": "विपत्ति में ज्ञान ही सच्चा मित्र है।",
+            "explanation": "During difficult times, it is our intellect and understanding that guide us safely through.",
+            "explanation_hindi": "कठिन समय के दौरान, यह हमारी बुद्धि और समझ ही है जो हमें सुरक्षित रूप से मार्गदर्शन करती है।"
         },
         {
             "id": 29,
             "text": "The root of happiness is righteousness.",
-            "source": "Mahabharata"
+            "source": "Mahabharata",
+            "text_hindi": "सुख का मूल धर्म है।",
+            "explanation": "Living an ethical and just life is the fundamental prerequisite for experiencing true joy.",
+            "explanation_hindi": "नैतिक और न्यायपूर्ण जीवन जीना सच्चे आनंद का अनुभव करने के लिए मूलभूत आवश्यकता है।"
         },
         {
             "id": 30,
             "text": "Patience is the highest austerity.",
-            "source": "Mahabharata"
+            "source": "Mahabharata",
+            "text_hindi": "धैर्य ही सबसे बड़ी तपस्या है।",
+            "explanation": "Enduring hardships with a calm mind requires immense spiritual and mental fortitude.",
+            "explanation_hindi": "शांत मन से कठिनाइयों को सहने के लिए अपार आध्यात्मिक और मानसिक धैर्य की आवश्यकता होती है।"
         },
         {
             "id": 31,
             "text": "Self-control is the foundation of character.",
-            "source": "Mahabharata"
+            "source": "Mahabharata",
+            "text_hindi": "आत्म-संयम ही चरित्र की नींव है।",
+            "explanation": "The ability to manage one's impulses is the core building block of a strong, principled individual.",
+            "explanation_hindi": "अपने आवेगों को प्रबंधित करने की क्षमता एक मजबूत, सिद्धांतवादी व्यक्ति का मुख्य निर्माण खंड है।"
         },
         {
             "id": 32,
             "text": "Anger destroys judgment.",
-            "source": "Mahabharata"
+            "source": "Mahabharata",
+            "text_hindi": "क्रोध विवेक को नष्ट कर देता है।",
+            "explanation": "Rage blinds a person to reason, causing them to make foolish and destructive decisions.",
+            "explanation_hindi": "क्रोध एक व्यक्ति को तर्क के प्रति अंधा कर देता है, जिससे वे मूर्खतापूर्ण और विनाशकारी निर्णय लेते हैं।"
         },
         {
             "id": 33,
             "text": "One should treat others as one wishes to be treated.",
-            "source": "Mahabharata"
+            "source": "Mahabharata",
+            "text_hindi": "दूसरों के साथ वैसा ही व्यवहार करना चाहिए जैसा हम स्वयं के लिए चाहते हैं।",
+            "explanation": "This encapsulates the Golden Rule: empathy and fairness should govern all human interactions.",
+            "explanation_hindi": "यह स्वर्णिम नियम को समाहित करता है: सहानुभूति और निष्पक्षता को सभी मानवीय अंतःक्रियाओं को नियंत्रित करना चाहिए।"
         },
         {
             "id": 34,
             "text": "Truthfulness leads to lasting glory.",
-            "source": "Mahabharata"
+            "source": "Mahabharata",
+            "text_hindi": "सत्यवादिता से स्थायी यश प्राप्त होता है।",
+            "explanation": "Living honestly creates a legacy of honor and respect that endures through time.",
+            "explanation_hindi": "ईमानदारी से जीने से सम्मान और आदर की विरासत बनती है जो समय के साथ कायम रहती है।"
         },
         {
             "id": 35,
             "text": "A person reaps what they sow.",
-            "source": "Mahabharata"
+            "source": "Mahabharata",
+            "text_hindi": "मनुष्य जो बोता है, वही काटता है।",
+            "explanation": "This refers to the law of Karma; our current actions directly determine our future circumstances.",
+            "explanation_hindi": "यह कर्म के नियम को संदर्भित करता है; हमारे वर्तमान कार्य सीधे हमारी भविष्य की परिस्थितियों को निर्धारित करते हैं।"
         },
         {
             "id": 36,
             "text": "The greatest victory is victory over oneself.",
-            "source": "Mahabharata"
+            "source": "Mahabharata",
+            "text_hindi": "सबसे बड़ी जीत स्वयं पर विजय प्राप्त करना है।",
+            "explanation": "Conquering one's own flaws, fears, and desires is harder and more valuable than defeating an external enemy.",
+            "explanation_hindi": "अपनी खुद की खामियों, आशंकाओं और इच्छाओं पर विजय प्राप्त करना किसी बाहरी दुश्मन को हराने से ज्यादा कठिन और मूल्यवान है।"
         },
         {
             "id": 37,
             "text": "Wisdom grows through humility.",
-            "source": "Mahabharata"
+            "source": "Mahabharata",
+            "text_hindi": "विनम्रता से ज्ञान बढ़ता है।",
+            "explanation": "A person must be modest and willing to admit they don't know everything in order to learn and grow.",
+            "explanation_hindi": "सीखने और बढ़ने के लिए एक व्यक्ति को विनम्र होना चाहिए और यह स्वीकार करने के लिए तैयार रहना चाहिए कि वे सब कुछ नहीं जानते हैं।"
         },
         {
             "id": 38,
             "text": "Compassion is the mark of nobility.",
-            "source": "Mahabharata"
+            "source": "Mahabharata",
+            "text_hindi": "करुणा ही महानता की पहचान है।",
+            "explanation": "True greatness is defined by how kindly and empathetically one treats those who are suffering or vulnerable.",
+            "explanation_hindi": "सच्ची महानता इस बात से परिभाषित होती है कि कोई व्यक्ति पीड़ित या कमजोर लोगों के साथ कितनी दयालुता और सहानुभूति से पेश आता है।"
         },
         {
             "id": 39,
             "text": "A disciplined life leads to success.",
-            "source": "Mahabharata"
+            "source": "Mahabharata",
+            "text_hindi": "अनुशासित जीवन सफलता की ओर ले जाता है।",
+            "explanation": "Consistency, focus, and self-regulation are the necessary ingredients for achieving goals.",
+            "explanation_hindi": "निरंतरता, ध्यान और आत्म-नियमन लक्ष्यों को प्राप्त करने के लिए आवश्यक तत्व हैं।"
         },
         {
             "id": 40,
             "text": "Good conduct is the ornament of life.",
-            "source": "Mahabharata"
+            "source": "Mahabharata",
+            "text_hindi": "सदाचार ही जीवन का आभूषण है।",
+            "explanation": "A person's good behavior and morals beautify their life more than any physical adornment.",
+            "explanation_hindi": "एक व्यक्ति का अच्छा व्यवहार और नैतिकता उनके जीवन को किसी भी भौतिक श्रंगार से ज्यादा सुशोभित करते हैं।"
         },
         {
             "id": 41,
             "text": "Duty is greater than comfort.",
-            "source": "Ramayana"
+            "source": "Ramayana",
+            "text_hindi": "कर्तव्य सुख से बड़ा है।",
+            "explanation": "Fulfilling one's obligations should always take precedence over seeking personal ease or luxury.",
+            "explanation_hindi": "व्यक्तिगत आराम या विलासिता की तलाश पर हमेशा अपने दायित्वों को पूरा करने को प्राथमिकता देनी चाहिए।"
         },
         {
             "id": 42,
             "text": "Righteousness always triumphs in the end.",
-            "source": "Ramayana"
+            "source": "Ramayana",
+            "text_hindi": "अंततः धर्म की ही जीत होती है।",
+            "explanation": "Despite temporary setbacks, good, moral, and just actions will ultimately prevail over evil.",
+            "explanation_hindi": "अस्थायी असफलताओं के बावजूद, अच्छे, नैतिक और न्यायपूर्ण कार्य अंततः बुराई पर हावी होंगे।"
         },
         {
             "id": 43,
             "text": "Honor your parents with devotion.",
-            "source": "Ramayana"
+            "source": "Ramayana",
+            "text_hindi": "अपने माता-पिता का भक्ति भाव से सम्मान करें।",
+            "explanation": "Respecting and serving those who gave you life is considered a foundational moral duty.",
+            "explanation_hindi": "जिन्होंने आपको जीवन दिया है उनका सम्मान करना और उनकी सेवा करना एक मौलिक नैतिक कर्तव्य माना जाता है।"
         },
         {
             "id": 44,
             "text": "Truth is the foundation of virtue.",
-            "source": "Ramayana"
+            "source": "Ramayana",
+            "text_hindi": "सत्य ही सद्गुण का आधार है।",
+            "explanation": "All other positive moral qualities are built upon a foundation of absolute honesty.",
+            "explanation_hindi": "अन्य सभी सकारात्मक नैतिक गुण पूर्ण ईमानदारी की नींव पर बने हैं।"
         },
         {
             "id": 45,
             "text": "A noble person keeps their promises.",
-            "source": "Ramayana"
+            "source": "Ramayana",
+            "text_hindi": "एक महान व्यक्ति अपने वादे निभाता है।",
+            "explanation": "Integrity is demonstrated by honoring one's commitments, no matter the personal cost.",
+            "explanation_hindi": "व्यक्तिगत लागत की परवाह किए बिना, अपनी प्रतिबद्धताओं का सम्मान करके अखंडता का प्रदर्शन किया जाता है।"
         },
         {
             "id": 46,
             "text": "Patience brings strength during adversity.",
-            "source": "Ramayana"
+            "source": "Ramayana",
+            "text_hindi": "विपत्ति के समय धैर्य शक्ति प्रदान करता है।",
+            "explanation": "Staying calm and enduring difficulties without losing hope empowers a person to overcome challenges.",
+            "explanation_hindi": "शांत रहना और उम्मीद खोए बिना कठिनाइयों का सामना करना एक व्यक्ति को चुनौतियों पर काबू पाने का अधिकार देता है।"
         },
         {
             "id": 47,
             "text": "Kindness is the highest expression of power.",
-            "source": "Ramayana"
+            "source": "Ramayana",
+            "text_hindi": "दयालुता शक्ति की सर्वोच्च अभिव्यक्ति है।",
+            "explanation": "Choosing to be gentle and forgiving when one has the power to harm is true strength.",
+            "explanation_hindi": "जब किसी के पास नुकसान पहुंचाने की शक्ति हो तब भी कोमल और क्षमाशील होने का चुनाव करना सच्ची ताकत है।"
         },
         {
             "id": 48,
             "text": "A leader serves before commanding.",
-            "source": "Ramayana"
+            "source": "Ramayana",
+            "text_hindi": "एक नेता आज्ञा देने से पहले सेवा करता है।",
+            "explanation": "True leadership is rooted in service to others, earning the right to lead through selflessness.",
+            "explanation_hindi": "सच्चा नेतृत्व दूसरों की सेवा में निहित है, जो निस्वार्थता के माध्यम से नेतृत्व करने का अधिकार प्राप्त करता है।"
         },
         {
             "id": 49,
             "text": "Humility enhances greatness.",
-            "source": "Ramayana"
+            "source": "Ramayana",
+            "text_hindi": "विनम्रता महानता को बढ़ाती है।",
+            "explanation": "A person becomes truly admirable when their vast achievements are paired with a modest attitude.",
+            "explanation_hindi": "एक व्यक्ति वास्तव में प्रशंसनीय हो जाता है जब उनकी विशाल उपलब्धियों को एक विनम्र दृष्टिकोण के साथ जोड़ा जाता है।"
         },
         {
             "id": 50,
             "text": "A pure heart attracts divine grace.",
-            "source": "Ramayana"
+            "source": "Ramayana",
+            "text_hindi": "एक पवित्र हृदय ईश्वरीय कृपा को आकर्षित करता है।",
+            "explanation": "Goodness and sincerity naturally draw spiritual blessings and favorable outcomes.",
+            "explanation_hindi": "अच्छाई और ईमानदारी स्वाभाविक रूप से आध्यात्मिक आशीर्वाद और अनुकूल परिणाम खींचती है।"
         },
         {
             "id": 51,
             "text": "Courage is standing firm in righteousness.",
-            "source": "Ramayana"
+            "source": "Ramayana",
+            "text_hindi": "साहस धर्म में दृढ़ रहना है।",
+            "explanation": "Bravery is not just physical; it is the mental strength to do what is right despite fear or opposition.",
+            "explanation_hindi": "बहादुरी केवल शारीरिक नहीं है; डर या विरोध के बावजूद सही काम करने की मानसिक शक्ति है।"
         },
         {
             "id": 52,
             "text": "Good company elevates the soul.",
-            "source": "Ramayana"
+            "source": "Ramayana",
+            "text_hindi": "अच्छी संगति आत्मा को ऊपर उठाती है।",
+            "explanation": "Surrounding oneself with virtuous people positively influences one's own character and spiritual growth.",
+            "explanation_hindi": "सद्गुणी लोगों के साथ खुद को घेरना किसी के अपने चरित्र और आध्यात्मिक विकास को सकारात्मक रूप से प्रभावित करता है।"
         },
         {
             "id": 53,
             "text": "Character is greater than wealth.",
-            "source": "Ramayana"
+            "source": "Ramayana",
+            "text_hindi": "चरित्र धन से बड़ा है।",
+            "explanation": "Moral integrity holds infinitely more value than material possessions.",
+            "explanation_hindi": "भौतिक संपत्ति की तुलना में नैतिक अखंडता का असीम रूप से अधिक मूल्य है।"
         },
         {
             "id": 54,
             "text": "Devotion leads to inner peace.",
-            "source": "Ramayana"
+            "source": "Ramayana",
+            "text_hindi": "भक्ति से आंतरिक शांति मिलती है।",
+            "explanation": "Wholehearted love and dedication to the divine calm the mind and soothe the spirit.",
+            "explanation_hindi": "ईश्वर के प्रति पूरे दिल से प्यार और समर्पण मन को शांत करता है और आत्मा को सुकून देता है।"
         },
         {
             "id": 55,
             "text": "Compassion wins hearts.",
-            "source": "Ramayana"
+            "source": "Ramayana",
+            "text_hindi": "करुणा दिल जीत लेती है।",
+            "explanation": "Showing genuine care and empathy is the most effective way to earn the love and loyalty of others.",
+            "explanation_hindi": "वास्तविक देखभाल और सहानुभूति दिखाना दूसरों का प्यार और वफादारी हासिल करने का सबसे प्रभावी तरीका है।"
         },
         {
             "id": 56,
             "text": "Duty performed sincerely becomes worship.",
-            "source": "Ramayana"
+            "source": "Ramayana",
+            "text_hindi": "ईमानदारी से किया गया कर्तव्य पूजा बन जाता है।",
+            "explanation": "When everyday responsibilities are carried out with pure intentions, they are spiritually equivalent to prayer.",
+            "explanation_hindi": "जब रोजमर्रा की जिम्मेदारियों को शुद्ध इरादों के साथ निभाया जाता है, तो वे आध्यात्मिक रूप से प्रार्थना के बराबर होते हैं।"
         },
         {
             "id": 57,
             "text": "Respect for elders is a sign of wisdom.",
-            "source": "Ramayana"
+            "source": "Ramayana",
+            "text_hindi": "बड़ों का सम्मान ज्ञान का प्रतीक है।",
+            "explanation": "Honoring the experience and guidance of older generations demonstrates a mature and enlightened mind.",
+            "explanation_hindi": "पुरानी पीढ़ियों के अनुभव और मार्गदर्शन का सम्मान करना एक परिपक्व और प्रबुद्ध दिमाग को प्रदर्शित करता है।"
         },
         {
             "id": 58,
             "text": "Selfless service pleases the Divine.",
-            "source": "Ramayana"
+            "source": "Ramayana",
+            "text_hindi": "निःस्वार्थ सेवा ईश्वर को प्रसन्न करती है।",
+            "explanation": "Helping others without expecting anything in return is considered the highest form of spiritual offering.",
+            "explanation_hindi": "बदले में कुछ भी उम्मीद किए बिना दूसरों की मदद करना आध्यात्मिक भेंट का उच्चतम रूप माना जाता है।"
         },
         {
             "id": 59,
             "text": "Faith removes fear.",
-            "source": "Ramayana"
+            "source": "Ramayana",
+            "text_hindi": "विश्वास भय को दूर करता है।",
+            "explanation": "Deep trust in a higher power or cosmic justice dispels anxieties about the unknown.",
+            "explanation_hindi": "उच्च शक्ति या ब्रह्मांडीय न्याय में गहरा विश्वास अज्ञात के बारे में चिंताओं को दूर करता है।"
         },
         {
             "id": 60,
             "text": "A truthful life is a blessed life.",
-            "source": "Ramayana"
+            "source": "Ramayana",
+            "text_hindi": "सच्चा जीवन ही धन्य जीवन है।",
+            "explanation": "Living with honesty aligns an individual with universal harmony, leading to a fulfilling existence.",
+            "explanation_hindi": "ईमानदारी के साथ जीना एक व्यक्ति को सार्वभौमिक सद्भाव के साथ संरेखित करता है, जिससे एक पूर्ण अस्तित्व की ओर अग्रसर होता है।"
         },
         {
             "id": 61,
             "text": "Serve humanity with compassion.",
-            "source": "Swami Vivekananda"
+            "source": "Swami Vivekananda",
+            "text_hindi": "करुणा के साथ मानवता की सेवा करें।",
+            "explanation": "Treat helping others as a spiritual duty, executing it with genuine empathy and care.",
+            "explanation_hindi": "दूसरों की मदद करने को एक आध्यात्मिक कर्तव्य के रूप में मानें, इसे वास्तविक सहानुभूति और देखभाल के साथ पूरा करें।"
         },
         {
             "id": 62,
             "text": "Arise, awake and stop not till the goal is reached.",
-            "source": "Swami Vivekananda"
+            "source": "Swami Vivekananda",
+            "text_hindi": "उठो, जागो और तब तक मत रुको जब तक लक्ष्य प्राप्त न हो जाए।",
+            "explanation": "A call to relentless action, encouraging people to awaken to their potential and pursue their goals tirelessly.",
+            "explanation_hindi": "निरंतर कार्रवाई का आह्वान, लोगों को अपनी क्षमता के प्रति जागृत करने और अथक रूप से अपने लक्ष्यों को आगे बढ़ाने के लिए प्रोत्साहित करना।"
         },
         {
             "id": 63,
             "text": "Strength is life, weakness is death.",
-            "source": "Swami Vivekananda"
+            "source": "Swami Vivekananda",
+            "text_hindi": "शक्ति जीवन है, दुर्बलता मृत्यु है।",
+            "explanation": "Physical, mental, and spiritual vitality are essential for true living, whereas fear and frailty lead to spiritual decay.",
+            "explanation_hindi": "शारीरिक, मानसिक और आध्यात्मिक जीवन शक्ति सच्चे जीवन के लिए आवश्यक है, जबकि भय और दुर्बलता आध्यात्मिक पतन की ओर ले जाती है।"
         },
         {
             "id": 64,
             "text": "Purity, patience and perseverance are the keys to success.",
-            "source": "Swami Vivekananda"
+            "source": "Swami Vivekananda",
+            "text_hindi": "पवित्रता, धैर्य और दृढ़ता सफलता की कुंजी हैं।",
+            "explanation": "Achieving greatness requires a clean conscience, the ability to wait, and the tenacity to keep trying.",
+            "explanation_hindi": "महानता प्राप्त करने के लिए एक साफ विवेक, प्रतीक्षा करने की क्षमता और कोशिश करते रहने की दृढ़ता की आवश्यकता होती है।"
         },
         {
             "id": 65,
             "text": "Take up one idea and make it your life.",
-            "source": "Swami Vivekananda"
+            "source": "Swami Vivekananda",
+            "text_hindi": "एक विचार लें और उसे अपना जीवन बना लें।",
+            "explanation": "Total, obsessive dedication to a single profound purpose guarantees extraordinary success.",
+            "explanation_hindi": "एक ही गहन उद्देश्य के लिए पूर्ण, जुनूनी समर्पण असाधारण सफलता की गारंटी देता है।"
         },
         {
             "id": 66,
             "text": "The greatest religion is to be true to your own nature.",
-            "source": "Swami Vivekananda"
+            "source": "Swami Vivekananda",
+            "text_hindi": "सबसे बड़ा धर्म अपने स्वभाव के प्रति सच्चा होना है।",
+            "explanation": "Authenticity and discovering one's true inner self are more important than rigid external dogmas.",
+            "explanation_hindi": "कठोर बाहरी सिद्धांतों की तुलना में प्रामाणिकता और अपने सच्चे आंतरिक स्व की खोज करना अधिक महत्वपूर्ण है।"
         },
         {
             "id": 67,
             "text": "All power is within you.",
-            "source": "Swami Vivekananda"
+            "source": "Swami Vivekananda",
+            "text_hindi": "सारी शक्ति तुम्हारे भीतर है।",
+            "explanation": "Every individual possesses infinite, untapped potential waiting to be realized.",
+            "explanation_hindi": "प्रत्येक व्यक्ति के पास अनंत, अप्रयुक्त क्षमता होती है जिसे साकार करने की प्रतीक्षा होती है।"
         },
         {
             "id": 68,
             "text": "Fear is death, fearlessness is life.",
-            "source": "Swami Vivekananda"
+            "source": "Swami Vivekananda",
+            "text_hindi": "भय मृत्यु है, निर्भयता जीवन है।",
+            "explanation": "Living in fear restricts potential and destroys the spirit, while courage leads to a vibrant existence.",
+            "explanation_hindi": "भय में जीना क्षमता को सीमित करता है और आत्मा को नष्ट कर देता है, जबकि साहस एक जीवंत अस्तित्व की ओर ले जाता है।"
         },
         {
             "id": 69,
             "text": "Learn everything that is good from others.",
-            "source": "Swami Vivekananda"
+            "source": "Swami Vivekananda",
+            "text_hindi": "दूसरों से जो कुछ भी अच्छा है उसे सीखें।",
+            "explanation": "Keep an open mind and absorb positive qualities and knowledge from all sources.",
+            "explanation_hindi": "खुला दिमाग रखें और सभी स्रोतों से सकारात्मक गुणों और ज्ञान को ग्रहण करें।"
         },
         {
             "id": 70,
             "text": "Education is the manifestation of perfection already in man.",
-            "source": "Swami Vivekananda"
+            "source": "Swami Vivekananda",
+            "text_hindi": "शिक्षा मनुष्य में पहले से विद्यमान पूर्णता की अभिव्यक्ति है।",
+            "explanation": "True learning is not just inserting facts, but drawing out the inherent wisdom and brilliance within a person.",
+            "explanation_hindi": "सच्ची सीख केवल तथ्यों को सम्मिलित करना नहीं है, बल्कि एक व्यक्ति के भीतर निहित ज्ञान और प्रतिभा को बाहर लाना है।"
         },
         {
             "id": 71,
             "text": "The entire universe exists within the Divine.",
-            "source": "Upanishads"
+            "source": "Upanishads",
+            "text_hindi": "संपूर्ण ब्रह्मांड परमात्मा के भीतर मौजूद है।",
+            "explanation": "Everything in creation is contained within and sustained by a single, all-encompassing spiritual reality.",
+            "explanation_hindi": "सृष्टि की हर चीज एक ही, सर्वव्यापी आध्यात्मिक वास्तविकता के भीतर समाहित है और उसी के द्वारा कायम है।"
         },
         {
             "id": 72,
             "text": "Truth alone triumphs.",
-            "source": "Mundaka Upanishad"
+            "source": "Mundaka Upanishad",
+            "text_hindi": "सत्यमेव जयते (सत्य की ही जीत होती है)।",
+            "explanation": "Ultimately, truth and righteousness will always prevail over falsehood and deceit.",
+            "explanation_hindi": "अंततः, झूठ और छल पर सत्य और धर्म की हमेशा जीत होगी।"
         },
         {
             "id": 73,
             "text": "From joy all beings are born.",
-            "source": "Taittiriya Upanishad"
+            "source": "Taittiriya Upanishad",
+            "text_hindi": "आनंद से ही सभी प्राणियों का जन्म होता है।",
+            "explanation": "The fundamental nature of the universe and the source of all life is pure, unadulterated bliss (Ananda).",
+            "explanation_hindi": "ब्रह्मांड की मूल प्रकृति और सभी जीवन का स्रोत शुद्ध, मिलावट रहित आनंद (आनंद) है।"
         },
         {
             "id": 74,
             "text": "The Self is to be realized.",
-            "source": "Upanishads"
+            "source": "Upanishads",
+            "text_hindi": "आत्मा को जानना (अनुभव करना) चाहिए।",
+            "explanation": "The ultimate goal of human existence is to recognize and understand one's true, divine inner nature.",
+            "explanation_hindi": "मानव अस्तित्व का अंतिम लक्ष्य अपने सच्चे, दिव्य आंतरिक स्वभाव को पहचानना और समझना है।"
         },
         {
             "id": 75,
             "text": "Knowledge removes ignorance.",
-            "source": "Upanishads"
+            "source": "Upanishads",
+            "text_hindi": "ज्ञान अज्ञान को दूर करता है।",
+            "explanation": "Spiritual illumination dispels the darkness of illusion, revealing the true nature of reality.",
+            "explanation_hindi": "आध्यात्मिक ज्ञान भ्रम के अंधकार को दूर करता है, वास्तविकता की सच्ची प्रकृति को प्रकट करता है।"
         },
         {
             "id": 76,
             "text": "The wise see unity in diversity.",
-            "source": "Upanishads"
+            "source": "Upanishads",
+            "text_hindi": "ज्ञानी विविधता में एकता देखते हैं।",
+            "explanation": "Enlightened individuals recognize the single underlying divine essence connecting all different forms of life.",
+            "explanation_hindi": "प्रबुद्ध व्यक्ति जीवन के सभी विभिन्न रूपों को जोड़ने वाले एकल अंतर्निहित दिव्य सार को पहचानते हैं।"
         },
         {
             "id": 77,
             "text": "He who knows the Self crosses sorrow.",
-            "source": "Upanishads"
+            "source": "Upanishads",
+            "text_hindi": "जो आत्मा को जानता है, वह दुख को पार कर जाता है।",
+            "explanation": "Self-realization eliminates suffering because one detaches from the temporary and identifies with the eternal.",
+            "explanation_hindi": "आत्म-साक्षात्कार दुख को दूर करता है क्योंकि व्यक्ति अस्थायी से अलग हो जाता है और शाश्वत के साथ पहचान करता है।"
         },
         {
             "id": 78,
             "text": "The Divine dwells in every heart.",
-            "source": "Upanishads"
+            "source": "Upanishads",
+            "text_hindi": "परमात्मा हर हृदय में वास करता है।",
+            "explanation": "The supreme spirit is not just an external force but exists intimately within every living being.",
+            "explanation_hindi": "परमात्मा केवल एक बाहरी शक्ति नहीं है बल्कि हर जीवित प्राणी के भीतर गहराई से मौजूद है।"
         },
         {
             "id": 79,
             "text": "Awaken to your highest nature.",
-            "source": "Upanishads"
+            "source": "Upanishads",
+            "text_hindi": "अपने सर्वोच्च स्वभाव के प्रति जागो।",
+            "explanation": "A call to transcend basic physical existence and realize one's spiritual perfection.",
+            "explanation_hindi": "बुनियादी भौतिक अस्तित्व से ऊपर उठने और अपने आध्यात्मिक पूर्णता को महसूस करने का आह्वान।"
         },
         {
             "id": 80,
             "text": "Real wealth is inner wisdom.",
-            "source": "Upanishads"
+            "source": "Upanishads",
+            "text_hindi": "सच्चा धन आंतरिक ज्ञान है।",
+            "explanation": "True prosperity is measured not by material possessions, but by profound self-understanding and peace.",
+            "explanation_hindi": "सच्ची समृद्धि भौतिक संपत्ति से नहीं, बल्कि गहन आत्म-समझ और शांति से मापी जाती है।"
         },
         {
             "id": 81,
             "text": "Devotion is the path to liberation.",
-            "source": "Narada Bhakti Sutra"
+            "source": "Narada Bhakti Sutra",
+            "text_hindi": "भक्ति मुक्ति का मार्ग है।",
+            "explanation": "Pure, unconditional love for the divine is the most direct route to spiritual freedom.",
+            "explanation_hindi": "ईश्वर के प्रति शुद्ध, बिना शर्त प्यार आध्यात्मिक स्वतंत्रता का सबसे सीधा मार्ग है।"
         },
         {
             "id": 82,
             "text": "Love for God is the highest goal.",
-            "source": "Narada Bhakti Sutra"
+            "source": "Narada Bhakti Sutra",
+            "text_hindi": "ईश्वर से प्रेम ही सर्वोच्च लक्ष्य है।",
+            "explanation": "Developing an intense, loving relationship with the creator is the ultimate purpose of life.",
+            "explanation_hindi": "निर्माता के साथ एक गहन, प्रेमपूर्ण संबंध विकसित करना जीवन का अंतिम उद्देश्य है।"
         },
         {
             "id": 83,
             "text": "A devoted heart knows no fear.",
-            "source": "Narada Bhakti Sutra"
+            "source": "Narada Bhakti Sutra",
+            "text_hindi": "एक समर्पित हृदय कोई भय नहीं जानता।",
+            "explanation": "Complete surrender and trust in the divine eradicate all worldly anxieties.",
+            "explanation_hindi": "ईश्वर में पूर्ण समर्पण और विश्वास सभी सांसारिक चिंताओं को मिटा देते हैं।"
         },
         {
             "id": 84,
             "text": "Divine love grows through remembrance.",
-            "source": "Narada Bhakti Sutra"
+            "source": "Narada Bhakti Sutra",
+            "text_hindi": "ईश्वरीय प्रेम स्मरण से बढ़ता है।",
+            "explanation": "Constantly keeping the divine in one's thoughts deepens the bond of spiritual love.",
+            "explanation_hindi": "ईश्वर को लगातार अपने विचारों में रखने से आध्यात्मिक प्रेम का बंधन गहरा होता है।"
         },
         {
             "id": 85,
             "text": "The devotee sees God everywhere.",
-            "source": "Narada Bhakti Sutra"
+            "source": "Narada Bhakti Sutra",
+            "text_hindi": "भक्त हर जगह ईश्वर को देखता है।",
+            "explanation": "A heart full of devotion perceives the presence of the divine in all people and all circumstances.",
+            "explanation_hindi": "भक्ति से भरा हृदय सभी लोगों और सभी परिस्थितियों में ईश्वर की उपस्थिति का अनुभव करता है।"
         },
         {
             "id": 86,
             "text": "Faith nourishes spiritual growth.",
-            "source": "Narada Bhakti Sutra"
+            "source": "Narada Bhakti Sutra",
+            "text_hindi": "विश्वास आध्यात्मिक विकास को पोषण देता है।",
+            "explanation": "Unwavering belief is the foundational fuel that allows a soul to progress toward enlightenment.",
+            "explanation_hindi": "अटूट विश्वास वह मूलभूत ईंधन है जो एक आत्मा को आत्मज्ञान की ओर प्रगति करने की अनुमति देता है।"
         },
         {
             "id": 87,
             "text": "Pure devotion expects nothing in return.",
-            "source": "Narada Bhakti Sutra"
+            "source": "Narada Bhakti Sutra",
+            "text_hindi": "शुद्ध भक्ति बदले में कुछ नहीं मांगती।",
+            "explanation": "True spiritual love is completely selfless, offered without any desire for personal gain or reward.",
+            "explanation_hindi": "सच्चा आध्यात्मिक प्रेम पूरी तरह से निस्वार्थ है, व्यक्तिगत लाभ या इनाम की किसी भी इच्छा के बिना पेश किया जाता है।"
         },
         {
             "id": 88,
             "text": "Love transforms the soul.",
-            "source": "Narada Bhakti Sutra"
+            "source": "Narada Bhakti Sutra",
+            "text_hindi": "प्रेम आत्मा को बदल देता है।",
+            "explanation": "Intense devotion has the power to completely purify and elevate a person's inner nature.",
+            "explanation_hindi": "तीव्र भक्ति में किसी व्यक्ति के आंतरिक स्वभाव को पूरी तरह से शुद्ध करने और ऊपर उठाने की शक्ति होती है।"
         },
         {
             "id": 89,
             "text": "Humility deepens devotion.",
-            "source": "Narada Bhakti Sutra"
+            "source": "Narada Bhakti Sutra",
+            "text_hindi": "विनम्रता भक्ति को गहरा करती है।",
+            "explanation": "Letting go of ego allows a person to surrender more fully to divine love.",
+            "explanation_hindi": "अहंकार को छोड़ने से व्यक्ति को ईश्वरीय प्रेम के प्रति पूरी तरह से समर्पण करने की अनुमति मिलती है।"
         },
         {
             "id": 90,
             "text": "The highest happiness is divine love.",
-            "source": "Narada Bhakti Sutra"
+            "source": "Narada Bhakti Sutra",
+            "text_hindi": "सर्वोच्च सुख ईश्वरीय प्रेम है।",
+            "explanation": "Experiencing union with the divine through devotion provides a joy that surpasses all worldly pleasures.",
+            "explanation_hindi": "भक्ति के माध्यम से परमात्मा के साथ मिलन का अनुभव एक ऐसा आनंद प्रदान करता है जो सभी सांसारिक सुखों को पार कर जाता है।"
         }
     ]
 }
