@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "title": "The 29 Principles of Bishnoism - Comprehensive Guide",
+    "founder": "Guru Jambheshwar (Jambhoji)",
+    "year_established": 1485,
+    "core_philosophy": "A holistic lifestyle integrating personal hygiene, spiritual discipline, social harmony, and profound ecological conservation."
+  },
+  "rules": [
+    {
+      "id": 1,
+      "category": "Health & Hygiene",
+      "rule_hindi": "तीस दिन सूतक रखना।",
+      "rule_english": "Observe a 30-day state of impurity after childbirth.",
+      "detailed_explanation_hindi": "प्रसव के बाद नवजात शिशु और माता दोनों का शरीर कमजोर और संक्रमण के प्रति संवेदनशील होता है। यह नियम सुनिश्चित करता है कि माता को 30 दिनों तक भारी घरेलू कार्यों से पूर्ण विश्राम मिले, और बाहरी संपर्क को सीमित करके जच्चा-बच्चा को बीमारियों से बचाया जा सके।",
+      "detailed_explanation_english": "Post-childbirth, both the mother and newborn are highly susceptible to infections. This rule mandates a 30-day isolation period, ensuring the mother receives complete physical rest from strenuous household chores while protecting the infant from external pathogens.",
+      "significance": "Promotes maternal health, postpartum recovery, and infant immunity."
+    },
+    {
+      "id": 2,
+      "category": "Health & Hygiene",
+      "rule_hindi": "पांच दिन का रजस्वला रखना।",
+      "rule_english": "Observe a 5-day segregation during menstruation.",
+      "detailed_explanation_hindi": "मासिक धर्म के दौरान महिलाओं को शारीरिक और मानसिक विश्राम की आवश्यकता होती है। यह नियम उन्हें 5 दिनों तक दैनिक कार्यों और रसोई से दूर रखकर अनिवार्य आराम प्रदान करता है, साथ ही स्वच्छता के उच्चतम मानकों को बनाए रखता है।",
+      "detailed_explanation_english": "Recognizing the physical toll of the menstrual cycle, this rule requires women to take a mandatory 5-day break from demanding daily chores and kitchen duties. It prioritizes female bodily rest, recovery, and strict personal hygiene.",
+      "significance": "Ensures physiological rest for women and maintains household hygiene."
+    },
+    {
+      "id": 3,
+      "category": "Health & Hygiene",
+      "rule_hindi": "प्रातः काल स्नान करना।",
+      "rule_english": "Bathe daily in the morning before sunrise.",
+      "detailed_explanation_hindi": "सूर्योदय से पूर्व स्नान करने से शरीर ऊर्जावान होता है और मन में ताजगी आती है। यह केवल बाहरी गंदगी को नहीं हटाता, बल्कि व्यक्ति को दिनभर के आध्यात्मिक और भौतिक कार्यों के लिए मानसिक रूप से तैयार करता है।",
+      "detailed_explanation_english": "Bathing early in the morning before sunrise invigorates the nervous system and revitalizes the mind. It is a vital practice for external cleanliness, preparing the individual both physically and mentally for daily duties and spiritual practices.",
+      "significance": "Instills discipline, personal sanitation, and mental alertness."
+    },
+    {
+      "id": 4,
+      "category": "Character & Ethics",
+      "rule_hindi": "शील, सन्तोष व शुद्धि रखना।",
+      "rule_english": "Maintain modesty, patience, and internal purity.",
+      "detailed_explanation_hindi": "यह नियम जीवन में तीन प्रमुख गुणों—शील (अच्छा चरित्र), संतोष (जो मिला है उसमें खुशी), और शुद्धि (मन और शरीर की पवित्रता) को अपनाने पर जोर देता है। यह लालच को दूर कर आंतरिक शांति को बढ़ावा देता है।",
+      "detailed_explanation_english": "This rule focuses on cultivating three core virtues: Modesty (good moral character), Contentment (satisfaction with what one has, reducing greed), and Purity (cleanliness of intent and action). It builds a peaceful internal state.",
+      "significance": "Fosters psychological well-being, moral integrity, and social harmony."
+    },
+    {
+      "id": 5,
+      "category": "Spiritual Practice",
+      "rule_hindi": "प्रातः सायं सन्ध्या करना।",
+      "rule_english": "Pray twice every day.",
+      "detailed_explanation_hindi": "दिन में दो बार, सूर्योदय और सूर्यास्त के समय, ईश्वर का ध्यान करना आवश्यक है। यह अभ्यास मनुष्य को उसकी भागदौड़ भरी जिंदगी में ठहराव देता है और उसे परमपिता परमात्मा से जोड़े रखता है।",
+      "detailed_explanation_english": "Devotees must perform meditation and prayers twice daily, at dawn and dusk. This practice serves as a spiritual anchor, bringing moments of pause and mindfulness to a busy life, keeping the individual connected to the divine.",
+      "significance": "Cultivates mindfulness, spiritual grounding, and daily reflection."
+    },
+    {
+      "id": 6,
+      "category": "Spiritual Practice",
+      "rule_hindi": "सांझ आरती, विष्णु गुन गाना।",
+      "rule_english": "Eulogize Lord Vishnu in the evening.",
+      "detailed_explanation_hindi": "शाम के समय आरती करना और सृष्टि के पालनहार भगवान विष्णु के गुणों का गायन करना। यह सामूहिक या व्यक्तिगत रूप से किया जा सकता है, जो मन में भक्ति और ब्रह्मांड के प्रति कृतज्ञता का भाव जगाता है।",
+      "detailed_explanation_english": "Performing the evening Aarti (prayer ritual with light) and singing hymns dedicated to Lord Vishnu, the preserver of the universe. It encourages devotion, humility, and gratitude towards the cosmic order.",
+      "significance": "Strengthens community bonds through shared rituals and reinforces devotion."
+    },
+    {
+      "id": 7,
+      "category": "Spiritual Practice",
+      "rule_hindi": "प्रातः काल हवन करना।",
+      "rule_english": "Perform daily morning Havan (fire sacrifice).",
+      "detailed_explanation_hindi": "प्रतिदिन सुबह शुद्ध घी, नारियल और हवन सामग्री के साथ पवित्र अग्नि में आहुति देना। यह न केवल आध्यात्मिक रूप से वातावरण को शुद्ध करता है, बल्कि वैज्ञानिक रूप से हवा में मौजूद हानिकारक जीवाणुओं को नष्ट करने में भी मदद करता है।",
+      "detailed_explanation_english": "Conducting a daily fire ritual (Havan) using pure ghee, herbs, and natural materials. It acts as a spiritual offering to deities while practically serving as a natural fumigant, purifying the surrounding air of harmful microbes.",
+      "significance": "Purifies the environment and sets a positive, disciplined tone for the day."
+    },
+    {
+      "id": 8,
+      "category": "Non-Violence (Ahimsa)",
+      "rule_hindi": "पानी, दूध छानकर व ईंधन बीनकर प्रयोग करना।",
+      "rule_english": "Use filtered water, milk, and carefully cleaned firewood.",
+      "detailed_explanation_hindi": "यह सूक्ष्म जीवों के प्रति भी अहिंसा का प्रतीक है। पानी और दूध को कपड़े से छानकर पीना ताकि कोई सूक्ष्म जीव पेट में न जाए, और लकड़ियों को झाड़-पोंछकर जलाना ताकि उसमें छिपे कीड़े-मकोड़े आग में न जलें।",
+      "detailed_explanation_english": "A practice of micro-level non-violence. Water and milk must be filtered through cloth to avoid consuming microscopic organisms. Firewood must be thoroughly inspected and cleaned to ensure no sleeping insects or pests are accidentally burned.",
+      "significance": "Demonstrates absolute respect for all forms of life, even the microscopic."
+    },
+    {
+      "id": 9,
+      "category": "Character & Ethics",
+      "rule_hindi": "वाणी शुद्ध बोलना।",
+      "rule_english": "Speak pure and sincere words.",
+      "detailed_explanation_hindi": "शब्दों में बहुत शक्ति होती है, इसलिए हमेशा सोच-समझकर, नम्रता से और मीठे शब्द बोलना चाहिए। कठोर, अपमानजनक या अशुद्ध भाषा का प्रयोग दूसरों को ठेस पहुंचा सकता है।",
+      "detailed_explanation_english": "Recognizing the power of speech, this rule mandates communicating thoughtfully, politely, and sincerely. Avoiding harsh, abusive, or toxic language prevents emotional harm to others and maintains one's own dignity.",
+      "significance": "Promotes healthy interpersonal relationships and emotional intelligence."
+    },
+    {
+      "id": 10,
+      "category": "Character & Ethics",
+      "rule_hindi": "क्षमा - सहनशीलता रखना।",
+      "rule_english": "Practice forgiveness from the heart.",
+      "detailed_explanation_hindi": "दूसरों की गलतियों को माफ करने की क्षमता और विपरीत परिस्थितियों में धैर्य बनाए रखना महानता की निशानी है। यह मानसिक शांति बनाए रखता है और बदले की भावना को खत्म करता है।",
+      "detailed_explanation_english": "Cultivating the capacity to forgive others and maintain patience during adversities. Forgiveness liberates the mind from the toxic burden of holding grudges and ends the cycle of vengeance.",
+      "significance": "Ensures psychological resilience and prevents social conflicts."
+    },
+    {
+      "id": 11,
+      "category": "Character & Ethics",
+      "rule_hindi": "दया - नम्रभाव से रहना।",
+      "rule_english": "Be compassionate and humble.",
+      "detailed_explanation_hindi": "हर जीवित प्राणी के प्रति दया और प्रेम का भाव रखना। अहंकार को त्यागकर जीवन में विनम्रता अपनाना, क्योंकि अहंकार मनुष्य के पतन का सबसे बड़ा कारण है।",
+      "detailed_explanation_english": "Holding unconditional compassion for every living being and living without ego. Humility allows a person to learn and grow, while compassion drives charitable and kind actions in the world.",
+      "significance": "Builds an empathetic, ego-free, and supportive society."
+    },
+    {
+      "id": 12,
+      "category": "Social Ethics",
+      "rule_hindi": "चोरी नहीं करनी।",
+      "rule_english": "Do not steal.",
+      "detailed_explanation_hindi": "किसी अन्य व्यक्ति की संपत्ति, अधिकार या विचारों को उसकी अनुमति के बिना लेना सख्त वर्जित है। केवल शारीरिक चोरी ही नहीं, बल्कि मन में किसी की वस्तु को हथियाने का विचार भी चोरी माना गया है।",
+      "detailed_explanation_english": "Strictly prohibiting the taking of another person's property, rights, or even ideas without consent. It applies not just to physical theft, but also to the intention or desire to unlawfully acquire what belongs to someone else.",
+      "significance": "Maintains economic trust and personal integrity within the community."
+    },
+    {
+      "id": 13,
+      "category": "Social Ethics",
+      "rule_hindi": "निन्दा नहीं करनी।",
+      "rule_english": "Do not condemn or criticize.",
+      "detailed_explanation_hindi": "पीठ पीछे किसी की बुराई करना (चुगली) समाज में जहर घोलता है। दूसरों के दोष ढूंढने के बजाय मनुष्य को अपने भीतर के अवगुणों को सुधारने पर ध्यान देना चाहिए।",
+      "detailed_explanation_english": "Refraining from backbiting, gossiping, or unnecessarily criticizing others. Slander destroys community trust. Individuals are encouraged to look inward and correct their own flaws rather than scrutinizing others.",
+      "significance": "Prevents toxic social dynamics and fosters mutual respect."
+    },
+    {
+      "id": 14,
+      "category": "Social Ethics",
+      "rule_hindi": "झूठ नहीं बोलना।",
+      "rule_english": "Do not lie.",
+      "detailed_explanation_hindi": "सत्य ही ईश्वर है। किसी भी परिस्थिति में झूठ का सहारा नहीं लेना चाहिए, चाहे सच बोलने के परिणाम कितने भी कठिन क्यों न हों। सत्य व्यक्ति को निडर बनाता है।",
+      "detailed_explanation_english": "Truthfulness is paramount. One must not lie under any circumstance, regardless of the consequences. Speaking the truth brings a clear conscience, eliminates fear, and builds an unbreakable reputation.",
+      "significance": "Creates a transparent, trustworthy, and fearless individual."
+    },
+    {
+      "id": 15,
+      "category": "Social Ethics",
+      "rule_hindi": "वाद-विवाद नहीं करना।",
+      "rule_english": "Do not indulge in unnecessary disputes.",
+      "detailed_explanation_hindi": "अनावश्यक बहसों, झगड़ों और कुतर्कों से दूर रहना। व्यर्थ के विवाद व्यक्ति की ऊर्जा और समय को नष्ट करते हैं और मानसिक शांति को भंग करते हैं।",
+      "detailed_explanation_english": "Avoiding pointless arguments, quarrels, and hostile debates. Unnecessary disputes drain vital energy, waste time, and disturb mental equilibrium without yielding any productive outcome.",
+      "significance": "Conserves mental energy and promotes peaceful coexistence."
+    },
+    {
+      "id": 16,
+      "category": "Spiritual Practice",
+      "rule_hindi": "अमावस्या का व्रत रखना।",
+      "rule_english": "Observe a fast on Amavasya (new moon night).",
+      "detailed_explanation_hindi": "हर महीने अमावस्या के दिन व्रत (उपवास) रखना। यह पाचन तंत्र को आराम देने का एक वैज्ञानिक तरीका है, और इस दिन सांसारिक कार्यों से दूर रहकर ईश्वर के ध्यान में समय बिताना चाहिए।",
+      "detailed_explanation_english": "Fasting on the day of the new moon. Biologically, it detoxifies the body and rests the digestive system. Spiritually, it is a day dedicated to intensive meditation, refraining from worldly distractions.",
+      "significance": "Combines physical detoxification with spiritual rejuvenation."
+    },
+    {
+      "id": 17,
+      "category": "Spiritual Practice",
+      "rule_hindi": "भजन विष्णु का करना।",
+      "rule_english": "Worship and recite the name of Lord Vishnu.",
+      "detailed_explanation_hindi": "भगवान विष्णु, जो सभी जीवों के रक्षक हैं, उनके नाम का जाप और स्मरण करना। यह साधक को यह याद दिलाता है कि वह एक বৃহত্তর ब्रह्मांडीय व्यवस्था का हिस्सा है।",
+      "detailed_explanation_english": "Dedicating time to worship Lord Vishnu, the sustainer of life. Chanting His name is a reminder of the supreme power that balances the universe, instilling humility in the practitioner.",
+      "significance": "Keeps the practitioner spiritually focused on the divine preserver of nature."
+    },
+    {
+      "id": 18,
+      "category": "Ecological Conservation",
+      "rule_hindi": "प्राणी मात्र पर दया रखना।",
+      "rule_english": "Be merciful to all living beings.",
+      "detailed_explanation_hindi": "यह बिश्नोई धर्म का सबसे मुख्य स्तंभ है। हर जीव (मनुष्य, पशु, पक्षी, कीट) में ईश्वर का अंश देखना और उन्हें किसी भी प्रकार का नुकसान न पहुंचाना। इसी नियम के कारण बिश्नोई हिरणों और अन्य वन्यजीवों की रक्षा अपनी जान देकर भी करते हैं।",
+      "detailed_explanation_english": "A foundational pillar of Bishnoism. It mandates seeing the divine in every creature (humans, animals, birds, insects) and causing them no harm. This is the driving force behind the community's legendary protection of blackbucks and other wildlife, often risking their own lives.",
+      "significance": "The ultimate manifestation of empathy, leading to active wildlife conservation."
+    },
+    {
+      "id": 19,
+      "category": "Ecological Conservation",
+      "rule_hindi": "हरे वृक्ष नहीं काटना।",
+      "rule_english": "Do not cut green trees.",
+      "detailed_explanation_hindi": "पर्यावरण संरक्षण का यह नियम हरे-भरे पेड़ों, विशेषकर खेजड़ी के पेड़ों को काटने पर सख्त रोक लगाता है। बिश्नोई समाज केवल मरे हुए या सूखे पेड़ों की लकड़ी का उपयोग करता है। यह 1730 के खेजड़ली नरसंहार का मूल कारण था, जहाँ 363 बिश्नोइयों ने पेड़ों को बचाने के लिए अपना बलिदान दिया।",
+      "detailed_explanation_english": "A strict prohibition against felling green, living trees, especially the Khejri tree. The community relies only on dead, naturally fallen wood. This core ecological tenet led to the historic Khejarli massacre of 1730, where 363 Bishnois sacrificed their lives to protect trees from being cut.",
+      "significance": "Pioneered the concept of eco-martyrdom and ensures sustainable forest management."
+    },
+    {
+      "id": 20,
+      "category": "Character & Ethics",
+      "rule_hindi": "अजर को जरना (काम, क्रोध, मोह, लोभ से बचना)।",
+      "rule_english": "Crush lust, anger, greed, and attachment.",
+      "detailed_explanation_hindi": "मनुष्य के भीतर के चार सबसे बड़े शत्रु—वासना, क्रोध, लालच और अत्यधिक मोह पर विजय प्राप्त करना। इन नकारात्मक प्रवृत्तियों को खत्म करके ही आत्म-साक्षात्कार संभव है।",
+      "detailed_explanation_english": "Mastering and overcoming the four greatest internal enemies of mankind: Lust, Anger, Greed, and Over-attachment. Subduing these powerful negative urges is essential for achieving self-realization and lasting peace.",
+      "significance": "Promotes deep psychological discipline and spiritual liberation."
+    },
+    {
+      "id": 21,
+      "category": "Health & Hygiene",
+      "rule_hindi": "अपने हाथ से रसोई पकाना।",
+      "rule_english": "Cook your own food.",
+      "detailed_explanation_hindi": "भोजन पकाने वाले के विचार और उसकी स्वच्छता का असर खाने पर पड़ता है। इसलिए यह नियम अपने हाथों से या किसी पवित्र, सात्विक व्यक्ति द्वारा पूर्ण स्वच्छता के साथ पकाया गया भोजन ही ग्रहण करने की सलाह देता है।",
+      "detailed_explanation_english": "The emotional and hygienic state of the cook affects the food. This rule advocates for cooking one's own meals or eating food prepared by a highly pure, disciplined individual to ensure it is spiritually and physically uncontaminated.",
+      "significance": "Ensures dietary purity, physical health, and self-reliance."
+    },
+    {
+      "id": 22,
+      "category": "Animal Welfare",
+      "rule_hindi": "थाट अमर रखना (पशुओं को आश्रय देना)।",
+      "rule_english": "Provide shelters for abandoned animals.",
+      "detailed_explanation_hindi": "बीमार, बूढ़े और बेसहारा पशुओं (जैसे गाय, भेड़, बकरी) को कटाई या भूख से मरने से बचाने के लिए सामुदायिक आश्रय स्थल (थाट) बनाना और उनकी देखभाल करना।",
+      "detailed_explanation_english": "Establishing and maintaining common shelters (Thaat) for sick, old, and abandoned animals. It ensures these animals are protected from slaughterhouses and starvation, receiving care in their final days.",
+      "significance": "Institutionalizes animal welfare and prevents animal cruelty."
+    },
+    {
+      "id": 23,
+      "category": "Animal Welfare",
+      "rule_hindi": "बैल को बधिया न करना।",
+      "rule_english": "Do not sterilize bulls.",
+      "detailed_explanation_hindi": "प्रकृति के नियमों में हस्तक्षेप न करते हुए, बैलों को बधिया (नपुंसक) बनाने पर रोक है। यह पशुओं के शारीरिक अधिकारों और प्राकृतिक जीवन चक्र का सम्मान करने का प्रतीक है।",
+      "detailed_explanation_english": "A strict ban on the castration or sterilization of bulls. It is rooted in non-interference with nature, respecting the bodily autonomy and natural life cycle of animals.",
+      "significance": "Advocates for animal rights and respects natural biological laws."
+    },
+    {
+      "id": 24,
+      "category": "Diet & Addiction",
+      "rule_hindi": "अमल नहीं खाना।",
+      "rule_english": "Do not use or trade opium.",
+      "detailed_explanation_hindi": "अफीम (अमल) का सेवन शरीर और मस्तिष्क को नष्ट कर देता है। बिश्नोई समाज में अफीम खाना, खिलाना या इसका व्यापार करना पूर्णतः निषिद्ध है।",
+      "detailed_explanation_english": "Opium destroys the body, cognitive abilities, and family structures. Consuming, offering, or trading opium is absolutely forbidden in the Bishnoi community to prevent addiction and ruin.",
+      "significance": "Eradicates drug addiction and protects socioeconomic stability."
+    },
+    {
+      "id": 25,
+      "category": "Diet & Addiction",
+      "rule_hindi": "तंमाखू नहीं खाना व पीना।",
+      "rule_english": "Do not smoke or use tobacco.",
+      "detailed_explanation_hindi": "तंबाकू, बीड़ी, सिगरेट या हुक्का के माध्यम से धुम्रपान करना या इसे चबाना मना है। यह फेफड़ों और समग्र स्वास्थ्य के लिए हानिकारक है और पर्यावरण को भी प्रदूषित करता है।",
+      "detailed_explanation_english": "Prohibition of smoking or chewing tobacco in any form (cigarettes, bidi, hookah). It prevents fatal health diseases like cancer and stops the pollution of shared air spaces.",
+      "significance": "Safeguards respiratory health and prevents fatal addictions."
+    },
+    {
+      "id": 26,
+      "category": "Diet & Addiction",
+      "rule_hindi": "भांग नहीं पीना।",
+      "rule_english": "Do not consume bhang or hemp.",
+      "detailed_explanation_hindi": "भांग, गांजा या किसी भी प्रकार के मादक पौधे का सेवन करने की मनाही है। ये पदार्थ मनुष्य की सोचने-समझने की क्षमता को क्षीण कर देते हैं।",
+      "detailed_explanation_english": "A ban on the consumption of cannabis, hemp (bhang), or marijuana. Intoxicants dull the intellect, impair judgment, and hinder a person's spiritual and practical progress.",
+      "significance": "Maintains cognitive clarity and psychological focus."
+    },
+    {
+      "id": 27,
+      "category": "Diet & Addiction",
+      "rule_hindi": "मद्यपान नहीं करना।",
+      "rule_english": "Do not drink alcohol.",
+      "detailed_explanation_hindi": "शराब मनुष्य की चेतना, स्वास्थ्य और नैतिकता को नष्ट करती है। इसलिए शराब का सेवन, निर्माण या व्यापार बिश्नोई समाज में एक बड़ा पाप माना जाता है।",
+      "detailed_explanation_english": "Alcohol consumption destroys human consciousness, physical health, and moral boundaries. Drinking, brewing, or selling alcohol is considered a grave sin, ensuring a sober and responsible community.",
+      "significance": "Prevents domestic violence, health deterioration, and moral decay."
+    },
+    {
+      "id": 28,
+      "category": "Diet & Addiction",
+      "rule_hindi": "माँस नहीं खाना।",
+      "rule_english": "Do not eat meat.",
+      "detailed_explanation_hindi": "बिश्नोई धर्म 100% शाकाहार की वकालत करता है। किसी भी जीव की हत्या करके अपने स्वाद के लिए उसका मांस खाना अमानवीय है और यह अहिंसा के सिद्धांत के सख्त खिलाफ है।",
+      "detailed_explanation_english": "Advocates 100% strict vegetarianism. Killing a living being to satisfy one's taste buds is considered cruel and inhumane. It directly opposes the foundational principle of Ahimsa (non-violence).",
+      "significance": "Aligns human diet with cruelty-free practices and environmental sustainability."
+    },
+    {
+      "id": 29,
+      "category": "Ecological Conservation",
+      "rule_hindi": "नीले रंग का वस्त्र नहीं पहनना।",
+      "rule_english": "Do not wear blue clothes.",
+      "detailed_explanation_hindi": "प्राचीन काल में कपड़ों को नीला रंगने के लिए नील (Indigo) के पौधों को भारी मात्रा में काटा और उबाला जाता था, जिससे पौधे और सूक्ष्म कीड़े मर जाते थे। इस क्रूरता से बचने के लिए नीले रंग के कपड़े पहनने पर रोक लगाई गई।",
+      "detailed_explanation_english": "In ancient times, producing blue dye required boiling massive quantities of the Indigo plant, which not only killed the shrubs but also destroyed thousands of insects dwelling on them. To protest and prevent this ecological harm, wearing blue-dyed clothes was banned.",
+      "significance": "An early example of boycotting an environmentally destructive industry for the sake of nature."
+    }
+  ]
+}
