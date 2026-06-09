@@ -10,78 +10,78 @@
       "id": 1,
       "name": "Magha Amavasya",
       "observance_date": "18 January 2026",
-      "tithi_begins": "18 Jan 2026 - 12:03 AM",
-      "tithi_ends": "19 Jan 2026 - 01:21 AM"
+      "tithi_begins": "18 Jan 2026\n12:03 AM",
+      "tithi_ends": "19 Jan 2026\n01:21 AM"
     },
     {
       "id": 2,
       "name": "Phalguna Amavasya",
       "observance_date": "17 February 2026",
-      "tithi_begins": "16 Feb 2026 - 05:34 PM",
-      "tithi_ends": "17 Feb 2026 - 05:30 PM"
+      "tithi_begins": "16 Feb 2026\n05:34 PM",
+      "tithi_ends": "17 Feb 2026\n05:30 PM"
     },
     {
       "id": 3,
       "name": "Chaitra Amavasya",
       "observance_date": "18 March 2026",
-      "tithi_begins": "18 Mar 2026 - 08:25 AM",
-      "tithi_ends": "19 Mar 2026 - 06:52 AM"
+      "tithi_begins": "18 Mar 2026\n08:25 AM",
+      "tithi_ends": "19 Mar 2026\n06:52 AM"
     },
     {
       "id": 4,
       "name": "Vaishakha Amavasya",
       "observance_date": "17 April 2026",
-      "tithi_begins": "16 Apr 2026 - 08:11 PM",
-      "tithi_ends": "17 Apr 2026 - 05:21 PM"
+      "tithi_begins": "16 Apr 2026\n08:11 PM",
+      "tithi_ends": "17 Apr 2026\n05:21 PM"
     },
     {
       "id": 5,
       "name": "Jyeshtha Amavasya",
       "observance_date": "16 May 2026",
-      "tithi_begins": "16 May 2026 - 05:11 AM",
-      "tithi_ends": "17 May 2026 - 01:30 AM"
+      "tithi_begins": "16 May 2026\n05:11 AM",
+      "tithi_ends": "17 May 2026\n01:30 AM"
     },
     {
       "id": 6,
       "name": "Ashadha Amavasya",
       "observance_date": "14 June 2026",
-      "tithi_begins": "14 Jun 2026 - 12:19 PM",
-      "tithi_ends": "15 Jun 2026 - 08:23 AM"
+      "tithi_begins": "14 Jun 2026\n12:19 PM",
+      "tithi_ends": "15 Jun 2026\n08:23 AM"
     },
     {
       "id": 7,
       "name": "Shravana Amavasya",
       "observance_date": "15 July 2026",
-      "tithi_begins": "13 Jul 2026 - 06:49 PM",
-      "tithi_ends": "14 Jul 2026 - 03:12 PM"
+      "tithi_begins": "13 Jul 2026\n06:49 PM",
+      "tithi_ends": "14 Jul 2026\n03:12 PM"
     },
     {
       "id": 8,
       "name": "Bhadrapada Amavasya",
       "observance_date": "12 August 2026",
-      "tithi_begins": "12 Aug 2026 - 01:52 AM",
-      "tithi_ends": "12 Aug 2026 - 11:06 PM"
+      "tithi_begins": "12 Aug 2026\n01:52 AM",
+      "tithi_ends": "12 Aug 2026\n11:06 PM"
     },
     {
       "id": 9,
       "name": "Ashwin Amavasya",
       "observance_date": "10 September 2026",
-      "tithi_begins": "10 Sep 2026 - 10:33 AM",
-      "tithi_ends": "11 Sep 2026 - 08:56 AM"
+      "tithi_begins": "10 Sep 2026\n10:33 AM",
+      "tithi_ends": "11 Sep 2026\n08:56 AM"
     },
     {
       "id": 10,
       "name": "Kartik Amavasya (Diwali Amavasya)",
       "observance_date": "8 November 2026",
-      "tithi_begins": "8 Nov 2026 - 11:27 AM",
-      "tithi_ends": "9 Nov 2026 - 12:31 PM"
+      "tithi_begins": "8 Nov 2026\n11:27 AM",
+      "tithi_ends": "9 Nov 2026\n12:31 PM"
     },
     {
       "id": 11,
       "name": "Margashirsha Amavasya",
       "observance_date": "8 December 2026",
-      "tithi_begins": "8 Dec 2026 - 04:12 AM",
-      "tithi_ends": "9 Dec 2026 - 06:21 AM"
+      "tithi_begins": "8 Dec 2026\n04:12 AM",
+      "tithi_ends": "9 Dec 2026\n06:21 AM"
     }
   ]
 }
