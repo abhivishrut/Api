@@ -1,0 +1,53 @@
+{
+    "developer_information": {
+        "name": "Abhivishrut Bishnoi",
+        "title": "Application Developer",
+        "bio": "Passionate about bridging technology with spirituality through HARINAAM.",
+        "profile_image_url": "https://example.com/assets/images/profile.jpg",
+        "cover_image_url": "https://example.com/assets/images/cover.jpg",
+        "location": "Delhi, India"
+    },
+    "contact_information": {
+        "support_email": "codewatipvtltd@gmail.com",
+        "website_url": ""
+    },
+    "social_links": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/in/abhivishrut"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://instagram.com/abhivishrut"
+        },
+        {
+            "platform": "facebook",
+            "url": "https://facebook.com/abhivishrut"
+        },
+        {
+            "platform": "Youtube",
+            "url": "https://youtube.com/abhivishrut"
+        }
+    ],
+    "portfolio": [
+        {
+            "app_name": "",
+            "play_store_url": ""
+        }
+    ],
+    "spiritual_mission": {
+        "mission_statement": "To provide a tranquil digital space for spiritual seekers to connect with the divine."
+    },
+    "donation": {
+        "upi_id": "abhivishrut@ptyes",
+        "qr_code_url": ""
+    },
+    "legal_information": {
+        "privacy_policy_url": "",
+        "terms_conditions_url": ""
+    },
+    "app_information": {
+        "app_name": "HARINAAM",
+        "version": "1.0.0"
+    }
+}
