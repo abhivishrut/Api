@@ -1,0 +1,61 @@
+{
+  "categories": [
+    {
+      "category_id": 1,
+      "category_name": "अखंड ज्योति पत्रिका",
+      "image_url": "https://imgv2-1-f.scribdassets.com/img/document/828723907/original/ae57ca0757/1?v=1",
+      "books": [
+        {
+          "title": "अखंड ज्योति - 2026 May",
+          "author": "Google Developers",
+          "pdf_url": "https://abhivishrut.github.io/Api/PDF/a_j_may_2026.pdf"
+        },
+        {
+          "title": "अखंड ज्योति - 2026 April",
+          "author": "Marcin Moskala",
+          "pdf_url": "https://abhivishrut.github.io/Api/PDF/a_j_apr_2026.pdf"
+        },
+        {
+          "title": "अखंड ज्योति - 2026 March",
+          "author": "Google Developers",
+          "pdf_url": "https://abhivishrut.github.io/Api/PDF/a_j_mar_2026.pdf"
+        },
+        {
+          "title": "अखंड ज्योति - 2026 February",
+          "author": "Marcin Moskala",
+          "pdf_url": "https://abhivishrut.github.io/Api/PDF/a_j_feb_2026.pdf"
+        },
+        {
+          "title": "अखंड ज्योति - 2026 January",
+          "author": "Sarah Drasner",
+          "pdf_url": "https://abhivishrut.github.io/Api/PDF/a_j_jan_2026.pdf"
+        }
+      ]
+    },
+    {
+      "category_id": 2,
+      "category_name": "अमर ज्योति पत्रिका",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU_9NL4oKLb2k_Z6JlRBvDJieVIcOnF0DkqA&s",
+      "books": [
+        {
+          "id": 201,
+          "title": "अमर ज्योति - 2026 March",
+          "author": "Sebastian Raschka",
+          "pdf_url": "https://abhivishrut.github.io/Api/PDF/amar_jhoti_mar_2026.pdf"
+        },
+        {
+          "id": 202,
+          "title": "अमर ज्योति - 2026 February",
+          "author": "Wes McKinney",
+          "pdf_url": "https://abhivishrut.github.io/Api/PDF/amar_jhoti_feb_2026.pdf"
+        },
+        {
+          "id": 203,
+          "title": "अमर ज्योति - 2026 January",
+          "author": "Andrew Ng",
+          "pdf_url": "https://abhivishrut.github.io/Api/PDF/amar_jhoti_jan_2026.pdf"
+        }
+      ]
+    }
+  ]
+}

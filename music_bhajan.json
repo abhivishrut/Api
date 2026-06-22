@@ -1,0 +1,1269 @@
+{
+  "status": true,
+  "message": "Bhajan List",
+  "categories": [
+    {
+      "id": 1,
+      "god_name": "Lord Krishna",
+      "image": "https://example.com/images/lord-krishna.jpg",
+      "bhajans": [
+        {
+          "id": 101,
+          "title": "Achyutam Keshavam Krishna Damodaram",
+          "image": "https://example.com/bhajans/achyutam-keshavam-krishna-damodaram.jpg",
+          "url": "https://example.com/audio/achyutam-keshavam-krishna-damodaram.mp3",
+          "duration": "13:07",
+          "singer": "Anup Jalota"
+        },
+        {
+          "id": 102,
+          "title": "Hare Krishna Hare Rama",
+          "image": "https://example.com/bhajans/hare-krishna-hare-rama.jpg",
+          "url": "https://example.com/audio/hare-krishna-hare-rama.mp3",
+          "duration": "14:17",
+          "singer": "Ravindra Jain"
+        },
+        {
+          "id": 103,
+          "title": "Shyam Teri Bansi Pukare Radha Naam",
+          "image": "https://example.com/bhajans/shyam-teri-bansi-pukare-radha-naam.jpg",
+          "url": "https://example.com/audio/shyam-teri-bansi-pukare-radha-naam.mp3",
+          "duration": "06:08",
+          "singer": "Gulshan Kumar"
+        },
+        {
+          "id": 104,
+          "title": "Radhe Radhe Barsane Wali Radhe",
+          "image": "https://example.com/bhajans/radhe-radhe-barsane-wali-radhe.jpg",
+          "url": "https://example.com/audio/radhe-radhe-barsane-wali-radhe.mp3",
+          "duration": "13:47",
+          "singer": "Mahendra Kapoor"
+        },
+        {
+          "id": 105,
+          "title": "Yashomati Maiya Se Bole Nandlala",
+          "image": "https://example.com/bhajans/yashomati-maiya-se-bole-nandlala.jpg",
+          "url": "https://example.com/audio/yashomati-maiya-se-bole-nandlala.mp3",
+          "duration": "04:37",
+          "singer": "Mohammed Aziz"
+        },
+        {
+          "id": 106,
+          "title": "Govind Bolo Hari Gopal Bolo",
+          "image": "https://example.com/bhajans/govind-bolo-hari-gopal-bolo.jpg",
+          "url": "https://example.com/audio/govind-bolo-hari-gopal-bolo.mp3",
+          "duration": "03:01",
+          "singer": "Anuradha Paudwal"
+        },
+        {
+          "id": 107,
+          "title": "Mere To Giridhar Gopal",
+          "image": "https://example.com/bhajans/mere-to-giridhar-gopal.jpg",
+          "url": "https://example.com/audio/mere-to-giridhar-gopal.mp3",
+          "duration": "06:14",
+          "singer": "Manna Dey"
+        },
+        {
+          "id": 108,
+          "title": "Aarti Kunj Bihari Ki",
+          "image": "https://example.com/bhajans/aarti-kunj-bihari-ki.jpg",
+          "url": "https://example.com/audio/aarti-kunj-bihari-ki.mp3",
+          "duration": "12:01",
+          "singer": "Mahendra Kapoor"
+        },
+        {
+          "id": 109,
+          "title": "Madhurashtakam",
+          "image": "https://example.com/bhajans/madhurashtakam.jpg",
+          "url": "https://example.com/audio/madhurashtakam.mp3",
+          "duration": "06:45",
+          "singer": "Mahendra Kapoor"
+        },
+        {
+          "id": 110,
+          "title": "Jai Radha Madhav",
+          "image": "https://example.com/bhajans/jai-radha-madhav.jpg",
+          "url": "https://example.com/audio/jai-radha-madhav.mp3",
+          "duration": "09:14",
+          "singer": "Sadhan Sargam"
+        },
+        {
+          "id": 111,
+          "title": "Choti Choti Gaiya Chote Chote Gwal",
+          "image": "https://example.com/bhajans/choti-choti-gaiya-chote-chote-gwal.jpg",
+          "url": "https://example.com/audio/choti-choti-gaiya-chote-chote-gwal.mp3",
+          "duration": "12:17",
+          "singer": "Anup Jalota"
+        },
+        {
+          "id": 112,
+          "title": "Radha Kaise Na Jale",
+          "image": "https://example.com/bhajans/radha-kaise-na-jale.jpg",
+          "url": "https://example.com/audio/radha-kaise-na-jale.mp3",
+          "duration": "15:51",
+          "singer": "Suresh Wadkar"
+        },
+        {
+          "id": 113,
+          "title": "Aayo Kanhaiya Aayo",
+          "image": "https://example.com/bhajans/aayo-kanhaiya-aayo.jpg",
+          "url": "https://example.com/audio/aayo-kanhaiya-aayo.mp3",
+          "duration": "14:27",
+          "singer": "Udit Narayan"
+        },
+        {
+          "id": 114,
+          "title": "Kanha Re Kanha",
+          "image": "https://example.com/bhajans/kanha-re-kanha.jpg",
+          "url": "https://example.com/audio/kanha-re-kanha.mp3",
+          "duration": "07:09",
+          "singer": "Hariharan"
+        },
+        {
+          "id": 115,
+          "title": "Mera Aapki Kripa Se",
+          "image": "https://example.com/bhajans/mera-aapki-kripa-se.jpg",
+          "url": "https://example.com/audio/mera-aapki-kripa-se.mp3",
+          "duration": "15:21",
+          "singer": "Gulshan Kumar"
+        },
+        {
+          "id": 116,
+          "title": "O Palan Hare",
+          "image": "https://example.com/bhajans/o-palan-hare.jpg",
+          "url": "https://example.com/audio/o-palan-hare.mp3",
+          "duration": "04:24",
+          "singer": "Gulshan Kumar"
+        },
+        {
+          "id": 117,
+          "title": "Nand Ke Anand Bhayo",
+          "image": "https://example.com/bhajans/nand-ke-anand-bhayo.jpg",
+          "url": "https://example.com/audio/nand-ke-anand-bhayo.mp3",
+          "duration": "08:54",
+          "singer": "Alka Yagnik"
+        },
+        {
+          "id": 118,
+          "title": "Banke Bihari Lal Ki Jai",
+          "image": "https://example.com/bhajans/banke-bihari-lal-ki-jai.jpg",
+          "url": "https://example.com/audio/banke-bihari-lal-ki-jai.mp3",
+          "duration": "12:16",
+          "singer": "Hari Om Sharan"
+        },
+        {
+          "id": 119,
+          "title": "Krishna Govind Govind Gopal Nandlal",
+          "image": "https://example.com/bhajans/krishna-govind-govind-gopal-nandlal.jpg",
+          "url": "https://example.com/audio/krishna-govind-govind-gopal-nandlal.mp3",
+          "duration": "14:29",
+          "singer": "Mahendra Kapoor"
+        },
+        {
+          "id": 120,
+          "title": "Gopal Muraliya Wale",
+          "image": "https://example.com/bhajans/gopal-muraliya-wale.jpg",
+          "url": "https://example.com/audio/gopal-muraliya-wale.mp3",
+          "duration": "04:59",
+          "singer": "Kumar Sanu"
+        },
+        {
+          "id": 121,
+          "title": "Radhe Krishna Ki Jyoti",
+          "image": "https://example.com/bhajans/radhe-krishna-ki-jyoti.jpg",
+          "url": "https://example.com/audio/radhe-krishna-ki-jyoti.mp3",
+          "duration": "04:35",
+          "singer": "Kavita Krishnamurthy"
+        },
+        {
+          "id": 122,
+          "title": "Murli Manohar Krishna Kanhaiya",
+          "image": "https://example.com/bhajans/murli-manohar-krishna-kanhaiya.jpg",
+          "url": "https://example.com/audio/murli-manohar-krishna-kanhaiya.mp3",
+          "duration": "13:39",
+          "singer": "Alka Yagnik"
+        },
+        {
+          "id": 123,
+          "title": "Kanhaiya Kanhaiya Pukara Karenge",
+          "image": "https://example.com/bhajans/kanhaiya-kanhaiya-pukara-karenge.jpg",
+          "url": "https://example.com/audio/kanhaiya-kanhaiya-pukara-karenge.mp3",
+          "duration": "12:12",
+          "singer": "Anuradha Paudwal"
+        },
+        {
+          "id": 124,
+          "title": "Jai Kanhaiya Lal Ki",
+          "image": "https://example.com/bhajans/jai-kanhaiya-lal-ki.jpg",
+          "url": "https://example.com/audio/jai-kanhaiya-lal-ki.mp3",
+          "duration": "03:42",
+          "singer": "Ravindra Jain"
+        },
+        {
+          "id": 125,
+          "title": "Aaj Biraj Mein Holi Re Rasiya",
+          "image": "https://example.com/bhajans/aaj-biraj-mein-holi-re-rasiya.jpg",
+          "url": "https://example.com/audio/aaj-biraj-mein-holi-re-rasiya.mp3",
+          "duration": "15:18",
+          "singer": "Anuradha Paudwal"
+        },
+        {
+          "id": 126,
+          "title": "Radha Raman Hari Govind Jai Jai",
+          "image": "https://example.com/bhajans/radha-raman-hari-govind-jai-jai.jpg",
+          "url": "https://example.com/audio/radha-raman-hari-govind-jai-jai.mp3",
+          "duration": "06:55",
+          "singer": "Gulshan Kumar"
+        },
+        {
+          "id": 127,
+          "title": "Shri Krishna Govind Hare Murari",
+          "image": "https://example.com/bhajans/shri-krishna-govind-hare-murari.jpg",
+          "url": "https://example.com/audio/shri-krishna-govind-hare-murari.mp3",
+          "duration": "09:17",
+          "singer": "Sadhan Sargam"
+        },
+        {
+          "id": 128,
+          "title": "Radhe Albeli Sarkar",
+          "image": "https://example.com/bhajans/radhe-albeli-sarkar.jpg",
+          "url": "https://example.com/audio/radhe-albeli-sarkar.mp3",
+          "duration": "13:53",
+          "singer": "Alka Yagnik"
+        },
+        {
+          "id": 129,
+          "title": "Main Nahi Makhan Khayo",
+          "image": "https://example.com/bhajans/main-nahi-makhan-khayo.jpg",
+          "url": "https://example.com/audio/main-nahi-makhan-khayo.mp3",
+          "duration": "05:23",
+          "singer": "Alka Yagnik"
+        },
+        {
+          "id": 130,
+          "title": "Govind Jai Jai Gopal Jai Jai",
+          "image": "https://example.com/bhajans/govind-jai-jai-gopal-jai-jai.jpg",
+          "url": "https://example.com/audio/govind-jai-jai-gopal-jai-jai.mp3",
+          "duration": "06:42",
+          "singer": "Jagjit Singh"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "god_name": "Lord Rama",
+      "image": "https://example.com/images/lord-rama.jpg",
+      "bhajans": [
+        {
+          "id": 131,
+          "title": "Shri Ram Jai Ram Jai Jai Ram",
+          "image": "https://example.com/bhajans/shri-ram-jai-ram-jai-jai-ram.jpg",
+          "url": "https://example.com/audio/shri-ram-jai-ram-jai-jai-ram.mp3",
+          "duration": "14:59",
+          "singer": "Anuradha Paudwal"
+        },
+        {
+          "id": 132,
+          "title": "Raghupati Raghav Raja Ram",
+          "image": "https://example.com/bhajans/raghupati-raghav-raja-ram.jpg",
+          "url": "https://example.com/audio/raghupati-raghav-raja-ram.mp3",
+          "duration": "12:40",
+          "singer": "Suresh Wadkar"
+        },
+        {
+          "id": 133,
+          "title": "Ram Siya Ram Siya Ram Jai Jai Ram",
+          "image": "https://example.com/bhajans/ram-siya-ram-siya-ram-jai-jai-ram.jpg",
+          "url": "https://example.com/audio/ram-siya-ram-siya-ram-jai-jai-ram.mp3",
+          "duration": "11:46",
+          "singer": "Ravindra Jain"
+        },
+        {
+          "id": 134,
+          "title": "Thumak Chalat Ramchandra",
+          "image": "https://example.com/bhajans/thumak-chalat-ramchandra.jpg",
+          "url": "https://example.com/audio/thumak-chalat-ramchandra.mp3",
+          "duration": "05:29",
+          "singer": "Kumar Sanu"
+        },
+        {
+          "id": 135,
+          "title": "Ram Naam Ke Heere Moti",
+          "image": "https://example.com/bhajans/ram-naam-ke-heere-moti.jpg",
+          "url": "https://example.com/audio/ram-naam-ke-heere-moti.mp3",
+          "duration": "07:59",
+          "singer": "Mahendra Kapoor"
+        },
+        {
+          "id": 136,
+          "title": "Jai Siya Ram",
+          "image": "https://example.com/bhajans/jai-siya-ram.jpg",
+          "url": "https://example.com/audio/jai-siya-ram.mp3",
+          "duration": "06:43",
+          "singer": "Udit Narayan"
+        },
+        {
+          "id": 137,
+          "title": "Bhajo Re Man Ram Naam Sukhdai",
+          "image": "https://example.com/bhajans/bhajo-re-man-ram-naam-sukhdai.jpg",
+          "url": "https://example.com/audio/bhajo-re-man-ram-naam-sukhdai.mp3",
+          "duration": "15:49",
+          "singer": "Hari Om Sharan"
+        },
+        {
+          "id": 138,
+          "title": "Shri Ramchandra Kripalu Bhaj Man",
+          "image": "https://example.com/bhajans/shri-ramchandra-kripalu-bhaj-man.jpg",
+          "url": "https://example.com/audio/shri-ramchandra-kripalu-bhaj-man.mp3",
+          "duration": "06:52",
+          "singer": "Hari Om Sharan"
+        },
+        {
+          "id": 139,
+          "title": "Mangal Bhavan Amangal Hari",
+          "image": "https://example.com/bhajans/mangal-bhavan-amangal-hari.jpg",
+          "url": "https://example.com/audio/mangal-bhavan-amangal-hari.mp3",
+          "duration": "15:20",
+          "singer": "Kumar Sanu"
+        },
+        {
+          "id": 140,
+          "title": "Ram Lakshman Janaki Jai Bolo Hanuman Ki",
+          "image": "https://example.com/bhajans/ram-lakshman-janaki-jai-bolo-hanuman-ki.jpg",
+          "url": "https://example.com/audio/ram-lakshman-janaki-jai-bolo-hanuman-ki.mp3",
+          "duration": "07:04",
+          "singer": "Hariharan"
+        },
+        {
+          "id": 141,
+          "title": "Payo Ji Maine Ram Ratan Dhan Payo",
+          "image": "https://example.com/bhajans/payo-ji-maine-ram-ratan-dhan-payo.jpg",
+          "url": "https://example.com/audio/payo-ji-maine-ram-ratan-dhan-payo.mp3",
+          "duration": "12:56",
+          "singer": "Udit Narayan"
+        },
+        {
+          "id": 142,
+          "title": "Ram Ji Ki Nikli Sawari",
+          "image": "https://example.com/bhajans/ram-ji-ki-nikli-sawari.jpg",
+          "url": "https://example.com/audio/ram-ji-ki-nikli-sawari.mp3",
+          "duration": "06:41",
+          "singer": "Hemant Kumar"
+        },
+        {
+          "id": 143,
+          "title": "Mere Ram Mere Ghar Aana",
+          "image": "https://example.com/bhajans/mere-ram-mere-ghar-aana.jpg",
+          "url": "https://example.com/audio/mere-ram-mere-ghar-aana.mp3",
+          "duration": "09:56",
+          "singer": "Sadhan Sargam"
+        },
+        {
+          "id": 144,
+          "title": "Ram Naam Ati Meetha Hai",
+          "image": "https://example.com/bhajans/ram-naam-ati-meetha-hai.jpg",
+          "url": "https://example.com/audio/ram-naam-ati-meetha-hai.mp3",
+          "duration": "05:16",
+          "singer": "Lata Mangeshkar"
+        },
+        {
+          "id": 145,
+          "title": "Ram Ka Gun Gaan Kariye",
+          "image": "https://example.com/bhajans/ram-ka-gun-gaan-kariye.jpg",
+          "url": "https://example.com/audio/ram-ka-gun-gaan-kariye.mp3",
+          "duration": "06:47",
+          "singer": "Mahendra Kapoor"
+        },
+        {
+          "id": 146,
+          "title": "Sita Ram Sita Ram Kahiye",
+          "image": "https://example.com/bhajans/sita-ram-sita-ram-kahiye.jpg",
+          "url": "https://example.com/audio/sita-ram-sita-ram-kahiye.mp3",
+          "duration": "11:16",
+          "singer": "Mohammed Aziz"
+        },
+        {
+          "id": 147,
+          "title": "Jai Raghu Nandan Jai Siya Ram",
+          "image": "https://example.com/bhajans/jai-raghu-nandan-jai-siya-ram.jpg",
+          "url": "https://example.com/audio/jai-raghu-nandan-jai-siya-ram.mp3",
+          "duration": "12:25",
+          "singer": "Alka Yagnik"
+        },
+        {
+          "id": 148,
+          "title": "Ram Lala Hum Aaye Hain",
+          "image": "https://example.com/bhajans/ram-lala-hum-aaye-hain.jpg",
+          "url": "https://example.com/audio/ram-lala-hum-aaye-hain.mp3",
+          "duration": "06:08",
+          "singer": "Manna Dey"
+        },
+        {
+          "id": 149,
+          "title": "Hey Ram Hey Ram",
+          "image": "https://example.com/bhajans/hey-ram-hey-ram.jpg",
+          "url": "https://example.com/audio/hey-ram-hey-ram.mp3",
+          "duration": "10:05",
+          "singer": "Hari Om Sharan"
+        },
+        {
+          "id": 150,
+          "title": "Ram Ayenge",
+          "image": "https://example.com/bhajans/ram-ayenge.jpg",
+          "url": "https://example.com/audio/ram-ayenge.mp3",
+          "duration": "04:09",
+          "singer": "Suresh Wadkar"
+        },
+        {
+          "id": 151,
+          "title": "Shri Ram Stuti",
+          "image": "https://example.com/bhajans/shri-ram-stuti.jpg",
+          "url": "https://example.com/audio/shri-ram-stuti.mp3",
+          "duration": "15:43",
+          "singer": "Mohammed Aziz"
+        },
+        {
+          "id": 152,
+          "title": "Ram Raksha Stotra",
+          "image": "https://example.com/bhajans/ram-raksha-stotra.jpg",
+          "url": "https://example.com/audio/ram-raksha-stotra.mp3",
+          "duration": "12:04",
+          "singer": "Kumar Sanu"
+        },
+        {
+          "id": 153,
+          "title": "Bhaye Pragat Kripala",
+          "image": "https://example.com/bhajans/bhaye-pragat-kripala.jpg",
+          "url": "https://example.com/audio/bhaye-pragat-kripala.mp3",
+          "duration": "09:38",
+          "singer": "Sadhan Sargam"
+        },
+        {
+          "id": 154,
+          "title": "Raghuvar Tumko Meri Laaj",
+          "image": "https://example.com/bhajans/raghuvar-tumko-meri-laaj.jpg",
+          "url": "https://example.com/audio/raghuvar-tumko-meri-laaj.mp3",
+          "duration": "11:16",
+          "singer": "Mahendra Kapoor"
+        },
+        {
+          "id": 155,
+          "title": "Jai Jai Ram Krishna Hari",
+          "image": "https://example.com/bhajans/jai-jai-ram-krishna-hari.jpg",
+          "url": "https://example.com/audio/jai-jai-ram-krishna-hari.mp3",
+          "duration": "03:43",
+          "singer": "Gulshan Kumar"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "god_name": "Hanuman",
+      "image": "https://example.com/images/hanuman.jpg",
+      "bhajans": [
+        {
+          "id": 156,
+          "title": "Hanuman Chalisa",
+          "image": "https://example.com/bhajans/hanuman-chalisa.jpg",
+          "url": "https://example.com/audio/hanuman-chalisa.mp3",
+          "duration": "13:56",
+          "singer": "Mahendra Kapoor"
+        },
+        {
+          "id": 157,
+          "title": "Bajrang Baan",
+          "image": "https://example.com/bhajans/bajrang-baan.jpg",
+          "url": "https://example.com/audio/bajrang-baan.mp3",
+          "duration": "15:17",
+          "singer": "Udit Narayan"
+        },
+        {
+          "id": 158,
+          "title": "Sankat Mochan Hanuman Ashtak",
+          "image": "https://example.com/bhajans/sankat-mochan-hanuman-ashtak.jpg",
+          "url": "https://example.com/audio/sankat-mochan-hanuman-ashtak.mp3",
+          "duration": "04:18",
+          "singer": "Mohammed Aziz"
+        },
+        {
+          "id": 159,
+          "title": "Jai Hanuman Gyan Gun Sagar",
+          "image": "https://example.com/bhajans/jai-hanuman-gyan-gun-sagar.jpg",
+          "url": "https://example.com/audio/jai-hanuman-gyan-gun-sagar.mp3",
+          "duration": "05:29",
+          "singer": "Anup Jalota"
+        },
+        {
+          "id": 160,
+          "title": "Pawan Tanay Sankat Haran",
+          "image": "https://example.com/bhajans/pawan-tanay-sankat-haran.jpg",
+          "url": "https://example.com/audio/pawan-tanay-sankat-haran.mp3",
+          "duration": "14:56",
+          "singer": "Jagjit Singh"
+        },
+        {
+          "id": 161,
+          "title": "Hey Dukh Bhanjan Maruti Nandan",
+          "image": "https://example.com/bhajans/hey-dukh-bhanjan-maruti-nandan.jpg",
+          "url": "https://example.com/audio/hey-dukh-bhanjan-maruti-nandan.mp3",
+          "duration": "11:48",
+          "singer": "Suresh Wadkar"
+        },
+        {
+          "id": 162,
+          "title": "Mahavir Vikram Bajrangi",
+          "image": "https://example.com/bhajans/mahavir-vikram-bajrangi.jpg",
+          "url": "https://example.com/audio/mahavir-vikram-bajrangi.mp3",
+          "duration": "11:58",
+          "singer": "Gulshan Kumar"
+        },
+        {
+          "id": 163,
+          "title": "Shri Hanuman Vandana",
+          "image": "https://example.com/bhajans/shri-hanuman-vandana.jpg",
+          "url": "https://example.com/audio/shri-hanuman-vandana.mp3",
+          "duration": "13:19",
+          "singer": "Manna Dey"
+        },
+        {
+          "id": 164,
+          "title": "Hanuman Bahuk",
+          "image": "https://example.com/bhajans/hanuman-bahuk.jpg",
+          "url": "https://example.com/audio/hanuman-bahuk.mp3",
+          "duration": "12:12",
+          "singer": "Lata Mangeshkar"
+        },
+        {
+          "id": 165,
+          "title": "Aarti Kije Hanuman Lala Ki",
+          "image": "https://example.com/bhajans/aarti-kije-hanuman-lala-ki.jpg",
+          "url": "https://example.com/audio/aarti-kije-hanuman-lala-ki.mp3",
+          "duration": "08:48",
+          "singer": "Suresh Wadkar"
+        },
+        {
+          "id": 166,
+          "title": "Veer Hanumana Ati Balwana",
+          "image": "https://example.com/bhajans/veer-hanumana-ati-balwana.jpg",
+          "url": "https://example.com/audio/veer-hanumana-ati-balwana.mp3",
+          "duration": "11:49",
+          "singer": "Manna Dey"
+        },
+        {
+          "id": 167,
+          "title": "Jai Bajrang Bali",
+          "image": "https://example.com/bhajans/jai-bajrang-bali.jpg",
+          "url": "https://example.com/audio/jai-bajrang-bali.mp3",
+          "duration": "03:38",
+          "singer": "Udit Narayan"
+        },
+        {
+          "id": 168,
+          "title": "Hanuman Amritwani",
+          "image": "https://example.com/bhajans/hanuman-amritwani.jpg",
+          "url": "https://example.com/audio/hanuman-amritwani.mp3",
+          "duration": "10:01",
+          "singer": "Gulshan Kumar"
+        },
+        {
+          "id": 169,
+          "title": "Maruti Stotram",
+          "image": "https://example.com/bhajans/maruti-stotram.jpg",
+          "url": "https://example.com/audio/maruti-stotram.mp3",
+          "duration": "08:56",
+          "singer": "Kavita Krishnamurthy"
+        },
+        {
+          "id": 170,
+          "title": "Laal Langota Haath Mein Sota",
+          "image": "https://example.com/bhajans/laal-langota-haath-mein-sota.jpg",
+          "url": "https://example.com/audio/laal-langota-haath-mein-sota.mp3",
+          "duration": "06:03",
+          "singer": "Ravindra Jain"
+        },
+        {
+          "id": 171,
+          "title": "Sankat Se Hanuman Chudave",
+          "image": "https://example.com/bhajans/sankat-se-hanuman-chudave.jpg",
+          "url": "https://example.com/audio/sankat-se-hanuman-chudave.mp3",
+          "duration": "12:05",
+          "singer": "Anuradha Paudwal"
+        },
+        {
+          "id": 172,
+          "title": "Ramdoot Hanuman",
+          "image": "https://example.com/bhajans/ramdoot-hanuman.jpg",
+          "url": "https://example.com/audio/ramdoot-hanuman.mp3",
+          "duration": "14:31",
+          "singer": "Anuradha Paudwal"
+        },
+        {
+          "id": 173,
+          "title": "Bajrang Bali Meri Naiya Paar Lagao",
+          "image": "https://example.com/bhajans/bajrang-bali-meri-naiya-paar-lagao.jpg",
+          "url": "https://example.com/audio/bajrang-bali-meri-naiya-paar-lagao.mp3",
+          "duration": "15:34",
+          "singer": "Lata Mangeshkar"
+        },
+        {
+          "id": 174,
+          "title": "Jai Jai Jai Hanuman Gosai",
+          "image": "https://example.com/bhajans/jai-jai-jai-hanuman-gosai.jpg",
+          "url": "https://example.com/audio/jai-jai-jai-hanuman-gosai.mp3",
+          "duration": "05:42",
+          "singer": "Hemant Kumar"
+        },
+        {
+          "id": 175,
+          "title": "Kesari Nandan",
+          "image": "https://example.com/bhajans/kesari-nandan.jpg",
+          "url": "https://example.com/audio/kesari-nandan.mp3",
+          "duration": "11:10",
+          "singer": "Jagjit Singh"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "god_name": "Lord Shiva",
+      "image": "https://example.com/images/lord-shiva.jpg",
+      "bhajans": [
+        {
+          "id": 176,
+          "title": "Shiv Tandav Stotram",
+          "image": "https://example.com/bhajans/shiv-tandav-stotram.jpg",
+          "url": "https://example.com/audio/shiv-tandav-stotram.mp3",
+          "duration": "11:55",
+          "singer": "Mohammed Aziz"
+        },
+        {
+          "id": 177,
+          "title": "Om Namah Shivaya",
+          "image": "https://example.com/bhajans/om-namah-shivaya.jpg",
+          "url": "https://example.com/audio/om-namah-shivaya.mp3",
+          "duration": "06:59",
+          "singer": "Mahendra Kapoor"
+        },
+        {
+          "id": 178,
+          "title": "Shiv Shankar Ko Jisne Pooja",
+          "image": "https://example.com/bhajans/shiv-shankar-ko-jisne-pooja.jpg",
+          "url": "https://example.com/audio/shiv-shankar-ko-jisne-pooja.mp3",
+          "duration": "15:46",
+          "singer": "Hariharan"
+        },
+        {
+          "id": 179,
+          "title": "Jai Shiv Omkara",
+          "image": "https://example.com/bhajans/jai-shiv-omkara.jpg",
+          "url": "https://example.com/audio/jai-shiv-omkara.mp3",
+          "duration": "14:19",
+          "singer": "Kumar Sanu"
+        },
+        {
+          "id": 180,
+          "title": "Shambhu Sharne Padi",
+          "image": "https://example.com/bhajans/shambhu-sharne-padi.jpg",
+          "url": "https://example.com/audio/shambhu-sharne-padi.mp3",
+          "duration": "13:41",
+          "singer": "Alka Yagnik"
+        },
+        {
+          "id": 181,
+          "title": "Har Har Mahadev Shambhu",
+          "image": "https://example.com/bhajans/har-har-mahadev-shambhu.jpg",
+          "url": "https://example.com/audio/har-har-mahadev-shambhu.mp3",
+          "duration": "10:57",
+          "singer": "Manna Dey"
+        },
+        {
+          "id": 182,
+          "title": "Bam Bam Bhole",
+          "image": "https://example.com/bhajans/bam-bam-bhole.jpg",
+          "url": "https://example.com/audio/bam-bam-bhole.mp3",
+          "duration": "10:07",
+          "singer": "Ravindra Jain"
+        },
+        {
+          "id": 183,
+          "title": "Shiv Kailasho Ke Vasi",
+          "image": "https://example.com/bhajans/shiv-kailasho-ke-vasi.jpg",
+          "url": "https://example.com/audio/shiv-kailasho-ke-vasi.mp3",
+          "duration": "06:04",
+          "singer": "Udit Narayan"
+        },
+        {
+          "id": 184,
+          "title": "Shiv Amritwani",
+          "image": "https://example.com/bhajans/shiv-amritwani.jpg",
+          "url": "https://example.com/audio/shiv-amritwani.mp3",
+          "duration": "03:37",
+          "singer": "Mahendra Kapoor"
+        },
+        {
+          "id": 185,
+          "title": "Lingashtakam",
+          "image": "https://example.com/bhajans/lingashtakam.jpg",
+          "url": "https://example.com/audio/lingashtakam.mp3",
+          "duration": "06:37",
+          "singer": "Ravindra Jain"
+        },
+        {
+          "id": 186,
+          "title": "Bilvashtakam",
+          "image": "https://example.com/bhajans/bilvashtakam.jpg",
+          "url": "https://example.com/audio/bilvashtakam.mp3",
+          "duration": "03:04",
+          "singer": "Hari Om Sharan"
+        },
+        {
+          "id": 187,
+          "title": "Rudrashtakam",
+          "image": "https://example.com/bhajans/rudrashtakam.jpg",
+          "url": "https://example.com/audio/rudrashtakam.mp3",
+          "duration": "06:04",
+          "singer": "Hari Om Sharan"
+        },
+        {
+          "id": 188,
+          "title": "Mahamrityunjaya Mantra",
+          "image": "https://example.com/bhajans/mahamrityunjaya-mantra.jpg",
+          "url": "https://example.com/audio/mahamrityunjaya-mantra.mp3",
+          "duration": "08:04",
+          "singer": "Manna Dey"
+        },
+        {
+          "id": 189,
+          "title": "Shiv Panchakshara Stotram",
+          "image": "https://example.com/bhajans/shiv-panchakshara-stotram.jpg",
+          "url": "https://example.com/audio/shiv-panchakshara-stotram.mp3",
+          "duration": "06:17",
+          "singer": "Hemant Kumar"
+        },
+        {
+          "id": 190,
+          "title": "Bhole Nath Se Nirala",
+          "image": "https://example.com/bhajans/bhole-nath-se-nirala.jpg",
+          "url": "https://example.com/audio/bhole-nath-se-nirala.mp3",
+          "duration": "06:34",
+          "singer": "Lata Mangeshkar"
+        },
+        {
+          "id": 191,
+          "title": "Mere Bhole Baba",
+          "image": "https://example.com/bhajans/mere-bhole-baba.jpg",
+          "url": "https://example.com/audio/mere-bhole-baba.mp3",
+          "duration": "14:59",
+          "singer": "Hemant Kumar"
+        },
+        {
+          "id": 192,
+          "title": "Bholenath Ki Shaadi",
+          "image": "https://example.com/bhajans/bholenath-ki-shaadi.jpg",
+          "url": "https://example.com/audio/bholenath-ki-shaadi.mp3",
+          "duration": "06:50",
+          "singer": "Hemant Kumar"
+        },
+        {
+          "id": 193,
+          "title": "Shiv Shankar Damru Wale",
+          "image": "https://example.com/bhajans/shiv-shankar-damru-wale.jpg",
+          "url": "https://example.com/audio/shiv-shankar-damru-wale.mp3",
+          "duration": "15:26",
+          "singer": "Hariharan"
+        },
+        {
+          "id": 194,
+          "title": "Karpur Gauram Karunavataram",
+          "image": "https://example.com/bhajans/karpur-gauram-karunavataram.jpg",
+          "url": "https://example.com/audio/karpur-gauram-karunavataram.mp3",
+          "duration": "04:06",
+          "singer": "Mohammed Aziz"
+        },
+        {
+          "id": 195,
+          "title": "Shankar Teri Jataon Se",
+          "image": "https://example.com/bhajans/shankar-teri-jataon-se.jpg",
+          "url": "https://example.com/audio/shankar-teri-jataon-se.mp3",
+          "duration": "08:27",
+          "singer": "Mohammed Aziz"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "god_name": "Maa Durga / Devi",
+      "image": "https://example.com/images/maa-durga---devi.jpg",
+      "bhajans": [
+        {
+          "id": 196,
+          "title": "Ambe Tu Hai Jagdambe Kali",
+          "image": "https://example.com/bhajans/ambe-tu-hai-jagdambe-kali.jpg",
+          "url": "https://example.com/audio/ambe-tu-hai-jagdambe-kali.mp3",
+          "duration": "10:55",
+          "singer": "Hari Om Sharan"
+        },
+        {
+          "id": 197,
+          "title": "Jai Ambe Gauri",
+          "image": "https://example.com/bhajans/jai-ambe-gauri.jpg",
+          "url": "https://example.com/audio/jai-ambe-gauri.mp3",
+          "duration": "13:41",
+          "singer": "Gulshan Kumar"
+        },
+        {
+          "id": 198,
+          "title": "Mere Naino Ki Pyaas Bujha De Maa",
+          "image": "https://example.com/bhajans/mere-naino-ki-pyaas-bujha-de-maa.jpg",
+          "url": "https://example.com/audio/mere-naino-ki-pyaas-bujha-de-maa.mp3",
+          "duration": "03:25",
+          "singer": "Udit Narayan"
+        },
+        {
+          "id": 199,
+          "title": "Bhor Bhai Din Chad Gaya Meri Ambe",
+          "image": "https://example.com/bhajans/bhor-bhai-din-chad-gaya-meri-ambe.jpg",
+          "url": "https://example.com/audio/bhor-bhai-din-chad-gaya-meri-ambe.mp3",
+          "duration": "15:55",
+          "singer": "Gulshan Kumar"
+        },
+        {
+          "id": 200,
+          "title": "Sherawali Maa Ki Aarti",
+          "image": "https://example.com/bhajans/sherawali-maa-ki-aarti.jpg",
+          "url": "https://example.com/audio/sherawali-maa-ki-aarti.mp3",
+          "duration": "06:12",
+          "singer": "Hariharan"
+        },
+        {
+          "id": 201,
+          "title": "Maa Mansa Meri Laaj Rakhna",
+          "image": "https://example.com/bhajans/maa-mansa-meri-laaj-rakhna.jpg",
+          "url": "https://example.com/audio/maa-mansa-meri-laaj-rakhna.mp3",
+          "duration": "11:28",
+          "singer": "Lata Mangeshkar"
+        },
+        {
+          "id": 202,
+          "title": "Main Balak Tu Mata Sherawaliye",
+          "image": "https://example.com/bhajans/main-balak-tu-mata-sherawaliye.jpg",
+          "url": "https://example.com/audio/main-balak-tu-mata-sherawaliye.mp3",
+          "duration": "09:11",
+          "singer": "Jagjit Singh"
+        },
+        {
+          "id": 203,
+          "title": "Aaye Tere Bhawan",
+          "image": "https://example.com/bhajans/aaye-tere-bhawan.jpg",
+          "url": "https://example.com/audio/aaye-tere-bhawan.mp3",
+          "duration": "10:15",
+          "singer": "Anuradha Paudwal"
+        },
+        {
+          "id": 204,
+          "title": "Chalo Bulawa Aaya Hai",
+          "image": "https://example.com/bhajans/chalo-bulawa-aaya-hai.jpg",
+          "url": "https://example.com/audio/chalo-bulawa-aaya-hai.mp3",
+          "duration": "10:51",
+          "singer": "Mahendra Kapoor"
+        },
+        {
+          "id": 205,
+          "title": "Tere Darbar Mein Maiya",
+          "image": "https://example.com/bhajans/tere-darbar-mein-maiya.jpg",
+          "url": "https://example.com/audio/tere-darbar-mein-maiya.mp3",
+          "duration": "04:03",
+          "singer": "Mahendra Kapoor"
+        },
+        {
+          "id": 206,
+          "title": "Ambe Jagdambe Jai Maa",
+          "image": "https://example.com/bhajans/ambe-jagdambe-jai-maa.jpg",
+          "url": "https://example.com/audio/ambe-jagdambe-jai-maa.mp3",
+          "duration": "03:05",
+          "singer": "Ravindra Jain"
+        },
+        {
+          "id": 207,
+          "title": "Durga Chalisa",
+          "image": "https://example.com/bhajans/durga-chalisa.jpg",
+          "url": "https://example.com/audio/durga-chalisa.mp3",
+          "duration": "05:26",
+          "singer": "Hemant Kumar"
+        },
+        {
+          "id": 208,
+          "title": "Ya Devi Sarva Bhuteshu",
+          "image": "https://example.com/bhajans/ya-devi-sarva-bhuteshu.jpg",
+          "url": "https://example.com/audio/ya-devi-sarva-bhuteshu.mp3",
+          "duration": "10:13",
+          "singer": "Kumar Sanu"
+        },
+        {
+          "id": 209,
+          "title": "Jai Santoshi Mata",
+          "image": "https://example.com/bhajans/jai-santoshi-mata.jpg",
+          "url": "https://example.com/audio/jai-santoshi-mata.mp3",
+          "duration": "03:10",
+          "singer": "Kumar Sanu"
+        },
+        {
+          "id": 210,
+          "title": "Meri Jholi Chhoti Pad Gayi Re",
+          "image": "https://example.com/bhajans/meri-jholi-chhoti-pad-gayi-re.jpg",
+          "url": "https://example.com/audio/meri-jholi-chhoti-pad-gayi-re.mp3",
+          "duration": "03:24",
+          "singer": "Jagjit Singh"
+        },
+        {
+          "id": 211,
+          "title": "Maa Sherawaliye Tera Sher Aa Gaya",
+          "image": "https://example.com/bhajans/maa-sherawaliye-tera-sher-aa-gaya.jpg",
+          "url": "https://example.com/audio/maa-sherawaliye-tera-sher-aa-gaya.mp3",
+          "duration": "15:50",
+          "singer": "Sadhan Sargam"
+        },
+        {
+          "id": 212,
+          "title": "O Maa Meri Pat Rakhiyo",
+          "image": "https://example.com/bhajans/o-maa-meri-pat-rakhiyo.jpg",
+          "url": "https://example.com/audio/o-maa-meri-pat-rakhiyo.mp3",
+          "duration": "07:27",
+          "singer": "Mahendra Kapoor"
+        },
+        {
+          "id": 213,
+          "title": "Jag Janani Jai Jai",
+          "image": "https://example.com/bhajans/jag-janani-jai-jai.jpg",
+          "url": "https://example.com/audio/jag-janani-jai-jai.mp3",
+          "duration": "13:45",
+          "singer": "Hemant Kumar"
+        },
+        {
+          "id": 214,
+          "title": "Kali Chalisa",
+          "image": "https://example.com/bhajans/kali-chalisa.jpg",
+          "url": "https://example.com/audio/kali-chalisa.mp3",
+          "duration": "05:12",
+          "singer": "Kavita Krishnamurthy"
+        },
+        {
+          "id": 215,
+          "title": "Annapurna Stotram",
+          "image": "https://example.com/bhajans/annapurna-stotram.jpg",
+          "url": "https://example.com/audio/annapurna-stotram.mp3",
+          "duration": "06:03",
+          "singer": "Mahendra Kapoor"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "god_name": "Lord Ganesha",
+      "image": "https://example.com/images/lord-ganesha.jpg",
+      "bhajans": [
+        {
+          "id": 216,
+          "title": "Jai Ganesh Deva",
+          "image": "https://example.com/bhajans/jai-ganesh-deva.jpg",
+          "url": "https://example.com/audio/jai-ganesh-deva.mp3",
+          "duration": "03:47",
+          "singer": "Udit Narayan"
+        },
+        {
+          "id": 217,
+          "title": "Vakratunda Mahakaya",
+          "image": "https://example.com/bhajans/vakratunda-mahakaya.jpg",
+          "url": "https://example.com/audio/vakratunda-mahakaya.mp3",
+          "duration": "03:03",
+          "singer": "Hemant Kumar"
+        },
+        {
+          "id": 218,
+          "title": "Ganpati Bappa Morya",
+          "image": "https://example.com/bhajans/ganpati-bappa-morya.jpg",
+          "url": "https://example.com/audio/ganpati-bappa-morya.mp3",
+          "duration": "11:58",
+          "singer": "Manna Dey"
+        },
+        {
+          "id": 219,
+          "title": "Sukhkarta Dukhharta",
+          "image": "https://example.com/bhajans/sukhkarta-dukhharta.jpg",
+          "url": "https://example.com/audio/sukhkarta-dukhharta.mp3",
+          "duration": "05:03",
+          "singer": "Manna Dey"
+        },
+        {
+          "id": 220,
+          "title": "Ganesh Atharvashirsha",
+          "image": "https://example.com/bhajans/ganesh-atharvashirsha.jpg",
+          "url": "https://example.com/audio/ganesh-atharvashirsha.mp3",
+          "duration": "04:54",
+          "singer": "Suresh Wadkar"
+        },
+        {
+          "id": 221,
+          "title": "Shendur Lal Chadhayo",
+          "image": "https://example.com/bhajans/shendur-lal-chadhayo.jpg",
+          "url": "https://example.com/audio/shendur-lal-chadhayo.mp3",
+          "duration": "04:38",
+          "singer": "Anuradha Paudwal"
+        },
+        {
+          "id": 222,
+          "title": "Jai Ganesh Jai Ganesh Deva",
+          "image": "https://example.com/bhajans/jai-ganesh-jai-ganesh-deva.jpg",
+          "url": "https://example.com/audio/jai-ganesh-jai-ganesh-deva.mp3",
+          "duration": "13:55",
+          "singer": "Ravindra Jain"
+        },
+        {
+          "id": 223,
+          "title": "Gaiye Ganpati Jagvandan",
+          "image": "https://example.com/bhajans/gaiye-ganpati-jagvandan.jpg",
+          "url": "https://example.com/audio/gaiye-ganpati-jagvandan.mp3",
+          "duration": "09:07",
+          "singer": "Ravindra Jain"
+        },
+        {
+          "id": 224,
+          "title": "Ganesh Chalisa",
+          "image": "https://example.com/bhajans/ganesh-chalisa.jpg",
+          "url": "https://example.com/audio/ganesh-chalisa.mp3",
+          "duration": "12:38",
+          "singer": "Hari Om Sharan"
+        },
+        {
+          "id": 225,
+          "title": "Siddhivinayak Aarti",
+          "image": "https://example.com/bhajans/siddhivinayak-aarti.jpg",
+          "url": "https://example.com/audio/siddhivinayak-aarti.mp3",
+          "duration": "12:05",
+          "singer": "Mohammed Aziz"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "god_name": "Lord Vishnu / Narayan",
+      "image": "https://example.com/images/lord-vishnu---narayan.jpg",
+      "bhajans": [
+        {
+          "id": 226,
+          "title": "Om Jai Jagdish Hare",
+          "image": "https://example.com/bhajans/om-jai-jagdish-hare.jpg",
+          "url": "https://example.com/audio/om-jai-jagdish-hare.mp3",
+          "duration": "13:37",
+          "singer": "Manna Dey"
+        },
+        {
+          "id": 227,
+          "title": "Vishnu Sahasranama",
+          "image": "https://example.com/bhajans/vishnu-sahasranama.jpg",
+          "url": "https://example.com/audio/vishnu-sahasranama.mp3",
+          "duration": "08:59",
+          "singer": "Jagjit Singh"
+        },
+        {
+          "id": 228,
+          "title": "Narayan Narayan Jai Govind Hare",
+          "image": "https://example.com/bhajans/narayan-narayan-jai-govind-hare.jpg",
+          "url": "https://example.com/audio/narayan-narayan-jai-govind-hare.mp3",
+          "duration": "06:42",
+          "singer": "Udit Narayan"
+        },
+        {
+          "id": 229,
+          "title": "Shri Hari Stotram",
+          "image": "https://example.com/bhajans/shri-hari-stotram.jpg",
+          "url": "https://example.com/audio/shri-hari-stotram.mp3",
+          "duration": "06:16",
+          "singer": "Kumar Sanu"
+        },
+        {
+          "id": 230,
+          "title": "Bhaja Govindam",
+          "image": "https://example.com/bhajans/bhaja-govindam.jpg",
+          "url": "https://example.com/audio/bhaja-govindam.mp3",
+          "duration": "05:42",
+          "singer": "Kavita Krishnamurthy"
+        },
+        {
+          "id": 231,
+          "title": "Narayan Kavach",
+          "image": "https://example.com/bhajans/narayan-kavach.jpg",
+          "url": "https://example.com/audio/narayan-kavach.mp3",
+          "duration": "10:20",
+          "singer": "Anuradha Paudwal"
+        },
+        {
+          "id": 232,
+          "title": "Hari Om Namo Narayana",
+          "image": "https://example.com/bhajans/hari-om-namo-narayana.jpg",
+          "url": "https://example.com/audio/hari-om-namo-narayana.mp3",
+          "duration": "03:29",
+          "singer": "Gulshan Kumar"
+        },
+        {
+          "id": 233,
+          "title": "Vishnu Aarti",
+          "image": "https://example.com/bhajans/vishnu-aarti.jpg",
+          "url": "https://example.com/audio/vishnu-aarti.mp3",
+          "duration": "04:34",
+          "singer": "Hariharan"
+        },
+        {
+          "id": 234,
+          "title": "Jai Lakshmi Ramana",
+          "image": "https://example.com/bhajans/jai-lakshmi-ramana.jpg",
+          "url": "https://example.com/audio/jai-lakshmi-ramana.mp3",
+          "duration": "11:16",
+          "singer": "Lata Mangeshkar"
+        },
+        {
+          "id": 235,
+          "title": "Achyutam Narayanam",
+          "image": "https://example.com/bhajans/achyutam-narayanam.jpg",
+          "url": "https://example.com/audio/achyutam-narayanam.mp3",
+          "duration": "08:56",
+          "singer": "Anuradha Paudwal"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "god_name": "Sai Baba",
+      "image": "https://example.com/images/sai-baba.jpg",
+      "bhajans": [
+        {
+          "id": 236,
+          "title": "Sai Ram Sai Shyam",
+          "image": "https://example.com/bhajans/sai-ram-sai-shyam.jpg",
+          "url": "https://example.com/audio/sai-ram-sai-shyam.mp3",
+          "duration": "06:23",
+          "singer": "Kavita Krishnamurthy"
+        },
+        {
+          "id": 237,
+          "title": "Om Sai Namo Namah",
+          "image": "https://example.com/bhajans/om-sai-namo-namah.jpg",
+          "url": "https://example.com/audio/om-sai-namo-namah.mp3",
+          "duration": "05:28",
+          "singer": "Mahendra Kapoor"
+        },
+        {
+          "id": 238,
+          "title": "Sai Baba Bolo",
+          "image": "https://example.com/bhajans/sai-baba-bolo.jpg",
+          "url": "https://example.com/audio/sai-baba-bolo.mp3",
+          "duration": "14:19",
+          "singer": "Manna Dey"
+        },
+        {
+          "id": 239,
+          "title": "Aarti Sai Baba",
+          "image": "https://example.com/bhajans/aarti-sai-baba.jpg",
+          "url": "https://example.com/audio/aarti-sai-baba.mp3",
+          "duration": "03:42",
+          "singer": "Mahendra Kapoor"
+        },
+        {
+          "id": 240,
+          "title": "Sai Reham Nazar Karna",
+          "image": "https://example.com/bhajans/sai-reham-nazar-karna.jpg",
+          "url": "https://example.com/audio/sai-reham-nazar-karna.mp3",
+          "duration": "07:59",
+          "singer": "Gulshan Kumar"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "god_name": "Universal / Sant Bhajans",
+      "image": "https://example.com/images/universal---sant-bhajans.jpg",
+      "bhajans": [
+        {
+          "id": 241,
+          "title": "Vaishnav Jan To",
+          "image": "https://example.com/bhajans/vaishnav-jan-to.jpg",
+          "url": "https://example.com/audio/vaishnav-jan-to.mp3",
+          "duration": "05:16",
+          "singer": "Gulshan Kumar"
+        },
+        {
+          "id": 242,
+          "title": "Tumhi Ho Mata Pita Tumhi Ho",
+          "image": "https://example.com/bhajans/tumhi-ho-mata-pita-tumhi-ho.jpg",
+          "url": "https://example.com/audio/tumhi-ho-mata-pita-tumhi-ho.mp3",
+          "duration": "04:47",
+          "singer": "Mahendra Kapoor"
+        },
+        {
+          "id": 243,
+          "title": "Itni Shakti Hame Dena Data",
+          "image": "https://example.com/bhajans/itni-shakti-hame-dena-data.jpg",
+          "url": "https://example.com/audio/itni-shakti-hame-dena-data.mp3",
+          "duration": "05:17",
+          "singer": "Kavita Krishnamurthy"
+        },
+        {
+          "id": 244,
+          "title": "Prabhu Ji Tum Chandan Hum Pani",
+          "image": "https://example.com/bhajans/prabhu-ji-tum-chandan-hum-pani.jpg",
+          "url": "https://example.com/audio/prabhu-ji-tum-chandan-hum-pani.mp3",
+          "duration": "12:13",
+          "singer": "Udit Narayan"
+        },
+        {
+          "id": 245,
+          "title": "Man Lago Mero Yaar Fakiri Mein",
+          "image": "https://example.com/bhajans/man-lago-mero-yaar-fakiri-mein.jpg",
+          "url": "https://example.com/audio/man-lago-mero-yaar-fakiri-mein.mp3",
+          "duration": "06:43",
+          "singer": "Jagjit Singh"
+        },
+        {
+          "id": 246,
+          "title": "Jo Bhaje Hari Ko Sada",
+          "image": "https://example.com/bhajans/jo-bhaje-hari-ko-sada.jpg",
+          "url": "https://example.com/audio/jo-bhaje-hari-ko-sada.mp3",
+          "duration": "11:31",
+          "singer": "Jagjit Singh"
+        },
+        {
+          "id": 247,
+          "title": "Raghupati Raghav Raja Ram",
+          "image": "https://example.com/bhajans/raghupati-raghav-raja-ram.jpg",
+          "url": "https://example.com/audio/raghupati-raghav-raja-ram.mp3",
+          "duration": "03:05",
+          "singer": "Mohammed Aziz"
+        },
+        {
+          "id": 248,
+          "title": "Payo Ji Maine Ram Ratan Dhan Payo",
+          "image": "https://example.com/bhajans/payo-ji-maine-ram-ratan-dhan-payo.jpg",
+          "url": "https://example.com/audio/payo-ji-maine-ram-ratan-dhan-payo.mp3",
+          "duration": "07:02",
+          "singer": "Anup Jalota"
+        },
+        {
+          "id": 249,
+          "title": "Hari Bol Hari Bol",
+          "image": "https://example.com/bhajans/hari-bol-hari-bol.jpg",
+          "url": "https://example.com/audio/hari-bol-hari-bol.mp3",
+          "duration": "08:49",
+          "singer": "Lata Mangeshkar"
+        },
+        {
+          "id": 250,
+          "title": "Anand No Garbo",
+          "image": "https://example.com/bhajans/anand-no-garbo.jpg",
+          "url": "https://example.com/audio/anand-no-garbo.mp3",
+          "duration": "13:16",
+          "singer": "Suresh Wadkar"
+        }
+      ]
+    }
+  ]
+}
