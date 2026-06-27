@@ -1,925 +1,3782 @@
-{
-  "status": true,
-  "message": "Bhajan List",
-  "categories": [
+﻿[
     {
-      "id": 1,
-      "god_name": "Lord Krishna",
-      "image": "https://example.com/images/lord-krishna.jpg",
-      "bhajans": [
-        {
-          "id": 101,
-          "title": "Achyutam Keshavam Krishna Damodaram",
-          "image": "https://example.com/bhajans/achyutam-keshavam-krishna-damodaram.jpg",
-          "url": "https://example.com/audio/achyutam-keshavam-krishna-damodaram.mp3"
-        },
-        {
-          "id": 102,
-          "title": "Hare Krishna Hare Rama",
-          "image": "https://example.com/bhajans/hare-krishna-hare-rama.jpg",
-          "url": "https://example.com/audio/hare-krishna-hare-rama.mp3"
-        },
-        {
-          "id": 103,
-          "title": "Shri Krishna Govind Hare Murari",
-          "image": "https://example.com/bhajans/shri-krishna-govind-hare-murari.jpg",
-          "url": "https://example.com/audio/shri-krishna-govind-hare-murari.mp3"
-        },
-        {
-          "id": 104,
-          "title": "Radhe Radhe Barsane Wali Radhe",
-          "image": "https://example.com/bhajans/radhe-radhe-barsane-wali-radhe.jpg",
-          "url": "https://example.com/audio/radhe-radhe-barsane-wali-radhe.mp3"
-        },
-        {
-          "id": 105,
-          "title": "Yashomati Maiya Se Bole Nandlala",
-          "image": "https://example.com/bhajans/yashomati-maiya-se-bole-nandlala.jpg",
-          "url": "https://example.com/audio/yashomati-maiya-se-bole-nandlala.mp3"
-        },
-        {
-          "id": 106,
-          "title": "Govind Bolo Hari Gopal Bolo",
-          "image": "https://example.com/bhajans/govind-bolo-hari-gopal-bolo.jpg",
-          "url": "https://example.com/audio/govind-bolo-hari-gopal-bolo.mp3"
-        },
-        {
-          "id": 107,
-          "title": "Mere To Giridhar Gopal",
-          "image": "https://example.com/bhajans/mere-to-giridhar-gopal.jpg",
-          "url": "https://example.com/audio/mere-to-giridhar-gopal.mp3"
-        },
-        {
-          "id": 108,
-          "title": "Aarti Kunj Bihari Ki",
-          "image": "https://example.com/bhajans/aarti-kunj-bihari-ki.jpg",
-          "url": "https://example.com/audio/aarti-kunj-bihari-ki.mp3"
-        },
-        {
-          "id": 109,
-          "title": "Madhurashtakam",
-          "image": "https://example.com/bhajans/madhurashtakam.jpg",
-          "url": "https://example.com/audio/madhurashtakam.mp3"
-        },
-        {
-          "id": 110,
-          "title": "Jai Radha Madhav",
-          "image": "https://example.com/bhajans/jai-radha-madhav.jpg",
-          "url": "https://example.com/audio/jai-radha-madhav.mp3"
-        },
-        {
-          "id": 111,
-          "title": "Choti Choti Gaiya Chote Chote Gwal",
-          "image": "https://example.com/bhajans/choti-choti-gaiya-chote-chote-gwal.jpg",
-          "url": "https://example.com/audio/choti-choti-gaiya-chote-chote-gwal.mp3"
-        },
-        {
-          "id": 113,
-          "title": "Aayo Kanhaiya Aayo",
-          "image": "https://example.com/bhajans/aayo-kanhaiya-aayo.jpg",
-          "url": "https://example.com/audio/aayo-kanhaiya-aayo.mp3"
-        },
-        {
-          "id": 114,
-          "title": "Kanha Re Kanha",
-          "image": "https://example.com/bhajans/kanha-re-kanha.jpg",
-          "url": "https://example.com/audio/kanha-re-kanha.mp3"
-        },
-        {
-          "id": 115,
-          "title": "Mera Aapki Kripa Se",
-          "image": "https://example.com/bhajans/mera-aapki-kripa-se.jpg",
-          "url": "https://example.com/audio/mera-aapki-kripa-se.mp3"
-        },
-        {
-          "id": 116,
-          "title": "O Palan Hare",
-          "image": "https://example.com/bhajans/o-palan-hare.jpg",
-          "url": "https://example.com/audio/o-palan-hare.mp3"
-        },
-        {
-          "id": 117,
-          "title": "Nand Ke Anand Bhayo",
-          "image": "https://example.com/bhajans/nand-ke-anand-bhayo.jpg",
-          "url": "https://example.com/audio/nand-ke-anand-bhayo.mp3"
-        },
-        {
-          "id": 118,
-          "title": "Banke Bihari Lal Ki Jai",
-          "image": "https://example.com/bhajans/banke-bihari-lal-ki-jai.jpg",
-          "url": "https://example.com/audio/banke-bihari-lal-ki-jai.mp3"
-        },
-        {
-          "id": 119,
-          "title": "Krishna Govind Govind Gopal Nandlal",
-          "image": "https://example.com/bhajans/krishna-govind-govind-gopal-nandlal.jpg",
-          "url": "https://example.com/audio/krishna-govind-govind-gopal-nandlal.mp3"
-        },
-        {
-          "id": 120,
-          "title": "Gopal Muraliya Wale",
-          "image": "https://example.com/bhajans/gopal-muraliya-wale.jpg",
-          "url": "https://example.com/audio/gopal-muraliya-wale.mp3"
-        },
-        {
-          "id": 121,
-          "title": "Radhe Krishna Ki Jyoti",
-          "image": "https://example.com/bhajans/radhe-krishna-ki-jyoti.jpg",
-          "url": "https://example.com/audio/radhe-krishna-ki-jyoti.mp3"
-        },
-        {
-          "id": 122,
-          "title": "Murli Manohar Krishna Kanhaiya",
-          "image": "https://example.com/bhajans/murli-manohar-krishna-kanhaiya.jpg",
-          "url": "https://example.com/audio/murli-manohar-krishna-kanhaiya.mp3"
-        },
-        {
-          "id": 123,
-          "title": "Kanhaiya Kanhaiya Pukara Karenge",
-          "image": "https://example.com/bhajans/kanhaiya-kanhaiya-pukara-karenge.jpg",
-          "url": "https://example.com/audio/kanhaiya-kanhaiya-pukara-karenge.mp3"
-        },
-        {
-          "id": 124,
-          "title": "Jai Kanhaiya Lal Ki",
-          "image": "https://example.com/bhajans/jai-kanhaiya-lal-ki.jpg",
-          "url": "https://example.com/audio/jai-kanhaiya-lal-ki.mp3"
-        },
-        {
-          "id": 125,
-          "title": "Aaj Biraj Mein Holi Re Rasiya",
-          "image": "https://example.com/bhajans/aaj-biraj-mein-holi-re-rasiya.jpg",
-          "url": "https://example.com/audio/aaj-biraj-mein-holi-re-rasiya.mp3"
-        },
-        {
-          "id": 126,
-          "title": "Radha Raman Hari Govind Jai Jai",
-          "image": "https://example.com/bhajans/radha-raman-hari-govind-jai-jai.jpg",
-          "url": "https://example.com/audio/radha-raman-hari-govind-jai-jai.mp3"
-        },
-        {
-          "id": 127,
-          "title": "Shri Krishna Govind Hare Murari",
-          "image": "https://example.com/bhajans/shri-krishna-govind-hare-murari.jpg",
-          "url": "https://example.com/audio/shri-krishna-govind-hare-murari.mp3"
-        },
-        {
-          "id": 128,
-          "title": "Radhe Albeli Sarkar",
-          "image": "https://example.com/bhajans/radhe-albeli-sarkar.jpg",
-          "url": "https://example.com/audio/radhe-albeli-sarkar.mp3"
-        },
-        {
-          "id": 129,
-          "title": "Main Nahi Makhan Khayo",
-          "image": "https://example.com/bhajans/main-nahi-makhan-khayo.jpg",
-          "url": "https://example.com/audio/main-nahi-makhan-khayo.mp3"
-        },
-        {
-          "id": 130,
-          "title": "Govind Jai Jai Gopal Jai Jai",
-          "image": "https://example.com/bhajans/govind-jai-jai-gopal-jai-jai.jpg",
-          "url": "https://example.com/audio/govind-jai-jai-gopal-jai-jai.mp3"
-        }
-      ]
+        "categoryId":  1,
+        "categoryName":  "Lord Krishna",
+        "imageUrl":  "",
+        "bhajans":  [
+                        {
+                            "id":  1,
+                            "title":  "Aarti Krishna Ki",
+                            "singBy":  "Kavita Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  2,
+                            "title":  "Om Jai Krishna Hare",
+                            "singBy":  "Hari Om Sharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  3,
+                            "title":  "Krishna Sankirtan",
+                            "singBy":  "Suresh Wadkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  4,
+                            "title":  "Krishna Raksha Stotram",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  5,
+                            "title":  "Mere Krishna",
+                            "singBy":  "Richa Sharma",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  6,
+                            "title":  "Krishna Mahima Aparampaar",
+                            "singBy":  "Shreya Ghoshal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  7,
+                            "title":  "Bhakti Krishna Ki",
+                            "singBy":  "Shankar Mahadevan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  8,
+                            "title":  "Jai Krishna Deva",
+                            "singBy":  "Kavita Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  9,
+                            "title":  "Krishna Vandana",
+                            "singBy":  "Hari Om Sharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  10,
+                            "title":  "Mere Krishna Part 1",
+                            "singBy":  "Kavita Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  11,
+                            "title":  "Sharanam Krishna",
+                            "singBy":  "Hariharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  12,
+                            "title":  "O Mere Krishna",
+                            "singBy":  "Sanjeev Abhyankar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  13,
+                            "title":  "Krishna Ashtakam",
+                            "singBy":  "Kavita Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  14,
+                            "title":  "O Mere Krishna Part 1",
+                            "singBy":  "Kavita Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  15,
+                            "title":  "Krishna Naam Sumiran",
+                            "singBy":  "Udit Narayan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  16,
+                            "title":  "Krishna Mahima Aparampaar Part 1",
+                            "singBy":  "Hans Raj Hans",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  17,
+                            "title":  "Shri Krishna Chalisa",
+                            "singBy":  "S. P. Balasubrahmanyam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  18,
+                            "title":  "Sharanam Krishna Part 1",
+                            "singBy":  "Anuradha Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  19,
+                            "title":  "Krishna Darshan Dedo",
+                            "singBy":  "Gulshan Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  20,
+                            "title":  "Krishna Ke Darshan",
+                            "singBy":  "Anup Jalota",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  21,
+                            "title":  "Krishna Sankirtan Part 1",
+                            "singBy":  "Kavita Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  22,
+                            "title":  "Maha Krishna Mantra",
+                            "singBy":  "Jaspinder Narula",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  23,
+                            "title":  "Krishna Dhun",
+                            "singBy":  "Hemant Chauhan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  24,
+                            "title":  "Krishna Mahima Aparampaar Part 2",
+                            "singBy":  "Suresh Wadkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  25,
+                            "title":  "Krishna Bhajnam",
+                            "singBy":  "Suresh Wadkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  26,
+                            "title":  "Krishna Vandana Part 1",
+                            "singBy":  "Sonu Nigam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        }
+                    ]
     },
     {
-      "id": 2,
-      "god_name": "Lord Rama",
-      "image": "https://example.com/images/lord-rama.jpg",
-      "bhajans": [
-        {
-          "id": 131,
-          "title": "Shri Ram Jai Ram Jai Jai Ram",
-          "image": "https://example.com/bhajans/shri-ram-jai-ram-jai-jai-ram.jpg",
-          "url": "https://example.com/audio/shri-ram-jai-ram-jai-jai-ram.mp3"
-        },
-        {
-          "id": 132,
-          "title": "Raghupati Raghav Raja Ram",
-          "image": "https://example.com/bhajans/raghupati-raghav-raja-ram.jpg",
-          "url": "https://example.com/audio/raghupati-raghav-raja-ram.mp3"
-        },
-        {
-          "id": 133,
-          "title": "Ram Siya Ram Siya Ram Jai Jai Ram",
-          "image": "https://example.com/bhajans/ram-siya-ram-siya-ram-jai-jai-ram.jpg",
-          "url": "https://example.com/audio/ram-siya-ram-siya-ram-jai-jai-ram.mp3"
-        },
-        {
-          "id": 134,
-          "title": "Thumak Chalat Ramchandra",
-          "image": "https://example.com/bhajans/thumak-chalat-ramchandra.jpg",
-          "url": "https://example.com/audio/thumak-chalat-ramchandra.mp3"
-        },
-        {
-          "id": 135,
-          "title": "Ram Naam Ke Heere Moti",
-          "image": "https://example.com/bhajans/ram-naam-ke-heere-moti.jpg",
-          "url": "https://example.com/audio/ram-naam-ke-heere-moti.mp3"
-        },
-        {
-          "id": 136,
-          "title": "Jai Siya Ram",
-          "image": "https://example.com/bhajans/jai-siya-ram.jpg",
-          "url": "https://example.com/audio/jai-siya-ram.mp3"
-        },
-        {
-          "id": 137,
-          "title": "Bhajo Re Man Ram Naam Sukhdai",
-          "image": "https://example.com/bhajans/bhajo-re-man-ram-naam-sukhdai.jpg",
-          "url": "https://example.com/audio/bhajo-re-man-ram-naam-sukhdai.mp3"
-        },
-        {
-          "id": 138,
-          "title": "Shri Ramchandra Kripalu Bhaj Man",
-          "image": "https://example.com/bhajans/shri-ramchandra-kripalu-bhaj-man.jpg",
-          "url": "https://example.com/audio/shri-ramchandra-kripalu-bhaj-man.mp3"
-        },
-        {
-          "id": 139,
-          "title": "Mangal Bhavan Amangal Hari",
-          "image": "https://example.com/bhajans/mangal-bhavan-amangal-hari.jpg",
-          "url": "https://example.com/audio/mangal-bhavan-amangal-hari.mp3"
-        },
-        {
-          "id": 140,
-          "title": "Ram Lakshman Janaki Jai Bolo Hanuman Ki",
-          "image": "https://example.com/bhajans/ram-lakshman-janaki-jai-bolo-hanuman-ki.jpg",
-          "url": "https://example.com/audio/ram-lakshman-janaki-jai-bolo-hanuman-ki.mp3"
-        },
-        {
-          "id": 141,
-          "title": "Payo Ji Maine Ram Ratan Dhan Payo",
-          "image": "https://example.com/bhajans/payo-ji-maine-ram-ratan-dhan-payo.jpg",
-          "url": "https://example.com/audio/payo-ji-maine-ram-ratan-dhan-payo.mp3"
-        },
-        {
-          "id": 142,
-          "title": "Ram Ji Ki Nikli Sawari",
-          "image": "https://example.com/bhajans/ram-ji-ki-nikli-sawari.jpg",
-          "url": "https://example.com/audio/ram-ji-ki-nikli-sawari.mp3"
-        {
-          "id": 143,
-          "title": "Mere Ram Mere Ghar Aana",
-          "image": "https://example.com/bhajans/mere-ram-mere-ghar-aana.jpg",
-          "url": "https://example.com/audio/mere-ram-mere-ghar-aana.mp3"
-        },
-        {
-          "id": 144,
-          "title": "Ram Naam Ati Meetha Hai",
-          "image": "https://example.com/bhajans/ram-naam-ati-meetha-hai.jpg",
-          "url": "https://example.com/audio/ram-naam-ati-meetha-hai.mp3"
-        },
-        {
-          "id": 145,
-          "title": "Ram Ka Gun Gaan Kariye",
-          "image": "https://example.com/bhajans/ram-ka-gun-gaan-kariye.jpg",
-          "url": "https://example.com/audio/ram-ka-gun-gaan-kariye.mp3"
-        },
-        {
-          "id": 146,
-          "title": "Sita Ram Sita Ram Kahiye",
-          "image": "https://example.com/bhajans/sita-ram-sita-ram-kahiye.jpg",
-          "url": "https://example.com/audio/sita-ram-sita-ram-kahiye.mp3"
-        },
-        {
-          "id": 147,
-          "title": "Jai Raghu Nandan Jai Siya Ram",
-          "image": "https://example.com/bhajans/jai-raghu-nandan-jai-siya-ram.jpg",
-          "url": "https://example.com/audio/jai-raghu-nandan-jai-siya-ram.mp3"
-        },
-        {
-          "id": 148,
-          "title": "Ram Lala Hum Aaye Hain",
-          "image": "https://example.com/bhajans/ram-lala-hum-aaye-hain.jpg",
-          "url": "https://example.com/audio/ram-lala-hum-aaye-hain.mp3"
-        },
-        {
-          "id": 149,
-          "title": "Hey Ram Hey Ram",
-          "image": "https://example.com/bhajans/hey-ram-hey-ram.jpg",
-          "url": "https://example.com/audio/hey-ram-hey-ram.mp3"
-        },
-        {
-          "id": 150,
-          "title": "Ram Ayenge",
-          "image": "https://example.com/bhajans/ram-ayenge.jpg",
-          "url": "https://example.com/audio/ram-ayenge.mp3"
-        },
-        {
-          "id": 151,
-          "title": "Shri Ram Stuti",
-          "image": "https://example.com/bhajans/shri-ram-stuti.jpg",
-          "url": "https://example.com/audio/shri-ram-stuti.mp3"
-        },
-        {
-          "id": 152,
-          "title": "Ram Raksha Stotra",
-          "image": "https://example.com/bhajans/ram-raksha-stotra.jpg",
-          "url": "https://example.com/audio/ram-raksha-stotra.mp3"
-        },
-        {
-          "id": 153,
-          "title": "Bhaye Pragat Kripala",
-          "image": "https://example.com/bhajans/bhaye-pragat-kripala.jpg",
-          "url": "https://example.com/audio/bhaye-pragat-kripala.mp3"
-        },
-        {
-          "id": 154,
-          "title": "Raghuvar Tumko Meri Laaj",
-          "image": "https://example.com/bhajans/raghuvar-tumko-meri-laaj.jpg",
-          "url": "https://example.com/audio/raghuvar-tumko-meri-laaj.mp3"
-        },
-        {
-          "id": 155,
-          "title": "Jai Jai Ram Krishna Hari",
-          "image": "https://example.com/bhajans/jai-jai-ram-krishna-hari.jpg",
-          "url": "https://example.com/audio/jai-jai-ram-krishna-hari.mp3"
-        }
-      ]
+        "categoryId":  2,
+        "categoryName":  "Lord Rama",
+        "imageUrl":  "",
+        "bhajans":  [
+                        {
+                            "id":  27,
+                            "title":  "Rama Ki Mahima",
+                            "singBy":  "Suresh Wadkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  28,
+                            "title":  "Prabhu Rama Aayo",
+                            "singBy":  "Ravindra Jain",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  29,
+                            "title":  "Mere Rama",
+                            "singBy":  "Kailash Kher",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  30,
+                            "title":  "Rama Aarti Sneh",
+                            "singBy":  "Kailash Kher",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  31,
+                            "title":  "Bolo Rama Ki Jai",
+                            "singBy":  "Gulshan Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  32,
+                            "title":  "Shri Rama Chalisa",
+                            "singBy":  "Hemant Chauhan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  33,
+                            "title":  "Rama Dhun",
+                            "singBy":  "Shankar Mahadevan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  34,
+                            "title":  "Rama Vandana",
+                            "singBy":  "Kailash Kher",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  35,
+                            "title":  "Rama Vandana Part 1",
+                            "singBy":  "Tulsi Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  36,
+                            "title":  "Rama Stuti",
+                            "singBy":  "Sachet Tandon",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  37,
+                            "title":  "Jai Jai Rama",
+                            "singBy":  "Sanjeev Abhyankar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  38,
+                            "title":  "Bhakti Rama Ki",
+                            "singBy":  "Anuradha Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  39,
+                            "title":  "Rama Amritwani",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  40,
+                            "title":  "Prabhu Rama Aayo Part 1",
+                            "singBy":  "Mridul Krishna Shastri",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  41,
+                            "title":  "Om Jai Rama Hare",
+                            "singBy":  "Shankar Mahadevan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  42,
+                            "title":  "Rama Dhun Part 1",
+                            "singBy":  "Gaurav Krishna Goswami",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  43,
+                            "title":  "Rama Aarti Sneh Part 1",
+                            "singBy":  "Kavita Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  44,
+                            "title":  "Rama Ke Darshan",
+                            "singBy":  "Ravindra Jain",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  45,
+                            "title":  "Kripa Karo Rama",
+                            "singBy":  "Hari Om Sharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  46,
+                            "title":  "Rama Aarti Sneh Part 2",
+                            "singBy":  "S. P. Balasubrahmanyam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  47,
+                            "title":  "Rama Sankirtan",
+                            "singBy":  "Kailash Kher",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  48,
+                            "title":  "Shri Rama Aarti",
+                            "singBy":  "Hans Raj Hans",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  49,
+                            "title":  "Rama Stuti Part 1",
+                            "singBy":  "Hariharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  50,
+                            "title":  "Meri Raksha Karo Rama",
+                            "singBy":  "Jubin Nautiyal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  51,
+                            "title":  "Prabhu Rama Aayo Part 2",
+                            "singBy":  "Sachet Tandon",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  52,
+                            "title":  "Prabhu Rama Aayo Part 3",
+                            "singBy":  "Richa Sharma",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        }
+                    ]
     },
     {
-      "id": 3,
-      "god_name": "Hanuman",
-      "image": "https://example.com/images/hanuman.jpg",
-      "bhajans": [
-        {
-          "id": 156,
-          "title": "Hanuman Chalisa",
-          "image": "https://example.com/bhajans/hanuman-chalisa.jpg",
-          "url": "https://example.com/audio/hanuman-chalisa.mp3"
-        },
-        {
-          "id": 157,
-          "title": "Bajrang Baan",
-          "image": "https://example.com/bhajans/bajrang-baan.jpg",
-          "url": "https://example.com/audio/bajrang-baan.mp3"
-        },
-        {
-          "id": 158,
-          "title": "Sankat Mochan Hanuman Ashtak",
-          "image": "https://example.com/bhajans/sankat-mochan-hanuman-ashtak.jpg",
-          "url": "https://example.com/audio/sankat-mochan-hanuman-ashtak.mp3"
-        },
-        {
-          "id": 159,
-          "title": "Jai Hanuman Gyan Gun Sagar",
-          "image": "https://example.com/bhajans/jai-hanuman-gyan-gun-sagar.jpg",
-          "url": "https://example.com/audio/jai-hanuman-gyan-gun-sagar.mp3"
-        },
-        {
-          "id": 160,
-          "title": "Pawan Tanay Sankat Haran",
-          "image": "https://example.com/bhajans/pawan-tanay-sankat-haran.jpg",
-          "url": "https://example.com/audio/pawan-tanay-sankat-haran.mp3"
-        },
-        {
-          "id": 161,
-          "title": "Hey Dukh Bhanjan Maruti Nandan",
-          "image": "https://example.com/bhajans/hey-dukh-bhanjan-maruti-nandan.jpg",
-          "url": "https://example.com/audio/hey-dukh-bhanjan-maruti-nandan.mp3"
-        },
-        {
-          "id": 162,
-          "title": "Mahavir Vikram Bajrangi",
-          "image": "https://example.com/bhajans/mahavir-vikram-bajrangi.jpg",
-          "url": "https://example.com/audio/mahavir-vikram-bajrangi.mp3"
-        },
-        {
-          "id": 163,
-          "title": "Shri Hanuman Vandana",
-          "image": "https://example.com/bhajans/shri-hanuman-vandana.jpg",
-          "url": "https://example.com/audio/shri-hanuman-vandana.mp3"
-        },
-        {
-          "id": 164,
-          "title": "Hanuman Bahuk",
-          "image": "https://example.com/bhajans/hanuman-bahuk.jpg",
-          "url": "https://example.com/audio/hanuman-bahuk.mp3"
-        },
-        {
-          "id": 165,
-          "title": "Aarti Kije Hanuman Lala Ki",
-          "image": "https://example.com/bhajans/aarti-kije-hanuman-lala-ki.jpg",
-          "url": "https://example.com/audio/aarti-kije-hanuman-lala-ki.mp3"
-        },
-        {
-          "id": 166,
-          "title": "Veer Hanumana Ati Balwana",
-          "image": "https://example.com/bhajans/veer-hanumana-ati-balwana.jpg",
-          "url": "https://example.com/audio/veer-hanumana-ati-balwana.mp3"
-        },
-        {
-          "id": 167,
-          "title": "Jai Bajrang Bali",
-          "image": "https://example.com/bhajans/jai-bajrang-bali.jpg",
-          "url": "https://example.com/audio/jai-bajrang-bali.mp3"
-        },
-        {
-          "id": 168,
-          "title": "Hanuman Amritwani",
-          "image": "https://example.com/bhajans/hanuman-amritwani.jpg",
-          "url": "https://example.com/audio/hanuman-amritwani.mp3"
-        },
-        {
-          "id": 169,
-          "title": "Maruti Stotram",
-          "image": "https://example.com/bhajans/maruti-stotram.jpg",
-          "url": "https://example.com/audio/maruti-stotram.mp3"
-        },
-        {
-          "id": 170,
-          "title": "Laal Langota Haath Mein Sota",
-          "image": "https://example.com/bhajans/laal-langota-haath-mein-sota.jpg",
-          "url": "https://example.com/audio/laal-langota-haath-mein-sota.mp3"
-        },
-        {
-          "id": 171,
-          "title": "Sankat Se Hanuman Chudave",
-          "image": "https://example.com/bhajans/sankat-se-hanuman-chudave.jpg",
-          "url": "https://example.com/audio/sankat-se-hanuman-chudave.mp3"
-        },
-        {
-          "id": 172,
-          "title": "Ramdoot Hanuman",
-          "image": "https://example.com/bhajans/ramdoot-hanuman.jpg",
-          "url": "https://example.com/audio/ramdoot-hanuman.mp3"
-        },
-        {
-          "id": 173,
-          "title": "Bajrang Bali Meri Naiya Paar Lagao",
-          "image": "https://example.com/bhajans/bajrang-bali-meri-naiya-paar-lagao.jpg",
-          "url": "https://example.com/audio/bajrang-bali-meri-naiya-paar-lagao.mp3"
-        },
-        {
-          "id": 174,
-          "title": "Jai Jai Jai Hanuman Gosai",
-          "image": "https://example.com/bhajans/jai-jai-jai-hanuman-gosai.jpg",
-          "url": "https://example.com/audio/jai-jai-jai-hanuman-gosai.mp3"
-        },
-        {
-          "id": 175,
-          "title": "Kesari Nandan",
-          "image": "https://example.com/bhajans/kesari-nandan.jpg",
-          "url": "https://example.com/audio/kesari-nandan.mp3"
-        }
-      ]
+        "categoryId":  3,
+        "categoryName":  "Lord Shiva",
+        "imageUrl":  "",
+        "bhajans":  [
+                        {
+                            "id":  53,
+                            "title":  "Shiva Amritwani",
+                            "singBy":  "Kailash Kher",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  54,
+                            "title":  "Mere Shiva",
+                            "singBy":  "Hariharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  55,
+                            "title":  "Shiva Raksha Stotram",
+                            "singBy":  "Richa Sharma",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  56,
+                            "title":  "Kripa Karo Shiva",
+                            "singBy":  "Kailash Kher",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  57,
+                            "title":  "Om Jai Shiva Hare",
+                            "singBy":  "Hemant Chauhan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  58,
+                            "title":  "Shiva Stuti",
+                            "singBy":  "Udit Narayan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  59,
+                            "title":  "Shiva Stuti Part 1",
+                            "singBy":  "S. P. Balasubrahmanyam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  60,
+                            "title":  "Mere Shiva Part 1",
+                            "singBy":  "Hans Raj Hans",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  61,
+                            "title":  "Bhakti Shiva Ki",
+                            "singBy":  "S. P. Balasubrahmanyam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  62,
+                            "title":  "Aarti Shiva Ki",
+                            "singBy":  "Richa Sharma",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  63,
+                            "title":  "Shiva Raksha Stotram Part 1",
+                            "singBy":  "Udit Narayan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  64,
+                            "title":  "Shiva Tera Shukriya",
+                            "singBy":  "Kavita Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  65,
+                            "title":  "O Mere Shiva",
+                            "singBy":  "Tulsi Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  66,
+                            "title":  "Shiva Mahima Aparampaar",
+                            "singBy":  "Shreya Ghoshal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  67,
+                            "title":  "Shiva Bhajnam",
+                            "singBy":  "Anup Jalota",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  68,
+                            "title":  "Shiva Katha",
+                            "singBy":  "Hans Raj Hans",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  69,
+                            "title":  "Shiva Stuti Part 2",
+                            "singBy":  "Kailash Kher",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  70,
+                            "title":  "O Mere Shiva Part 1",
+                            "singBy":  "Shankar Mahadevan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  71,
+                            "title":  "Shiva Ki Mahima",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  72,
+                            "title":  "Shiva Amritwani Part 1",
+                            "singBy":  "Mahendra Kapoor",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  73,
+                            "title":  "Shiva Aarti Sneh",
+                            "singBy":  "Hemant Chauhan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  74,
+                            "title":  "Om Jai Shiva Hare Part 1",
+                            "singBy":  "Purnima",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  75,
+                            "title":  "Shiva Bhajnam Part 1",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  76,
+                            "title":  "Bhakti Shiva Ki Part 1",
+                            "singBy":  "Shankar Mahadevan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  77,
+                            "title":  "Shri Shiva Aarti",
+                            "singBy":  "Jubin Nautiyal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  78,
+                            "title":  "Prabhu Shiva Aayo",
+                            "singBy":  "Tulsi Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        }
+                    ]
     },
     {
-      "id": 4,
-      "god_name": "Lord Shiva",
-      "image": "https://example.com/images/lord-shiva.jpg",
-      "bhajans": [
-        {
-          "id": 176,
-          "title": "Shiv Tandav Stotram",
-          "image": "https://example.com/bhajans/shiv-tandav-stotram.jpg",
-          "url": "https://example.com/audio/shiv-tandav-stotram.mp3"
-        },
-        {
-          "id": 177,
-          "title": "Om Namah Shivaya",
-          "image": "https://example.com/bhajans/om-namah-shivaya.jpg",
-          "url": "https://example.com/audio/om-namah-shivaya.mp3"
-        },
-        {
-          "id": 178,
-          "title": "Shiv Shankar Ko Jisne Pooja",
-          "image": "https://example.com/bhajans/shiv-shankar-ko-jisne-pooja.jpg",
-          "url": "https://example.com/audio/shiv-shankar-ko-jisne-pooja.mp3"
-        },
-        {
-          "id": 179,
-          "title": "Jai Shiv Omkara",
-          "image": "https://example.com/bhajans/jai-shiv-omkara.jpg",
-          "url": "https://example.com/audio/jai-shiv-omkara.mp3"
-        },
-        {
-          "id": 180,
-          "title": "Shambhu Sharne Padi",
-          "image": "https://example.com/bhajans/shambhu-sharne-padi.jpg",
-          "url": "https://example.com/audio/shambhu-sharne-padi.mp3"
-        },
-        {
-          "id": 181,
-          "title": "Har Har Mahadev Shambhu",
-          "image": "https://example.com/bhajans/har-har-mahadev-shambhu.jpg",
-          "url": "https://example.com/audio/har-har-mahadev-shambhu.mp3"
-        },
-        {
-          "id": 182,
-          "title": "Bam Bam Bhole",
-          "image": "https://example.com/bhajans/bam-bam-bhole.jpg",
-          "url": "https://example.com/audio/bam-bam-bhole.mp3"
-        },
-        {
-          "id": 183,
-          "title": "Shiv Kailasho Ke Vasi",
-          "image": "https://example.com/bhajans/shiv-kailasho-ke-vasi.jpg",
-          "url": "https://example.com/audio/shiv-kailasho-ke-vasi.mp3"
-        },
-        {
-          "id": 184,
-          "title": "Shiv Amritwani",
-          "image": "https://example.com/bhajans/shiv-amritwani.jpg",
-          "url": "https://example.com/audio/shiv-amritwani.mp3"
-        },
-        {
-          "id": 185,
-          "title": "Lingashtakam",
-          "image": "https://example.com/bhajans/lingashtakam.jpg",
-          "url": "https://example.com/audio/lingashtakam.mp3"
-        },
-        {
-          "id": 186,
-          "title": "Bilvashtakam",
-          "image": "https://example.com/bhajans/bilvashtakam.jpg",
-          "url": "https://example.com/audio/bilvashtakam.mp3"
-        },
-        {
-          "id": 187,
-          "title": "Rudrashtakam",
-          "image": "https://example.com/bhajans/rudrashtakam.jpg",
-          "url": "https://example.com/audio/rudrashtakam.mp3"
-        },
-        {
-          "id": 188,
-          "title": "Mahamrityunjaya Mantra",
-          "image": "https://example.com/bhajans/mahamrityunjaya-mantra.jpg",
-          "url": "https://example.com/audio/mahamrityunjaya-mantra.mp3"
-        },
-        {
-          "id": 189,
-          "title": "Shiv Panchakshara Stotram",
-          "image": "https://example.com/bhajans/shiv-panchakshara-stotram.jpg",
-          "url": "https://example.com/audio/shiv-panchakshara-stotram.mp3"
-        },
-        {
-          "id": 190,
-          "title": "Bhole Nath Se Nirala",
-          "image": "https://example.com/bhajans/bhole-nath-se-nirala.jpg",
-          "url": "https://example.com/audio/bhole-nath-se-nirala.mp3"
-        },
-        {
-          "id": 191,
-          "title": "Mere Bhole Baba",
-          "image": "https://example.com/bhajans/mere-bhole-baba.jpg",
-          "url": "https://example.com/audio/mere-bhole-baba.mp3"
-        },
-        {
-          "id": 192,
-          "title": "Bholenath Ki Shaadi",
-          "image": "https://example.com/bhajans/bholenath-ki-shaadi.jpg",
-          "url": "https://example.com/audio/bholenath-ki-shaadi.mp3"
-        },
-        {
-          "id": 193,
-          "title": "Shiv Shankar Damru Wale",
-          "image": "https://example.com/bhajans/shiv-shankar-damru-wale.jpg",
-          "url": "https://example.com/audio/shiv-shankar-damru-wale.mp3"
-        },
-        {
-          "id": 194,
-          "title": "Karpur Gauram Karunavataram",
-          "image": "https://example.com/bhajans/karpur-gauram-karunavataram.jpg",
-          "url": "https://example.com/audio/karpur-gauram-karunavataram.mp3"
-        },
-        {
-          "id": 195,
-          "title": "Shankar Teri Jataon Se",
-          "image": "https://example.com/bhajans/shankar-teri-jataon-se.jpg",
-          "url": "https://example.com/audio/shankar-teri-jataon-se.mp3"
-        }
-      ]
+        "categoryId":  4,
+        "categoryName":  "Lord Hanuman",
+        "imageUrl":  "",
+        "bhajans":  [
+                        {
+                            "id":  79,
+                            "title":  "Hanuman Aarti Sneh",
+                            "singBy":  "Richa Sharma",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  80,
+                            "title":  "Sharanam Hanuman",
+                            "singBy":  "Purnima",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  81,
+                            "title":  "Jai Jai Hanuman",
+                            "singBy":  "Purnima",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  82,
+                            "title":  "Hey Hanuman Nath",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  83,
+                            "title":  "Hanuman Ashtakam",
+                            "singBy":  "Jagjit Singh",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  84,
+                            "title":  "Hanuman Stuti",
+                            "singBy":  "Suresh Wadkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  85,
+                            "title":  "Hanuman Ki Mahima",
+                            "singBy":  "Jagjit Singh",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  86,
+                            "title":  "Jai Jai Hanuman Part 1",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  87,
+                            "title":  "Hanuman Stuti Part 1",
+                            "singBy":  "Hari Om Sharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  88,
+                            "title":  "Hanuman Ki Mahima Part 1",
+                            "singBy":  "Sonu Nigam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  89,
+                            "title":  "Hanuman Raksha Stotram",
+                            "singBy":  "Sanjeev Abhyankar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  90,
+                            "title":  "Meri Raksha Karo Hanuman",
+                            "singBy":  "Lakhbir Singh Lakkha",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  91,
+                            "title":  "Hanuman Vandana",
+                            "singBy":  "Anup Jalota",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  92,
+                            "title":  "Hanuman Tera Shukriya",
+                            "singBy":  "Anuradha Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  93,
+                            "title":  "Shri Hanuman Chalisa",
+                            "singBy":  "Anuradha Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  94,
+                            "title":  "Maha Hanuman Mantra",
+                            "singBy":  "Sonu Nigam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  95,
+                            "title":  "Hanuman Raksha Stotram Part 1",
+                            "singBy":  "Lakhbir Singh Lakkha",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  96,
+                            "title":  "Hanuman Tera Shukriya Part 1",
+                            "singBy":  "Kailash Kher",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  97,
+                            "title":  "Hey Hanuman Nath Part 1",
+                            "singBy":  "Gaurav Krishna Goswami",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  98,
+                            "title":  "Sharanam Hanuman Part 1",
+                            "singBy":  "Udit Narayan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  99,
+                            "title":  "Prabhu Hanuman Aayo",
+                            "singBy":  "Hariharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  100,
+                            "title":  "Hanuman Darshan Dedo",
+                            "singBy":  "Hemant Chauhan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  101,
+                            "title":  "Kripa Karo Hanuman",
+                            "singBy":  "Sonu Nigam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  102,
+                            "title":  "Meri Raksha Karo Hanuman Part 1",
+                            "singBy":  "Hariharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  103,
+                            "title":  "O Mere Hanuman",
+                            "singBy":  "Narendra Chanchal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  104,
+                            "title":  "Hanuman Tera Shukriya Part 2",
+                            "singBy":  "Richa Sharma",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        }
+                    ]
     },
     {
-      "id": 5,
-      "god_name": "Maa Durga / Devi",
-      "image": "https://example.com/images/maa-durga---devi.jpg",
-      "bhajans": [
-        {
-          "id": 196,
-          "title": "Ambe Tu Hai Jagdambe Kali",
-          "image": "https://example.com/bhajans/ambe-tu-hai-jagdambe-kali.jpg",
-          "url": "https://example.com/audio/ambe-tu-hai-jagdambe-kali.mp3"
-        },
-        {
-          "id": 197,
-          "title": "Jai Ambe Gauri",
-          "image": "https://example.com/bhajans/jai-ambe-gauri.jpg",
-          "url": "https://example.com/audio/jai-ambe-gauri.mp3"
-        },
-        {
-          "id": 198,
-          "title": "Mere Naino Ki Pyaas Bujha De Maa",
-          "image": "https://example.com/bhajans/mere-naino-ki-pyaas-bujha-de-maa.jpg",
-          "url": "https://example.com/audio/mere-naino-ki-pyaas-bujha-de-maa.mp3"
-        },
-        {
-          "id": 199,
-          "title": "Bhor Bhai Din Chad Gaya Meri Ambe",
-          "image": "https://example.com/bhajans/bhor-bhai-din-chad-gaya-meri-ambe.jpg",
-          "url": "https://example.com/audio/bhor-bhai-din-chad-gaya-meri-ambe.mp3"
-        },
-        {
-          "id": 200,
-          "title": "Sherawali Maa Ki Aarti",
-          "image": "https://example.com/bhajans/sherawali-maa-ki-aarti.jpg",
-          "url": "https://example.com/audio/sherawali-maa-ki-aarti.mp3"
-        },
-        {
-          "id": 201,
-          "title": "Maa Mansa Meri Laaj Rakhna",
-          "image": "https://example.com/bhajans/maa-mansa-meri-laaj-rakhna.jpg",
-          "url": "https://example.com/audio/maa-mansa-meri-laaj-rakhna.mp3"
-        },
-        {
-          "id": 202,
-          "title": "Main Balak Tu Mata Sherawaliye",
-          "image": "https://example.com/bhajans/main-balak-tu-mata-sherawaliye.jpg",
-          "url": "https://example.com/audio/main-balak-tu-mata-sherawaliye.mp3"
-        },
-        {
-          "id": 203,
-          "title": "Aaye Tere Bhawan",
-          "image": "https://example.com/bhajans/aaye-tere-bhawan.jpg",
-          "url": "https://example.com/audio/aaye-tere-bhawan.mp3"
-        },
-        {
-          "id": 204,
-          "title": "Chalo Bulawa Aaya Hai",
-          "image": "https://example.com/bhajans/chalo-bulawa-aaya-hai.jpg",
-          "url": "https://example.com/audio/chalo-bulawa-aaya-hai.mp3"
-        },
-        {
-          "id": 205,
-          "title": "Tere Darbar Mein Maiya",
-          "image": "https://example.com/bhajans/tere-darbar-mein-maiya.jpg",
-          "url": "https://example.com/audio/tere-darbar-mein-maiya.mp3"
-        },
-        {
-          "id": 206,
-          "title": "Ambe Jagdambe Jai Maa",
-          "image": "https://example.com/bhajans/ambe-jagdambe-jai-maa.jpg",
-          "url": "https://example.com/audio/ambe-jagdambe-jai-maa.mp3"
-        },
-        {
-          "id": 207,
-          "title": "Durga Chalisa",
-          "image": "https://example.com/bhajans/durga-chalisa.jpg",
-          "url": "https://example.com/audio/durga-chalisa.mp3"
-        },
-        {
-          "id": 208,
-          "title": "Ya Devi Sarva Bhuteshu",
-          "image": "https://example.com/bhajans/ya-devi-sarva-bhuteshu.jpg",
-          "url": "https://example.com/audio/ya-devi-sarva-bhuteshu.mp3"
-        },
-        {
-          "id": 209,
-          "title": "Jai Santoshi Mata",
-          "image": "https://example.com/bhajans/jai-santoshi-mata.jpg",
-          "url": "https://example.com/audio/jai-santoshi-mata.mp3"
-        },
-        {
-          "id": 210,
-          "title": "Meri Jholi Chhoti Pad Gayi Re",
-          "image": "https://example.com/bhajans/meri-jholi-chhoti-pad-gayi-re.jpg",
-          "url": "https://example.com/audio/meri-jholi-chhoti-pad-gayi-re.mp3"
-        },
-        {
-          "id": 211,
-          "title": "Maa Sherawaliye Tera Sher Aa Gaya",
-          "image": "https://example.com/bhajans/maa-sherawaliye-tera-sher-aa-gaya.jpg",
-          "url": "https://example.com/audio/maa-sherawaliye-tera-sher-aa-gaya.mp3"
-        },
-        {
-          "id": 212,
-          "title": "O Maa Meri Pat Rakhiyo",
-          "image": "https://example.com/bhajans/o-maa-meri-pat-rakhiyo.jpg",
-          "url": "https://example.com/audio/o-maa-meri-pat-rakhiyo.mp3"
-        },
-        {
-          "id": 213,
-          "title": "Jag Janani Jai Jai",
-          "image": "https://example.com/bhajans/jag-janani-jai-jai.jpg",
-          "url": "https://example.com/audio/jag-janani-jai-jai.mp3"
-        },
-        {
-          "id": 214,
-          "title": "Kali Chalisa",
-          "image": "https://example.com/bhajans/kali-chalisa.jpg",
-          "url": "https://example.com/audio/kali-chalisa.mp3"
-        },
-        {
-          "id": 215,
-          "title": "Annapurna Stotram",
-          "image": "https://example.com/bhajans/annapurna-stotram.jpg",
-          "url": "https://example.com/audio/annapurna-stotram.mp3"
-        }
-      ]
+        "categoryId":  5,
+        "categoryName":  "Goddess Durga",
+        "imageUrl":  "",
+        "bhajans":  [
+                        {
+                            "id":  105,
+                            "title":  "Durga Katha",
+                            "singBy":  "Anup Jalota",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  106,
+                            "title":  "Durga Katha Part 1",
+                            "singBy":  "Suresh Wadkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  107,
+                            "title":  "Durga Vandana",
+                            "singBy":  "Anup Jalota",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  108,
+                            "title":  "Maha Durga Mantra",
+                            "singBy":  "Gulshan Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  109,
+                            "title":  "O Mere Durga",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  110,
+                            "title":  "Durga Darshan Dedo",
+                            "singBy":  "Tulsi Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  111,
+                            "title":  "Durga Dhun",
+                            "singBy":  "Lakhbir Singh Lakkha",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  112,
+                            "title":  "Shri Durga Chalisa",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  113,
+                            "title":  "Hey Durga Nath",
+                            "singBy":  "Lakhbir Singh Lakkha",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  114,
+                            "title":  "Vighnaharta Durga",
+                            "singBy":  "Kailash Kher",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  115,
+                            "title":  "Durga Vandana Part 1",
+                            "singBy":  "Anuradha Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  116,
+                            "title":  "Durga Tera Shukriya",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  117,
+                            "title":  "Jai Durga Deva",
+                            "singBy":  "Mridul Krishna Shastri",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  118,
+                            "title":  "Durga Stuti",
+                            "singBy":  "Shankar Mahadevan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  119,
+                            "title":  "Durga Ashtakam",
+                            "singBy":  "Hans Raj Hans",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  120,
+                            "title":  "Durga Namavali",
+                            "singBy":  "Sachet Tandon",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  121,
+                            "title":  "Durga Bhajnam",
+                            "singBy":  "Sonu Nigam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  122,
+                            "title":  "Durga Namavali Part 1",
+                            "singBy":  "Jaspinder Narula",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  123,
+                            "title":  "Durga Katha Part 2",
+                            "singBy":  "Mahendra Kapoor",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  124,
+                            "title":  "Jai Jai Durga",
+                            "singBy":  "Sonu Nigam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  125,
+                            "title":  "Durga Ashtakam Part 1",
+                            "singBy":  "Udit Narayan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  126,
+                            "title":  "Durga Sankirtan",
+                            "singBy":  "Jubin Nautiyal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  127,
+                            "title":  "Durga Stuti Part 1",
+                            "singBy":  "Ravindra Jain",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  128,
+                            "title":  "Durga Katha Part 3",
+                            "singBy":  "Mridul Krishna Shastri",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  129,
+                            "title":  "Durga Aarti Sneh",
+                            "singBy":  "Gaurav Krishna Goswami",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  130,
+                            "title":  "Kripa Karo Durga",
+                            "singBy":  "Richa Sharma",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        }
+                    ]
     },
     {
-      "id": 6,
-      "god_name": "Lord Ganesha",
-      "image": "https://example.com/images/lord-ganesha.jpg",
-      "bhajans": [
-        {
-          "id": 216,
-          "title": "Jai Ganesh Deva",
-          "image": "https://example.com/bhajans/jai-ganesh-deva.jpg",
-          "url": "https://example.com/audio/jai-ganesh-deva.mp3"
-        },
-        {
-          "id": 217,
-          "title": "Vakratunda Mahakaya",
-          "image": "https://example.com/bhajans/vakratunda-mahakaya.jpg",
-          "url": "https://example.com/audio/vakratunda-mahakaya.mp3"
-        },
-        {
-          "id": 218,
-          "title": "Ganpati Bappa Morya",
-          "image": "https://example.com/bhajans/ganpati-bappa-morya.jpg",
-          "url": "https://example.com/audio/ganpati-bappa-morya.mp3"
-        },
-        {
-          "id": 219,
-          "title": "Sukhkarta Dukhharta",
-          "image": "https://example.com/bhajans/sukhkarta-dukhharta.jpg",
-          "url": "https://example.com/audio/sukhkarta-dukhharta.mp3"
-        },
-        {
-          "id": 220,
-          "title": "Ganesh Atharvashirsha",
-          "image": "https://example.com/bhajans/ganesh-atharvashirsha.jpg",
-          "url": "https://example.com/audio/ganesh-atharvashirsha.mp3"
-        },
-        {
-          "id": 221,
-          "title": "Shendur Lal Chadhayo",
-          "image": "https://example.com/bhajans/shendur-lal-chadhayo.jpg",
-          "url": "https://example.com/audio/shendur-lal-chadhayo.mp3"
-        },
-        {
-          "id": 222,
-          "title": "Jai Ganesh Jai Ganesh Deva",
-          "image": "https://example.com/bhajans/jai-ganesh-jai-ganesh-deva.jpg",
-          "url": "https://example.com/audio/jai-ganesh-jai-ganesh-deva.mp3"
-        },
-        {
-          "id": 223,
-          "title": "Gaiye Ganpati Jagvandan",
-          "image": "https://example.com/bhajans/gaiye-ganpati-jagvandan.jpg",
-          "url": "https://example.com/audio/gaiye-ganpati-jagvandan.mp3"
-        },
-        {
-          "id": 224,
-          "title": "Ganesh Chalisa",
-          "image": "https://example.com/bhajans/ganesh-chalisa.jpg",
-          "url": "https://example.com/audio/ganesh-chalisa.mp3"
-        },
-        {
-          "id": 225,
-          "title": "Siddhivinayak Aarti",
-          "image": "https://example.com/bhajans/siddhivinayak-aarti.jpg",
-          "url": "https://example.com/audio/siddhivinayak-aarti.mp3"
-        }
-      ]
+        "categoryId":  6,
+        "categoryName":  "Lord Ganesha",
+        "imageUrl":  "",
+        "bhajans":  [
+                        {
+                            "id":  131,
+                            "title":  "Sharanam Ganesha",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  132,
+                            "title":  "Ganesha Ashtakam",
+                            "singBy":  "Kailash Kher",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  133,
+                            "title":  "Ganesha Ke Darshan",
+                            "singBy":  "Sonu Nigam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  134,
+                            "title":  "Bhakti Ganesha Ki",
+                            "singBy":  "Udit Narayan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  135,
+                            "title":  "Bhakti Ganesha Ki Part 1",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  136,
+                            "title":  "Shri Ganesha Chalisa",
+                            "singBy":  "Gaurav Krishna Goswami",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  137,
+                            "title":  "Ganesha Stuti",
+                            "singBy":  "Anuradha Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  138,
+                            "title":  "Ganesha Bhajnam",
+                            "singBy":  "Suresh Wadkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  139,
+                            "title":  "Ganesha Bhajnam Part 1",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  140,
+                            "title":  "Ganesha Dhun",
+                            "singBy":  "Jubin Nautiyal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  141,
+                            "title":  "Shri Ganesha Aarti",
+                            "singBy":  "Anup Jalota",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  142,
+                            "title":  "Ganesha Ashtakam Part 1",
+                            "singBy":  "Anuradha Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  143,
+                            "title":  "Ganesha Ashtakam Part 2",
+                            "singBy":  "Anuradha Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  144,
+                            "title":  "Ganesha Raksha Stotram",
+                            "singBy":  "Udit Narayan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  145,
+                            "title":  "Shri Ganesha Aarti Part 1",
+                            "singBy":  "Narendra Chanchal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  146,
+                            "title":  "O Mere Ganesha",
+                            "singBy":  "Jaspinder Narula",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  147,
+                            "title":  "Ganesha Aarti Sneh",
+                            "singBy":  "Narendra Chanchal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  148,
+                            "title":  "Chalo Ganesha Ke Darbar",
+                            "singBy":  "Gulshan Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  149,
+                            "title":  "Ganesha Naam Sumiran",
+                            "singBy":  "Vinod Agarwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  150,
+                            "title":  "Sharanam Ganesha Part 1",
+                            "singBy":  "Narendra Chanchal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  151,
+                            "title":  "Chalo Ganesha Ke Darbar Part 1",
+                            "singBy":  "S. P. Balasubrahmanyam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  152,
+                            "title":  "Ganesha Ke Darshan Part 1",
+                            "singBy":  "Jubin Nautiyal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  153,
+                            "title":  "Jai Jai Ganesha",
+                            "singBy":  "Narendra Chanchal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  154,
+                            "title":  "Ganesha Katha",
+                            "singBy":  "Mridul Krishna Shastri",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  155,
+                            "title":  "Shri Ganesha Aarti Part 2",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  156,
+                            "title":  "Ganesha Ashtakam Part 3",
+                            "singBy":  "Lakhbir Singh Lakkha",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        }
+                    ]
     },
     {
-      "id": 7,
-      "god_name": "Lord Vishnu / Narayan",
-      "image": "https://example.com/images/lord-vishnu---narayan.jpg",
-      "bhajans": [
-        {
-          "id": 226,
-          "title": "Om Jai Jagdish Hare",
-          "image": "https://example.com/bhajans/om-jai-jagdish-hare.jpg",
-          "url": "https://example.com/audio/om-jai-jagdish-hare.mp3"
-        },
-        {
-          "id": 227,
-          "title": "Vishnu Sahasranama",
-          "image": "https://example.com/bhajans/vishnu-sahasranama.jpg",
-          "url": "https://example.com/audio/vishnu-sahasranama.mp3"
-        },
-        {
-          "id": 228,
-          "title": "Narayan Narayan Jai Govind Hare",
-          "image": "https://example.com/bhajans/narayan-narayan-jai-govind-hare.jpg",
-          "url": "https://example.com/audio/narayan-narayan-jai-govind-hare.mp3"
-        },
-        {
-          "id": 229,
-          "title": "Shri Hari Stotram",
-          "image": "https://example.com/bhajans/shri-hari-stotram.jpg",
-          "url": "https://example.com/audio/shri-hari-stotram.mp3"
-        },
-        {
-          "id": 230,
-          "title": "Bhaja Govindam",
-          "image": "https://example.com/bhajans/bhaja-govindam.jpg",
-          "url": "https://example.com/audio/bhaja-govindam.mp3"
-        },
-        {
-          "id": 231,
-          "title": "Narayan Kavach",
-          "image": "https://example.com/bhajans/narayan-kavach.jpg",
-          "url": "https://example.com/audio/narayan-kavach.mp3"
-        },
-        {
-          "id": 232,
-          "title": "Hari Om Namo Narayana",
-          "image": "https://example.com/bhajans/hari-om-namo-narayana.jpg",
-          "url": "https://example.com/audio/hari-om-namo-narayana.mp3"
-        },
-        {
-          "id": 233,
-          "title": "Vishnu Aarti",
-          "image": "https://example.com/bhajans/vishnu-aarti.jpg",
-          "url": "https://example.com/audio/vishnu-aarti.mp3"
-        },
-        {
-          "id": 234,
-          "title": "Jai Lakshmi Ramana",
-          "image": "https://example.com/bhajans/jai-lakshmi-ramana.jpg",
-          "url": "https://example.com/audio/jai-lakshmi-ramana.mp3"
-        },
-        {
-          "id": 235,
-          "title": "Achyutam Narayanam",
-          "image": "https://example.com/bhajans/achyutam-narayanam.jpg",
-          "url": "https://example.com/audio/achyutam-narayanam.mp3"
-        }
-      ]
+        "categoryId":  7,
+        "categoryName":  "Sai Baba",
+        "imageUrl":  "",
+        "bhajans":  [
+                        {
+                            "id":  157,
+                            "title":  "Sai Baba Ashtakam",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  158,
+                            "title":  "Hey Sai Baba Nath",
+                            "singBy":  "Ravindra Jain",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  159,
+                            "title":  "Aarti Sai Baba Ki",
+                            "singBy":  "Anuradha Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  160,
+                            "title":  "Meri Raksha Karo Sai Baba",
+                            "singBy":  "Anup Jalota",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  161,
+                            "title":  "Hey Sai Baba Nath Part 1",
+                            "singBy":  "Shankar Mahadevan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  162,
+                            "title":  "Sai Baba Katha",
+                            "singBy":  "Hemant Chauhan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  163,
+                            "title":  "Sai Baba Ki Mahima",
+                            "singBy":  "Kavita Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  164,
+                            "title":  "Hey Sai Baba Nath Part 2",
+                            "singBy":  "Shreya Ghoshal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  165,
+                            "title":  "Sharanam Sai Baba",
+                            "singBy":  "Lakhbir Singh Lakkha",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  166,
+                            "title":  "Hey Sai Baba Nath Part 3",
+                            "singBy":  "Kailash Kher",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  167,
+                            "title":  "Chalo Sai Baba Ke Darbar",
+                            "singBy":  "Sachet Tandon",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  168,
+                            "title":  "Aarti Sai Baba Ki Part 1",
+                            "singBy":  "Anuradha Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  169,
+                            "title":  "Sai Baba Aarti Sneh",
+                            "singBy":  "Ravindra Jain",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  170,
+                            "title":  "Hey Sai Baba Nath Part 4",
+                            "singBy":  "Vinod Agarwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  171,
+                            "title":  "Kripa Karo Sai Baba",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  172,
+                            "title":  "Sai Baba Sankirtan",
+                            "singBy":  "Sanjeev Abhyankar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  173,
+                            "title":  "Sharanam Sai Baba Part 1",
+                            "singBy":  "Anuradha Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  174,
+                            "title":  "Sai Baba Ke Darshan",
+                            "singBy":  "Tulsi Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  175,
+                            "title":  "Jai Jai Sai Baba",
+                            "singBy":  "Sonu Nigam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  176,
+                            "title":  "Sai Baba Dhun",
+                            "singBy":  "Hemant Chauhan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  177,
+                            "title":  "Om Jai Sai Baba Hare",
+                            "singBy":  "Narendra Chanchal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  178,
+                            "title":  "Sai Baba Stuti",
+                            "singBy":  "Sanjeev Abhyankar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  179,
+                            "title":  "Shri Sai Baba Aarti",
+                            "singBy":  "Purnima",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  180,
+                            "title":  "Shri Sai Baba Aarti Part 1",
+                            "singBy":  "Anuradha Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  181,
+                            "title":  "Sai Baba Sankirtan Part 1",
+                            "singBy":  "Gulshan Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  182,
+                            "title":  "O Mere Sai Baba",
+                            "singBy":  "Tulsi Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        }
+                    ]
     },
     {
-      "id": 9,
-      "god_name": "Universal / Sant Bhajans",
-      "image": "https://example.com/images/universal---sant-bhajans.jpg",
-      "bhajans": [
-        {
-          "id": 241,
-          "title": "Vaishnav Jan To",
-          "image": "https://example.com/bhajans/vaishnav-jan-to.jpg",
-          "url": "https://example.com/audio/vaishnav-jan-to.mp3"
-        },
-        {
-          "id": 242,
-          "title": "Tumhi Ho Mata Pita Tumhi Ho",
-          "image": "https://example.com/bhajans/tumhi-ho-mata-pita-tumhi-ho.jpg",
-          "url": "https://example.com/audio/tumhi-ho-mata-pita-tumhi-ho.mp3"
-        },
-        {
-          "id": 243,
-          "title": "Itni Shakti Hame Dena Data",
-          "image": "https://example.com/bhajans/itni-shakti-hame-dena-data.jpg",
-          "url": "https://example.com/audio/itni-shakti-hame-dena-data.mp3"
-        },
-        {
-          "id": 244,
-          "title": "Prabhu Ji Tum Chandan Hum Pani",
-          "image": "https://example.com/bhajans/prabhu-ji-tum-chandan-hum-pani.jpg",
-          "url": "https://example.com/audio/prabhu-ji-tum-chandan-hum-pani.mp3"
-        },
-        {
-          "id": 245,
-          "title": "Man Lago Mero Yaar Fakiri Mein",
-          "image": "https://example.com/bhajans/man-lago-mero-yaar-fakiri-mein.jpg",
-          "url": "https://example.com/audio/man-lago-mero-yaar-fakiri-mein.mp3"
-        },
-        {
-          "id": 246,
-          "title": "Jo Bhaje Hari Ko Sada",
-          "image": "https://example.com/bhajans/jo-bhaje-hari-ko-sada.jpg",
-          "url": "https://example.com/audio/jo-bhaje-hari-ko-sada.mp3"
-        },
-        {
-          "id": 247,
-          "title": "Raghupati Raghav Raja Ram",
-          "image": "https://example.com/bhajans/raghupati-raghav-raja-ram.jpg",
-          "url": "https://example.com/audio/raghupati-raghav-raja-ram.mp3"
-        },
-        {
-          "id": 248,
-          "title": "Payo Ji Maine Ram Ratan Dhan Payo",
-          "image": "https://example.com/bhajans/payo-ji-maine-ram-ratan-dhan-payo.jpg",
-          "url": "https://example.com/audio/payo-ji-maine-ram-ratan-dhan-payo.mp3"
-        },
-        {
-          "id": 249,
-          "title": "Hari Bol Hari Bol",
-          "image": "https://example.com/bhajans/hari-bol-hari-bol.jpg",
-          "url": "https://example.com/audio/hari-bol-hari-bol.mp3"
-        },
-        {
-          "id": 250,
-          "title": "Anand No Garbo",
-          "image": "https://example.com/bhajans/anand-no-garbo.jpg",
-          "url": "https://example.com/audio/anand-no-garbo.mp3"
-        }
-      ]
+        "categoryId":  8,
+        "categoryName":  "Mata Rani",
+        "imageUrl":  "",
+        "bhajans":  [
+                        {
+                            "id":  183,
+                            "title":  "Mata Sankirtan",
+                            "singBy":  "Anup Jalota",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  184,
+                            "title":  "Mata Darshan Dedo",
+                            "singBy":  "Kavita Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  185,
+                            "title":  "Sharanam Mata",
+                            "singBy":  "Hari Om Sharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  186,
+                            "title":  "Mata Naam Sumiran",
+                            "singBy":  "Hans Raj Hans",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  187,
+                            "title":  "Mata Ki Mahima",
+                            "singBy":  "Gaurav Krishna Goswami",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  188,
+                            "title":  "Prabhu Mata Aayo",
+                            "singBy":  "Jaspinder Narula",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  189,
+                            "title":  "Shri Mata Chalisa",
+                            "singBy":  "Kailash Kher",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  190,
+                            "title":  "Mere Mata",
+                            "singBy":  "Anup Jalota",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  191,
+                            "title":  "Chalo Mata Ke Darbar",
+                            "singBy":  "Kailash Kher",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  192,
+                            "title":  "Bolo Mata Ki Jai",
+                            "singBy":  "Gaurav Krishna Goswami",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  193,
+                            "title":  "Mata Ashtakam",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  194,
+                            "title":  "Jai Mata Deva",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  195,
+                            "title":  "Shri Mata Aarti",
+                            "singBy":  "Shreya Ghoshal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  196,
+                            "title":  "Mata Namavali",
+                            "singBy":  "Hari Om Sharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  197,
+                            "title":  "Mata Aarti Sneh",
+                            "singBy":  "Kailash Kher",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  198,
+                            "title":  "Mata Ashtakam Part 1",
+                            "singBy":  "Hans Raj Hans",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  199,
+                            "title":  "Vighnaharta Mata",
+                            "singBy":  "Shreya Ghoshal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  200,
+                            "title":  "Mata Dhun",
+                            "singBy":  "Vinod Agarwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  201,
+                            "title":  "Kripa Karo Mata",
+                            "singBy":  "Shankar Mahadevan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  202,
+                            "title":  "Mata Tera Shukriya",
+                            "singBy":  "Udit Narayan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  203,
+                            "title":  "Mata Naam Sumiran Part 1",
+                            "singBy":  "Jaspinder Narula",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  204,
+                            "title":  "Mata Katha",
+                            "singBy":  "Tulsi Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  205,
+                            "title":  "Mata Tera Shukriya Part 1",
+                            "singBy":  "Suresh Wadkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  206,
+                            "title":  "Mata Amritwani",
+                            "singBy":  "Suresh Wadkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  207,
+                            "title":  "Shri Mata Aarti Part 1",
+                            "singBy":  "Gulshan Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  208,
+                            "title":  "Maha Mata Mantra",
+                            "singBy":  "Purnima",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        }
+                    ]
+    },
+    {
+        "categoryId":  9,
+        "categoryName":  "Lord Vishnu",
+        "imageUrl":  "",
+        "bhajans":  [
+                        {
+                            "id":  209,
+                            "title":  "Jai Vishnu Deva",
+                            "singBy":  "Purnima",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  210,
+                            "title":  "Vishnu Aarti Sneh",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  211,
+                            "title":  "Vishnu Tera Shukriya",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  212,
+                            "title":  "Meri Raksha Karo Vishnu",
+                            "singBy":  "Richa Sharma",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  213,
+                            "title":  "Vishnu Mahima Aparampaar",
+                            "singBy":  "Udit Narayan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  214,
+                            "title":  "Mere Vishnu",
+                            "singBy":  "Gaurav Krishna Goswami",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  215,
+                            "title":  "O Mere Vishnu",
+                            "singBy":  "Purnima",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  216,
+                            "title":  "Vishnu Amritwani",
+                            "singBy":  "Vinod Agarwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  217,
+                            "title":  "Vishnu Darshan Dedo",
+                            "singBy":  "Udit Narayan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  218,
+                            "title":  "Kripa Karo Vishnu",
+                            "singBy":  "Ravindra Jain",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  219,
+                            "title":  "O Mere Vishnu Part 1",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  220,
+                            "title":  "Bhakti Vishnu Ki",
+                            "singBy":  "Kailash Kher",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  221,
+                            "title":  "O Mere Vishnu Part 2",
+                            "singBy":  "Purnima",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  222,
+                            "title":  "Vishnu Vandana",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  223,
+                            "title":  "Bolo Vishnu Ki Jai",
+                            "singBy":  "Lakhbir Singh Lakkha",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  224,
+                            "title":  "Vishnu Vandana Part 1",
+                            "singBy":  "Ravindra Jain",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  225,
+                            "title":  "Vishnu Aarti Sneh Part 1",
+                            "singBy":  "S. P. Balasubrahmanyam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  226,
+                            "title":  "Vishnu Ashtakam",
+                            "singBy":  "Sonu Nigam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  227,
+                            "title":  "Vishnu Darshan Dedo Part 1",
+                            "singBy":  "Shreya Ghoshal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  228,
+                            "title":  "Vishnu Ashtakam Part 1",
+                            "singBy":  "Hemant Chauhan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  229,
+                            "title":  "Vishnu Darshan Dedo Part 2",
+                            "singBy":  "Ravindra Jain",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  230,
+                            "title":  "Vishnu Naam Sumiran",
+                            "singBy":  "Jubin Nautiyal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  231,
+                            "title":  "Vishnu Namavali",
+                            "singBy":  "Jaspinder Narula",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  232,
+                            "title":  "Vishnu Ashtakam Part 2",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  233,
+                            "title":  "Vishnu Katha",
+                            "singBy":  "Sonu Nigam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  234,
+                            "title":  "Vishnu Mahima Aparampaar Part 1",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        }
+                    ]
+    },
+    {
+        "categoryId":  10,
+        "categoryName":  "Goddess Laxmi",
+        "imageUrl":  "",
+        "bhajans":  [
+                        {
+                            "id":  235,
+                            "title":  "Mere Laxmi",
+                            "singBy":  "Richa Sharma",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  236,
+                            "title":  "Shri Laxmi Chalisa",
+                            "singBy":  "Sanjeev Abhyankar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  237,
+                            "title":  "Laxmi Namavali",
+                            "singBy":  "Shankar Mahadevan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  238,
+                            "title":  "Jai Laxmi Deva",
+                            "singBy":  "Mridul Krishna Shastri",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  239,
+                            "title":  "Laxmi Ke Darshan",
+                            "singBy":  "S. P. Balasubrahmanyam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  240,
+                            "title":  "Laxmi Amritwani",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  241,
+                            "title":  "Laxmi Katha",
+                            "singBy":  "Jagjit Singh",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  242,
+                            "title":  "Vighnaharta Laxmi",
+                            "singBy":  "Narendra Chanchal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  243,
+                            "title":  "Bolo Laxmi Ki Jai",
+                            "singBy":  "Lakhbir Singh Lakkha",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  244,
+                            "title":  "Laxmi Ke Darshan Part 1",
+                            "singBy":  "S. P. Balasubrahmanyam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  245,
+                            "title":  "Laxmi Stuti",
+                            "singBy":  "Sachet Tandon",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  246,
+                            "title":  "Laxmi Aarti Sneh",
+                            "singBy":  "Jubin Nautiyal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  247,
+                            "title":  "Hey Laxmi Nath",
+                            "singBy":  "Jubin Nautiyal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  248,
+                            "title":  "Laxmi Raksha Stotram",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  249,
+                            "title":  "Laxmi Vandana",
+                            "singBy":  "Gaurav Krishna Goswami",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  250,
+                            "title":  "Vighnaharta Laxmi Part 1",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  251,
+                            "title":  "Bolo Laxmi Ki Jai Part 1",
+                            "singBy":  "Shankar Mahadevan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  252,
+                            "title":  "Mere Laxmi Part 1",
+                            "singBy":  "Shreya Ghoshal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  253,
+                            "title":  "Aarti Laxmi Ki",
+                            "singBy":  "Gulshan Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  254,
+                            "title":  "Laxmi Mahima Aparampaar",
+                            "singBy":  "Anup Jalota",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  255,
+                            "title":  "Laxmi Raksha Stotram Part 1",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  256,
+                            "title":  "Laxmi Amritwani Part 1",
+                            "singBy":  "Gulshan Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  257,
+                            "title":  "Laxmi Katha Part 1",
+                            "singBy":  "Sachet Tandon",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  258,
+                            "title":  "Laxmi Katha Part 2",
+                            "singBy":  "Sanjeev Abhyankar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  259,
+                            "title":  "Sharanam Laxmi",
+                            "singBy":  "Kavita Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  260,
+                            "title":  "Laxmi Naam Sumiran",
+                            "singBy":  "Hans Raj Hans",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        }
+                    ]
+    },
+    {
+        "categoryId":  11,
+        "categoryName":  "Goddess Saraswati",
+        "imageUrl":  "",
+        "bhajans":  [
+                        {
+                            "id":  261,
+                            "title":  "Saraswati Sankirtan",
+                            "singBy":  "Purnima",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  262,
+                            "title":  "Saraswati Bhajnam",
+                            "singBy":  "Shankar Mahadevan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  263,
+                            "title":  "Aarti Saraswati Ki",
+                            "singBy":  "Jagjit Singh",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  264,
+                            "title":  "Bhakti Saraswati Ki",
+                            "singBy":  "Gulshan Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  265,
+                            "title":  "Saraswati Stuti",
+                            "singBy":  "Hemant Chauhan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  266,
+                            "title":  "Saraswati Tera Shukriya",
+                            "singBy":  "Sachet Tandon",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  267,
+                            "title":  "Maha Saraswati Mantra",
+                            "singBy":  "Tulsi Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  268,
+                            "title":  "Hey Saraswati Nath",
+                            "singBy":  "Lakhbir Singh Lakkha",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  269,
+                            "title":  "Om Jai Saraswati Hare",
+                            "singBy":  "Anup Jalota",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  270,
+                            "title":  "Saraswati Ashtakam",
+                            "singBy":  "Tulsi Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  271,
+                            "title":  "Saraswati Vandana",
+                            "singBy":  "Anuradha Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  272,
+                            "title":  "Saraswati Ki Mahima",
+                            "singBy":  "Narendra Chanchal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  273,
+                            "title":  "Bhakti Saraswati Ki Part 1",
+                            "singBy":  "Vinod Agarwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  274,
+                            "title":  "Kripa Karo Saraswati",
+                            "singBy":  "Gulshan Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  275,
+                            "title":  "Chalo Saraswati Ke Darbar",
+                            "singBy":  "Shreya Ghoshal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  276,
+                            "title":  "Jai Jai Saraswati",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  277,
+                            "title":  "Saraswati Dhun",
+                            "singBy":  "Jaspinder Narula",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  278,
+                            "title":  "Saraswati Ke Darshan",
+                            "singBy":  "Sanjeev Abhyankar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  279,
+                            "title":  "Jai Jai Saraswati Part 1",
+                            "singBy":  "Jaspinder Narula",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  280,
+                            "title":  "Hey Saraswati Nath Part 1",
+                            "singBy":  "Kavita Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  281,
+                            "title":  "Shri Saraswati Chalisa",
+                            "singBy":  "Purnima",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  282,
+                            "title":  "Aarti Saraswati Ki Part 1",
+                            "singBy":  "Hemant Chauhan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  283,
+                            "title":  "Bolo Saraswati Ki Jai",
+                            "singBy":  "Hans Raj Hans",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  284,
+                            "title":  "Prabhu Saraswati Aayo",
+                            "singBy":  "Vinod Agarwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  285,
+                            "title":  "Saraswati Vandana Part 1",
+                            "singBy":  "Udit Narayan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  286,
+                            "title":  "Saraswati Aarti Sneh",
+                            "singBy":  "Mridul Krishna Shastri",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        }
+                    ]
+    },
+    {
+        "categoryId":  12,
+        "categoryName":  "Lord Brahma",
+        "imageUrl":  "",
+        "bhajans":  [
+                        {
+                            "id":  287,
+                            "title":  "Om Jai Brahma Hare",
+                            "singBy":  "Hans Raj Hans",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  288,
+                            "title":  "Brahma Darshan Dedo",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  289,
+                            "title":  "Chalo Brahma Ke Darbar",
+                            "singBy":  "Mahendra Kapoor",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  290,
+                            "title":  "Shri Brahma Chalisa",
+                            "singBy":  "Anuradha Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  291,
+                            "title":  "Vighnaharta Brahma",
+                            "singBy":  "Sanjeev Abhyankar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  292,
+                            "title":  "Brahma Naam Sumiran",
+                            "singBy":  "Hari Om Sharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  293,
+                            "title":  "Prabhu Brahma Aayo",
+                            "singBy":  "Shreya Ghoshal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  294,
+                            "title":  "Brahma Namavali",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  295,
+                            "title":  "Jai Brahma Deva",
+                            "singBy":  "Vinod Agarwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  296,
+                            "title":  "Om Jai Brahma Hare Part 1",
+                            "singBy":  "Mahendra Kapoor",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  297,
+                            "title":  "Brahma Amritwani",
+                            "singBy":  "Anup Jalota",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  298,
+                            "title":  "Brahma Tera Shukriya",
+                            "singBy":  "Jaspinder Narula",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  299,
+                            "title":  "Brahma Dhun",
+                            "singBy":  "Gulshan Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  300,
+                            "title":  "Brahma Ki Mahima",
+                            "singBy":  "Lakhbir Singh Lakkha",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  301,
+                            "title":  "Bhakti Brahma Ki",
+                            "singBy":  "Sanjeev Abhyankar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  302,
+                            "title":  "Brahma Darshan Dedo Part 1",
+                            "singBy":  "Jaspinder Narula",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  303,
+                            "title":  "Brahma Ashtakam",
+                            "singBy":  "Kavita Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  304,
+                            "title":  "Brahma Bhajnam",
+                            "singBy":  "Sachet Tandon",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  305,
+                            "title":  "Brahma Mahima Aparampaar",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  306,
+                            "title":  "O Mere Brahma",
+                            "singBy":  "Anup Jalota",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  307,
+                            "title":  "Brahma Raksha Stotram",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  308,
+                            "title":  "Kripa Karo Brahma",
+                            "singBy":  "Tulsi Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  309,
+                            "title":  "Brahma Katha",
+                            "singBy":  "Jagjit Singh",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  310,
+                            "title":  "Mere Brahma",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  311,
+                            "title":  "Maha Brahma Mantra",
+                            "singBy":  "S. P. Balasubrahmanyam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  312,
+                            "title":  "Jai Brahma Deva Part 1",
+                            "singBy":  "Narendra Chanchal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        }
+                    ]
+    },
+    {
+        "categoryId":  13,
+        "categoryName":  "Goddess Kali",
+        "imageUrl":  "",
+        "bhajans":  [
+                        {
+                            "id":  313,
+                            "title":  "Chalo Kali Ke Darbar",
+                            "singBy":  "Lakhbir Singh Lakkha",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  314,
+                            "title":  "Vighnaharta Kali",
+                            "singBy":  "Kailash Kher",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  315,
+                            "title":  "Meri Raksha Karo Kali",
+                            "singBy":  "Gulshan Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  316,
+                            "title":  "Meri Raksha Karo Kali Part 1",
+                            "singBy":  "Sachet Tandon",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  317,
+                            "title":  "Hey Kali Nath",
+                            "singBy":  "Mahendra Kapoor",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  318,
+                            "title":  "Sharanam Kali",
+                            "singBy":  "Jaspinder Narula",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  319,
+                            "title":  "Sharanam Kali Part 1",
+                            "singBy":  "Kailash Kher",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  320,
+                            "title":  "Kali Namavali",
+                            "singBy":  "Kailash Kher",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  321,
+                            "title":  "Kali Bhajnam",
+                            "singBy":  "Gaurav Krishna Goswami",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  322,
+                            "title":  "Meri Raksha Karo Kali Part 2",
+                            "singBy":  "Narendra Chanchal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  323,
+                            "title":  "Kali Amritwani",
+                            "singBy":  "S. P. Balasubrahmanyam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  324,
+                            "title":  "Chalo Kali Ke Darbar Part 1",
+                            "singBy":  "Udit Narayan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  325,
+                            "title":  "Om Jai Kali Hare",
+                            "singBy":  "Narendra Chanchal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  326,
+                            "title":  "Kali Raksha Stotram",
+                            "singBy":  "Jaspinder Narula",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  327,
+                            "title":  "Hey Kali Nath Part 1",
+                            "singBy":  "S. P. Balasubrahmanyam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  328,
+                            "title":  "Kali Amritwani Part 1",
+                            "singBy":  "Shankar Mahadevan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  329,
+                            "title":  "Kali Darshan Dedo",
+                            "singBy":  "Gaurav Krishna Goswami",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  330,
+                            "title":  "Kali Ashtakam",
+                            "singBy":  "Suresh Wadkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  331,
+                            "title":  "Kali Stuti",
+                            "singBy":  "Mridul Krishna Shastri",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  332,
+                            "title":  "Kali Amritwani Part 2",
+                            "singBy":  "Gaurav Krishna Goswami",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  333,
+                            "title":  "Hey Kali Nath Part 2",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  334,
+                            "title":  "Kripa Karo Kali",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  335,
+                            "title":  "Kali Namavali Part 1",
+                            "singBy":  "Anup Jalota",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  336,
+                            "title":  "Kali Tera Shukriya",
+                            "singBy":  "Tulsi Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  337,
+                            "title":  "Kali Vandana",
+                            "singBy":  "Hemant Chauhan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  338,
+                            "title":  "Kali Namavali Part 2",
+                            "singBy":  "Hemant Chauhan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        }
+                    ]
+    },
+    {
+        "categoryId":  14,
+        "categoryName":  "Santoshi Mata",
+        "imageUrl":  "",
+        "bhajans":  [
+                        {
+                            "id":  339,
+                            "title":  "Santoshi Mata Mahima Aparampaar",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  340,
+                            "title":  "Santoshi Mata Raksha Stotram",
+                            "singBy":  "Ravindra Jain",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  341,
+                            "title":  "Santoshi Mata Katha",
+                            "singBy":  "Purnima",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  342,
+                            "title":  "Santoshi Mata Ki Mahima",
+                            "singBy":  "Hari Om Sharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  343,
+                            "title":  "Santoshi Mata Amritwani",
+                            "singBy":  "Suresh Wadkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  344,
+                            "title":  "Santoshi Mata Ki Mahima Part 1",
+                            "singBy":  "Ravindra Jain",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  345,
+                            "title":  "Jai Santoshi Mata Deva",
+                            "singBy":  "Hans Raj Hans",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  346,
+                            "title":  "Santoshi Mata Aarti Sneh",
+                            "singBy":  "Tulsi Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  347,
+                            "title":  "Om Jai Santoshi Mata Hare",
+                            "singBy":  "Udit Narayan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  348,
+                            "title":  "Chalo Santoshi Mata Ke Darbar",
+                            "singBy":  "Purnima",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  349,
+                            "title":  "Bhakti Santoshi Mata Ki",
+                            "singBy":  "Hemant Chauhan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  350,
+                            "title":  "Bolo Santoshi Mata Ki Jai",
+                            "singBy":  "Anup Jalota",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  351,
+                            "title":  "Santoshi Mata Namavali",
+                            "singBy":  "Jagjit Singh",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  352,
+                            "title":  "Chalo Santoshi Mata Ke Darbar Part 1",
+                            "singBy":  "Suresh Wadkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  353,
+                            "title":  "Santoshi Mata Aarti Sneh Part 1",
+                            "singBy":  "Anuradha Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  354,
+                            "title":  "Santoshi Mata Amritwani Part 1",
+                            "singBy":  "Purnima",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  355,
+                            "title":  "Shri Santoshi Mata Aarti",
+                            "singBy":  "Vinod Agarwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  356,
+                            "title":  "Chalo Santoshi Mata Ke Darbar Part 2",
+                            "singBy":  "Suresh Wadkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  357,
+                            "title":  "Santoshi Mata Bhajnam",
+                            "singBy":  "Purnima",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  358,
+                            "title":  "Santoshi Mata Darshan Dedo",
+                            "singBy":  "Jubin Nautiyal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  359,
+                            "title":  "Meri Raksha Karo Santoshi Mata",
+                            "singBy":  "Mridul Krishna Shastri",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  360,
+                            "title":  "Om Jai Santoshi Mata Hare Part 1",
+                            "singBy":  "Mridul Krishna Shastri",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  361,
+                            "title":  "Jai Santoshi Mata Deva Part 1",
+                            "singBy":  "Kavita Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  362,
+                            "title":  "Santoshi Mata Raksha Stotram Part 1",
+                            "singBy":  "Kavita Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  363,
+                            "title":  "Santoshi Mata Aarti Sneh Part 2",
+                            "singBy":  "Gulshan Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  364,
+                            "title":  "Santoshi Mata Katha Part 1",
+                            "singBy":  "Narendra Chanchal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        }
+                    ]
+    },
+    {
+        "categoryId":  15,
+        "categoryName":  "Shani Dev",
+        "imageUrl":  "",
+        "bhajans":  [
+                        {
+                            "id":  365,
+                            "title":  "Maha Shani Dev Mantra",
+                            "singBy":  "Purnima",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  366,
+                            "title":  "Shri Shani Dev Aarti",
+                            "singBy":  "Shreya Ghoshal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  367,
+                            "title":  "Shani Dev Katha",
+                            "singBy":  "Shankar Mahadevan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  368,
+                            "title":  "Chalo Shani Dev Ke Darbar",
+                            "singBy":  "Anuradha Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  369,
+                            "title":  "Shani Dev Amritwani",
+                            "singBy":  "Gulshan Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  370,
+                            "title":  "Om Jai Shani Dev Hare",
+                            "singBy":  "Anup Jalota",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  371,
+                            "title":  "Shani Dev Aarti Sneh",
+                            "singBy":  "Shankar Mahadevan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  372,
+                            "title":  "Shani Dev Naam Sumiran",
+                            "singBy":  "Shreya Ghoshal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  373,
+                            "title":  "Prabhu Shani Dev Aayo",
+                            "singBy":  "Anuradha Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  374,
+                            "title":  "Jai Jai Shani Dev",
+                            "singBy":  "Purnima",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  375,
+                            "title":  "Aarti Shani Dev Ki",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  376,
+                            "title":  "Vighnaharta Shani Dev",
+                            "singBy":  "Jubin Nautiyal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  377,
+                            "title":  "Sharanam Shani Dev",
+                            "singBy":  "S. P. Balasubrahmanyam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  378,
+                            "title":  "Aarti Shani Dev Ki Part 1",
+                            "singBy":  "Mridul Krishna Shastri",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  379,
+                            "title":  "Bolo Shani Dev Ki Jai",
+                            "singBy":  "Narendra Chanchal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  380,
+                            "title":  "Hey Shani Dev Nath",
+                            "singBy":  "Mahendra Kapoor",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  381,
+                            "title":  "Hey Shani Dev Nath Part 1",
+                            "singBy":  "Vinod Agarwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  382,
+                            "title":  "Shani Dev Bhajnam",
+                            "singBy":  "Richa Sharma",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  383,
+                            "title":  "Shani Dev Ke Darshan",
+                            "singBy":  "Hans Raj Hans",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  384,
+                            "title":  "Shani Dev Darshan Dedo",
+                            "singBy":  "Shreya Ghoshal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  385,
+                            "title":  "Aarti Shani Dev Ki Part 2",
+                            "singBy":  "Shankar Mahadevan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  386,
+                            "title":  "Jai Jai Shani Dev Part 1",
+                            "singBy":  "Udit Narayan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  387,
+                            "title":  "Jai Shani Dev Deva",
+                            "singBy":  "Kavita Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  388,
+                            "title":  "Bhakti Shani Dev Ki",
+                            "singBy":  "Hari Om Sharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  389,
+                            "title":  "Meri Raksha Karo Shani Dev",
+                            "singBy":  "Hari Om Sharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  390,
+                            "title":  "Shani Dev Naam Sumiran Part 1",
+                            "singBy":  "Jubin Nautiyal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        }
+                    ]
+    },
+    {
+        "categoryId":  16,
+        "categoryName":  "Surya Dev",
+        "imageUrl":  "",
+        "bhajans":  [
+                        {
+                            "id":  391,
+                            "title":  "Jai Surya Dev Deva",
+                            "singBy":  "Udit Narayan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  392,
+                            "title":  "Surya Dev Bhajnam",
+                            "singBy":  "Sanjeev Abhyankar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  393,
+                            "title":  "Surya Dev Aarti Sneh",
+                            "singBy":  "Narendra Chanchal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  394,
+                            "title":  "Surya Dev Darshan Dedo",
+                            "singBy":  "S. P. Balasubrahmanyam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  395,
+                            "title":  "Meri Raksha Karo Surya Dev",
+                            "singBy":  "Narendra Chanchal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  396,
+                            "title":  "Surya Dev Amritwani",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  397,
+                            "title":  "Shri Surya Dev Aarti",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  398,
+                            "title":  "Surya Dev Vandana",
+                            "singBy":  "Shankar Mahadevan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  399,
+                            "title":  "Surya Dev Katha",
+                            "singBy":  "Suresh Wadkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  400,
+                            "title":  "Surya Dev Tera Shukriya",
+                            "singBy":  "Sonu Nigam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  401,
+                            "title":  "Sharanam Surya Dev",
+                            "singBy":  "Shreya Ghoshal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  402,
+                            "title":  "Surya Dev Naam Sumiran",
+                            "singBy":  "Lakhbir Singh Lakkha",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  403,
+                            "title":  "Shri Surya Dev Aarti Part 1",
+                            "singBy":  "Udit Narayan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  404,
+                            "title":  "Shri Surya Dev Aarti Part 2",
+                            "singBy":  "Purnima",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  405,
+                            "title":  "Maha Surya Dev Mantra",
+                            "singBy":  "Lakhbir Singh Lakkha",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  406,
+                            "title":  "Shri Surya Dev Aarti Part 3",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  407,
+                            "title":  "Surya Dev Vandana Part 1",
+                            "singBy":  "Richa Sharma",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  408,
+                            "title":  "Surya Dev Vandana Part 2",
+                            "singBy":  "Suresh Wadkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  409,
+                            "title":  "Kripa Karo Surya Dev",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  410,
+                            "title":  "Surya Dev Vandana Part 3",
+                            "singBy":  "Lakhbir Singh Lakkha",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  411,
+                            "title":  "Surya Dev Tera Shukriya Part 1",
+                            "singBy":  "Hemant Chauhan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  412,
+                            "title":  "Surya Dev Mahima Aparampaar",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  413,
+                            "title":  "Mere Surya Dev",
+                            "singBy":  "Jubin Nautiyal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  414,
+                            "title":  "Bhakti Surya Dev Ki",
+                            "singBy":  "Hariharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  415,
+                            "title":  "Maha Surya Dev Mantra Part 1",
+                            "singBy":  "Kailash Kher",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  416,
+                            "title":  "Surya Dev Vandana Part 4",
+                            "singBy":  "Shreya Ghoshal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        }
+                    ]
+    },
+    {
+        "categoryId":  17,
+        "categoryName":  "Khatu Shyam",
+        "imageUrl":  "",
+        "bhajans":  [
+                        {
+                            "id":  417,
+                            "title":  "Khatu Shyam Sankirtan",
+                            "singBy":  "Hari Om Sharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  418,
+                            "title":  "Khatu Shyam Ashtakam",
+                            "singBy":  "Sachet Tandon",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  419,
+                            "title":  "O Mere Khatu Shyam",
+                            "singBy":  "Mridul Krishna Shastri",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  420,
+                            "title":  "Bhakti Khatu Shyam Ki",
+                            "singBy":  "Shankar Mahadevan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  421,
+                            "title":  "Khatu Shyam Ashtakam Part 1",
+                            "singBy":  "Hariharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  422,
+                            "title":  "Om Jai Khatu Shyam Hare",
+                            "singBy":  "Jaspinder Narula",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  423,
+                            "title":  "Shri Khatu Shyam Aarti",
+                            "singBy":  "Jubin Nautiyal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  424,
+                            "title":  "Khatu Shyam Katha",
+                            "singBy":  "Shreya Ghoshal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  425,
+                            "title":  "Kripa Karo Khatu Shyam",
+                            "singBy":  "Sonu Nigam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  426,
+                            "title":  "Om Jai Khatu Shyam Hare Part 1",
+                            "singBy":  "Mridul Krishna Shastri",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  427,
+                            "title":  "Chalo Khatu Shyam Ke Darbar",
+                            "singBy":  "Vinod Agarwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  428,
+                            "title":  "Khatu Shyam Amritwani",
+                            "singBy":  "Sachet Tandon",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  429,
+                            "title":  "Khatu Shyam Ashtakam Part 2",
+                            "singBy":  "Hari Om Sharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  430,
+                            "title":  "Chalo Khatu Shyam Ke Darbar Part 1",
+                            "singBy":  "Jagjit Singh",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  431,
+                            "title":  "Khatu Shyam Amritwani Part 1",
+                            "singBy":  "Sachet Tandon",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  432,
+                            "title":  "Khatu Shyam Raksha Stotram",
+                            "singBy":  "Jubin Nautiyal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  433,
+                            "title":  "Kripa Karo Khatu Shyam Part 1",
+                            "singBy":  "Gaurav Krishna Goswami",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  434,
+                            "title":  "Khatu Shyam Naam Sumiran",
+                            "singBy":  "Kailash Kher",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  435,
+                            "title":  "Khatu Shyam Vandana",
+                            "singBy":  "Mahendra Kapoor",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  436,
+                            "title":  "Khatu Shyam Vandana Part 1",
+                            "singBy":  "Purnima",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  437,
+                            "title":  "Khatu Shyam Ashtakam Part 3",
+                            "singBy":  "Mahendra Kapoor",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  438,
+                            "title":  "Khatu Shyam Ke Darshan",
+                            "singBy":  "Ravindra Jain",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  439,
+                            "title":  "Shri Khatu Shyam Chalisa",
+                            "singBy":  "Jagjit Singh",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  440,
+                            "title":  "Khatu Shyam Mahima Aparampaar",
+                            "singBy":  "Sanjeev Abhyankar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  441,
+                            "title":  "Hey Khatu Shyam Nath",
+                            "singBy":  "Sonu Nigam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  442,
+                            "title":  "Vighnaharta Khatu Shyam",
+                            "singBy":  "Shankar Mahadevan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        }
+                    ]
+    },
+    {
+        "categoryId":  18,
+        "categoryName":  "Radha Rani",
+        "imageUrl":  "",
+        "bhajans":  [
+                        {
+                            "id":  443,
+                            "title":  "O Mere Radha",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  444,
+                            "title":  "Aarti Radha Ki",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  445,
+                            "title":  "Bolo Radha Ki Jai",
+                            "singBy":  "Hari Om Sharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  446,
+                            "title":  "Sharanam Radha",
+                            "singBy":  "Lakhbir Singh Lakkha",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  447,
+                            "title":  "Shri Radha Aarti",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  448,
+                            "title":  "Hey Radha Nath",
+                            "singBy":  "Narendra Chanchal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  449,
+                            "title":  "Shri Radha Chalisa",
+                            "singBy":  "Anup Jalota",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  450,
+                            "title":  "Kripa Karo Radha",
+                            "singBy":  "Mahendra Kapoor",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  451,
+                            "title":  "Vighnaharta Radha",
+                            "singBy":  "Sonu Nigam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  452,
+                            "title":  "Radha Naam Sumiran",
+                            "singBy":  "Hariharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  453,
+                            "title":  "Hey Radha Nath Part 1",
+                            "singBy":  "Purnima",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  454,
+                            "title":  "Shri Radha Aarti Part 1",
+                            "singBy":  "Gaurav Krishna Goswami",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  455,
+                            "title":  "Meri Raksha Karo Radha",
+                            "singBy":  "Suresh Wadkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  456,
+                            "title":  "Radha Bhajnam",
+                            "singBy":  "Suresh Wadkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  457,
+                            "title":  "Om Jai Radha Hare",
+                            "singBy":  "S. P. Balasubrahmanyam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  458,
+                            "title":  "Aarti Radha Ki Part 1",
+                            "singBy":  "Kailash Kher",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  459,
+                            "title":  "Sharanam Radha Part 1",
+                            "singBy":  "Hans Raj Hans",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  460,
+                            "title":  "Om Jai Radha Hare Part 1",
+                            "singBy":  "Suresh Wadkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  461,
+                            "title":  "Chalo Radha Ke Darbar",
+                            "singBy":  "Hariharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  462,
+                            "title":  "Jai Radha Deva",
+                            "singBy":  "Shreya Ghoshal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  463,
+                            "title":  "Shri Radha Chalisa Part 1",
+                            "singBy":  "Shreya Ghoshal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  464,
+                            "title":  "Chalo Radha Ke Darbar Part 1",
+                            "singBy":  "Ravindra Jain",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  465,
+                            "title":  "Radha Bhajnam Part 1",
+                            "singBy":  "Sanjeev Abhyankar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  466,
+                            "title":  "Radha Bhajnam Part 2",
+                            "singBy":  "Udit Narayan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  467,
+                            "title":  "Mere Radha",
+                            "singBy":  "Anup Jalota",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  468,
+                            "title":  "Mere Radha Part 1",
+                            "singBy":  "Sonu Nigam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        }
+                    ]
+    },
+    {
+        "categoryId":  19,
+        "categoryName":  "Bhairav Baba",
+        "imageUrl":  "",
+        "bhajans":  [
+                        {
+                            "id":  469,
+                            "title":  "Bairav Ki Mahima",
+                            "singBy":  "Jagjit Singh",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  470,
+                            "title":  "Jai Jai Bairav",
+                            "singBy":  "Shankar Mahadevan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  471,
+                            "title":  "Bairav Bhajnam",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  472,
+                            "title":  "Aarti Bairav Ki",
+                            "singBy":  "Richa Sharma",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  473,
+                            "title":  "Mere Bairav",
+                            "singBy":  "Lakhbir Singh Lakkha",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  474,
+                            "title":  "Bairav Aarti Sneh",
+                            "singBy":  "Jaspinder Narula",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  475,
+                            "title":  "Shri Bairav Chalisa",
+                            "singBy":  "Mahendra Kapoor",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  476,
+                            "title":  "Bhakti Bairav Ki",
+                            "singBy":  "Lata Mangeshkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  477,
+                            "title":  "Jai Bairav Deva",
+                            "singBy":  "Hans Raj Hans",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  478,
+                            "title":  "Bairav Raksha Stotram",
+                            "singBy":  "Jubin Nautiyal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  479,
+                            "title":  "Kripa Karo Bairav",
+                            "singBy":  "Tulsi Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  480,
+                            "title":  "Kripa Karo Bairav Part 1",
+                            "singBy":  "Mahendra Kapoor",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  481,
+                            "title":  "Bairav Dhun",
+                            "singBy":  "Jaspinder Narula",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  482,
+                            "title":  "Bairav Amritwani",
+                            "singBy":  "Narendra Chanchal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  483,
+                            "title":  "Shri Bairav Chalisa Part 1",
+                            "singBy":  "Hans Raj Hans",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  484,
+                            "title":  "Chalo Bairav Ke Darbar",
+                            "singBy":  "Hariharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  485,
+                            "title":  "Bairav Naam Sumiran",
+                            "singBy":  "Hariharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  486,
+                            "title":  "Bairav Vandana",
+                            "singBy":  "Shreya Ghoshal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  487,
+                            "title":  "Bairav Katha",
+                            "singBy":  "Jaspinder Narula",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  488,
+                            "title":  "Bairav Ki Mahima Part 1",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  489,
+                            "title":  "Prabhu Bairav Aayo",
+                            "singBy":  "Suresh Wadkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  490,
+                            "title":  "Om Jai Bairav Hare",
+                            "singBy":  "Sonu Nigam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  491,
+                            "title":  "Bolo Bairav Ki Jai",
+                            "singBy":  "Anuradha Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  492,
+                            "title":  "Bairav Katha Part 1",
+                            "singBy":  "S. P. Balasubrahmanyam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  493,
+                            "title":  "Prabhu Bairav Aayo Part 1",
+                            "singBy":  "Sachet Tandon",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  494,
+                            "title":  "Bairav Ke Darshan",
+                            "singBy":  "Suresh Wadkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        }
+                    ]
+    },
+    {
+        "categoryId":  20,
+        "categoryName":  "Ganga Mata",
+        "imageUrl":  "",
+        "bhajans":  [
+                        {
+                            "id":  495,
+                            "title":  "Jai Ganga Mata Deva",
+                            "singBy":  "Sanjeev Abhyankar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  496,
+                            "title":  "Jai Jai Ganga Mata",
+                            "singBy":  "Shankar Mahadevan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  497,
+                            "title":  "Ganga Mata Ashtakam",
+                            "singBy":  "Anup Jalota",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  498,
+                            "title":  "Ganga Mata Ke Darshan",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  499,
+                            "title":  "Om Jai Ganga Mata Hare",
+                            "singBy":  "Shankar Mahadevan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  500,
+                            "title":  "Ganga Mata Mahima Aparampaar",
+                            "singBy":  "Sachet Tandon",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  501,
+                            "title":  "Bhakti Ganga Mata Ki",
+                            "singBy":  "Suresh Wadkar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  502,
+                            "title":  "Maha Ganga Mata Mantra",
+                            "singBy":  "Jaspinder Narula",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  503,
+                            "title":  "Ganga Mata Ki Mahima",
+                            "singBy":  "Vinod Agarwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  504,
+                            "title":  "Chalo Ganga Mata Ke Darbar",
+                            "singBy":  "Vinod Agarwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  505,
+                            "title":  "Shri Ganga Mata Aarti",
+                            "singBy":  "Udit Narayan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  506,
+                            "title":  "Ganga Mata Dhun",
+                            "singBy":  "Gulshan Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  507,
+                            "title":  "Ganga Mata Sankirtan",
+                            "singBy":  "Sonu Nigam",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  508,
+                            "title":  "Ganga Mata Aarti Sneh",
+                            "singBy":  "Jagjit Singh",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  509,
+                            "title":  "Kripa Karo Ganga Mata",
+                            "singBy":  "Vinod Agarwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  510,
+                            "title":  "Prabhu Ganga Mata Aayo",
+                            "singBy":  "Shreya Ghoshal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  511,
+                            "title":  "Sharanam Ganga Mata",
+                            "singBy":  "Richa Sharma",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  512,
+                            "title":  "Bolo Ganga Mata Ki Jai",
+                            "singBy":  "Gulshan Kumar",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  513,
+                            "title":  "Aarti Ganga Mata Ki",
+                            "singBy":  "Vinod Agarwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  514,
+                            "title":  "Ganga Mata Aarti Sneh Part 1",
+                            "singBy":  "Purnima",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  515,
+                            "title":  "Maha Ganga Mata Mantra Part 1",
+                            "singBy":  "Hari Om Sharan",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  516,
+                            "title":  "Mere Ganga Mata",
+                            "singBy":  "Sachet Tandon",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  517,
+                            "title":  "Maha Ganga Mata Mantra Part 2",
+                            "singBy":  "Mridul Krishna Shastri",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  518,
+                            "title":  "Ganga Mata Aarti Sneh Part 2",
+                            "singBy":  "Richa Sharma",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  519,
+                            "title":  "Hey Ganga Mata Nath",
+                            "singBy":  "Anuradha Paudwal",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        },
+                        {
+                            "id":  520,
+                            "title":  "Maha Ganga Mata Mantra Part 3",
+                            "singBy":  "Asha Bhosle",
+                            "audioUrl":  "",
+                            "imageUrl":  ""
+                        }
+                    ]
     }
-  ]
-}
+]
