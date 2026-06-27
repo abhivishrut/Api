@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "title": "प्राक्कथन",
+        "file_name": "prakathana.mp3",
+        "duration": "01:06:08",
+        "size": "30.68 MB",
+        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/prakathana.mp3"
+    },
+    {
+        "id": 2,
+        "title": "1. प्रथम अध्याय (संशय-विषाद योग)",
+        "file_name": "Chapter-1.mp3",
+        "duration": "01:27:58",
+        "size": "40.68 MB",
+        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-1.mp3"
+    },
+    {
+        "id": 3,
+        "title": "2. द्वितीय अध्याय (कर्मजिज्ञासा)",
+        "file_name": "Chapter-2.mp3",
+        "duration": "01:56:27",
+        "size": "53.71 MB",
+        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-2.mp3"
+    },
+    {
+        "id": 4,
+        "title": "3. तृतीय अध्याय (शत्रुविनाश-प्रेरणा)",
+        "file_name": "Chapter-3.mp3",
+        "duration": "01:18:42",
+        "size": "36.44 MB",
+        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-3.mp3"
+    },
+    {
+        "id": 5,
+        "title": "4. चतुर्थ अध्याय (यज्ञकर्म स्पष्टीकरण)",
+        "file_name": "Chapter-4.mp3",
+        "duration": "01:31:08",
+        "size": "42.12 MB",
+        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-4.mp3"
+    },
+    {
+        "id": 6,
+        "title": "5. पञ्चम अध्याय (यज्ञभोक्ता महापुरुषस्थ महेश्वर)",
+        "file_name": "Chapter-5.mp3",
+        "duration": "00:43:55",
+        "size": "20.51 MB",
+        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-5.mp3"
+    },
+    {
+        "id": 7,
+        "title": "6. षष्ठम अध्याय (अभ्यासयोग)",
+        "file_name": "Chapter-6.mp3",
+        "duration": "00:58:02",
+        "size": "26.97 MB",
+        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-6.mp3"
+    },
+    {
+        "id": 8,
+        "title": "7. सप्तम अध्याय (समग्र जानकारी)",
+        "file_name": "Chapter-7.mp3",
+        "duration": "00:41:57",
+        "size": "19.61 MB",
+        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-7.mp3"
+    },
+    {
+        "id": 9,
+        "title": "8. अष्टम अध्याय (अक्षर ब्रह्मयोग)",
+        "file_name": "Chapter-8.mp3",
+        "duration": "00:50:39",
+        "size": "23.59 MB",
+        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-8.mp3"
+    },
+    {
+        "id": 10,
+        "title": "9. नवम अध्याय (राजविद्या जागृति)",
+        "file_name": "Chapter-9.mp3",
+        "duration": "00:54:27",
+        "size": "25.33 MB",
+        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-9.mp3"
+    },
+    {
+        "id": 11,
+        "title": "10. दशम अध्याय (विभूति वर्णन)",
+        "file_name": "Chapter-10.mp3",
+        "duration": "00:52:39",
+        "size": "24.51 MB",
+        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-10.mp3"
+    },
+    {
+        "id": 12,
+        "title": "11. एकादश अध्याय (विश्वरूप-दर्शन योग)",
+        "file_name": "Chapter-11.mp3",
+        "duration": "01:16:24",
+        "size": "35.38 MB",
+        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-11.mp3"
+    },
+    {
+        "id": 13,
+        "title": "12. द्वादश अध्याय (भक्तियोग)",
+        "file_name": "Chapter-12.mp3",
+        "duration": "00:26:42",
+        "size": "12.63 MB",
+        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-12.mp3"
+    },
+    {
+        "id": 14,
+        "title": "13. त्रयोदश अध्याय (क्षेत्र-क्षेत्रज्ञ विभाग योग)",
+        "file_name": "Chapter-13.mp3",
+        "duration": "00:42:22",
+        "size": "19.80 MB",
+        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-13.mp3"
+    },
+    {
+        "id": 15,
+        "title": "14. चतुर्दश अध्याय (गुणत्रय विभाग योग)",
+        "file_name": "Chapter-14.mp3",
+        "duration": "00:32:32",
+        "size": "15.30 MB",
+        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-14.mp3"
+    },
+    {
+        "id": 16,
+        "title": "15. पञ्चदश अध्याय (पुरुषोत्तम योग)",
+        "file_name": "Chapter-15.mp3",
+        "duration": "00:33:08",
+        "size": "15.57 MB",
+        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-15.mp3"
+    },
+    {
+        "id": 17,
+        "title": "16. षोडश अध्याय (दैवासुर सम्पद् विभाग योग)",
+        "file_name": "Chapter-16.mp3",
+        "duration": "00:33:29",
+        "size": "15.73 MB",
+        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-16.mp3"
+    },
+    {
+        "id": 18,
+        "title": "17. सप्तदश अध्याय (ॐ तत्सत् व श्रद्धात्रय विभाग योग)",
+        "file_name": "Chapter-17.mp3",
+        "duration": "00:40:13",
+        "size": "18.82 MB",
+        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-17.mp3"
+    },
+    {
+        "id": 19,
+        "title": "18. अष्टादश अध्याय (संन्यास योग)",
+        "file_name": "Chapter-18.mp3",
+        "duration": "01:44:07",
+        "size": "48.07 MB",
+        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-18.mp3"
+    },
+    {
+        "id": 20,
+        "title": "उपशम",
+        "file_name": "upasama.mp3",
+        "duration": "01:15:30",
+        "size": "34.97 MB",
+        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/upasama.mp3"
+    }
+]
