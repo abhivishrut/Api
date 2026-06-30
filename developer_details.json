@@ -15,22 +15,22 @@
         {
             "platform": "LinkedIn",
             "url": "https://linkedin.com/in/abhivishrut",
-            "thumbnail": ""
+            "thumbnail": "https://abhivishrut.github.io/Api/img/SocialMediaIcons/svg_linkedin.svg"
         },
         {
             "platform": "Instagram",
             "url": "https://instagram.com/abhivishrut",
-            "thumbnail": ""
+            "thumbnail": "https://abhivishrut.github.io/Api/img/SocialMediaIcons/svg_instagram.svg"
         },
         {
             "platform": "facebook",
             "url": "https://facebook.com/abhivishrut",
-            "thumbnail": ""
+            "thumbnail": "https://abhivishrut.github.io/Api/img/SocialMediaIcons/svg_facebook.svg"
         },
         {
             "platform": "Youtube",
             "url": "https://youtube.com/abhivishrut",
-            "thumbnail": ""
+            "thumbnail": "https://abhivishrut.github.io/Api/img/SocialMediaIcons/svg_youtube.svg"
         }
     ],
     "portfolio": [
