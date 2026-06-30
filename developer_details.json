@@ -1,15 +1,16 @@
 {
     "developer_information": {
         "name": "Abhivishrut Bishnoi",
-        "title": "Application Developer",
-        "bio": "Passionate about bridging technology with spirituality through HARINAAM.",
+        "title": "Application Developer & Creator",
+        "bio": "Building bridges between technology and tranquility. I design digital experiences that bring peace to your daily routine, one chant at a time.",
         "profile_image_url": "https://abhivishrut.github.io/Api/img/profile.jpeg",
         "cover_image_url": "https://abhivishrut.github.io/Api/img/cover.png",
-        "location": "Delhi, India"
+        "location": "Noida, Uttar Pradesh, India"
     },
     "contact_information": {
         "support_email": "codewatipvtltd@gmail.com",
-        "website_url": ""
+        "website_logo_url":"https://abhivishrut.github.io/codewati/img/codewatilogo.png",
+        "website_url": "https://abhivishrut.github.io/codewati/"
     },
     "social_links": [
         {
@@ -35,12 +36,12 @@
     ],
     "portfolio": [
         {
-            "app_name": "",
+            "app_name": "HARINAAM",
             "play_store_url": ""
         }
     ],
     "spiritual_mission": {
-        "mission_statement": "To provide a tranquil digital space for spiritual seekers to connect with the divine."
+        "mission_statement": "To create a soulful digital sanctuary, making the path to meditation and divine connection simple, beautiful, and accessible for everyone."
     },
     "donation": {
         "upi_id": "abhivishrut@ptyes",
