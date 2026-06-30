@@ -14,22 +14,22 @@
     "social_links": [
         {
             "platform": "LinkedIn",
-            "url": "https://linkedin.com/in/abhivishrut",
+            "url": "https://in.linkedin.com/in/abhivishrut-vishnoi-2279371ab",
             "thumbnail": "https://abhivishrut.github.io/Api/img/SocialMediaIcons/svg_linkedin.svg"
         },
         {
             "platform": "Instagram",
-            "url": "https://instagram.com/abhivishrut",
+            "url": "https://www.instagram.com/abhivishrut.apk/",
             "thumbnail": "https://abhivishrut.github.io/Api/img/SocialMediaIcons/svg_instagram.svg"
         },
         {
             "platform": "facebook",
-            "url": "https://facebook.com/abhivishrut",
+            "url": "https://www.facebook.com/abhi.vishnoi.96/",
             "thumbnail": "https://abhivishrut.github.io/Api/img/SocialMediaIcons/svg_facebook.svg"
         },
         {
             "platform": "Youtube",
-            "url": "https://youtube.com/abhivishrut",
+            "url": "https://www.youtube.com/@abhivishrut",
             "thumbnail": "https://abhivishrut.github.io/Api/img/SocialMediaIcons/svg_youtube.svg"
         }
     ],
