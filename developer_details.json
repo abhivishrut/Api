@@ -14,19 +14,23 @@
     "social_links": [
         {
             "platform": "LinkedIn",
-            "url": "https://linkedin.com/in/abhivishrut"
+            "url": "https://linkedin.com/in/abhivishrut",
+            "thumbnail": ""
         },
         {
             "platform": "Instagram",
-            "url": "https://instagram.com/abhivishrut"
+            "url": "https://instagram.com/abhivishrut",
+            "thumbnail": ""
         },
         {
             "platform": "facebook",
-            "url": "https://facebook.com/abhivishrut"
+            "url": "https://facebook.com/abhivishrut",
+            "thumbnail": ""
         },
         {
             "platform": "Youtube",
-            "url": "https://youtube.com/abhivishrut"
+            "url": "https://youtube.com/abhivishrut",
+            "thumbnail": ""
         }
     ],
     "portfolio": [
