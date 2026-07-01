@@ -1,0 +1,1683 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-07-01T13:07:27+05:30",
+  "default_origin": "Delhi",
+  "religions": [
+    {
+      "name": "Hindu",
+      "regions": [
+        {
+          "region": "North India",
+          "states": [
+            {
+              "state": "Uttarakhand",
+              "destinations": [
+                {
+                  "id": "hnd-uk-001",
+                  "name": "Badrinath Temple",
+                  "alternative_names": [
+                    "Badrinarayan Temple"
+                  ],
+                  "religion": "Hindu",
+                  "category": "Char Dham",
+                  "subcategory": "Vaishnav Temple",
+                  "state": "Uttarakhand",
+                  "district": "Chamoli",
+                  "city": "Badrinath",
+                  "village": "Badrinath",
+                  "region": "North India",
+                  "latitude": 30.7446,
+                  "longitude": 79.4930,
+                  "elevation": "3300m",
+                  "description": "Badrinath Temple is a Hindu temple dedicated to Lord Vishnu.",
+                  "history": "Mentioned in ancient texts like the Bhagavata Purana.",
+                  "religious_significance": "One of the Char Dham pilgrimage sites.",
+                  "architecture": "North Indian style architecture with traditional Garhwali wooden elements.",
+                  "main_deity_or_revered_person": "Lord Vishnu",
+                  "established_year": "8th century",
+                  "founder": "Adi Shankaracharya",
+                  "best_time_to_visit": "May to October",
+                  "climate": "Alpine",
+                  "opening_time": "04:30",
+                  "closing_time": "21:00",
+                  "entry_fee": 0,
+                  "dress_code": "Modest clothing",
+                  "photography_allowed": false,
+                  "wheelchair_accessible": true,
+                  "parking": true,
+                  "food_available": true,
+                  "locker": true,
+                  "washroom": true,
+                  "medical_facility": true,
+                  "accommodation": [
+                    "ashram",
+                    "hotel",
+                    "dharamshala"
+                  ],
+                  "official_website": "https://badrinath-kedarnath.gov.in",
+                  "google_maps": "https://maps.google.com/?q=30.7446,79.4930",
+                  "thumbnail": "https://api.example.com/images/badrinath_thumb.jpg",
+                  "banner": "https://api.example.com/images/badrinath_banner.jpg",
+                  "gallery": [
+                    "https://api.example.com/images/badrinath_1.jpg",
+                    "https://api.example.com/images/badrinath_2.jpg"
+                  ],
+                  "popularity_rating": 4.9,
+                  "estimated_visit_duration": "2 hours",
+                  "travel_tips": "Carry heavy woolens, acclimatize properly.",
+                  "nearby_attractions": [
+                    {
+                      "name": "Mana Village",
+                      "category": "Village",
+                      "distance": "3 km",
+                      "travel_time": "15 mins",
+                      "description": "Last Indian village near the border."
+                    },
+                    {
+                      "name": "Vasudhara Falls",
+                      "category": "Waterfall",
+                      "distance": "9 km",
+                      "travel_time": "2 hours",
+                      "description": "A beautiful waterfall near Mana village."
+                    },
+                    {
+                      "name": "Tapt Kund",
+                      "category": "Holy Site",
+                      "distance": "0.1 km",
+                      "travel_time": "5 mins",
+                      "description": "Natural hot water spring."
+                    },
+                    {
+                      "name": "Neelkanth Peak",
+                      "category": "Mountain",
+                      "distance": "9 km",
+                      "travel_time": "1 hour",
+                      "description": "A snowy peak forming the backdrop of Badrinath."
+                    },
+                    {
+                      "name": "Charanpaduka",
+                      "category": "Holy Site",
+                      "distance": "3 km",
+                      "travel_time": "45 mins",
+                      "description": "A rock bearing the footprints of Lord Vishnu."
+                    },
+                    {
+                      "name": "Mata Murti Temple",
+                      "category": "Temple",
+                      "distance": "3 km",
+                      "travel_time": "15 mins",
+                      "description": "Temple dedicated to the mother of Nara and Narayana."
+                    },
+                    {
+                      "name": "Vyas Gufa",
+                      "category": "Cave",
+                      "distance": "5.5 km",
+                      "travel_time": "20 mins",
+                      "description": "Ancient cave where sage Vyasa composed the Mahabharata."
+                    },
+                    {
+                      "name": "Ganesh Gufa",
+                      "category": "Cave",
+                      "distance": "5.5 km",
+                      "travel_time": "20 mins",
+                      "description": "Cave where Lord Ganesha wrote the Mahabharata."
+                    },
+                    {
+                      "name": "Saraswati River Origin",
+                      "category": "Holy River",
+                      "distance": "6 km",
+                      "travel_time": "25 mins",
+                      "description": "The origin point of the mythical Saraswati river."
+                    },
+                    {
+                      "name": "Valley of Flowers",
+                      "category": "National Park",
+                      "distance": "25 km",
+                      "travel_time": "4 hours",
+                      "description": "UNESCO World Heritage site known for alpine flowers."
+                    }
+                  ],
+                  "festivals": [
+                    {
+                      "festival_name": "Mata Murti Ka Mela",
+                      "month": "September",
+                      "importance": "High",
+                      "duration": "1 day",
+                      "crowd_level": "High",
+                      "estimated_visitors": 50000
+                    }
+                  ],
+                  "travel_information": {
+                    "from": "Delhi",
+                    "routes": [
+                      {
+                        "travel_type": "Car",
+                        "distance_km": 535,
+                        "estimated_duration": "15 hours",
+                        "estimated_cost": 8000,
+                        "fuel_required": "45 Liters",
+                        "road_condition": "Hilly terrain, well-maintained but prone to landslides in monsoon",
+                        "difficulty": "Moderate",
+                        "toll_cost": 450,
+                        "google_maps_link": "https://maps.google.com/route_delhi_badrinath",
+                        "alternative_route": "Via Kotdwar",
+                        "fastest_route": "Via NH7",
+                        "shortest_route": "Via NH7",
+                        "scenic_route": "Via Rishikesh-Devprayag",
+                        "route_stops": [
+                          {
+                            "name": "Delhi",
+                            "state": "Delhi",
+                            "latitude": 28.6139,
+                            "longitude": 77.2090,
+                            "distance_from_previous": 0,
+                            "travel_time": "0 mins",
+                            "road_type": "Highway",
+                            "food": true,
+                            "fuel": true,
+                            "hotel": true,
+                            "hospital": true,
+                            "atm": true,
+                            "washroom": true,
+                            "police": true,
+                            "tourist_spot": false,
+                            "photo": "https://api.example.com/images/delhi.jpg"
+                          },
+                          {
+                            "name": "Haridwar",
+                            "state": "Uttarakhand",
+                            "latitude": 29.9457,
+                            "longitude": 78.1642,
+                            "distance_from_previous": 235,
+                            "travel_time": "5 hours",
+                            "road_type": "NH",
+                            "food": true,
+                            "fuel": true,
+                            "hotel": true,
+                            "hospital": true,
+                            "atm": true,
+                            "washroom": true,
+                            "police": true,
+                            "tourist_spot": true,
+                            "photo": "https://api.example.com/images/haridwar.jpg"
+                          },
+                          {
+                            "name": "Joshimath",
+                            "state": "Uttarakhand",
+                            "latitude": 30.5506,
+                            "longitude": 79.5660,
+                            "distance_from_previous": 250,
+                            "travel_time": "8 hours",
+                            "road_type": "Hilly NH",
+                            "food": true,
+                            "fuel": true,
+                            "hotel": true,
+                            "hospital": true,
+                            "atm": true,
+                            "washroom": true,
+                            "police": true,
+                            "tourist_spot": true,
+                            "photo": "https://api.example.com/images/joshimath.jpg"
+                          },
+                          {
+                            "name": "Badrinath",
+                            "state": "Uttarakhand",
+                            "latitude": 30.7446,
+                            "longitude": 79.4930,
+                            "distance_from_previous": 50,
+                            "travel_time": "2 hours",
+                            "road_type": "Hilly Road",
+                            "food": true,
+                            "fuel": true,
+                            "hotel": true,
+                            "hospital": true,
+                            "atm": true,
+                            "washroom": true,
+                            "police": true,
+                            "tourist_spot": true,
+                            "photo": "https://api.example.com/images/badrinath.jpg"
+                          }
+                        ]
+                      }
+                    ],
+                    "train_information": {
+                      "train_name": "Shatabdi Express",
+                      "train_number": "12017",
+                      "departure_station": "New Delhi (NDLS)",
+                      "arrival_station": "Haridwar (HW)",
+                      "departure_time": "06:45",
+                      "arrival_time": "11:30",
+                      "duration": "4 hours 45 mins",
+                      "available_classes": [
+                        "CC",
+                        "EC"
+                      ],
+                      "important_intermediate_stations": [
+                        "Roorkee"
+                      ],
+                      "irctc_placeholder": "https://www.irctc.co.in/"
+                    },
+                    "flight_information": {
+                      "departure_airport": "Indira Gandhi International Airport (DEL)",
+                      "arrival_airport": "Jolly Grant Airport (DED)",
+                      "airlines": [
+                        "IndiGo",
+                        "Vistara",
+                        "Air India"
+                      ],
+                      "estimated_fare": 4000,
+                      "airport_to_destination_distance": 310,
+                      "airport_transfer_options": [
+                        "Taxi",
+                        "Bus"
+                      ]
+                    },
+                    "bus_information": {
+                      "government_bus": true,
+                      "private_bus": true,
+                      "volvo": true,
+                      "sleeper": false,
+                      "departure": "ISBT Kashmere Gate",
+                      "arrival": "Badrinath Bus Stand",
+                      "major_stops": [
+                        "Haridwar",
+                        "Rishikesh",
+                        "Srinagar",
+                        "Joshimath"
+                      ],
+                      "fare": 1200,
+                      "booking_placeholder": "https://utconline.uk.gov.in/"
+                    }
+                  },
+                  "weather": {
+                    "summer": "15°C to 20°C",
+                    "winter": "Sub-zero, heavy snowfall",
+                    "monsoon": "10°C to 15°C, heavy rainfall",
+                    "best_season": "Summer",
+                    "snowfall": true
+                  },
+                  "accommodation": {
+                    "hotel": true,
+                    "dharamshala": true,
+                    "ashram": true,
+                    "guest_house": true,
+                    "budget_range": "500 - 5000 INR",
+                    "contact": "+91-0000000000",
+                    "booking_placeholder": "https://booking.example.com"
+                  },
+                  "food": {
+                    "local_food": [
+                      "Aloo Ke Gutke",
+                      "Phaanu"
+                    ],
+                    "satvik_food": true,
+                    "prasad": "Chana and Mishri",
+                    "restaurants": [
+                      "Saket Restaurant",
+                      "Urvashi Restaurant"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sikh",
+      "regions": [
+        {
+          "region": "North India",
+          "states": [
+            {
+              "state": "Punjab",
+              "destinations": [
+                {
+                  "id": "skh-pb-001",
+                  "name": "Golden Temple",
+                  "alternative_names": [
+                    "Sri Harmandir Sahib",
+                    "Darbar Sahib"
+                  ],
+                  "religion": "Sikh",
+                  "category": "Takht Sahib",
+                  "subcategory": "Historic Gurudwara",
+                  "state": "Punjab",
+                  "district": "Amritsar",
+                  "city": "Amritsar",
+                  "village": "",
+                  "region": "North India",
+                  "latitude": 31.6200,
+                  "longitude": 74.8765,
+                  "elevation": "234m",
+                  "description": "The Golden Temple is the preeminent spiritual site of Sikhism.",
+                  "history": "Built by the fifth Sikh Guru, Guru Arjan, around the holy sarovar.",
+                  "religious_significance": "The holiest Gurdwara and the most important pilgrimage site of Sikhism.",
+                  "architecture": "A blend of Hindu Rajput and Islamic Mughal styles with gold-foil-covered upper floors.",
+                  "main_deity_or_revered_person": "Guru Granth Sahib",
+                  "established_year": "1589",
+                  "founder": "Guru Ram Das and Guru Arjan",
+                  "best_time_to_visit": "October to March",
+                  "climate": "Semi-arid",
+                  "opening_time": "03:00",
+                  "closing_time": "22:00",
+                  "entry_fee": 0,
+                  "dress_code": "Head covered, bare feet, modest clothing",
+                  "photography_allowed": true,
+                  "wheelchair_accessible": true,
+                  "parking": true,
+                  "food_available": true,
+                  "locker": true,
+                  "washroom": true,
+                  "medical_facility": true,
+                  "accommodation": [
+                    "niwas",
+                    "hotel",
+                    "dharamshala"
+                  ],
+                  "official_website": "https://sgpc.net",
+                  "google_maps": "https://maps.google.com/?q=31.6200,74.8765",
+                  "thumbnail": "https://api.example.com/images/golden_temple_thumb.jpg",
+                  "banner": "https://api.example.com/images/golden_temple_banner.jpg",
+                  "gallery": [
+                    "https://api.example.com/images/golden_temple_1.jpg",
+                    "https://api.example.com/images/golden_temple_2.jpg"
+                  ],
+                  "popularity_rating": 5.0,
+                  "estimated_visit_duration": "3 hours",
+                  "travel_tips": "Visit during early morning for the Palki Sahib ceremony. Partake in the Langar.",
+                  "nearby_attractions": [
+                    {
+                      "name": "Jallianwala Bagh",
+                      "category": "Memorial",
+                      "distance": "0.5 km",
+                      "travel_time": "5 mins",
+                      "description": "Historic garden and memorial of national importance."
+                    },
+                    {
+                      "name": "Wagah Border",
+                      "category": "Landmark",
+                      "distance": "32 km",
+                      "travel_time": "1 hour",
+                      "description": "Border crossing between India and Pakistan known for the beating retreat ceremony."
+                    },
+                    {
+                      "name": "Partition Museum",
+                      "category": "Museum",
+                      "distance": "1 km",
+                      "travel_time": "10 mins",
+                      "description": "Museum detailing the history of the 1947 partition of India."
+                    },
+                    {
+                      "name": "Akal Takht",
+                      "category": "Takht Sahib",
+                      "distance": "0.1 km",
+                      "travel_time": "1 min",
+                      "description": "The highest seat of earthly authority of the Khalsa."
+                    },
+                    {
+                      "name": "Gurudwara Baba Atal Rai",
+                      "category": "Gurudwara",
+                      "distance": "0.3 km",
+                      "travel_time": "5 mins",
+                      "description": "A nine-story octagonal tower near the Golden Temple."
+                    },
+                    {
+                      "name": "Durgiana Temple",
+                      "category": "Hindu Temple",
+                      "distance": "1.5 km",
+                      "travel_time": "10 mins",
+                      "description": "A premier Hindu temple of Punjab situated in the city of Amritsar."
+                    },
+                    {
+                      "name": "Gobindgarh Fort",
+                      "category": "Fort",
+                      "distance": "2 km",
+                      "travel_time": "15 mins",
+                      "description": "Historic military fort built in the 18th century."
+                    },
+                    {
+                      "name": "Sadda Pind",
+                      "category": "Cultural Village",
+                      "distance": "8 km",
+                      "travel_time": "25 mins",
+                      "description": "A Punjabi culture living village museum."
+                    },
+                    {
+                      "name": "Ram Bagh Gardens",
+                      "category": "Garden",
+                      "distance": "3 km",
+                      "travel_time": "15 mins",
+                      "description": "Beautiful gardens containing the summer palace of Maharaja Ranjit Singh."
+                    },
+                    {
+                      "name": "Khalsa College",
+                      "category": "Heritage Building",
+                      "distance": "5 km",
+                      "travel_time": "20 mins",
+                      "description": "Historic educational institution with stunning Indo-Saracenic architecture."
+                    }
+                  ],
+                  "festivals": [
+                    {
+                      "festival_name": "Diwali",
+                      "month": "October/November",
+                      "importance": "Highest",
+                      "duration": "1 day",
+                      "crowd_level": "Extremely High",
+                      "estimated_visitors": 200000
+                    }
+                  ],
+                  "travel_information": {
+                    "from": "Delhi",
+                    "routes": [
+                      {
+                        "travel_type": "Car",
+                        "distance_km": 450,
+                        "estimated_duration": "8 hours",
+                        "estimated_cost": 5000,
+                        "fuel_required": "35 Liters",
+                        "road_condition": "Excellent multi-lane highways",
+                        "difficulty": "Easy",
+                        "toll_cost": 650,
+                        "google_maps_link": "https://maps.google.com/route_delhi_amritsar",
+                        "alternative_route": "Via Rohtak-Hisar",
+                        "fastest_route": "Via NH44",
+                        "shortest_route": "Via NH44",
+                        "scenic_route": "Via NH44",
+                        "route_stops": [
+                          {
+                            "name": "Delhi",
+                            "state": "Delhi",
+                            "latitude": 28.6139,
+                            "longitude": 77.2090,
+                            "distance_from_previous": 0,
+                            "travel_time": "0 mins",
+                            "road_type": "Highway",
+                            "food": true,
+                            "fuel": true,
+                            "hotel": true,
+                            "hospital": true,
+                            "atm": true,
+                            "washroom": true,
+                            "police": true,
+                            "tourist_spot": false,
+                            "photo": "https://api.example.com/images/delhi.jpg"
+                          },
+                          {
+                            "name": "Panipat",
+                            "state": "Haryana",
+                            "latitude": 29.3909,
+                            "longitude": 76.9708,
+                            "distance_from_previous": 95,
+                            "travel_time": "2 hours",
+                            "road_type": "NH44",
+                            "food": true,
+                            "fuel": true,
+                            "hotel": true,
+                            "hospital": true,
+                            "atm": true,
+                            "washroom": true,
+                            "police": true,
+                            "tourist_spot": true,
+                            "photo": "https://api.example.com/images/panipat.jpg"
+                          },
+                          {
+                            "name": "Ambala",
+                            "state": "Haryana",
+                            "latitude": 30.3782,
+                            "longitude": 76.7767,
+                            "distance_from_previous": 115,
+                            "travel_time": "2 hours",
+                            "road_type": "NH44",
+                            "food": true,
+                            "fuel": true,
+                            "hotel": true,
+                            "hospital": true,
+                            "atm": true,
+                            "washroom": true,
+                            "police": true,
+                            "tourist_spot": true,
+                            "photo": "https://api.example.com/images/ambala.jpg"
+                          },
+                          {
+                            "name": "Jalandhar",
+                            "state": "Punjab",
+                            "latitude": 31.3260,
+                            "longitude": 75.5762,
+                            "distance_from_previous": 160,
+                            "travel_time": "2.5 hours",
+                            "road_type": "NH44",
+                            "food": true,
+                            "fuel": true,
+                            "hotel": true,
+                            "hospital": true,
+                            "atm": true,
+                            "washroom": true,
+                            "police": true,
+                            "tourist_spot": true,
+                            "photo": "https://api.example.com/images/jalandhar.jpg"
+                          },
+                          {
+                            "name": "Amritsar",
+                            "state": "Punjab",
+                            "latitude": 31.6200,
+                            "longitude": 74.8765,
+                            "distance_from_previous": 80,
+                            "travel_time": "1.5 hours",
+                            "road_type": "NH44",
+                            "food": true,
+                            "fuel": true,
+                            "hotel": true,
+                            "hospital": true,
+                            "atm": true,
+                            "washroom": true,
+                            "police": true,
+                            "tourist_spot": true,
+                            "photo": "https://api.example.com/images/amritsar.jpg"
+                          }
+                        ]
+                      }
+                    ],
+                    "train_information": {
+                      "train_name": "Amritsar Shatabdi",
+                      "train_number": "12013",
+                      "departure_station": "New Delhi (NDLS)",
+                      "arrival_station": "Amritsar Jn (ASR)",
+                      "departure_time": "16:30",
+                      "arrival_time": "22:30",
+                      "duration": "6 hours",
+                      "available_classes": [
+                        "CC",
+                        "EC"
+                      ],
+                      "important_intermediate_stations": [
+                        "Ambala Cantt",
+                        "Ludhiana",
+                        "Jalandhar City"
+                      ],
+                      "irctc_placeholder": "https://www.irctc.co.in/"
+                    },
+                    "flight_information": {
+                      "departure_airport": "Indira Gandhi International Airport (DEL)",
+                      "arrival_airport": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+                      "airlines": [
+                        "IndiGo",
+                        "Vistara",
+                        "Air India"
+                      ],
+                      "estimated_fare": 3500,
+                      "airport_to_destination_distance": 13,
+                      "airport_transfer_options": [
+                        "Taxi",
+                        "Auto"
+                      ]
+                    },
+                    "bus_information": {
+                      "government_bus": true,
+                      "private_bus": true,
+                      "volvo": true,
+                      "sleeper": true,
+                      "departure": "ISBT Kashmere Gate",
+                      "arrival": "Amritsar Bus Stand",
+                      "major_stops": [
+                        "Panipat",
+                        "Ambala",
+                        "Ludhiana",
+                        "Jalandhar"
+                      ],
+                      "fare": 900,
+                      "booking_placeholder": "https://www.pepsuonline.com/"
+                    }
+                  },
+                  "weather": {
+                    "summer": "35°C to 45°C",
+                    "winter": "4°C to 20°C",
+                    "monsoon": "25°C to 35°C, moderate rainfall",
+                    "best_season": "Winter",
+                    "snowfall": false
+                  },
+                  "accommodation": {
+                    "hotel": true,
+                    "dharamshala": true,
+                    "ashram": true,
+                    "guest_house": true,
+                    "budget_range": "1000 - 10000 INR",
+                    "contact": "+91-0000000001",
+                    "booking_placeholder": "https://booking.example.com"
+                  },
+                  "food": {
+                    "local_food": [
+                      "Amritsari Kulcha",
+                      "Lassi",
+                      "Chole Bhature"
+                    ],
+                    "satvik_food": true,
+                    "prasad": "Karah Parshad",
+                    "restaurants": [
+                      "Kesar Da Dhaba",
+                      "Bharawan Da Dhaba"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jain",
+      "regions": [
+        {
+          "region": "West India",
+          "states": [
+            {
+              "state": "Gujarat",
+              "destinations": [
+                {
+                  "id": "jan-gj-001",
+                  "name": "Palitana Temples",
+                  "alternative_names": [
+                    "Shatrunjaya Hill Temples"
+                  ],
+                  "religion": "Jain",
+                  "category": "Tirth Kshetra",
+                  "subcategory": "Jain Hill Temple",
+                  "state": "Gujarat",
+                  "district": "Bhavnagar",
+                  "city": "Palitana",
+                  "village": "",
+                  "region": "West India",
+                  "latitude": 21.5161,
+                  "longitude": 71.8275,
+                  "elevation": "600m",
+                  "description": "The Palitana temples on Shatrunjaya hill form the largest cluster of Jain temples.",
+                  "history": "Over 900 temples built over a period of 900 years starting from the 11th century.",
+                  "religious_significance": "Considered the most sacred pilgrimage site by the Svetambara Jain community.",
+                  "architecture": "Māru-Gurjara architecture featuring intricate marble carvings.",
+                  "main_deity_or_revered_person": "Rishabhanatha (Adinath)",
+                  "established_year": "11th century",
+                  "founder": "Various Jain merchants and kings",
+                  "best_time_to_visit": "October to March",
+                  "climate": "Hot semi-arid",
+                  "opening_time": "06:00",
+                  "closing_time": "18:00",
+                  "entry_fee": 0,
+                  "dress_code": "Strict traditional modest clothing; leather items prohibited",
+                  "photography_allowed": false,
+                  "wheelchair_accessible": false,
+                  "parking": true,
+                  "food_available": false,
+                  "locker": true,
+                  "washroom": true,
+                  "medical_facility": true,
+                  "accommodation": [
+                    "dharamshala"
+                  ],
+                  "official_website": "https://gujarattourism.com/palitana",
+                  "google_maps": "https://maps.google.com/?q=21.5161,71.8275",
+                  "thumbnail": "https://api.example.com/images/palitana_thumb.jpg",
+                  "banner": "https://api.example.com/images/palitana_banner.jpg",
+                  "gallery": [
+                    "https://api.example.com/images/palitana_1.jpg",
+                    "https://api.example.com/images/palitana_2.jpg"
+                  ],
+                  "popularity_rating": 4.8,
+                  "estimated_visit_duration": "6 hours",
+                  "travel_tips": "Involves climbing 3,500+ steps. Start early morning. Carry water.",
+                  "nearby_attractions": [
+                    {
+                      "name": "Vishal Jain Museum",
+                      "category": "Museum",
+                      "distance": "1 km",
+                      "travel_time": "5 mins",
+                      "description": "Museum displaying Jain artifacts and history."
+                    },
+                    {
+                      "name": "Talaja Caves",
+                      "category": "Cave",
+                      "distance": "38 km",
+                      "travel_time": "1 hour",
+                      "description": "Ancient Buddhist and Jain rock-cut caves."
+                    },
+                    {
+                      "name": "Bhavnagar Blackbuck National Park",
+                      "category": "National Park",
+                      "distance": "80 km",
+                      "travel_time": "2 hours",
+                      "description": "A unique ecosystem for blackbucks."
+                    },
+                    {
+                      "name": "Gopinath Beach",
+                      "category": "Beach",
+                      "distance": "75 km",
+                      "travel_time": "2 hours",
+                      "description": "Scenic beach near Bhavnagar."
+                    },
+                    {
+                      "name": "Khodiyar Mata Temple",
+                      "category": "Hindu Temple",
+                      "distance": "35 km",
+                      "travel_time": "1 hour",
+                      "description": "Popular temple set amidst a lake."
+                    },
+                    {
+                      "name": "Gaurishankar Lake",
+                      "category": "Lake",
+                      "distance": "55 km",
+                      "travel_time": "1.5 hours",
+                      "description": "Beautiful lake ideal for evening walks in Bhavnagar."
+                    },
+                    {
+                      "name": "Takhteshwar Temple",
+                      "category": "Hindu Temple",
+                      "distance": "52 km",
+                      "travel_time": "1.5 hours",
+                      "description": "Historic temple situated on a hillock in Bhavnagar."
+                    },
+                    {
+                      "name": "Victoria Park",
+                      "category": "Park",
+                      "distance": "54 km",
+                      "travel_time": "1.5 hours",
+                      "description": "A protected forest area in Bhavnagar."
+                    },
+                    {
+                      "name": "Alang Ship Recycling Yard",
+                      "category": "Industrial",
+                      "distance": "85 km",
+                      "travel_time": "2.5 hours",
+                      "description": "The world's largest ship recycling yard."
+                    },
+                    {
+                      "name": "Nilambag Palace",
+                      "category": "Heritage Hotel",
+                      "distance": "50 km",
+                      "travel_time": "1.5 hours",
+                      "description": "A grand heritage palace in Bhavnagar."
+                    }
+                  ],
+                  "festivals": [
+                    {
+                      "festival_name": "Mahavir Janma Kalyanak",
+                      "month": "March/April",
+                      "importance": "High",
+                      "duration": "1 day",
+                      "crowd_level": "High",
+                      "estimated_visitors": 20000
+                    }
+                  ],
+                  "travel_information": {
+                    "from": "Delhi",
+                    "routes": [
+                      {
+                        "travel_type": "Car",
+                        "distance_km": 1100,
+                        "estimated_duration": "20 hours",
+                        "estimated_cost": 15000,
+                        "fuel_required": "100 Liters",
+                        "road_condition": "Good highways for most of the journey",
+                        "difficulty": "Moderate",
+                        "toll_cost": 1500,
+                        "google_maps_link": "https://maps.google.com/route_delhi_palitana",
+                        "alternative_route": "Via Jaipur-Udaipur-Ahmedabad",
+                        "fastest_route": "Via NH48",
+                        "shortest_route": "Via NH48",
+                        "scenic_route": "Via Udaipur",
+                        "route_stops": [
+                          {
+                            "name": "Delhi",
+                            "state": "Delhi",
+                            "latitude": 28.6139,
+                            "longitude": 77.2090,
+                            "distance_from_previous": 0,
+                            "travel_time": "0 mins",
+                            "road_type": "Highway",
+                            "food": true,
+                            "fuel": true,
+                            "hotel": true,
+                            "hospital": true,
+                            "atm": true,
+                            "washroom": true,
+                            "police": true,
+                            "tourist_spot": false,
+                            "photo": "https://api.example.com/images/delhi.jpg"
+                          },
+                          {
+                            "name": "Jaipur",
+                            "state": "Rajasthan",
+                            "latitude": 26.9124,
+                            "longitude": 75.7873,
+                            "distance_from_previous": 280,
+                            "travel_time": "5 hours",
+                            "road_type": "NH48",
+                            "food": true,
+                            "fuel": true,
+                            "hotel": true,
+                            "hospital": true,
+                            "atm": true,
+                            "washroom": true,
+                            "police": true,
+                            "tourist_spot": true,
+                            "photo": "https://api.example.com/images/jaipur.jpg"
+                          },
+                          {
+                            "name": "Ahmedabad",
+                            "state": "Gujarat",
+                            "latitude": 23.0225,
+                            "longitude": 72.5714,
+                            "distance_from_previous": 680,
+                            "travel_time": "11 hours",
+                            "road_type": "NH48",
+                            "food": true,
+                            "fuel": true,
+                            "hotel": true,
+                            "hospital": true,
+                            "atm": true,
+                            "washroom": true,
+                            "police": true,
+                            "tourist_spot": true,
+                            "photo": "https://api.example.com/images/ahmedabad.jpg"
+                          },
+                          {
+                            "name": "Bhavnagar",
+                            "state": "Gujarat",
+                            "latitude": 21.7645,
+                            "longitude": 72.1519,
+                            "distance_from_previous": 170,
+                            "travel_time": "3.5 hours",
+                            "road_type": "State Highway",
+                            "food": true,
+                            "fuel": true,
+                            "hotel": true,
+                            "hospital": true,
+                            "atm": true,
+                            "washroom": true,
+                            "police": true,
+                            "tourist_spot": false,
+                            "photo": "https://api.example.com/images/bhavnagar.jpg"
+                          },
+                          {
+                            "name": "Palitana",
+                            "state": "Gujarat",
+                            "latitude": 21.5161,
+                            "longitude": 71.8275,
+                            "distance_from_previous": 50,
+                            "travel_time": "1.5 hours",
+                            "road_type": "Local Road",
+                            "food": true,
+                            "fuel": true,
+                            "hotel": true,
+                            "hospital": true,
+                            "atm": true,
+                            "washroom": true,
+                            "police": true,
+                            "tourist_spot": true,
+                            "photo": "https://api.example.com/images/palitana.jpg"
+                          }
+                        ]
+                      }
+                    ],
+                    "train_information": {
+                      "train_name": "Delhi Sarai Rohilla - Bhavnagar Terminus Link Express",
+                      "train_number": "19272",
+                      "departure_station": "Delhi Sarai Rohilla (DEE)",
+                      "arrival_station": "Bhavnagar Terminus (BVC)",
+                      "departure_time": "13:20",
+                      "arrival_time": "12:45",
+                      "duration": "23 hours 25 mins",
+                      "available_classes": [
+                        "2A",
+                        "3A",
+                        "SL"
+                      ],
+                      "important_intermediate_stations": [
+                        "Jaipur",
+                        "Ajmer",
+                        "Ahmedabad"
+                      ],
+                      "irctc_placeholder": "https://www.irctc.co.in/"
+                    },
+                    "flight_information": {
+                      "departure_airport": "Indira Gandhi International Airport (DEL)",
+                      "arrival_airport": "Bhavnagar Airport (BHU)",
+                      "airlines": [
+                        "SpiceJet"
+                      ],
+                      "estimated_fare": 6000,
+                      "airport_to_destination_distance": 55,
+                      "airport_transfer_options": [
+                        "Taxi",
+                        "Bus"
+                      ]
+                    },
+                    "bus_information": {
+                      "government_bus": true,
+                      "private_bus": true,
+                      "volvo": true,
+                      "sleeper": true,
+                      "departure": "Ahmedabad (Connecting from Delhi)",
+                      "arrival": "Palitana Bus Station",
+                      "major_stops": [
+                        "Bhavnagar"
+                      ],
+                      "fare": 1800,
+                      "booking_placeholder": "https://gsrtc.in/"
+                    }
+                  },
+                  "weather": {
+                    "summer": "35°C to 42°C",
+                    "winter": "15°C to 25°C",
+                    "monsoon": "25°C to 35°C, moderate rainfall",
+                    "best_season": "Winter",
+                    "snowfall": false
+                  },
+                  "accommodation": {
+                    "hotel": false,
+                    "dharamshala": true,
+                    "ashram": true,
+                    "guest_house": true,
+                    "budget_range": "200 - 1500 INR",
+                    "contact": "+91-0000000002",
+                    "booking_placeholder": "https://booking.example.com"
+                  },
+                  "food": {
+                    "local_food": [
+                      "Kathiyawadi Thali"
+                    ],
+                    "satvik_food": true,
+                    "prasad": "Dry Fruits",
+                    "restaurants": [
+                      "Dharamshala Bhojanalayas"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Buddhist",
+      "regions": [
+        {
+          "region": "East India",
+          "states": [
+            {
+              "state": "Bihar",
+              "destinations": [
+                {
+                  "id": "bud-br-001",
+                  "name": "Mahabodhi Temple",
+                  "alternative_names": [
+                    "Great Awakening Temple"
+                  ],
+                  "religion": "Buddhist",
+                  "category": "Mahabodhi Sites",
+                  "subcategory": "Buddhist Heritage Site",
+                  "state": "Bihar",
+                  "district": "Gaya",
+                  "city": "Bodh Gaya",
+                  "village": "",
+                  "region": "East India",
+                  "latitude": 24.6959,
+                  "longitude": 84.9914,
+                  "elevation": "111m",
+                  "description": "An ancient, but much rebuilt and restored, Buddhist temple marking the location where the Buddha is said to have attained enlightenment.",
+                  "history": "Originally built by Emperor Ashoka in the 3rd century BCE.",
+                  "religious_significance": "The most sacred site in Buddhism, representing the site of Gautama Buddha's enlightenment.",
+                  "architecture": "Brick architecture with a central tower rising 55 meters.",
+                  "main_deity_or_revered_person": "Gautama Buddha",
+                  "established_year": "3rd century BCE",
+                  "founder": "Emperor Ashoka",
+                  "best_time_to_visit": "October to March",
+                  "climate": "Subtropical",
+                  "opening_time": "05:00",
+                  "closing_time": "21:00",
+                  "entry_fee": 0,
+                  "dress_code": "Modest clothing",
+                  "photography_allowed": true,
+                  "wheelchair_accessible": true,
+                  "parking": true,
+                  "food_available": true,
+                  "locker": true,
+                  "washroom": true,
+                  "medical_facility": true,
+                  "accommodation": [
+                    "monastery",
+                    "hotel",
+                    "guest_house"
+                  ],
+                  "official_website": "https://bodhgayatemple.com",
+                  "google_maps": "https://maps.google.com/?q=24.6959,84.9914",
+                  "thumbnail": "https://api.example.com/images/mahabodhi_thumb.jpg",
+                  "banner": "https://api.example.com/images/mahabodhi_banner.jpg",
+                  "gallery": [
+                    "https://api.example.com/images/mahabodhi_1.jpg",
+                    "https://api.example.com/images/mahabodhi_2.jpg"
+                  ],
+                  "popularity_rating": 4.9,
+                  "estimated_visit_duration": "2 hours",
+                  "travel_tips": "Leave electronic devices outside; only cameras are allowed with a fee.",
+                  "nearby_attractions": [
+                    {
+                      "name": "Bodhi Tree",
+                      "category": "Holy Site",
+                      "distance": "0.01 km",
+                      "travel_time": "1 min",
+                      "description": "The sacred fig tree under which Buddha attained enlightenment."
+                    },
+                    {
+                      "name": "Great Buddha Statue",
+                      "category": "Monument",
+                      "distance": "1.5 km",
+                      "travel_time": "10 mins",
+                      "description": "80-foot tall statue of Buddha in meditation pose."
+                    },
+                    {
+                      "name": "Thai Monastery",
+                      "category": "Monastery",
+                      "distance": "1 km",
+                      "travel_time": "8 mins",
+                      "description": "Beautiful Thai-style architecture with sloping curved roofs."
+                    },
+                    {
+                      "name": "Japanese Temple",
+                      "category": "Temple",
+                      "distance": "1.2 km",
+                      "travel_time": "10 mins",
+                      "description": "Temple with traditional Japanese architecture."
+                    },
+                    {
+                      "name": "Sujata Stupa",
+                      "category": "Stupa",
+                      "distance": "8 km",
+                      "travel_time": "20 mins",
+                      "description": "Stupa dedicated to the milkmaid Sujata."
+                    },
+                    {
+                      "name": "Dungeshwari Cave Temples",
+                      "category": "Cave",
+                      "distance": "12 km",
+                      "travel_time": "30 mins",
+                      "description": "Caves where Buddha meditated before coming to Bodh Gaya."
+                    },
+                    {
+                      "name": "Vishnupad Temple",
+                      "category": "Hindu Temple",
+                      "distance": "12 km",
+                      "travel_time": "30 mins",
+                      "description": "Ancient Hindu temple in Gaya dedicated to Lord Vishnu."
+                    },
+                    {
+                      "name": "Archaeological Society of India Museum",
+                      "category": "Museum",
+                      "distance": "0.5 km",
+                      "travel_time": "5 mins",
+                      "description": "Museum holding a collection of Buddhist and Hindu relics."
+                    },
+                    {
+                      "name": "Muchalinda Lake",
+                      "category": "Lake",
+                      "distance": "0.2 km",
+                      "travel_time": "3 mins",
+                      "description": "Sacred lake associated with the snake king Muchalinda."
+                    },
+                    {
+                      "name": "Root Institute",
+                      "category": "Meditation Centre",
+                      "distance": "2 km",
+                      "travel_time": "10 mins",
+                      "description": "A Tibetan Buddhist center offering meditation courses."
+                    }
+                  ],
+                  "festivals": [
+                    {
+                      "festival_name": "Buddha Purnima",
+                      "month": "April/May",
+                      "importance": "Highest",
+                      "duration": "1 day",
+                      "crowd_level": "Extremely High",
+                      "estimated_visitors": 100000
+                    }
+                  ],
+                  "travel_information": {
+                    "from": "Delhi",
+                    "routes": [
+                      {
+                        "travel_type": "Car",
+                        "distance_km": 1050,
+                        "estimated_duration": "18 hours",
+                        "estimated_cost": 12000,
+                        "fuel_required": "80 Liters",
+                        "road_condition": "Good highways mostly via Agra-Lucknow Expressway",
+                        "difficulty": "Moderate",
+                        "toll_cost": 1800,
+                        "google_maps_link": "https://maps.google.com/route_delhi_bodhgaya",
+                        "alternative_route": "Via Kanpur-Varanasi",
+                        "fastest_route": "Via Agra-Lucknow Expy",
+                        "shortest_route": "Via NH19",
+                        "scenic_route": "Via Varanasi",
+                        "route_stops": [
+                          {
+                            "name": "Delhi",
+                            "state": "Delhi",
+                            "latitude": 28.6139,
+                            "longitude": 77.2090,
+                            "distance_from_previous": 0,
+                            "travel_time": "0 mins",
+                            "road_type": "Highway",
+                            "food": true,
+                            "fuel": true,
+                            "hotel": true,
+                            "hospital": true,
+                            "atm": true,
+                            "washroom": true,
+                            "police": true,
+                            "tourist_spot": false,
+                            "photo": "https://api.example.com/images/delhi.jpg"
+                          },
+                          {
+                            "name": "Agra",
+                            "state": "Uttar Pradesh",
+                            "latitude": 27.1767,
+                            "longitude": 78.0081,
+                            "distance_from_previous": 230,
+                            "travel_time": "3.5 hours",
+                            "road_type": "Expressway",
+                            "food": true,
+                            "fuel": true,
+                            "hotel": true,
+                            "hospital": true,
+                            "atm": true,
+                            "washroom": true,
+                            "police": true,
+                            "tourist_spot": true,
+                            "photo": "https://api.example.com/images/agra.jpg"
+                          },
+                          {
+                            "name": "Lucknow",
+                            "state": "Uttar Pradesh",
+                            "latitude": 26.8467,
+                            "longitude": 80.9462,
+                            "distance_from_previous": 335,
+                            "travel_time": "4.5 hours",
+                            "road_type": "Expressway",
+                            "food": true,
+                            "fuel": true,
+                            "hotel": true,
+                            "hospital": true,
+                            "atm": true,
+                            "washroom": true,
+                            "police": true,
+                            "tourist_spot": true,
+                            "photo": "https://api.example.com/images/lucknow.jpg"
+                          },
+                          {
+                            "name": "Varanasi",
+                            "state": "Uttar Pradesh",
+                            "latitude": 25.3176,
+                            "longitude": 82.9739,
+                            "distance_from_previous": 320,
+                            "travel_time": "6 hours",
+                            "road_type": "NH",
+                            "food": true,
+                            "fuel": true,
+                            "hotel": true,
+                            "hospital": true,
+                            "atm": true,
+                            "washroom": true,
+                            "police": true,
+                            "tourist_spot": true,
+                            "photo": "https://api.example.com/images/varanasi.jpg"
+                          },
+                          {
+                            "name": "Bodh Gaya",
+                            "state": "Bihar",
+                            "latitude": 24.6959,
+                            "longitude": 84.9914,
+                            "distance_from_previous": 250,
+                            "travel_time": "5.5 hours",
+                            "road_type": "NH",
+                            "food": true,
+                            "fuel": true,
+                            "hotel": true,
+                            "hospital": true,
+                            "atm": true,
+                            "washroom": true,
+                            "police": true,
+                            "tourist_spot": true,
+                            "photo": "https://api.example.com/images/bodhgaya.jpg"
+                          }
+                        ]
+                      }
+                    ],
+                    "train_information": {
+                      "train_name": "Mahabodhi Express",
+                      "train_number": "12398",
+                      "departure_station": "New Delhi (NDLS)",
+                      "arrival_station": "Gaya Jn (GAYA)",
+                      "departure_time": "12:50",
+                      "arrival_time": "02:55",
+                      "duration": "14 hours 5 mins",
+                      "available_classes": [
+                        "1A",
+                        "2A",
+                        "3A",
+                        "SL"
+                      ],
+                      "important_intermediate_stations": [
+                        "Kanpur",
+                        "Prayagraj",
+                        "Pt. Deen Dayal Upadhyaya"
+                      ],
+                      "irctc_placeholder": "https://www.irctc.co.in/"
+                    },
+                    "flight_information": {
+                      "departure_airport": "Indira Gandhi International Airport (DEL)",
+                      "arrival_airport": "Gaya Airport (GAY)",
+                      "airlines": [
+                        "IndiGo"
+                      ],
+                      "estimated_fare": 4500,
+                      "airport_to_destination_distance": 10,
+                      "airport_transfer_options": [
+                        "Taxi",
+                        "Auto"
+                      ]
+                    },
+                    "bus_information": {
+                      "government_bus": true,
+                      "private_bus": true,
+                      "volvo": true,
+                      "sleeper": true,
+                      "departure": "Anand Vihar ISBT",
+                      "arrival": "Gaya Bus Stand",
+                      "major_stops": [
+                        "Lucknow",
+                        "Varanasi"
+                      ],
+                      "fare": 1500,
+                      "booking_placeholder": "https://www.upsrtc.com/"
+                    }
+                  },
+                  "weather": {
+                    "summer": "35°C to 45°C",
+                    "winter": "10°C to 25°C",
+                    "monsoon": "25°C to 35°C, heavy rainfall",
+                    "best_season": "Winter",
+                    "snowfall": false
+                  },
+                  "accommodation": {
+                    "hotel": true,
+                    "dharamshala": false,
+                    "ashram": false,
+                    "guest_house": true,
+                    "budget_range": "800 - 8000 INR",
+                    "contact": "+91-0000000003",
+                    "booking_placeholder": "https://booking.example.com"
+                  },
+                  "food": {
+                    "local_food": [
+                      "Litti Chokha",
+                      "Sattu Paratha"
+                    ],
+                    "satvik_food": true,
+                    "prasad": "Khaja",
+                    "restaurants": [
+                      "Be Happy Cafe",
+                      "Siam Thai Restaurant"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zoroastrian",
+      "regions": [
+        {
+          "region": "West India",
+          "states": [
+            {
+              "state": "Gujarat",
+              "destinations": [
+                {
+                  "id": "zor-gj-001",
+                  "name": "Udvada Atash Behram",
+                  "alternative_names": [
+                    "Iranshah Atash Behram"
+                  ],
+                  "religion": "Zoroastrian (Parsi)",
+                  "category": "Atash Behram",
+                  "subcategory": "Fire Temple",
+                  "state": "Gujarat",
+                  "district": "Valsad",
+                  "city": "Udvada",
+                  "village": "Udvada",
+                  "region": "West India",
+                  "latitude": 20.4851,
+                  "longitude": 72.8683,
+                  "elevation": "12m",
+                  "description": "The oldest continuously burning fire temple in India, housing the sacred Iranshah fire.",
+                  "history": "The sacred fire was brought from Iran to India in the 8th century.",
+                  "religious_significance": "The most sacred of the Zoroastrian fire temples in India.",
+                  "architecture": "Parsi-Victorian architectural style.",
+                  "main_deity_or_revered_person": "Ahura Mazda (worshipped via the sacred fire)",
+                  "established_year": "1742 (current structure)",
+                  "founder": "Parsi Community",
+                  "best_time_to_visit": "October to March",
+                  "climate": "Tropical",
+                  "opening_time": "06:00",
+                  "closing_time": "20:00",
+                  "entry_fee": 0,
+                  "dress_code": "Modest clothing, head covering required",
+                  "photography_allowed": false,
+                  "wheelchair_accessible": true,
+                  "parking": true,
+                  "food_available": true,
+                  "locker": false,
+                  "washroom": true,
+                  "medical_facility": true,
+                  "accommodation": [
+                    "guest_house",
+                    "dharamshala"
+                  ],
+                  "official_website": "placeholder_udvada",
+                  "google_maps": "https://maps.google.com/?q=20.4851,72.8683",
+                  "thumbnail": "https://api.example.com/images/udvada_thumb.jpg",
+                  "banner": "https://api.example.com/images/udvada_banner.jpg",
+                  "gallery": [
+                    "https://api.example.com/images/udvada_1.jpg",
+                    "https://api.example.com/images/udvada_2.jpg"
+                  ],
+                  "popularity_rating": 4.8,
+                  "estimated_visit_duration": "1 hour",
+                  "travel_tips": "Only Parsis and Zoroastrians are allowed inside the main sanctum. Non-Zoroastrians can view from outside.",
+                  "nearby_attractions": [
+                    {
+                      "name": "Zoroastrian Heritage Museum",
+                      "category": "Museum",
+                      "distance": "0.5 km",
+                      "travel_time": "5 mins",
+                      "description": "Museum detailing Parsi history and culture in India."
+                    },
+                    {
+                      "name": "Udvada Beach",
+                      "category": "Beach",
+                      "distance": "1 km",
+                      "travel_time": "10 mins",
+                      "description": "Quiet, black sand beach bordering the Arabian Sea."
+                    },
+                    {
+                      "name": "Daman Fort",
+                      "category": "Fort",
+                      "distance": "15 km",
+                      "travel_time": "30 mins",
+                      "description": "Historic Portuguese fort in nearby Daman."
+                    },
+                    {
+                      "name": "Jampore Beach",
+                      "category": "Beach",
+                      "distance": "20 km",
+                      "travel_time": "45 mins",
+                      "description": "Popular beach in Daman."
+                    },
+                    {
+                      "name": "Devka Beach",
+                      "category": "Beach",
+                      "distance": "18 km",
+                      "travel_time": "40 mins",
+                      "description": "Rocky beach known for amusement parks."
+                    },
+                    {
+                      "name": "Tithal Beach",
+                      "category": "Beach",
+                      "distance": "30 km",
+                      "travel_time": "1 hour",
+                      "description": "Famous black sand beach near Valsad."
+                    },
+                    {
+                      "name": "BAPS Swaminarayan Temple",
+                      "category": "Hindu Temple",
+                      "distance": "32 km",
+                      "travel_time": "1 hour",
+                      "description": "Large ornate Hindu temple in Navsari."
+                    },
+                    {
+                      "name": "Parnera Hill",
+                      "category": "Hill",
+                      "distance": "25 km",
+                      "travel_time": "50 mins",
+                      "description": "Hill featuring a fort and multiple temples."
+                    },
+                    {
+                      "name": "Wilson Hills",
+                      "category": "Hill Station",
+                      "distance": "70 km",
+                      "travel_time": "2 hours",
+                      "description": "Scenic hill station in the Dharampur region."
+                    },
+                    {
+                      "name": "Sajan Nature Club",
+                      "category": "Resort",
+                      "distance": "80 km",
+                      "travel_time": "2.5 hours",
+                      "description": "Nature retreat and adventure park."
+                    }
+                  ],
+                  "festivals": [
+                    {
+                      "festival_name": "Navroz",
+                      "month": "March",
+                      "importance": "High",
+                      "duration": "1 day",
+                      "crowd_level": "High",
+                      "estimated_visitors": 5000
+                    }
+                  ],
+                  "travel_information": {
+                    "from": "Delhi",
+                    "routes": [
+                      {
+                        "travel_type": "Car",
+                        "distance_km": 1300,
+                        "estimated_duration": "24 hours",
+                        "estimated_cost": 16000,
+                        "fuel_required": "110 Liters",
+                        "road_condition": "Good highways via NH48",
+                        "difficulty": "Moderate",
+                        "toll_cost": 2200,
+                        "google_maps_link": "https://maps.google.com/route_delhi_udvada",
+                        "alternative_route": "Via NE4",
+                        "fastest_route": "Via NH48",
+                        "shortest_route": "Via NH48",
+                        "scenic_route": "Via NH48",
+                        "route_stops": [
+                          {
+                            "name": "Delhi",
+                            "state": "Delhi",
+                            "latitude": 28.6139,
+                            "longitude": 77.2090,
+                            "distance_from_previous": 0,
+                            "travel_time": "0 mins",
+                            "road_type": "Highway",
+                            "food": true,
+                            "fuel": true,
+                            "hotel": true,
+                            "hospital": true,
+                            "atm": true,
+                            "washroom": true,
+                            "police": true,
+                            "tourist_spot": false,
+                            "photo": "https://api.example.com/images/delhi.jpg"
+                          },
+                          {
+                            "name": "Jaipur",
+                            "state": "Rajasthan",
+                            "latitude": 26.9124,
+                            "longitude": 75.7873,
+                            "distance_from_previous": 280,
+                            "travel_time": "5 hours",
+                            "road_type": "NH48",
+                            "food": true,
+                            "fuel": true,
+                            "hotel": true,
+                            "hospital": true,
+                            "atm": true,
+                            "washroom": true,
+                            "police": true,
+                            "tourist_spot": true,
+                            "photo": "https://api.example.com/images/jaipur.jpg"
+                          },
+                          {
+                            "name": "Udaipur",
+                            "state": "Rajasthan",
+                            "latitude": 24.5854,
+                            "longitude": 73.7125,
+                            "distance_from_previous": 390,
+                            "travel_time": "7 hours",
+                            "road_type": "NH48",
+                            "food": true,
+                            "fuel": true,
+                            "hotel": true,
+                            "hospital": true,
+                            "atm": true,
+                            "washroom": true,
+                            "police": true,
+                            "tourist_spot": true,
+                            "photo": "https://api.example.com/images/udaipur.jpg"
+                          },
+                          {
+                            "name": "Surat",
+                            "state": "Gujarat",
+                            "latitude": 21.1702,
+                            "longitude": 72.8311,
+                            "distance_from_previous": 500,
+                            "travel_time": "9 hours",
+                            "road_type": "NH48",
+                            "food": true,
+                            "fuel": true,
+                            "hotel": true,
+                            "hospital": true,
+                            "atm": true,
+                            "washroom": true,
+                            "police": true,
+                            "tourist_spot": false,
+                            "photo": "https://api.example.com/images/surat.jpg"
+                          },
+                          {
+                            "name": "Udvada",
+                            "state": "Gujarat",
+                            "latitude": 20.4851,
+                            "longitude": 72.8683,
+                            "distance_from_previous": 115,
+                            "travel_time": "2.5 hours",
+                            "road_type": "NH48",
+                            "food": true,
+                            "fuel": true,
+                            "hotel": true,
+                            "hospital": true,
+                            "atm": true,
+                            "washroom": true,
+                            "police": true,
+                            "tourist_spot": true,
+                            "photo": "https://api.example.com/images/udvada.jpg"
+                          }
+                        ]
+                      }
+                    ],
+                    "train_information": {
+                      "train_name": "August Kranti Rajdhani Express",
+                      "train_number": "12954",
+                      "departure_station": "Hazrat Nizamuddin (NZM)",
+                      "arrival_station": "Vapi (VAPI)",
+                      "departure_time": "17:15",
+                      "arrival_time": "08:14",
+                      "duration": "14 hours 59 mins",
+                      "available_classes": [
+                        "1A",
+                        "2A",
+                        "3A"
+                      ],
+                      "important_intermediate_stations": [
+                        "Kota",
+                        "Vadodara",
+                        "Surat"
+                      ],
+                      "irctc_placeholder": "https://www.irctc.co.in/"
+                    },
+                    "flight_information": {
+                      "departure_airport": "Indira Gandhi International Airport (DEL)",
+                      "arrival_airport": "Surat Airport (STV)",
+                      "airlines": [
+                        "IndiGo",
+                        "Air India Express"
+                      ],
+                      "estimated_fare": 5000,
+                      "airport_to_destination_distance": 120,
+                      "airport_transfer_options": [
+                        "Taxi",
+                        "Train"
+                      ]
+                    },
+                    "bus_information": {
+                      "government_bus": false,
+                      "private_bus": true,
+                      "volvo": true,
+                      "sleeper": true,
+                      "departure": "Delhi (connecting via Surat)",
+                      "arrival": "Vapi Bus Stand",
+                      "major_stops": [
+                        "Jaipur",
+                        "Ahmedabad",
+                        "Surat"
+                      ],
+                      "fare": 2500,
+                      "booking_placeholder": "https://www.redbus.in/"
+                    }
+                  },
+                  "weather": {
+                    "summer": "30°C to 38°C",
+                    "winter": "15°C to 30°C",
+                    "monsoon": "25°C to 32°C, heavy rainfall",
+                    "best_season": "Winter",
+                    "snowfall": false
+                  },
+                  "accommodation": {
+                    "hotel": true,
+                    "dharamshala": true,
+                    "ashram": false,
+                    "guest_house": true,
+                    "budget_range": "1000 - 5000 INR",
+                    "contact": "+91-0000000004",
+                    "booking_placeholder": "https://booking.example.com"
+                  },
+                  "food": {
+                    "local_food": [
+                      "Dhansak",
+                      "Patra Ni Macchi",
+                      "Sali Boti"
+                    ],
+                    "satvik_food": false,
+                    "prasad": "Sukar",
+                    "restaurants": [
+                      "Cafe Farohar",
+                      "Ashishvangh Hotel"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
