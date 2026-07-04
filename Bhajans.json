@@ -1,7 +1,7 @@
 [
     {
-        "category": "LordHanuman",
-        "category_image_url": "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Aaj%20Mangalvar%20Hai%20Mahaveer%20Ka%20_thumb.jpg",
+        "category": "Shri Hanuman",
+        "category_image_url": "https://abhivishrut.github.io/Data1/HariNaam/Image/PlaylistThumbnail/hanuman_ji.jpeg",
         "bhajans": [
             {
                 "id": 1,
@@ -276,8 +276,8 @@
         ]
     },
     {
-        "category": "LordKrishna",
-        "category_image_url": "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Adharam%20Madhuram%20Madhurashtaka_thumb.jpg",
+        "category": "Shri Krishna",
+        "category_image_url": "https://abhivishrut.github.io/Data1/HariNaam/Image/PlaylistThumbnail/shri_krishna.jpeg",
         "bhajans": [
             {
                 "id": 28,
@@ -582,8 +582,8 @@
         ]
     },
     {
-        "category": "LordRam",
-        "category_image_url": "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Aate%20Hai%20Raghunandan%20Sajwa%20Do%20_thumb.jpg",
+        "category": "Shri Ram",
+        "category_image_url": "https://abhivishrut.github.io/Data1/HariNaam/Image/PlaylistThumbnail/shri_ram.jpeg",
         "bhajans": [
             {
                 "id": 58,
@@ -1358,8 +1358,8 @@
         ]
     },
     {
-        "category": "LordShiva",
-        "category_image_url": "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Aadi%20Anant%20Shiva_thumb.jpg",
+        "category": "Bhagwan Shiva",
+        "category_image_url": "https://abhivishrut.github.io/Data1/HariNaam/Image/PlaylistThumbnail/bhagwan_shiv.jpeg",
         "bhajans": [
             {
                 "id": 135,
@@ -2174,8 +2174,8 @@
         ]
     },
     {
-        "category": "RadhaRani",
-        "category_image_url": "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Bhajman%20Radhe%20Radhe%20Govinda_thumb.jpg",
+        "category": "Shri Radha Rani",
+        "category_image_url": "https://abhivishrut.github.io/Data1/HariNaam/Image/PlaylistThumbnail/shri_radha_rani.jpeg",
         "bhajans": [
             {
                 "id": 216,
