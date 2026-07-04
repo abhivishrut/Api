@@ -60,11 +60,12 @@
                   },
                   "official_website": "https://badrinath-kedarnath.gov.in",
                   "google_maps": "https://maps.google.com/?q=30.7446,79.4930",
-                  "thumbnail": "https://api.example.com/images/badrinath_thumb.jpg",
-                  "banner": "https://api.example.com/images/badrinath_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Badrinath_Temple_%2C_Uttarakhand.jpg/330px-Badrinath_Temple_%2C_Uttarakhand.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Badrinath_Temple%2C_Uttarakhand%2C_India_%282012%29_18.jpg/1280px-Badrinath_Temple%2C_Uttarakhand%2C_India_%282012%29_18.jpg",
                   "gallery": [
-                    "https://api.example.com/images/badrinath_1.jpg",
-                    "https://api.example.com/images/badrinath_2.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Badrinath_Temple_%2C_Uttarakhand.jpg/960px-Badrinath_Temple_%2C_Uttarakhand.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Badrinath_Temple%2C_Uttarakhand%2C_India_%282012%29_18.jpg/960px-Badrinath_Temple%2C_Uttarakhand%2C_India_%282012%29_18.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Badrinath_temple_-_Uttarakhand.jpg/960px-Badrinath_temple_-_Uttarakhand.jpg"
                   ],
                   "popularity_rating": 4.9,
                   "estimated_visit_duration": "2 hours",
@@ -352,10 +353,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=29.9575,78.1633",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mansa_Devi_Temple%2C_Haridwar.JPG/330px-Mansa_Devi_Temple%2C_Haridwar.JPG",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mansa_Devi_Temple%2C_Haridwar_03.jpg/1280px-Mansa_Devi_Temple%2C_Haridwar_03.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mansa_Devi_Temple%2C_Haridwar.JPG/960px-Mansa_Devi_Temple%2C_Haridwar.JPG",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mansa_Devi_Temple%2C_Haridwar_03.jpg/960px-Mansa_Devi_Temple%2C_Haridwar_03.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Mansa_Devi_Temple%2C_Haridwar_04.jpg/960px-Mansa_Devi_Temple%2C_Haridwar_04.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -547,10 +550,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=29.9329,78.1818",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Trisula_%28trident%29_from_Chandi_Pahar%2C_opposite_Haridwar._April_1814.jpg/330px-Trisula_%28trident%29_from_Chandi_Pahar%2C_opposite_Haridwar._April_1814.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ropeway_to_Chandi_Devi_Temple%2C_Haridwar.jpg/1280px-Ropeway_to_Chandi_Devi_Temple%2C_Haridwar.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Trisula_%28trident%29_from_Chandi_Pahar%2C_opposite_Haridwar._April_1814.jpg/960px-Trisula_%28trident%29_from_Chandi_Pahar%2C_opposite_Haridwar._April_1814.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ropeway_to_Chandi_Devi_Temple%2C_Haridwar.jpg/960px-Ropeway_to_Chandi_Devi_Temple%2C_Haridwar.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mansa_Devi_Temple%2C_Haridwar.JPG/960px-Mansa_Devi_Temple%2C_Haridwar.JPG"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -742,10 +747,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=30.7352,79.0669",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kedarnath_Temple_in_Rainy_season.jpg/330px-Kedarnath_Temple_in_Rainy_season.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kedarnath_Temple.jpg/1280px-Kedarnath_Temple.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kedarnath_Temple_in_Rainy_season.jpg/960px-Kedarnath_Temple_in_Rainy_season.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kedarnath_Temple.jpg/960px-Kedarnath_Temple.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Rishi_nikam_photo_kedarnath_2022_%E0%A4%95%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A4%A8%E0%A4%BE%E0%A4%A5_%E0%A4%8B%E0%A4%B7%E0%A4%BF_%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A4%AE.jpg/960px-Rishi_nikam_photo_kedarnath_2022_%E0%A4%95%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A4%A8%E0%A4%BE%E0%A4%A5_%E0%A4%8B%E0%A4%B7%E0%A4%BF_%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A4%AE.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -937,10 +944,10 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=30.9947,78.9398",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gangotri_%28ganga_river%29.jpg/330px-Gangotri_%28ganga_river%29.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gangotri_%28ganga_river%29.jpg/1280px-Gangotri_%28ganga_river%29.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gangotri_%28ganga_river%29.jpg/960px-Gangotri_%28ganga_river%29.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -1132,10 +1139,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=31.014,78.46",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Yamuna_at_Yamunotri.JPG/330px-Yamuna_at_Yamunotri.JPG",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Yamunotri_temple_and_ashram.jpg/1280px-Yamunotri_temple_and_ashram.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Yamuna_at_Yamunotri.JPG/960px-Yamuna_at_Yamunotri.JPG",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Yamunotri_temple_and_ashram.jpg/960px-Yamunotri_temple_and_ashram.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Yamunotri_Temple.jpg/960px-Yamunotri_Temple.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -1332,10 +1341,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=33.0298,74.949",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vaishno_Devi_Temple_arena.jpg/330px-Vaishno_Devi_Temple_arena.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Vaishno_Devi_Temple.jpg/1280px-Vaishno_Devi_Temple.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vaishno_Devi_Temple_arena.jpg/960px-Vaishno_Devi_Temple_arena.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Vaishno_Devi_Temple.jpg/960px-Vaishno_Devi_Temple.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Katra_Vaishno_Devi_temple_Seen1.jpg/960px-Katra_Vaishno_Devi_temple_Seen1.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -1532,10 +1543,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=27.5806,77.6985",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Banke_Bihari_Vrindavan.jpg/330px-Banke_Bihari_Vrindavan.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Banke_Bihari_Temple%2C_Vrindavan%2C_Mathura%2C_Uttar_Pradesh%2C_India_%282010%29.jpg/1280px-Banke_Bihari_Temple%2C_Vrindavan%2C_Mathura%2C_Uttar_Pradesh%2C_India_%282010%29.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Banke_Bihari_Vrindavan.jpg/960px-Banke_Bihari_Vrindavan.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Banke_Bihari_Temple%2C_Vrindavan%2C_Mathura%2C_Uttar_Pradesh%2C_India_%282010%29.jpg/960px-Banke_Bihari_Temple%2C_Vrindavan%2C_Mathura%2C_Uttar_Pradesh%2C_India_%282010%29.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Banke_bihari_%28504%29.JPG/960px-Banke_bihari_%28504%29.JPG"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -1732,10 +1745,10 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=26.4866,74.5513",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Brahma_Temple%2C_Pushkar.jpg/330px-Brahma_Temple%2C_Pushkar.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Brahma_Temple%2C_Pushkar.jpg/1280px-Brahma_Temple%2C_Pushkar.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Brahma_Temple%2C_Pushkar.jpg/960px-Brahma_Temple%2C_Pushkar.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -1927,10 +1940,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=27.7951,73.3424",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Courtyard_of_the_Karni_Mata_temple_at_Deshnoke_near_Bikaner.jpg/330px-Courtyard_of_the_Karni_Mata_temple_at_Deshnoke_near_Bikaner.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Deshnok%2C_Karni_Mata_Temple_%286271597223%29.jpg/1280px-Deshnok%2C_Karni_Mata_Temple_%286271597223%29.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Courtyard_of_the_Karni_Mata_temple_at_Deshnoke_near_Bikaner.jpg/960px-Courtyard_of_the_Karni_Mata_temple_at_Deshnoke_near_Bikaner.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Deshnok%2C_Karni_Mata_Temple_%286271597223%29.jpg/960px-Deshnok%2C_Karni_Mata_Temple_%286271597223%29.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Karni_Mata_Temple_Deshnoke.jpg/960px-Karni_Mata_Temple_Deshnoke.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -2127,10 +2142,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=31.8752,76.3218",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Jwalamukhi_temple%2Ckangra%2C_himachal_pradesh..JPG/330px-Jwalamukhi_temple%2Ckangra%2C_himachal_pradesh..JPG",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/0051223_Jwalamukhi_temple%2C_Jvala_ji_Himachal_Pradesh_011.jpg/1280px-0051223_Jwalamukhi_temple%2C_Jvala_ji_Himachal_Pradesh_011.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Jwalamukhi_temple%2Ckangra%2C_himachal_pradesh..JPG/960px-Jwalamukhi_temple%2Ckangra%2C_himachal_pradesh..JPG",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/0051223_Jwalamukhi_temple%2C_Jvala_ji_Himachal_Pradesh_011.jpg/960px-0051223_Jwalamukhi_temple%2C_Jvala_ji_Himachal_Pradesh_011.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/0051223_Jwalamukhi_temple%2C_Jvala_ji_Himachal_Pradesh_002.jpg/960px-0051223_Jwalamukhi_temple%2C_Jvala_ji_Himachal_Pradesh_002.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -2327,10 +2344,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=30.7259,76.8837",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/A_temple_in_Mansa_Devi_temple_complex%2C_Panchkula_near_Chandigarh.jpg/330px-A_temple_in_Mansa_Devi_temple_complex%2C_Panchkula_near_Chandigarh.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Yagya_Shala%2C_within_the_Mansa_Devi_temple_complex%2C_Panchkula_near_Chandigarh.jpg/1280px-Yagya_Shala%2C_within_the_Mansa_Devi_temple_complex%2C_Panchkula_near_Chandigarh.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/A_temple_in_Mansa_Devi_temple_complex%2C_Panchkula_near_Chandigarh.jpg/960px-A_temple_in_Mansa_Devi_temple_complex%2C_Panchkula_near_Chandigarh.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Yagya_Shala%2C_within_the_Mansa_Devi_temple_complex%2C_Panchkula_near_Chandigarh.jpg/960px-Yagya_Shala%2C_within_the_Mansa_Devi_temple_complex%2C_Panchkula_near_Chandigarh.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Mansa_Devi_temple_main_shrine.jpg/960px-Mansa_Devi_temple_main_shrine.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -2532,10 +2551,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=9.2881,79.3174",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ramanathaswamy_temple7.JPG/330px-Ramanathaswamy_temple7.JPG",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ramanathaswamy_temple7.JPG/1280px-Ramanathaswamy_temple7.JPG",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ramanathaswamy_temple7.JPG/960px-Ramanathaswamy_temple7.JPG",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ramanathaswamy_temple7.JPG/960px-Ramanathaswamy_temple7.JPG",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ramanathaswamy_temple8.JPG/960px-Ramanathaswamy_temple8.JPG"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -2727,10 +2748,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=10.7828,79.1318",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_%28edit%29.jpg/330px-Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_%28edit%29.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Vattezhutthu_in_Thanjavur_Brihadeeswara_Temple.jpg/1280px-Vattezhutthu_in_Thanjavur_Brihadeeswara_Temple.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_%28edit%29.jpg/960px-Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_%28edit%29.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Vattezhutthu_in_Thanjavur_Brihadeeswara_Temple.jpg/960px-Vattezhutthu_in_Thanjavur_Brihadeeswara_Temple.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Vattezhutthu_in_Thanjavur_Brihadeeswara_Temple_2.jpg/960px-Vattezhutthu_in_Thanjavur_Brihadeeswara_Temple_2.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -2922,10 +2945,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=10.8624,78.6872",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ranganathaswamy_temple_tiruchirappalli.jpg/330px-Ranganathaswamy_temple_tiruchirappalli.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Sri_Ranganatha_Svami_Temple%2C_Srirangapattana.jpg/1280px-Sri_Ranganatha_Svami_Temple%2C_Srirangapattana.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ranganathaswamy_temple_tiruchirappalli.jpg/960px-Ranganathaswamy_temple_tiruchirappalli.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Sri_Ranganatha_Svami_Temple%2C_Srirangapattana.jpg/960px-Sri_Ranganatha_Svami_Temple%2C_Srirangapattana.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ranganathaswamy_Temple%2C_Srirangam_%2849998238482%29.jpg/960px-Ranganathaswamy_Temple%2C_Srirangam_%2849998238482%29.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -3122,10 +3147,10 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=13.6833,79.3473",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tirumala_090615.jpg/330px-Tirumala_090615.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tirumala_090615.jpg/1280px-Tirumala_090615.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tirumala_090615.jpg/960px-Tirumala_090615.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -3317,10 +3342,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=16.0734,78.8687",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Srisailam-temple-entrance.jpg/330px-Srisailam-temple-entrance.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mallikarjuna_Temple%2C_Badami.jpg/1280px-Mallikarjuna_Temple%2C_Badami.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Srisailam-temple-entrance.jpg/960px-Srisailam-temple-entrance.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mallikarjuna_Temple%2C_Badami.jpg/960px-Mallikarjuna_Temple%2C_Badami.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sakshi_Ganapathi_Temple%2C_Srisailam%2C_Andhra_pradesh.jpg/960px-Sakshi_Ganapathi_Temple%2C_Srisailam%2C_Andhra_pradesh.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -3517,10 +3544,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=9.4402,77.0811",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/MOUNTAINS_SABARIMALA_KERALA_-_panoramio.jpg/330px-MOUNTAINS_SABARIMALA_KERALA_-_panoramio.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Shabarimala.JPG/1280px-Shabarimala.JPG",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/MOUNTAINS_SABARIMALA_KERALA_-_panoramio.jpg/960px-MOUNTAINS_SABARIMALA_KERALA_-_panoramio.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Shabarimala.JPG/960px-Shabarimala.JPG",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sabarimala_3.jpg/960px-Sabarimala_3.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -3717,10 +3746,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=15.335,76.46",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Complex_of_Virupaksha_Temple%2C_Hampi_%2804%29.jpg/330px-Complex_of_Virupaksha_Temple%2C_Hampi_%2804%29.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Virupaksha_-_Shrines_at_Tank_-_2.jpg/1280px-Virupaksha_-_Shrines_at_Tank_-_2.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Complex_of_Virupaksha_Temple%2C_Hampi_%2804%29.jpg/960px-Complex_of_Virupaksha_Temple%2C_Hampi_%2804%29.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Virupaksha_-_Shrines_at_Tank_-_2.jpg/960px-Virupaksha_-_Shrines_at_Tank_-_2.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Virupaksha_-_Inner_Court.jpg/960px-Virupaksha_-_Inner_Court.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -3912,10 +3943,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=13.3418,74.7473",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Udupi_Sri_Krishna_Matha_Temple.jpg/330px-Udupi_Sri_Krishna_Matha_Temple.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Udupi_Sri_Krishna_Matha_Temple_cropped.png/1280px-Udupi_Sri_Krishna_Matha_Temple_cropped.png",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Udupi_Sri_Krishna_Matha_Temple.jpg/960px-Udupi_Sri_Krishna_Matha_Temple.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Udupi_Sri_Krishna_Matha_Temple_cropped.png/960px-Udupi_Sri_Krishna_Matha_Temple_cropped.png",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Udupi_Sri_Krishna_Matha%2C_Udupi%2C_Karnataka%2C_India_%282014%29.jpg/960px-Udupi_Sri_Krishna_Matha%2C_Udupi%2C_Karnataka%2C_India_%282014%29.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -4117,10 +4150,10 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=20.888,70.4011",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Somanath_mandir_%28cropped%29.jpg/330px-Somanath_mandir_%28cropped%29.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Somanath_mandir_%28cropped%29.jpg/1280px-Somanath_mandir_%28cropped%29.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Somanath_mandir_%28cropped%29.jpg/960px-Somanath_mandir_%28cropped%29.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -4312,10 +4345,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=22.334,69.0125",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Nageshwar_temple_outdoors.JPG/330px-Nageshwar_temple_outdoors.JPG",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nageshwar_Temple.jpg/1280px-Nageshwar_Temple.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Nageshwar_temple_outdoors.JPG/960px-Nageshwar_temple_outdoors.JPG",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nageshwar_Temple.jpg/960px-Nageshwar_Temple.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nageshwar_Jyotirling%2C_Dwarka.jpg/960px-Nageshwar_Jyotirling%2C_Dwarka.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -4507,10 +4542,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=22.2377,68.9674",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dwarakadheesh_Temple%2C_2014.jpg/330px-Dwarakadheesh_Temple%2C_2014.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dwarkadheesh_temple.jpg/1280px-Dwarkadheesh_temple.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dwarakadheesh_Temple%2C_2014.jpg/960px-Dwarakadheesh_Temple%2C_2014.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dwarkadheesh_temple.jpg/960px-Dwarkadheesh_temple.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Dwarkadhish_Temple%2C_Dwarka%2C_Gujarat.JPG/960px-Dwarkadhish_Temple%2C_Dwarka%2C_Gujarat.JPG"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -4707,10 +4744,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=19.9322,73.531",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Trimbakeshwar_Temple-Nashik-Maharashtra-1.jpg/330px-Trimbakeshwar_Temple-Nashik-Maharashtra-1.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Close-up_of_the_shikhara_of_Trimbakeshwar_Shiva_Temple%2C_Trimbak%2C_Maharashtra%2C_India.jpg/1280px-Close-up_of_the_shikhara_of_Trimbakeshwar_Shiva_Temple%2C_Trimbak%2C_Maharashtra%2C_India.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Trimbakeshwar_Temple-Nashik-Maharashtra-1.jpg/960px-Trimbakeshwar_Temple-Nashik-Maharashtra-1.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Close-up_of_the_shikhara_of_Trimbakeshwar_Shiva_Temple%2C_Trimbak%2C_Maharashtra%2C_India.jpg/960px-Close-up_of_the_shikhara_of_Trimbakeshwar_Shiva_Temple%2C_Trimbak%2C_Maharashtra%2C_India.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Trimbakeshwar_Shiva_Temple_2005.jpg/960px-Trimbakeshwar_Shiva_Temple_2005.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -4902,10 +4941,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=19.072,73.535",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bhimashankar.jpg/330px-Bhimashankar.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bhimashankar_temple%2C_Maharashtra.JPG/1280px-Bhimashankar_temple%2C_Maharashtra.JPG",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bhimashankar.jpg/960px-Bhimashankar.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bhimashankar_temple%2C_Maharashtra.JPG/960px-Bhimashankar_temple%2C_Maharashtra.JPG",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bull_BM.jpg/960px-Bull_BM.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -5097,10 +5138,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=20.0247,75.1706",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Grishneshwar_temple_in_Aurangabad_district.jpg/330px-Grishneshwar_temple_in_Aurangabad_district.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Grishneshwar_Temple_Shiva_Jyotirlinga_Maharashtra_India.jpg/1280px-Grishneshwar_Temple_Shiva_Jyotirlinga_Maharashtra_India.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Grishneshwar_temple_in_Aurangabad_district.jpg/960px-Grishneshwar_temple_in_Aurangabad_district.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Grishneshwar_Temple_Shiva_Jyotirlinga_Maharashtra_India.jpg/960px-Grishneshwar_Temple_Shiva_Jyotirlinga_Maharashtra_India.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Grishneshwar%2C_Ellora_-_panoramio.jpg/960px-Grishneshwar%2C_Ellora_-_panoramio.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -5302,10 +5345,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=23.1827,75.7682",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mahakaleshwar_Temple%2C_Ujjain.jpg/330px-Mahakaleshwar_Temple%2C_Ujjain.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Shri_Mahakaleshwar_Temple_Ujjain_-_panoramio.jpg/1280px-Shri_Mahakaleshwar_Temple_Ujjain_-_panoramio.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mahakaleshwar_Temple%2C_Ujjain.jpg/960px-Mahakaleshwar_Temple%2C_Ujjain.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Shri_Mahakaleshwar_Temple_Ujjain_-_panoramio.jpg/960px-Shri_Mahakaleshwar_Temple_Ujjain_-_panoramio.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Shri_Mahakaleshwar_Temple_Ujjain_-_panoramio_%282%29.jpg/960px-Shri_Mahakaleshwar_Temple_Ujjain_-_panoramio_%282%29.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -5497,10 +5542,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=22.2452,76.1472",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Omkareswar_Jyotirlinga.jpg/330px-Omkareswar_Jyotirlinga.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Siddheshwar_temple%2C_Omkareshwar_Mandhata_20150216c.jpg/1280px-Siddheshwar_temple%2C_Omkareshwar_Mandhata_20150216c.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Omkareswar_Jyotirlinga.jpg/960px-Omkareswar_Jyotirlinga.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Siddheshwar_temple%2C_Omkareshwar_Mandhata_20150216c.jpg/960px-Siddheshwar_temple%2C_Omkareshwar_Mandhata_20150216c.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Omkareshwar_Mandhata_island.jpg/960px-Omkareshwar_Mandhata_island.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -5702,10 +5749,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=24.4925,86.6999",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Baidyanath_temple_and_temple_complex%2C_Deoghar_04.jpg/330px-Baidyanath_temple_and_temple_complex%2C_Deoghar_04.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sacred_Pond_-_Baidyanath_Dham_Temple_Complex_-_Deoghar.jpg/1280px-Sacred_Pond_-_Baidyanath_Dham_Temple_Complex_-_Deoghar.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Baidyanath_temple_and_temple_complex%2C_Deoghar_04.jpg/960px-Baidyanath_temple_and_temple_complex%2C_Deoghar_04.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sacred_Pond_-_Baidyanath_Dham_Temple_Complex_-_Deoghar.jpg/960px-Sacred_Pond_-_Baidyanath_Dham_Temple_Complex_-_Deoghar.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Baidyanath_temple_and_temple_complex%2C_Deoghar_03.jpg/960px-Baidyanath_temple_and_temple_complex%2C_Deoghar_03.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -5902,10 +5951,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=20.2382,85.8339",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lingaraj_Temple_%2C_Bhubaneswar.jpg/330px-Lingaraj_Temple_%2C_Bhubaneswar.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Lingaraja_Temple_01.jpg/1280px-Lingaraja_Temple_01.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lingaraj_Temple_%2C_Bhubaneswar.jpg/960px-Lingaraj_Temple_%2C_Bhubaneswar.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Lingaraja_Temple_01.jpg/960px-Lingaraja_Temple_01.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lingaraj_Temple_Complex_-_Odisha_-_VII.jpg/960px-Lingaraj_Temple_Complex_-_Odisha_-_VII.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -6102,10 +6153,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=22.6548,88.3572",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Dakhineshwar_Temple_beside_the_Hoogly%2C_West_Bengal.JPG/330px-Dakhineshwar_Temple_beside_the_Hoogly%2C_West_Bengal.JPG",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dakshineswar_Kali_temple%2C_Kolkata%2C_West_Bengal%2C_India.JPG/1280px-Dakshineswar_Kali_temple%2C_Kolkata%2C_West_Bengal%2C_India.JPG",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Dakhineshwar_Temple_beside_the_Hoogly%2C_West_Bengal.JPG/960px-Dakhineshwar_Temple_beside_the_Hoogly%2C_West_Bengal.JPG",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dakshineswar_Kali_temple%2C_Kolkata%2C_West_Bengal%2C_India.JPG/960px-Dakshineswar_Kali_temple%2C_Kolkata%2C_West_Bengal%2C_India.JPG",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Inside_the_Dakshineswar_temple_complex%2C_North_24_Parganas_district%2C_India.jpg/960px-Inside_the_Dakshineswar_temple_complex%2C_North_24_Parganas_district%2C_India.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -6307,10 +6360,12 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=26.1672,91.7061",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kamakhya_Temple_-_DEV_8829.jpg/330px-Kamakhya_Temple_-_DEV_8829.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kamakhya_Temple%2C_Guwahati.jpg/1280px-Kamakhya_Temple%2C_Guwahati.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kamakhya_Temple_-_DEV_8829.jpg/960px-Kamakhya_Temple_-_DEV_8829.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kamakhya_Temple%2C_Guwahati.jpg/960px-Kamakhya_Temple%2C_Guwahati.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/A_sadhu_taking_a_nap_outside_Kamakhya_temple.jpg/960px-A_sadhu_taking_a_nap_outside_Kamakhya_temple.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -6527,11 +6582,12 @@
                   },
                   "official_website": "https://sgpc.net",
                   "google_maps": "https://maps.google.com/?q=31.6200,74.8765",
-                  "thumbnail": "https://api.example.com/images/golden_temple_thumb.jpg",
-                  "banner": "https://api.example.com/images/golden_temple_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_Golden_Temple_of_Amrithsar_7.jpg/330px-The_Golden_Temple_of_Amrithsar_7.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sikh_pilgrim_at_the_Golden_Temple_%28Harmandir_Sahib%29_in_Amritsar%2C_India.jpg/1280px-Sikh_pilgrim_at_the_Golden_Temple_%28Harmandir_Sahib%29_in_Amritsar%2C_India.jpg",
                   "gallery": [
-                    "https://api.example.com/images/golden_temple_1.jpg",
-                    "https://api.example.com/images/golden_temple_2.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_Golden_Temple_of_Amrithsar_7.jpg/960px-The_Golden_Temple_of_Amrithsar_7.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sikh_pilgrim_at_the_Golden_Temple_%28Harmandir_Sahib%29_in_Amritsar%2C_India.jpg/960px-Sikh_pilgrim_at_the_Golden_Temple_%28Harmandir_Sahib%29_in_Amritsar%2C_India.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Akal_Takht_and_Harmandir_Sahib%2C_Amritsar%2C_Punjab%2C_India.jpg/960px-Akal_Takht_and_Harmandir_Sahib%2C_Amritsar%2C_Punjab%2C_India.jpg"
                   ],
                   "popularity_rating": 5,
                   "estimated_visit_duration": "3 hours",
@@ -6803,11 +6859,12 @@
                   },
                   "official_website": "https://gujarattourism.com/palitana",
                   "google_maps": "https://maps.google.com/?q=21.5161,71.8275",
-                  "thumbnail": "https://api.example.com/images/palitana_thumb.jpg",
-                  "banner": "https://api.example.com/images/palitana_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Palitana.jpg/330px-Palitana.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Shatrunjaya_01.jpg/1280px-Shatrunjaya_01.jpg",
                   "gallery": [
-                    "https://api.example.com/images/palitana_1.jpg",
-                    "https://api.example.com/images/palitana_2.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Palitana.jpg/960px-Palitana.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Shatrunjaya_01.jpg/960px-Shatrunjaya_01.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Palitana_temples_01.jpg/960px-Palitana_temples_01.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "6 hours",
@@ -7076,11 +7133,12 @@
                   },
                   "official_website": "https://bodhgayatemple.com",
                   "google_maps": "https://maps.google.com/?q=24.6959,84.9914",
-                  "thumbnail": "https://api.example.com/images/mahabodhi_thumb.jpg",
-                  "banner": "https://api.example.com/images/mahabodhi_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mahabodhitemple.jpg/330px-Mahabodhitemple.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Worshipper_at_Mahabodhi_Temple_Bodh_Gaya_India.jpg/1280px-Worshipper_at_Mahabodhi_Temple_Bodh_Gaya_India.jpg",
                   "gallery": [
-                    "https://api.example.com/images/mahabodhi_1.jpg",
-                    "https://api.example.com/images/mahabodhi_2.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mahabodhitemple.jpg/960px-Mahabodhitemple.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Worshipper_at_Mahabodhi_Temple_Bodh_Gaya_India.jpg/960px-Worshipper_at_Mahabodhi_Temple_Bodh_Gaya_India.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Mahabodhi_Temple_Railing_-_Bodh_Gaya_ASI_Museum_-_22.jpg/960px-Mahabodhi_Temple_Railing_-_Bodh_Gaya_ASI_Museum_-_22.jpg"
                   ],
                   "popularity_rating": 4.9,
                   "estimated_visit_duration": "2 hours",
@@ -7351,11 +7409,12 @@
                   },
                   "official_website": "placeholder_udvada",
                   "google_maps": "https://maps.google.com/?q=20.4851,72.8683",
-                  "thumbnail": "https://api.example.com/images/udvada_thumb.jpg",
-                  "banner": "https://api.example.com/images/udvada_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Iranshah_Atash_Behram_front_fa%C3%A7ade.jpg/330px-Iranshah_Atash_Behram_front_fa%C3%A7ade.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Udwada_atash_behram.jpg/1280px-Udwada_atash_behram.jpg",
                   "gallery": [
-                    "https://api.example.com/images/udvada_1.jpg",
-                    "https://api.example.com/images/udvada_2.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Iranshah_Atash_Behram_front_fa%C3%A7ade.jpg/960px-Iranshah_Atash_Behram_front_fa%C3%A7ade.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Udwada_atash_behram.jpg/960px-Udwada_atash_behram.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Pundole_Agiary_Udvada.jpg/960px-Pundole_Agiary_Udvada.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "1 hour",
@@ -7627,10 +7686,12 @@
                   },
                   "official_website": "https://mahabodhitample.bihar.gov.in/",
                   "google_maps": "https://maps.google.com/?q=24.6959,84.9914",
-                  "thumbnail": "https://api.example.com/images/mahabodhi_thumb.jpg",
-                  "banner": "https://api.example.com/images/mahabodhi_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mahabodhitemple.jpg/330px-Mahabodhitemple.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Worshipper_at_Mahabodhi_Temple_Bodh_Gaya_India.jpg/1280px-Worshipper_at_Mahabodhi_Temple_Bodh_Gaya_India.jpg",
                   "gallery": [
-                    "https://api.example.com/images/mahabodhi_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mahabodhitemple.jpg/960px-Mahabodhitemple.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Worshipper_at_Mahabodhi_Temple_Bodh_Gaya_India.jpg/960px-Worshipper_at_Mahabodhi_Temple_Bodh_Gaya_India.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Mahabodhi_Temple_Railing_-_Bodh_Gaya_ASI_Museum_-_22.jpg/960px-Mahabodhi_Temple_Railing_-_Bodh_Gaya_ASI_Museum_-_22.jpg"
                   ],
                   "popularity_rating": 4.9,
                   "estimated_visit_duration": "3 hours",
@@ -7833,10 +7894,12 @@
                   },
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=25.3762,83.0227",
-                  "thumbnail": "https://api.example.com/images/sarnath_thumb.jpg",
-                  "banner": "https://api.example.com/images/sarnath_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site%2C_Sarnath.jpg/330px-Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site%2C_Sarnath.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sarnath_Dhamek_Stupa_1814.jpg/1280px-Sarnath_Dhamek_Stupa_1814.jpg",
                   "gallery": [
-                    "https://api.example.com/images/sarnath_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site%2C_Sarnath.jpg/960px-Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site%2C_Sarnath.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sarnath_Dhamek_Stupa_1814.jpg/960px-Sarnath_Dhamek_Stupa_1814.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Dhamek_Stupa%2C_2025.jpg/960px-Dhamek_Stupa%2C_2025.jpg"
                   ],
                   "popularity_rating": 4.7,
                   "estimated_visit_duration": "3 hours",
@@ -8038,10 +8101,12 @@
                   },
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=27.5855,91.8596",
-                  "thumbnail": "https://api.example.com/images/tawang_thumb.jpg",
-                  "banner": "https://api.example.com/images/tawang_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TawangMonastery.jpg/330px-TawangMonastery.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Tawang_Monastery_%28Tibetan_Buddhist%29.jpg/1280px-Tawang_Monastery_%28Tibetan_Buddhist%29.jpg",
                   "gallery": [
-                    "https://api.example.com/images/tawang_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TawangMonastery.jpg/960px-TawangMonastery.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Tawang_Monastery_%28Tibetan_Buddhist%29.jpg/960px-Tawang_Monastery_%28Tibetan_Buddhist%29.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Tawang_Monastery%2C_Tawang%2C_Arunachal_Pradesh.jpeg/960px-Tawang_Monastery%2C_Tawang%2C_Arunachal_Pradesh.jpeg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "3 hours",
@@ -8248,10 +8313,12 @@
                   },
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=20.4851,72.8683",
-                  "thumbnail": "https://api.example.com/images/udvada_thumb.jpg",
-                  "banner": "https://api.example.com/images/udvada_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Iranshah_Atash_Behram_front_fa%C3%A7ade.jpg/330px-Iranshah_Atash_Behram_front_fa%C3%A7ade.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Udwada_atash_behram.jpg/1280px-Udwada_atash_behram.jpg",
                   "gallery": [
-                    "https://api.example.com/images/udvada_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Iranshah_Atash_Behram_front_fa%C3%A7ade.jpg/960px-Iranshah_Atash_Behram_front_fa%C3%A7ade.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Udwada_atash_behram.jpg/960px-Udwada_atash_behram.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Pundole_Agiary_Udvada.jpg/960px-Pundole_Agiary_Udvada.jpg"
                   ],
                   "popularity_rating": 4.9,
                   "estimated_visit_duration": "2 hours",
@@ -8459,10 +8526,12 @@
                   },
                   "official_website": "https://bahaihouseofworship.in/",
                   "google_maps": "https://maps.google.com/?q=28.5535,77.2588",
-                  "thumbnail": "https://api.example.com/images/lotus_thumb.jpg",
-                  "banner": "https://api.example.com/images/lotus_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/LotusDelhi.jpg/330px-LotusDelhi.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bahai_Lotus_temple_in_Delhi%2C_India.JPG/1280px-Bahai_Lotus_temple_in_Delhi%2C_India.JPG",
                   "gallery": [
-                    "https://api.example.com/images/lotus_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/LotusDelhi.jpg/960px-LotusDelhi.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bahai_Lotus_temple_in_Delhi%2C_India.JPG/960px-Bahai_Lotus_temple_in_Delhi%2C_India.JPG",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Lotus_Bahai%27_Temple_in_New_Delhi_India.jpg/960px-Lotus_Bahai%27_Temple_in_New_Delhi_India.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "1 hour",
@@ -8661,10 +8730,10 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=27.6025,73.2425",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bassa_al-Khidr_01.jpg/330px-Bassa_al-Khidr_01.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bassa_al-Khidr_01.jpg/1280px-Bassa_al-Khidr_01.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bassa_al-Khidr_01.jpg/960px-Bassa_al-Khidr_01.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -8856,10 +8925,10 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=27.65,73.3",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vishnois_At_Khejarli_Environment_Fair.jpg/330px-Vishnois_At_Khejarli_Environment_Fair.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vishnois_At_Khejarli_Environment_Fair.jpg/1280px-Vishnois_At_Khejarli_Environment_Fair.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vishnois_At_Khejarli_Environment_Fair.jpg/960px-Vishnois_At_Khejarli_Environment_Fair.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -9051,10 +9120,10 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=27.2,73.7333",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vishnois_At_Khejarli_Environment_Fair.jpg/330px-Vishnois_At_Khejarli_Environment_Fair.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vishnois_At_Khejarli_Environment_Fair.jpg/1280px-Vishnois_At_Khejarli_Environment_Fair.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vishnois_At_Khejarli_Environment_Fair.jpg/960px-Vishnois_At_Khejarli_Environment_Fair.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -9246,10 +9315,10 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=27.1333,72.3667",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vishnois_At_Khejarli_Environment_Fair.jpg/330px-Vishnois_At_Khejarli_Environment_Fair.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vishnois_At_Khejarli_Environment_Fair.jpg/1280px-Vishnois_At_Khejarli_Environment_Fair.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vishnois_At_Khejarli_Environment_Fair.jpg/960px-Vishnois_At_Khejarli_Environment_Fair.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -9441,10 +9510,10 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=27.3,73.5",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vishnois_At_Khejarli_Environment_Fair.jpg/330px-Vishnois_At_Khejarli_Environment_Fair.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vishnois_At_Khejarli_Environment_Fair.jpg/1280px-Vishnois_At_Khejarli_Environment_Fair.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vishnois_At_Khejarli_Environment_Fair.jpg/960px-Vishnois_At_Khejarli_Environment_Fair.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -9636,10 +9705,10 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=26.9833,72.5667",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lohawat_Temple.png/330px-Lohawat_Temple.png",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lohawat_Temple.png/1280px-Lohawat_Temple.png",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lohawat_Temple.png/960px-Lohawat_Temple.png"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
@@ -9836,10 +9905,10 @@
                   "medical_facility": true,
                   "official_website": "",
                   "google_maps": "https://maps.google.com/?q=28.8386,78.7733",
-                  "thumbnail": "https://api.example.com/images/default_thumb.jpg",
-                  "banner": "https://api.example.com/images/default_banner.jpg",
+                  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vishnois_At_Khejarli_Environment_Fair.jpg/330px-Vishnois_At_Khejarli_Environment_Fair.jpg",
+                  "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vishnois_At_Khejarli_Environment_Fair.jpg/1280px-Vishnois_At_Khejarli_Environment_Fair.jpg",
                   "gallery": [
-                    "https://api.example.com/images/default_1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vishnois_At_Khejarli_Environment_Fair.jpg/960px-Vishnois_At_Khejarli_Environment_Fair.jpg"
                   ],
                   "popularity_rating": 4.8,
                   "estimated_visit_duration": "2 hours",
