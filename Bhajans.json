@@ -1,7 +1,7 @@
 [
     {
         "category":  "LordHanuman",
-        "category_image_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Aaj%20Mangalvar%20Hai%20Mahaveer%20Ka%20_thumb.jpg",
+        "category_image_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Aaj%20Mangalvar%20Hai%20Mahaveer%20Ka%20_thumb.jpg",
         "bhajans":  [
                         {
                             "id":  1,
@@ -9,7 +9,7 @@
                             "file_name":  "Aaj Mangalvar Hai Mahaveer Ka Vaar Hai.mp3",
                             "singer":  "Rakesh Kala",
                             "duration":  "09:45",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Aaj%20Mangalvar%20Hai%20Mahaveer%20Ka%20Vaar%20Hai.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Aaj%20Mangalvar%20Hai%20Mahaveer%20Ka%20Vaar%20Hai.mp3",
                             "size":  "9.74 MB"
                         },
                         {
@@ -18,7 +18,7 @@
                             "file_name":  "Aarti Keeje Hanuman Lala Ki.mp3",
                             "singer":  "Hariharan, Lalit Sen, Chander",
                             "duration":  "04:22",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Aarti%20Keeje%20Hanuman%20Lala%20Ki.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Aarti%20Keeje%20Hanuman%20Lala%20Ki.mp3",
                             "size":  "7.13 MB"
                         },
                         {
@@ -27,7 +27,7 @@
                             "file_name":  "Alakh Niranjan.mp3",
                             "singer":  "Aditya",
                             "duration":  "03:59",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Alakh%20Niranjan.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Alakh%20Niranjan.mp3",
                             "size":  "6.32 MB"
                         },
                         {
@@ -36,7 +36,7 @@
                             "file_name":  "Anjanadri Theme Song (From _HanuMan_) [Hindi].mp3",
                             "singer":  "GowraHari, Shankar Mahadevan, Riya Mukherjee",
                             "duration":  "02:00",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Anjanadri%20Theme%20Song%20%28From%20_HanuMan_%29%20%5BHindi%5D.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Anjanadri%20Theme%20Song%20%28From%20_HanuMan_%29%20%5BHindi%5D.mp3",
                             "size":  "3.49 MB"
                         },
                         {
@@ -45,7 +45,7 @@
                             "file_name":  "Bajrang Baan-Lofi.mp3",
                             "singer":  "Rasraj Ji Maharaj, Baljeet Singh Chahal",
                             "duration":  "03:38",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Bajrang%20Baan-Lofi.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Bajrang%20Baan-Lofi.mp3",
                             "size":  "6.04 MB"
                         },
                         {
@@ -54,7 +54,7 @@
                             "file_name":  "Balaji Aacha Lage Se.mp3",
                             "singer":  "Kanhaiya Mittal",
                             "duration":  "06:21",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Balaji%20Aacha%20Lage%20Se.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Balaji%20Aacha%20Lage%20Se.mp3",
                             "size":  "10.49 MB"
                         },
                         {
@@ -63,7 +63,7 @@
                             "file_name":  "Bas Ram Ho.mp3",
                             "singer":  "Hansika Pareek, Khushi Pareek, Aditya Bisht",
                             "duration":  "02:32",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Bas%20Ram%20Ho.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Bas%20Ram%20Ho.mp3",
                             "size":  "4.72 MB"
                         },
                         {
@@ -72,7 +72,7 @@
                             "file_name":  "Duniya Chale Na Shri Ram Ke Bina.mp3",
                             "singer":  "Shatadru Kabir",
                             "duration":  "08:22",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Duniya%20Chale%20Na%20Shri%20Ram%20Ke%20Bina.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Duniya%20Chale%20Na%20Shri%20Ram%20Ke%20Bina.mp3",
                             "size":  "14.05 MB"
                         },
                         {
@@ -81,7 +81,7 @@
                             "file_name":  "Hanuman Chalisa (From _HanuMan_) [Hindi].mp3",
                             "singer":  "GowraHari, Saicharan Bhaskaruni",
                             "duration":  "04:08",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Hanuman%20Chalisa%20%28From%20_HanuMan_%29%20%5BHindi%5D.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Hanuman%20Chalisa%20%28From%20_HanuMan_%29%20%5BHindi%5D.mp3",
                             "size":  "7.03 MB"
                         },
                         {
@@ -90,7 +90,7 @@
                             "file_name":  "Hanuman Chalisa.mp3",
                             "singer":  "Vidhi Jotwani",
                             "duration":  "11:00",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Hanuman%20Chalisa.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Hanuman%20Chalisa.mp3",
                             "size":  "20.09 MB"
                         },
                         {
@@ -99,7 +99,7 @@
                             "file_name":  "Hanuman Tumhara Kya Kehna.mp3",
                             "singer":  "Lakhbir Singh Lakkha",
                             "duration":  "08:41",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Hanuman%20Tumhara%20Kya%20Kehna.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Hanuman%20Tumhara%20Kya%20Kehna.mp3",
                             "size":  "14.22 MB"
                         },
                         {
@@ -108,7 +108,7 @@
                             "file_name":  "He Dukh Bhanjan.mp3",
                             "singer":  "Rakesh Kala",
                             "duration":  "05:43",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/He%20Dukh%20Bhanjan.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/He%20Dukh%20Bhanjan.mp3",
                             "size":  "9.96 MB"
                         },
                         {
@@ -117,7 +117,7 @@
                             "file_name":  "Hey Mahaveer Bajrangi.mp3",
                             "singer":  "Krishna Chaturvedi",
                             "duration":  "06:13",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Hey%20Mahaveer%20Bajrangi.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Hey%20Mahaveer%20Bajrangi.mp3",
                             "size":  "10.56 MB"
                         },
                         {
@@ -126,7 +126,7 @@
                             "file_name":  "Hey Mahaveer Karo Kalyan.mp3",
                             "singer":  "Suresh Wadkar",
                             "duration":  "04:49",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Hey%20Mahaveer%20Karo%20Kalyan.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Hey%20Mahaveer%20Karo%20Kalyan.mp3",
                             "size":  "4.99 MB"
                         },
                         {
@@ -135,7 +135,7 @@
                             "file_name":  "Jai Jai Hanuman Gusai.mp3",
                             "singer":  "Hariharan, Lalit Sen, Chander",
                             "duration":  "04:16",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Jai%20Jai%20Hanuman%20Gusai.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Jai%20Jai%20Hanuman%20Gusai.mp3",
                             "size":  "7.09 MB"
                         },
                         {
@@ -144,7 +144,7 @@
                             "file_name":  "Keejo Kesari Ke Laal Remix.mp3",
                             "singer":  "Lakhbir Singh Lakkha, Kedrock, Sd Style",
                             "duration":  "03:26",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Keejo%20Kesari%20Ke%20Laal%20Remix.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Keejo%20Kesari%20Ke%20Laal%20Remix.mp3",
                             "size":  "5.87 MB"
                         },
                         {
@@ -153,7 +153,7 @@
                             "file_name":  "Mangalmurti Maruti Nandan.mp3",
                             "singer":  "Hariharan, Lalit Sen, Chander",
                             "duration":  "06:40",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Mangalmurti%20Maruti%20Nandan.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Mangalmurti%20Maruti%20Nandan.mp3",
                             "size":  "10.79 MB"
                         },
                         {
@@ -162,7 +162,7 @@
                             "file_name":  "Panchmukhi Hanuman Kavach Stotram.mp3",
                             "singer":  "Abhishek Sharma",
                             "duration":  "04:11",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Panchmukhi%20Hanuman%20Kavach%20Stotram.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Panchmukhi%20Hanuman%20Kavach%20Stotram.mp3",
                             "size":  "6.83 MB"
                         },
                         {
@@ -171,7 +171,7 @@
                             "file_name":  "Raghunandana (From _HanuMan_) [Hindi].mp3",
                             "singer":  "GowraHari, Saicharan Bhaskaruni, Lokeshwar Edara, Harshavardhan Chavali, Tripuraneni Kalyanachakravarthy",
                             "duration":  "02:31",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Raghunandana%20%28From%20_HanuMan_%29%20%5BHindi%5D.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Raghunandana%20%28From%20_HanuMan_%29%20%5BHindi%5D.mp3",
                             "size":  "4.25 MB"
                         },
                         {
@@ -180,7 +180,7 @@
                             "file_name":  "Ram Anthem.mp3",
                             "singer":  "Lakhbir Singh Lakkha, Swati Mishra, Priyanka Singh, Rasraj Ji Maharaj, Nikhil Verma, Krishna Chaturvedi, Narci, Abhilipsa Panda, Kishan Bhagat, Samarpit the band, Sonika Sharma Agarwal, Vickey Prasad, Vishnupriya Avi Ji",
                             "duration":  "09:59",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Ram%20Anthem.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Ram%20Anthem.mp3",
                             "size":  "16.72 MB"
                         },
                         {
@@ -189,7 +189,7 @@
                             "file_name":  "Ram Na Milenge Hanuman Ke Bina.mp3",
                             "singer":  "Lakhbir Singh Lakkha",
                             "duration":  "06:38",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Ram%20Na%20Milenge%20Hanuman%20Ke%20Bina.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Ram%20Na%20Milenge%20Hanuman%20Ke%20Bina.mp3",
                             "size":  "11.20 MB"
                         },
                         {
@@ -198,7 +198,7 @@
                             "file_name":  "Rama Rama Ratte Ratte.mp3",
                             "singer":  "Samarpit the band",
                             "duration":  "03:23",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Rama%20Rama%20Ratte%20Ratte.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Rama%20Rama%20Ratte%20Ratte.mp3",
                             "size":  "5.87 MB"
                         },
                         {
@@ -207,7 +207,7 @@
                             "file_name":  "Sankat Mochan Naam Tiharo Hanuman Ashtak.mp3",
                             "singer":  "Sonika Sharma Agarwal",
                             "duration":  "06:25",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Sankat%20Mochan%20Naam%20Tiharo%20Hanuman%20Ashtak.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Sankat%20Mochan%20Naam%20Tiharo%20Hanuman%20Ashtak.mp3",
                             "size":  "10.68 MB"
                         },
                         {
@@ -216,7 +216,7 @@
                             "file_name":  "Shree Hanuman Amritwani.mp3",
                             "singer":  "Anuradha Paudwal",
                             "duration":  "15:16",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Shree%20Hanuman%20Amritwani.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Shree%20Hanuman%20Amritwani.mp3",
                             "size":  "9.22 MB"
                         },
                         {
@@ -225,7 +225,7 @@
                             "file_name":  "SRI RAMADOOTHA STOTRAM.mp3",
                             "singer":  "Saicharan Bhaskaruni, Lokeshwar Edara, Harshavardhan Chavali",
                             "duration":  "02:59",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/SRI%20RAMADOOTHA%20STOTRAM.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/SRI%20RAMADOOTHA%20STOTRAM.mp3",
                             "size":  "5.06 MB"
                         },
                         {
@@ -234,7 +234,7 @@
                             "file_name":  "The Legend Of Hanuman - Hanuman Chalisa [From _The Legend Of Hanuman (Season 3)_].mp3",
                             "singer":  "Kala Bhairava, P V N S Rohit, Manoj Sharma, Arun Kaundinya, Hymath Mohammed, Lokeshwar, Ravi Prakash, Sai Saket",
                             "duration":  "06:45",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/The%20Legend%20Of%20Hanuman%20-%20Hanuman%20Chalisa%20%5BFrom%20_The%20Legend%20Of%20Hanuman%20%28Season%203%29_%5D.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/The%20Legend%20Of%20Hanuman%20-%20Hanuman%20Chalisa%20%5BFrom%20_The%20Legend%20Of%20Hanuman%20%28Season%203%29_%5D.mp3",
                             "size":  "11.33 MB"
                         },
                         {
@@ -243,14 +243,14 @@
                             "file_name":  "Veer Hanumana Ati Balwana.mp3",
                             "singer":  "Religious India",
                             "duration":  "07:55",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordHanuman/Veer%20Hanumana%20Ati%20Balwana.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordHanuman/Veer%20Hanumana%20Ati%20Balwana.mp3",
                             "size":  "13.54 MB"
                         }
                     ]
     },
     {
         "category":  "LordKrishna",
-        "category_image_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Adharam%20Madhuram%20Madhurashtaka_thumb.jpg",
+        "category_image_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Adharam%20Madhuram%20Madhurashtaka_thumb.jpg",
         "bhajans":  [
                         {
                             "id":  28,
@@ -258,7 +258,7 @@
                             "file_name":  "Adharam Madhuram Madhurashtakam RadhaKrishna - Duet Full Version.mp3",
                             "singer":  "RadhaKrishn Team",
                             "duration":  "05:27",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Adharam%20Madhuram%20Madhurashtakam%20RadhaKrishna%20-%20Duet%20Full%20Version.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Adharam%20Madhuram%20Madhurashtakam%20RadhaKrishna%20-%20Duet%20Full%20Version.mp3",
                             "size":  "5.00 MB"
                         },
                         {
@@ -267,7 +267,7 @@
                             "file_name":  "Aisi Laagi Lagan Meera Ho Gayi Magan.mp3",
                             "singer":  "Javed Ali",
                             "duration":  "04:34",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Aisi%20Laagi%20Lagan%20Meera%20Ho%20Gayi%20Magan.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Aisi%20Laagi%20Lagan%20Meera%20Ho%20Gayi%20Magan.mp3",
                             "size":  "7.96 MB"
                         },
                         {
@@ -276,7 +276,7 @@
                             "file_name":  "Bhagat Ke Vash Mein Hai Bhagwan.mp3",
                             "singer":  "Jagjit",
                             "duration":  "17:40",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Bhagat%20Ke%20Vash%20Mein%20Hai%20Bhagwan.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Bhagat%20Ke%20Vash%20Mein%20Hai%20Bhagwan.mp3",
                             "size":  "15.20 MB"
                         },
                         {
@@ -285,7 +285,7 @@
                             "file_name":  "Bhor Bhai Din Chad Gaya.mp3",
                             "singer":  "Maanya Arora",
                             "duration":  "05:07",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Bhor%20Bhai%20Din%20Chad%20Gaya.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Bhor%20Bhai%20Din%20Chad%20Gaya.mp3",
                             "size":  "4.68 MB"
                         },
                         {
@@ -294,7 +294,7 @@
                             "file_name":  "Enchanting Flute.mp3",
                             "singer":  "Shantanu Moitra",
                             "duration":  "03:17",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Enchanting%20Flute.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Enchanting%20Flute.mp3",
                             "size":  "5.72 MB"
                         },
                         {
@@ -303,7 +303,7 @@
                             "file_name":  "Ganpati Aarti.mp3",
                             "singer":  "Amitabh Bachchan",
                             "duration":  "04:04",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Ganpati%20Aarti.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Ganpati%20Aarti.mp3",
                             "size":  "6.94 MB"
                         },
                         {
@@ -312,7 +312,7 @@
                             "file_name":  "Govind Bolo.mp3",
                             "singer":  "Jubin Nautiyal, Raaj Aashoo, Pankaj Narayan",
                             "duration":  "02:30",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Govind%20Bolo.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Govind%20Bolo.mp3",
                             "size":  "4.44 MB"
                         },
                         {
@@ -321,7 +321,7 @@
                             "file_name":  "Hare Krishna Hare Rama.mp3",
                             "singer":  "Jubin Nautiyal",
                             "duration":  "05:09",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Hare%20Krishna%20Hare%20Rama.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Hare%20Krishna%20Hare%20Rama.mp3",
                             "size":  "9.65 MB"
                         },
                         {
@@ -330,7 +330,7 @@
                             "file_name":  "Hare Rama Hare Rama Rama Rama Hare Hare.mp3",
                             "singer":  "Jagjit Singh",
                             "duration":  "04:54",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Hare%20Rama%20Hare%20Rama%20Rama%20Rama%20Hare%20Hare.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Hare%20Rama%20Hare%20Rama%20Rama%20Rama%20Hare%20Hare.mp3",
                             "size":  "8.58 MB"
                         },
                         {
@@ -339,7 +339,7 @@
                             "file_name":  "Kabhi Ram Banke Kabhi Shyam Banke (1).mp3",
                             "singer":  "Tripti Shakya, Dhananjay Mishra",
                             "duration":  "08:19",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Kabhi%20Ram%20Banke%20Kabhi%20Shyam%20Banke%20%281%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Kabhi%20Ram%20Banke%20Kabhi%20Shyam%20Banke%20%281%29.mp3",
                             "size":  "14.29 MB"
                         },
                         {
@@ -348,7 +348,7 @@
                             "file_name":  "Krishna Leaving Vrindavan (Suno Suno Saanware Ki...).mp3",
                             "singer":  "Shreya Ghoshal, Pranab Kumar Biswas, Shantanu Moitra, Swanand Kirkire",
                             "duration":  "03:33",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Krishna%20Leaving%20Vrindavan%20%28Suno%20Suno%20Saanware%20Ki...%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Krishna%20Leaving%20Vrindavan%20%28Suno%20Suno%20Saanware%20Ki...%29.mp3",
                             "size":  "6.20 MB"
                         },
                         {
@@ -357,7 +357,7 @@
                             "file_name":  "Mangal Bhavan Amangal Haari Ramayan Title Song.mp3",
                             "singer":  "Agam Aggarwal",
                             "duration":  "02:37",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Mangal%20Bhavan%20Amangal%20Haari%20Ramayan%20Title%20Song.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Mangal%20Bhavan%20Amangal%20Haari%20Ramayan%20Title%20Song.mp3",
                             "size":  "2.21 MB"
                         },
                         {
@@ -366,7 +366,7 @@
                             "file_name":  "Mere Banke Bihari Lal.mp3",
                             "singer":  "Madhavas Rock Band",
                             "duration":  "04:50",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Mere%20Banke%20Bihari%20Lal.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Mere%20Banke%20Bihari%20Lal.mp3",
                             "size":  "8.55 MB"
                         },
                         {
@@ -375,7 +375,7 @@
                             "file_name":  "Mero Mann Vrindavan Mein Atko.mp3",
                             "singer":  "Indresh Upadhyay, Mohit Lalwani, Karan Khemani",
                             "duration":  "06:08",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Mero%20Mann%20Vrindavan%20Mein%20Atko.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Mero%20Mann%20Vrindavan%20Mein%20Atko.mp3",
                             "size":  "10.71 MB"
                         },
                         {
@@ -384,7 +384,7 @@
                             "file_name":  "Mithe Ras Se Bharyo Radha Rani Lage.mp3",
                             "singer":  "Maanya Arora",
                             "duration":  "03:56",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Mithe%20Ras%20Se%20Bharyo%20Radha%20Rani%20Lage.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Mithe%20Ras%20Se%20Bharyo%20Radha%20Rani%20Lage.mp3",
                             "size":  "6.53 MB"
                         },
                         {
@@ -393,7 +393,7 @@
                             "file_name":  "O Kanha Ab Toh Murli.mp3",
                             "singer":  "Chetna",
                             "duration":  "04:06",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/O%20Kanha%20Ab%20Toh%20Murli.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/O%20Kanha%20Ab%20Toh%20Murli.mp3",
                             "size":  "4.06 MB"
                         },
                         {
@@ -402,7 +402,7 @@
                             "file_name":  "Parvati Boli Shankar Se.mp3",
                             "singer":  "Hansraj Raghuwanshi, Bharat Kamal",
                             "duration":  "07:19",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Parvati%20Boli%20Shankar%20Se.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Parvati%20Boli%20Shankar%20Se.mp3",
                             "size":  "12.52 MB"
                         },
                         {
@@ -411,7 +411,7 @@
                             "file_name":  "Pyaro Vrindavan.mp3",
                             "singer":  "Indresh Upadhyay, B Praak",
                             "duration":  "13:21",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Pyaro%20Vrindavan.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Pyaro%20Vrindavan.mp3",
                             "size":  "23.46 MB"
                         },
                         {
@@ -420,7 +420,7 @@
                             "file_name":  "Radha Krishna Naamawali Chant.mp3",
                             "singer":  "Mohit Lalwani, Akanksha. B, Keshav. K, Anant. B",
                             "duration":  "08:20",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Radha%20Krishna%20Naamawali%20Chant.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Radha%20Krishna%20Naamawali%20Chant.mp3",
                             "size":  "14.06 MB"
                         },
                         {
@@ -429,7 +429,7 @@
                             "file_name":  "Radha Ramanam Hare Hare.mp3",
                             "singer":  "Indresh Upadhyay",
                             "duration":  "14:41",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Radha%20Ramanam%20Hare%20Hare.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Radha%20Ramanam%20Hare%20Hare.mp3",
                             "size":  "14.04 MB"
                         },
                         {
@@ -438,7 +438,7 @@
                             "file_name":  "Radha Rani Laage.mp3",
                             "singer":  "Kairavi Buch",
                             "duration":  "04:08",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Radha%20Rani%20Laage.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Radha%20Rani%20Laage.mp3",
                             "size":  "7.14 MB"
                         },
                         {
@@ -447,7 +447,7 @@
                             "file_name":  "Radha Rani.mp3",
                             "singer":  "Nandlal Chhanga",
                             "duration":  "06:37",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Radha%20Rani.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Radha%20Rani.mp3",
                             "size":  "11.08 MB"
                         },
                         {
@@ -456,7 +456,7 @@
                             "file_name":  "Raghupati Raghav Raja Ram.mp3",
                             "singer":  "Sachet Tandon",
                             "duration":  "03:15",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Raghupati%20Raghav%20Raja%20Ram.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Raghupati%20Raghav%20Raja%20Ram.mp3",
                             "size":  "2.99 MB"
                         },
                         {
@@ -465,7 +465,7 @@
                             "file_name":  "Savaiyaa Raadhey Krishn Ki Jyoti.mp3",
                             "singer":  "Ravindra Jain, Shreya Ghoshal",
                             "duration":  "02:16",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Savaiyaa%20Raadhey%20Krishn%20Ki%20Jyoti.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Savaiyaa%20Raadhey%20Krishn%20Ki%20Jyoti.mp3",
                             "size":  "3.49 MB"
                         },
                         {
@@ -474,7 +474,7 @@
                             "file_name":  "Shree Krishna Govind Hare Murari.mp3",
                             "singer":  "Maanya Arora",
                             "duration":  "05:28",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Shree%20Krishna%20Govind%20Hare%20Murari.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Shree%20Krishna%20Govind%20Hare%20Murari.mp3",
                             "size":  "8.84 MB"
                         },
                         {
@@ -483,7 +483,7 @@
                             "file_name":  "Shri Krishna Govind Hare Murari.mp3",
                             "singer":  "Jubin Nautiyal",
                             "duration":  "02:33",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Shri%20Krishna%20Govind%20Hare%20Murari.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Shri%20Krishna%20Govind%20Hare%20Murari.mp3",
                             "size":  "4.19 MB"
                         },
                         {
@@ -492,7 +492,7 @@
                             "file_name":  "Shyam Chudi Bechne Aaya.mp3",
                             "singer":  "Maanya Arora",
                             "duration":  "03:02",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Shyam%20Chudi%20Bechne%20Aaya.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Shyam%20Chudi%20Bechne%20Aaya.mp3",
                             "size":  "4.96 MB"
                         },
                         {
@@ -501,7 +501,7 @@
                             "file_name":  "Tum Prem Ho Reprise.mp3",
                             "singer":  "Mohit Lalwani",
                             "duration":  "04:48",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Tum%20Prem%20Ho%20Reprise.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Tum%20Prem%20Ho%20Reprise.mp3",
                             "size":  "8.05 MB"
                         },
                         {
@@ -510,7 +510,7 @@
                             "file_name":  "Tum Prem Ho.mp3",
                             "singer":  "Aishwarya Anand",
                             "duration":  "04:48",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Tum%20Prem%20Ho.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Tum%20Prem%20Ho.mp3",
                             "size":  "7.96 MB"
                         },
                         {
@@ -519,14 +519,14 @@
                             "file_name":  "Woh Kisna Hai.mp3",
                             "singer":  "Sukhwinder Singh, Ayesha Darbar, S. Shailaja",
                             "duration":  "05:57",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordKrishna/Woh%20Kisna%20Hai.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordKrishna/Woh%20Kisna%20Hai.mp3",
                             "size":  "9.96 MB"
                         }
                     ]
     },
     {
         "category":  "LordRam",
-        "category_image_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Aate%20Hai%20Raghunandan%20Sajwa%20Do%20_thumb.jpg",
+        "category_image_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Aate%20Hai%20Raghunandan%20Sajwa%20Do%20_thumb.jpg",
         "bhajans":  [
                         {
                             "id":  58,
@@ -534,7 +534,7 @@
                             "file_name":  "Aate Hai Raghunandan Sajwa Do Dwar Dwar.mp3",
                             "singer":  "Pujya Prembhushanji Maharaj",
                             "duration":  "04:16",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Aate%20Hai%20Raghunandan%20Sajwa%20Do%20Dwar%20Dwar.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Aate%20Hai%20Raghunandan%20Sajwa%20Do%20Dwar%20Dwar.mp3",
                             "size":  "6.14 MB"
                         },
                         {
@@ -543,7 +543,7 @@
                             "file_name":  "Agar Nath Dekhoge Avagun.mp3",
                             "singer":  "Pujya Rajan Jee",
                             "duration":  "06:26",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Agar%20Nath%20Dekhoge%20Avagun.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Agar%20Nath%20Dekhoge%20Avagun.mp3",
                             "size":  "5.45 MB"
                         },
                         {
@@ -552,7 +552,7 @@
                             "file_name":  "Aise Hai Mere Ram.mp3",
                             "singer":  "Ravindra Jain, Kavita Krishnamurthy",
                             "duration":  "03:49",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Aise%20Hai%20Mere%20Ram.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Aise%20Hai%20Mere%20Ram.mp3",
                             "size":  "6.51 MB"
                         },
                         {
@@ -561,7 +561,7 @@
                             "file_name":  "Awadh Main Ram Aaye Hai.mp3",
                             "singer":  "Jaya Kishori",
                             "duration":  "06:14",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Awadh%20Main%20Ram%20Aaye%20Hai.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Awadh%20Main%20Ram%20Aaye%20Hai.mp3",
                             "size":  "6.12 MB"
                         },
                         {
@@ -570,7 +570,7 @@
                             "file_name":  "Awadh me raam aaye hain.mp3",
                             "singer":  "Maithili Thakur",
                             "duration":  "05:42",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Awadh%20me%20raam%20aaye%20hain.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Awadh%20me%20raam%20aaye%20hain.mp3",
                             "size":  "8.00 MB"
                         },
                         {
@@ -579,7 +579,7 @@
                             "file_name":  "Awadh Me Ram Aaye Hai.mp3",
                             "singer":  "sadhoband",
                             "duration":  "03:12",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Awadh%20Me%20Ram%20Aaye%20Hai.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Awadh%20Me%20Ram%20Aaye%20Hai.mp3",
                             "size":  "3.00 MB"
                         },
                         {
@@ -588,7 +588,7 @@
                             "file_name":  "Hari Aur Main.mp3",
                             "singer":  "Narci",
                             "duration":  "05:04",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Hari%20Aur%20Main.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Hari%20Aur%20Main.mp3",
                             "size":  "8.87 MB"
                         },
                         {
@@ -597,7 +597,7 @@
                             "file_name":  "He Ram He Ram.mp3",
                             "singer":  "Jagjit Singh",
                             "duration":  "27:09",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/He%20Ram%20He%20Ram.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/He%20Ram%20He%20Ram.mp3",
                             "size":  "24.73 MB"
                         },
                         {
@@ -606,7 +606,7 @@
                             "file_name":  "Hey Ram Hey Ram Shree Ram Dhun.mp3",
                             "singer":  "Jagjit Singh",
                             "duration":  "26:53",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Hey%20Ram%20Hey%20Ram%20Shree%20Ram%20Dhun.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Hey%20Ram%20Hey%20Ram%20Shree%20Ram%20Dhun.mp3",
                             "size":  "49.46 MB"
                         },
                         {
@@ -615,7 +615,7 @@
                             "file_name":  "Hum Katha Sunaate Ram Sakal Gun Dhaam Ki.mp3",
                             "singer":  "Ravindra Jain, Kavita Krishnamurthy, Hemlata",
                             "duration":  "14:37",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Hum%20Katha%20Sunaate%20Ram%20Sakal%20Gun%20Dhaam%20Ki.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Hum%20Katha%20Sunaate%20Ram%20Sakal%20Gun%20Dhaam%20Ki.mp3",
                             "size":  "16.82 MB"
                         },
                         {
@@ -624,7 +624,7 @@
                             "file_name":  "Hum Katha Sunate - Lofi Flip.mp3",
                             "singer":  "WEROMIX MUSIC",
                             "duration":  "02:07",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Hum%20Katha%20Sunate%20-%20Lofi%20Flip.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Hum%20Katha%20Sunate%20-%20Lofi%20Flip.mp3",
                             "size":  "1.93 MB"
                         },
                         {
@@ -633,7 +633,7 @@
                             "file_name":  "Hum Ram Ji Ke Ram Ji Hamare Hai.mp3",
                             "singer":  "Prem Bhushan Maharaj",
                             "duration":  "06:42",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Hum%20Ram%20Ji%20Ke%20Ram%20Ji%20Hamare%20Hai.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Hum%20Ram%20Ji%20Ke%20Ram%20Ji%20Hamare%20Hai.mp3",
                             "size":  "7.30 MB"
                         },
                         {
@@ -642,7 +642,7 @@
                             "file_name":  "Hum Van Ke Vasi Nagar Jagane Aaye.mp3",
                             "singer":  "Ravindra Jain, Hemlata, Kavita Krishnamurthy",
                             "duration":  "05:33",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Hum%20Van%20Ke%20Vasi%20Nagar%20Jagane%20Aaye.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Hum%20Van%20Ke%20Vasi%20Nagar%20Jagane%20Aaye.mp3",
                             "size":  "8.03 MB"
                         },
                         {
@@ -651,7 +651,7 @@
                             "file_name":  "Humare Saath Shri Raghunath.mp3",
                             "singer":  "Agam Aggarwal",
                             "duration":  "04:10",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Humare%20Saath%20Shri%20Raghunath.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Humare%20Saath%20Shri%20Raghunath.mp3",
                             "size":  "6.99 MB"
                         },
                         {
@@ -660,7 +660,7 @@
                             "file_name":  "Jai Siya Ram.mp3",
                             "singer":  "Shivam Chaurasia",
                             "duration":  "04:35",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Jai%20Siya%20Ram.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Jai%20Siya%20Ram.mp3",
                             "size":  "7.89 MB"
                         },
                         {
@@ -669,7 +669,7 @@
                             "file_name":  "JAY SHREE RAM.mp3",
                             "singer":  "Bucks Boy",
                             "duration":  "03:31",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/JAY%20SHREE%20RAM.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/JAY%20SHREE%20RAM.mp3",
                             "size":  "6.48 MB"
                         },
                         {
@@ -678,7 +678,7 @@
                             "file_name":  "Jiski Lagi Re Lagan Bhagwan Me.mp3",
                             "singer":  "Pujya Prembhushanji Maharaj",
                             "duration":  "05:26",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Jiski%20Lagi%20Re%20Lagan%20Bhagwan%20Me.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Jiski%20Lagi%20Re%20Lagan%20Bhagwan%20Me.mp3",
                             "size":  "7.48 MB"
                         },
                         {
@@ -687,7 +687,7 @@
                             "file_name":  "Kabhi Ram Banke Kabhi Sham Banke.mp3",
                             "singer":  "Anjali Jain",
                             "duration":  "35:36",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Kabhi%20Ram%20Banke%20Kabhi%20Sham%20Banke.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Kabhi%20Ram%20Banke%20Kabhi%20Sham%20Banke.mp3",
                             "size":  "24.16 MB"
                         },
                         {
@@ -696,7 +696,7 @@
                             "file_name":  "Kabhi Ram Banke Kabhi Shyam Banke.mp3",
                             "singer":  "Tripti Shakya",
                             "duration":  "08:19",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Kabhi%20Ram%20Banke%20Kabhi%20Shyam%20Banke.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Kabhi%20Ram%20Banke%20Kabhi%20Shyam%20Banke.mp3",
                             "size":  "14.29 MB"
                         },
                         {
@@ -705,7 +705,7 @@
                             "file_name":  "Kewat Ke Ram.mp3",
                             "singer":  "Narci",
                             "duration":  "05:44",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Kewat%20Ke%20Ram.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Kewat%20Ke%20Ram.mp3",
                             "size":  "9.33 MB"
                         },
                         {
@@ -714,7 +714,7 @@
                             "file_name":  "Mai Aa To Gaya Hu Magar Janta Hu.mp3",
                             "singer":  "Pujya Rajan Jee",
                             "duration":  "04:00",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Mai%20Aa%20To%20Gaya%20Hu%20Magar%20Janta%20Hu.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Mai%20Aa%20To%20Gaya%20Hu%20Magar%20Janta%20Hu.mp3",
                             "size":  "2.47 MB"
                         },
                         {
@@ -723,7 +723,7 @@
                             "file_name":  "Mangal Bhavan Amangal Haari Ramayan Title Song 1987.mp3",
                             "singer":  "Agam Aggarwal",
                             "duration":  "02:39",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Mangal%20Bhavan%20Amangal%20Haari%20Ramayan%20Title%20Song%201987.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Mangal%20Bhavan%20Amangal%20Haari%20Ramayan%20Title%20Song%201987.mp3",
                             "size":  "4.27 MB"
                         },
                         {
@@ -732,7 +732,7 @@
                             "file_name":  "Mangal Bhavan Amangal Haari Sitaram Charit.mp3",
                             "singer":  "Ravindra Jain, Anand Kumar C.",
                             "duration":  "01:12",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Mangal%20Bhavan%20Amangal%20Haari%20Sitaram%20Charit.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Mangal%20Bhavan%20Amangal%20Haari%20Sitaram%20Charit.mp3",
                             "size":  "1.56 MB"
                         },
                         {
@@ -741,7 +741,7 @@
                             "file_name":  "Mangal Bhawan Amangal Hari.mp3",
                             "singer":  "Ravindra Jain, Ranchana, Deepmala, Satish, Myuzic Pandits",
                             "duration":  "05:24",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Mangal%20Bhawan%20Amangal%20Hari.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Mangal%20Bhawan%20Amangal%20Hari.mp3",
                             "size":  "4.34 MB"
                         },
                         {
@@ -750,7 +750,7 @@
                             "file_name":  "Mayapati.mp3",
                             "singer":  "Narci",
                             "duration":  "05:07",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Mayapati.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Mayapati.mp3",
                             "size":  "8.88 MB"
                         },
                         {
@@ -759,7 +759,7 @@
                             "file_name":  "Mera Apaki Kripa Se.mp3",
                             "singer":  "Jaya Kishori ji, Chetna Sharma",
                             "duration":  "07:53",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Mera%20Apaki%20Kripa%20Se.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Mera%20Apaki%20Kripa%20Se.mp3",
                             "size":  "7.50 MB"
                         },
                         {
@@ -768,7 +768,7 @@
                             "file_name":  "Mera Apki Kripa Se.mp3",
                             "singer":  "Chetna",
                             "duration":  "03:00",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Mera%20Apki%20Kripa%20Se.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Mera%20Apki%20Kripa%20Se.mp3",
                             "size":  "3.05 MB"
                         },
                         {
@@ -777,7 +777,7 @@
                             "file_name":  "Mere Ghar Ram Aaye Hain.mp3",
                             "singer":  "Jubin Nautiyal, Payal Dev, Manoj Muntashir",
                             "duration":  "03:54",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Mere%20Ghar%20Ram%20Aaye%20Hain.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Mere%20Ghar%20Ram%20Aaye%20Hain.mp3",
                             "size":  "6.66 MB"
                         },
                         {
@@ -786,7 +786,7 @@
                             "file_name":  "Mere Malik Ke Darbar Mein.mp3",
                             "singer":  "Pujya Prembhushanji Maharaj",
                             "duration":  "06:45",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Mere%20Malik%20Ke%20Darbar%20Mein.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Mere%20Malik%20Ke%20Darbar%20Mein.mp3",
                             "size":  "10.97 MB"
                         },
                         {
@@ -795,7 +795,7 @@
                             "file_name":  "Mere Ram(Akhand Ram Naam Kirtan).mp3",
                             "singer":  "Sukha Ram Saroa",
                             "duration":  "16:50",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Mere%20Ram%28Akhand%20Ram%20Naam%20Kirtan%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Mere%20Ram%28Akhand%20Ram%20Naam%20Kirtan%29.mp3",
                             "size":  "29.55 MB"
                         },
                         {
@@ -804,7 +804,7 @@
                             "file_name":  "Mere Ram.mp3",
                             "singer":  "Babul Supriyo",
                             "duration":  "04:36",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Mere%20Ram.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Mere%20Ram.mp3",
                             "size":  "8.25 MB"
                         },
                         {
@@ -813,7 +813,7 @@
                             "file_name":  "Nagri Ho Ayodhya Si (1).mp3",
                             "singer":  "Prakash Gandhi",
                             "duration":  "08:02",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Nagri%20Ho%20Ayodhya%20Si%20%281%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Nagri%20Ho%20Ayodhya%20Si%20%281%29.mp3",
                             "size":  "7.48 MB"
                         },
                         {
@@ -822,7 +822,7 @@
                             "file_name":  "Nagri Ho Ayodhya Si.mp3",
                             "singer":  "sadhoband",
                             "duration":  "04:34",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Nagri%20Ho%20Ayodhya%20Si.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Nagri%20Ho%20Ayodhya%20Si.mp3",
                             "size":  "4.22 MB"
                         },
                         {
@@ -831,7 +831,7 @@
                             "file_name":  "Narayan.mp3",
                             "singer":  "Narci",
                             "duration":  "06:27",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Narayan.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Narayan.mp3",
                             "size":  "5.72 MB"
                         },
                         {
@@ -840,7 +840,7 @@
                             "file_name":  "Pata Nahi Kis Roop Main Aakar.mp3",
                             "singer":  "Pujya Prembhushanji Maharaj",
                             "duration":  "03:24",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Pata%20Nahi%20Kis%20Roop%20Main%20Aakar.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Pata%20Nahi%20Kis%20Roop%20Main%20Aakar.mp3",
                             "size":  "5.58 MB"
                         },
                         {
@@ -849,7 +849,7 @@
                             "file_name":  "Raam Ko Dekh Kar Shri Janak Nandni.mp3",
                             "singer":  "Aadarsh Buddy",
                             "duration":  "05:30",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Raam%20Ko%20Dekh%20Kar%20Shri%20Janak%20Nandni.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Raam%20Ko%20Dekh%20Kar%20Shri%20Janak%20Nandni.mp3",
                             "size":  "5.21 MB"
                         },
                         {
@@ -858,7 +858,7 @@
                             "file_name":  "Raghupati Raghav Raja Ram Original.mp3",
                             "singer":  "Kavita Raam",
                             "duration":  "04:12",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Raghupati%20Raghav%20Raja%20Ram%20Original.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Raghupati%20Raghav%20Raja%20Ram%20Original.mp3",
                             "size":  "6.94 MB"
                         },
                         {
@@ -867,7 +867,7 @@
                             "file_name":  "Raghupati Raghava Rajaram.mp3",
                             "singer":  "Armonian",
                             "duration":  "06:18",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Raghupati%20Raghava%20Rajaram.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Raghupati%20Raghava%20Rajaram.mp3",
                             "size":  "10.22 MB"
                         },
                         {
@@ -876,7 +876,7 @@
                             "file_name":  "Ram Aayenge.mp3",
                             "singer":  "Pujya Prembhushanji Maharaj",
                             "duration":  "07:14",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Ram%20Aayenge.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Ram%20Aayenge.mp3",
                             "size":  "9.70 MB"
                         },
                         {
@@ -885,7 +885,7 @@
                             "file_name":  "Ram Darshan.mp3",
                             "singer":  "Narci",
                             "duration":  "05:09",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Ram%20Darshan.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Ram%20Darshan.mp3",
                             "size":  "4.39 MB"
                         },
                         {
@@ -894,7 +894,7 @@
                             "file_name":  "Ram Dhun - Siya Ram Jai Ram Jai Jai Ram.mp3",
                             "singer":  "Ritesh Mishra",
                             "duration":  "17:38",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Ram%20Dhun%20-%20Siya%20Ram%20Jai%20Ram%20Jai%20Jai%20Ram.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Ram%20Dhun%20-%20Siya%20Ram%20Jai%20Ram%20Jai%20Jai%20Ram.mp3",
                             "size":  "31.04 MB"
                         },
                         {
@@ -903,7 +903,7 @@
                             "file_name":  "Ram Dhun.mp3",
                             "singer":  "Shankar Mahadevan",
                             "duration":  "06:00",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Ram%20Dhun.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Ram%20Dhun.mp3",
                             "size":  "10.04 MB"
                         },
                         {
@@ -912,7 +912,7 @@
                             "file_name":  "Ram Hi Paar Lagavenge.mp3",
                             "singer":  "Kailash Kher",
                             "duration":  "04:03",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Ram%20Hi%20Paar%20Lagavenge.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Ram%20Hi%20Paar%20Lagavenge.mp3",
                             "size":  "6.98 MB"
                         },
                         {
@@ -921,7 +921,7 @@
                             "file_name":  "Ram Jai Jai Ram Main To Ram Hi Ram Pukarun.mp3",
                             "singer":  "Ravindra Jain, Satish Dehra",
                             "duration":  "04:48",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Ram%20Jai%20Jai%20Ram%20Main%20To%20Ram%20Hi%20Ram%20Pukarun.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Ram%20Jai%20Jai%20Ram%20Main%20To%20Ram%20Hi%20Ram%20Pukarun.mp3",
                             "size":  "5.36 MB"
                         },
                         {
@@ -930,7 +930,7 @@
                             "file_name":  "Ram Ji Ki Nikli Sawari.mp3",
                             "singer":  "Mohammed Rafi, Laxmikantâ€“Pyarelal",
                             "duration":  "05:21",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Ram%20Ji%20Ki%20Nikli%20Sawari.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Ram%20Ji%20Ki%20Nikli%20Sawari.mp3",
                             "size":  "6.33 MB"
                         },
                         {
@@ -939,7 +939,7 @@
                             "file_name":  "Ram Ji Ki Sena Chali (Version 1).mp3",
                             "singer":  "Ravindra Jain",
                             "duration":  "05:03",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Ram%20Ji%20Ki%20Sena%20Chali%20%28Version%201%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Ram%20Ji%20Ki%20Sena%20Chali%20%28Version%201%29.mp3",
                             "size":  "8.34 MB"
                         },
                         {
@@ -948,7 +948,7 @@
                             "file_name":  "Ram Kahani.mp3",
                             "singer":  "Ravindra Jain",
                             "duration":  "05:29",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Ram%20Kahani.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Ram%20Kahani.mp3",
                             "size":  "9.05 MB"
                         },
                         {
@@ -957,7 +957,7 @@
                             "file_name":  "Ram Na Milenge Hanuman Ke Bina.mp3",
                             "singer":  "Lakhbir Singh Lakkha",
                             "duration":  "06:38",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Ram%20Na%20Milenge%20Hanuman%20Ke%20Bina.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Ram%20Na%20Milenge%20Hanuman%20Ke%20Bina.mp3",
                             "size":  "11.20 MB"
                         },
                         {
@@ -966,7 +966,7 @@
                             "file_name":  "Ram Se Bada Ram Ka Naam.mp3",
                             "singer":  "Narendra Chanchal",
                             "duration":  "04:37",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Ram%20Se%20Bada%20Ram%20Ka%20Naam.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Ram%20Se%20Bada%20Ram%20Ka%20Naam.mp3",
                             "size":  "8.23 MB"
                         },
                         {
@@ -975,7 +975,7 @@
                             "file_name":  "Ram Setu.mp3",
                             "singer":  "Narci",
                             "duration":  "04:29",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Ram%20Setu.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Ram%20Setu.mp3",
                             "size":  "6.96 MB"
                         },
                         {
@@ -984,7 +984,7 @@
                             "file_name":  "Ram Siya Ram (1).mp3",
                             "singer":  "Rakesh Kala",
                             "duration":  "09:57",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Ram%20Siya%20Ram%20%281%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Ram%20Siya%20Ram%20%281%29.mp3",
                             "size":  "17.11 MB"
                         },
                         {
@@ -993,7 +993,7 @@
                             "file_name":  "Ram Siya Ram (From _Adipurush_).mp3",
                             "singer":  "Sachet-Parampara, Sachet Tandon, Parampara Tandon, Manoj Muntashir",
                             "duration":  "03:50",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Ram%20Siya%20Ram%20%28From%20_Adipurush_%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Ram%20Siya%20Ram%20%28From%20_Adipurush_%29.mp3",
                             "size":  "6.38 MB"
                         },
                         {
@@ -1002,7 +1002,7 @@
                             "file_name":  "Ram Siya Ram.mp3",
                             "singer":  "Sachet Tandon, Shabbir Ahmed",
                             "duration":  "04:25",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Ram%20Siya%20Ram.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Ram%20Siya%20Ram.mp3",
                             "size":  "7.35 MB"
                         },
                         {
@@ -1011,7 +1011,7 @@
                             "file_name":  "Ram Stuti - Shri Ram Chandra Kripalu Bhajman.mp3",
                             "singer":  "Vidhi Sharma",
                             "duration":  "06:24",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Ram%20Stuti%20-%20Shri%20Ram%20Chandra%20Kripalu%20Bhajman.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Ram%20Stuti%20-%20Shri%20Ram%20Chandra%20Kripalu%20Bhajman.mp3",
                             "size":  "10.61 MB"
                         },
                         {
@@ -1020,7 +1020,7 @@
                             "file_name":  "Rama Rama Ratte Ratte.mp3",
                             "singer":  "sadhoband",
                             "duration":  "03:00",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Rama%20Rama%20Ratte%20Ratte.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Rama%20Rama%20Ratte%20Ratte.mp3",
                             "size":  "2.82 MB"
                         },
                         {
@@ -1029,7 +1029,7 @@
                             "file_name":  "Saare Jahan Ke Malik.mp3",
                             "singer":  "Ranjan Ji Maharaj",
                             "duration":  "05:39",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Saare%20Jahan%20Ke%20Malik.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Saare%20Jahan%20Ke%20Malik.mp3",
                             "size":  "3.15 MB"
                         },
                         {
@@ -1038,7 +1038,7 @@
                             "file_name":  "Shendur Laal Chadhayo (Aarti).mp3",
                             "singer":  "Ravindra Sathe",
                             "duration":  "03:12",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Shendur%20Laal%20Chadhayo%20%28Aarti%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Shendur%20Laal%20Chadhayo%20%28Aarti%29.mp3",
                             "size":  "5.49 MB"
                         },
                         {
@@ -1047,7 +1047,7 @@
                             "file_name":  "Shree Ram Chandra Kripalu Bhajman (1).mp3",
                             "singer":  "Aadarsh Buddy",
                             "duration":  "02:24",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Shree%20Ram%20Chandra%20Kripalu%20Bhajman%20%281%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Shree%20Ram%20Chandra%20Kripalu%20Bhajman%20%281%29.mp3",
                             "size":  "2.21 MB"
                         },
                         {
@@ -1056,7 +1056,7 @@
                             "file_name":  "Shree Ram Chandra Kripalu Bhajman.mp3",
                             "singer":  "Maanya Arora",
                             "duration":  "03:43",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Shree%20Ram%20Chandra%20Kripalu%20Bhajman.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Shree%20Ram%20Chandra%20Kripalu%20Bhajman.mp3",
                             "size":  "3.13 MB"
                         },
                         {
@@ -1065,7 +1065,7 @@
                             "file_name":  "Shree Ram Chandra.mp3",
                             "singer":  "Agam Aggarwal",
                             "duration":  "04:12",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Shree%20Ram%20Chandra.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Shree%20Ram%20Chandra.mp3",
                             "size":  "6.76 MB"
                         },
                         {
@@ -1074,7 +1074,7 @@
                             "file_name":  "Shree Ram Stuti (1).mp3",
                             "singer":  "Divine India, Vickky Agarwal",
                             "duration":  "03:15",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Shree%20Ram%20Stuti%20%281%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Shree%20Ram%20Stuti%20%281%29.mp3",
                             "size":  "5.01 MB"
                         },
                         {
@@ -1083,7 +1083,7 @@
                             "file_name":  "Shree Ram Stuti.mp3",
                             "singer":  "Nitin Mukesh",
                             "duration":  "02:35",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Shree%20Ram%20Stuti.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Shree%20Ram%20Stuti.mp3",
                             "size":  "3.90 MB"
                         },
                         {
@@ -1092,7 +1092,7 @@
                             "file_name":  "Shree Ramchandra Kripalu Bhajman By Prem Prakash Dubey.mp3",
                             "singer":  "Prem Prakash Dubey",
                             "duration":  "03:28",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Shree%20Ramchandra%20Kripalu%20Bhajman%20By%20Prem%20Prakash%20Dubey.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Shree%20Ramchandra%20Kripalu%20Bhajman%20By%20Prem%20Prakash%20Dubey.mp3",
                             "size":  "6.06 MB"
                         },
                         {
@@ -1101,7 +1101,7 @@
                             "file_name":  "Shree RamcHandra Krupalu.mp3",
                             "singer":  "Satish Dehra",
                             "duration":  "02:53",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Shree%20RamcHandra%20Krupalu.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Shree%20RamcHandra%20Krupalu.mp3",
                             "size":  "2.42 MB"
                         },
                         {
@@ -1110,7 +1110,7 @@
                             "file_name":  "Shri Ram Jaanki Baithe Hai.mp3",
                             "singer":  "Ram Kumar Lakha",
                             "duration":  "08:35",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Shri%20Ram%20Jaanki%20Baithe%20Hai.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Shri%20Ram%20Jaanki%20Baithe%20Hai.mp3",
                             "size":  "15.80 MB"
                         },
                         {
@@ -1119,7 +1119,7 @@
                             "file_name":  "Shri Ram Jai Ram Jai Jai Ram Ram Dhun.mp3",
                             "singer":  "Seema Mishra",
                             "duration":  "03:06",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Shri%20Ram%20Jai%20Ram%20Jai%20Jai%20Ram%20Ram%20Dhun.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Shri%20Ram%20Jai%20Ram%20Jai%20Jai%20Ram%20Ram%20Dhun.mp3",
                             "size":  "5.62 MB"
                         },
                         {
@@ -1128,7 +1128,7 @@
                             "file_name":  "Shri Ram Janki.mp3",
                             "singer":  "sadhoband",
                             "duration":  "04:27",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Shri%20Ram%20Janki.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Shri%20Ram%20Janki.mp3",
                             "size":  "4.26 MB"
                         },
                         {
@@ -1137,7 +1137,7 @@
                             "file_name":  "Shri Ram Ko Dekhkar Shri Janak Nandini.mp3",
                             "singer":  "Pujya Prembhushanji Maharaj",
                             "duration":  "04:52",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Shri%20Ram%20Ko%20Dekhkar%20Shri%20Janak%20Nandini.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Shri%20Ram%20Ko%20Dekhkar%20Shri%20Janak%20Nandini.mp3",
                             "size":  "7.16 MB"
                         },
                         {
@@ -1146,7 +1146,7 @@
                             "file_name":  "Sita Ram Ji Ki Pyari Rajdhani.mp3",
                             "singer":  "Agam Aggarwal",
                             "duration":  "04:27",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Sita%20Ram%20Ji%20Ki%20Pyari%20Rajdhani.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Sita%20Ram%20Ji%20Ki%20Pyari%20Rajdhani.mp3",
                             "size":  "7.48 MB"
                         },
                         {
@@ -1155,7 +1155,7 @@
                             "file_name":  "Sita Ram Sita Ram Kahiye.mp3",
                             "singer":  "Pujya Prembhushanji Maharaj",
                             "duration":  "05:30",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Sita%20Ram%20Sita%20Ram%20Kahiye.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Sita%20Ram%20Sita%20Ram%20Kahiye.mp3",
                             "size":  "3.44 MB"
                         },
                         {
@@ -1164,7 +1164,7 @@
                             "file_name":  "Sitaram Sitaram Sitaram Kahiye.mp3",
                             "singer":  "Pujya Rajan Ji Official",
                             "duration":  "07:05",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Sitaram%20Sitaram%20Sitaram%20Kahiye.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Sitaram%20Sitaram%20Sitaram%20Kahiye.mp3",
                             "size":  "9.82 MB"
                         },
                         {
@@ -1173,7 +1173,7 @@
                             "file_name":  "Siya Ram.mp3",
                             "singer":  "Jubin Nautiyal, Jaya Kishori",
                             "duration":  "04:20",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Siya%20Ram.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Siya%20Ram.mp3",
                             "size":  "7.20 MB"
                         },
                         {
@@ -1182,7 +1182,7 @@
                             "file_name":  "Sukh Ke Sab Saathi.mp3",
                             "singer":  "Mohammed Rafi, Kalyanji-Anandji",
                             "duration":  "04:37",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Sukh%20Ke%20Sab%20Saathi.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Sukh%20Ke%20Sab%20Saathi.mp3",
                             "size":  "5.63 MB"
                         },
                         {
@@ -1191,7 +1191,7 @@
                             "file_name":  "Suno Re Ram Kahani.mp3",
                             "singer":  "Ravindra Jain",
                             "duration":  "04:27",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Suno%20Re%20Ram%20Kahani.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Suno%20Re%20Ram%20Kahani.mp3",
                             "size":  "2.54 MB"
                         },
                         {
@@ -1200,7 +1200,7 @@
                             "file_name":  "Tumne Aangan Nahi Buhara.mp3",
                             "singer":  "Pujya Prembhushanji Maharaj",
                             "duration":  "03:05",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Tumne%20Aangan%20Nahi%20Buhara.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Tumne%20Aangan%20Nahi%20Buhara.mp3",
                             "size":  "4.26 MB"
                         },
                         {
@@ -1209,7 +1209,7 @@
                             "file_name":  "Ye Chamak Ye Damak 2.0.mp3",
                             "singer":  "Sudhir Vyas",
                             "duration":  "05:51",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Ye%20Chamak%20Ye%20Damak%202.0.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Ye%20Chamak%20Ye%20Damak%202.0.mp3",
                             "size":  "9.07 MB"
                         },
                         {
@@ -1218,14 +1218,14 @@
                             "file_name":  "Ye Chamak Ye Damak 3.0.mp3",
                             "singer":  "Sudhir Vyas",
                             "duration":  "04:43",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordRam/Ye%20Chamak%20Ye%20Damak%203.0.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordRam/Ye%20Chamak%20Ye%20Damak%203.0.mp3",
                             "size":  "7.95 MB"
                         }
                     ]
     },
     {
         "category":  "LordShiva",
-        "category_image_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Aadi%20Anant%20Shiva_thumb.jpg",
+        "category_image_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Aadi%20Anant%20Shiva_thumb.jpg",
         "bhajans":  [
                         {
                             "id":  135,
@@ -1233,7 +1233,7 @@
                             "file_name":  "Aadi Anant Shiva.mp3",
                             "singer":  "Aditya Sharma",
                             "duration":  "08:04",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Aadi%20Anant%20Shiva.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Aadi%20Anant%20Shiva.mp3",
                             "size":  "12.79 MB"
                         },
                         {
@@ -1242,7 +1242,7 @@
                             "file_name":  "Anaadi Ananta.mp3",
                             "singer":  "Kailash Kher",
                             "duration":  "06:30",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Anaadi%20Ananta.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Anaadi%20Ananta.mp3",
                             "size":  "10.85 MB"
                         },
                         {
@@ -1251,7 +1251,7 @@
                             "file_name":  "Bam Bhole Bam.mp3",
                             "singer":  "Aditya Kalkal",
                             "duration":  "03:57",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Bam%20Bhole%20Bam.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Bam%20Bhole%20Bam.mp3",
                             "size":  "6.91 MB"
                         },
                         {
@@ -1260,7 +1260,7 @@
                             "file_name":  "Bam Lahiri.mp3",
                             "singer":  "Kailash Kher, Paresh Kamath, Naresh Kamath",
                             "duration":  "05:17",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Bam%20Lahiri.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Bam%20Lahiri.mp3",
                             "size":  "9.30 MB"
                         },
                         {
@@ -1269,7 +1269,7 @@
                             "file_name":  "Bam Lehri.mp3",
                             "singer":  "Rhymster",
                             "duration":  "02:04",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Bam%20Lehri.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Bam%20Lehri.mp3",
                             "size":  "2.23 MB"
                         },
                         {
@@ -1278,7 +1278,7 @@
                             "file_name":  "Bamm Bamm Bhole.mp3",
                             "singer":  "Arick, Raviraj",
                             "duration":  "03:05",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Bamm%20Bamm%20Bhole.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Bamm%20Bamm%20Bhole.mp3",
                             "size":  "5.27 MB"
                         },
                         {
@@ -1287,7 +1287,7 @@
                             "file_name":  "Bham Bhole Rudraya.mp3",
                             "singer":  "Armonian",
                             "duration":  "04:14",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Bham%20Bhole%20Rudraya.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Bham%20Bhole%20Rudraya.mp3",
                             "size":  "7.45 MB"
                         },
                         {
@@ -1296,7 +1296,7 @@
                             "file_name":  "Bolo Har Har Har.mp3",
                             "singer":  "Mithoon, Mohit Chauhan, Sukhwinder Singh, Badshah, Megha Sriram Dalton, Anugrah, Sandeep Shrivastava",
                             "duration":  "04:54",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Bolo%20Har%20Har%20Har.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Bolo%20Har%20Har%20Har.mp3",
                             "size":  "8.41 MB"
                         },
                         {
@@ -1305,7 +1305,7 @@
                             "file_name":  "Boothanaadha.mp3",
                             "singer":  "Ranjin Raj",
                             "duration":  "01:01",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Boothanaadha.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Boothanaadha.mp3",
                             "size":  "1.76 MB"
                         },
                         {
@@ -1314,7 +1314,7 @@
                             "file_name":  "Chandrachooda.mp3",
                             "singer":  "Midhun Mukundan, Siddhartha Belmannu, Purandara Daasaru",
                             "duration":  "02:52",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Chandrachooda.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Chandrachooda.mp3",
                             "size":  "4.79 MB"
                         },
                         {
@@ -1323,7 +1323,7 @@
                             "file_name":  "Chandrashekhara Ashtakam.mp3",
                             "singer":  "Sounds of Isha",
                             "duration":  "08:01",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Chandrashekhara%20Ashtakam.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Chandrashekhara%20Ashtakam.mp3",
                             "size":  "14.13 MB"
                         },
                         {
@@ -1332,7 +1332,7 @@
                             "file_name":  "Damru (Tandav Shiva).mp3",
                             "singer":  "Sanatan",
                             "duration":  "05:20",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Damru%20%28Tandav%20Shiva%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Damru%20%28Tandav%20Shiva%29.mp3",
                             "size":  "4.58 MB"
                         },
                         {
@@ -1341,7 +1341,7 @@
                             "file_name":  "Devadevam.mp3",
                             "singer":  "Rotting Christ",
                             "duration":  "05:18",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Devadevam.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Devadevam.mp3",
                             "size":  "8.88 MB"
                         },
                         {
@@ -1350,7 +1350,7 @@
                             "file_name":  "Door Na Hona Shambhu.mp3",
                             "singer":  "Krishna Chaturvedi, Pankaj VRK",
                             "duration":  "03:04",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Door%20Na%20Hona%20Shambhu.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Door%20Na%20Hona%20Shambhu.mp3",
                             "size":  "5.15 MB"
                         },
                         {
@@ -1359,7 +1359,7 @@
                             "file_name":  "Drums of Rudra.mp3",
                             "singer":  "Armonian",
                             "duration":  "03:10",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Drums%20of%20Rudra.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Drums%20of%20Rudra.mp3",
                             "size":  "5.76 MB"
                         },
                         {
@@ -1368,7 +1368,7 @@
                             "file_name":  "Har Har Mahadev (1).mp3",
                             "singer":  "Ashish Shukla",
                             "duration":  "03:00",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Har%20Har%20Mahadev%20%281%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Har%20Har%20Mahadev%20%281%29.mp3",
                             "size":  "5.01 MB"
                         },
                         {
@@ -1377,7 +1377,7 @@
                             "file_name":  "Har Har Mahadev Mantra for Power and Transformation.mp3",
                             "singer":  "Mahakatha",
                             "duration":  "04:26",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Har%20Har%20Mahadev%20Mantra%20for%20Power%20and%20Transformation.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Har%20Har%20Mahadev%20Mantra%20for%20Power%20and%20Transformation.mp3",
                             "size":  "7.72 MB"
                         },
                         {
@@ -1386,7 +1386,7 @@
                             "file_name":  "Har Har Mahadev.mp3",
                             "singer":  "Aavya Dubey, Abhishek Rajput",
                             "duration":  "06:21",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Har%20Har%20Mahadev.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Har%20Har%20Mahadev.mp3",
                             "size":  "6.74 MB"
                         },
                         {
@@ -1395,7 +1395,7 @@
                             "file_name":  "Har Har Sambhu.mp3",
                             "singer":  "Hansraj Raghuwanshi",
                             "duration":  "06:03",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Har%20Har%20Sambhu.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Har%20Har%20Sambhu.mp3",
                             "size":  "5.42 MB"
                         },
                         {
@@ -1404,7 +1404,7 @@
                             "file_name":  "Hara Hara Mahadeva (Adiyogi Aarti) Powerful Shiva Chant.mp3",
                             "singer":  "Sounds of Isha",
                             "duration":  "03:22",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Hara%20Hara%20Mahadeva%20%28Adiyogi%20Aarti%29%20Powerful%20Shiva%20Chant.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Hara%20Hara%20Mahadeva%20%28Adiyogi%20Aarti%29%20Powerful%20Shiva%20Chant.mp3",
                             "size":  "3.30 MB"
                         },
                         {
@@ -1413,7 +1413,7 @@
                             "file_name":  "Jai Shankar Shivshankar.mp3",
                             "singer":  "Pandit Jasraj",
                             "duration":  "02:09",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Jai%20Shankar%20Shivshankar.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Jai%20Shankar%20Shivshankar.mp3",
                             "size":  "3.87 MB"
                         },
                         {
@@ -1422,7 +1422,7 @@
                             "file_name":  "Jai Shiva Om.mp3",
                             "singer":  "Mahan",
                             "duration":  "03:45",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Jai%20Shiva%20Om.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Jai%20Shiva%20Om.mp3",
                             "size":  "6.25 MB"
                         },
                         {
@@ -1431,7 +1431,7 @@
                             "file_name":  "Jai Shiva Shankar.mp3",
                             "singer":  "Franko Heke, Monica Dogra, Mose",
                             "duration":  "06:26",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Jai%20Shiva%20Shankar.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Jai%20Shiva%20Shankar.mp3",
                             "size":  "5.96 MB"
                         },
                         {
@@ -1440,7 +1440,7 @@
                             "file_name":  "Karpoor Gauram.mp3",
                             "singer":  "Bass Rebellion",
                             "duration":  "03:13",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Karpoor%20Gauram.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Karpoor%20Gauram.mp3",
                             "size":  "5.45 MB"
                         },
                         {
@@ -1449,7 +1449,7 @@
                             "file_name":  "Karpur Gauram Trap - Remix.mp3",
                             "singer":  "Remakerz Rk",
                             "duration":  "03:57",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Karpur%20Gauram%20Trap%20-%20Remix.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Karpur%20Gauram%20Trap%20-%20Remix.mp3",
                             "size":  "6.54 MB"
                         },
                         {
@@ -1458,7 +1458,7 @@
                             "file_name":  "Karpuragauram Karunavataram.mp3",
                             "singer":  "Manoj Mishra",
                             "duration":  "07:44",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Karpuragauram%20Karunavataram.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Karpuragauram%20Karunavataram.mp3",
                             "size":  "7.99 MB"
                         },
                         {
@@ -1467,7 +1467,7 @@
                             "file_name":  "Khatam.mp3",
                             "singer":  "Mahan, SKIPSTER",
                             "duration":  "05:28",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Khatam.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Khatam.mp3",
                             "size":  "8.42 MB"
                         },
                         {
@@ -1476,7 +1476,7 @@
                             "file_name":  "Maha Mrityunjay Mantra.mp3",
                             "singer":  "Anuradha Paudwal",
                             "duration":  "01:28",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Maha%20Mrityunjay%20Mantra.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Maha%20Mrityunjay%20Mantra.mp3",
                             "size":  "2.51 MB"
                         },
                         {
@@ -1485,7 +1485,7 @@
                             "file_name":  "Maha Mrityunjaya Mantra.mp3",
                             "singer":  "Sounds of Isha",
                             "duration":  "36:34",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Maha%20Mrityunjaya%20Mantra.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Maha%20Mrityunjaya%20Mantra.mp3",
                             "size":  "34.27 MB"
                         },
                         {
@@ -1494,7 +1494,7 @@
                             "file_name":  "Mahadev Har Har Shambhu.mp3",
                             "singer":  "Agam Aggarwal",
                             "duration":  "06:28",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Mahadev%20Har%20Har%20Shambhu.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Mahadev%20Har%20Har%20Shambhu.mp3",
                             "size":  "10.46 MB"
                         },
                         {
@@ -1503,7 +1503,7 @@
                             "file_name":  "Mahakal Mahakaleshwar Chants.mp3",
                             "singer":  "Spiritual Melody, Mahakal",
                             "duration":  "02:38",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Mahakal%20Mahakaleshwar%20Chants.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Mahakal%20Mahakaleshwar%20Chants.mp3",
                             "size":  "4.88 MB"
                         },
                         {
@@ -1512,7 +1512,7 @@
                             "file_name":  "Na Hi Shiva Sneha.mp3",
                             "singer":  "Sounds of Isha",
                             "duration":  "08:52",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Na%20Hi%20Shiva%20Sneha.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Na%20Hi%20Shiva%20Sneha.mp3",
                             "size":  "15.30 MB"
                         },
                         {
@@ -1521,7 +1521,7 @@
                             "file_name":  "Namaskartha Mantra.mp3",
                             "singer":  "Agam Aggarwal",
                             "duration":  "05:59",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Namaskartha%20Mantra.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Namaskartha%20Mantra.mp3",
                             "size":  "10.15 MB"
                         },
                         {
@@ -1530,7 +1530,7 @@
                             "file_name":  "Om Chant.mp3",
                             "singer":  "Ketan Patwardhan",
                             "duration":  "06:18",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Om%20Chant.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Om%20Chant.mp3",
                             "size":  "10.26 MB"
                         },
                         {
@@ -1539,7 +1539,7 @@
                             "file_name":  "Om Namachivaya Om - Lord Shiva - From _Ghibran\u0027s Spiritual Series_.mp3",
                             "singer":  "Ghibran, Gold Devaraj",
                             "duration":  "14:19",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Om%20Namachivaya%20Om%20-%20Lord%20Shiva%20-%20From%20_Ghibran%27s%20Spiritual%20Series_.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Om%20Namachivaya%20Om%20-%20Lord%20Shiva%20-%20From%20_Ghibran%27s%20Spiritual%20Series_.mp3",
                             "size":  "24.74 MB"
                         },
                         {
@@ -1548,7 +1548,7 @@
                             "file_name":  "Om Namah Shivaay.mp3",
                             "singer":  "Bass Rebellion",
                             "duration":  "03:10",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Om%20Namah%20Shivaay.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Om%20Namah%20Shivaay.mp3",
                             "size":  "5.35 MB"
                         },
                         {
@@ -1557,7 +1557,7 @@
                             "file_name":  "OM NAMAH SHIVAY (1).mp3",
                             "singer":  "KALAM INK",
                             "duration":  "03:18",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/OM%20NAMAH%20SHIVAY%20%281%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/OM%20NAMAH%20SHIVAY%20%281%29.mp3",
                             "size":  "5.84 MB"
                         },
                         {
@@ -1566,7 +1566,7 @@
                             "file_name":  "Om Namah Shivay (2).mp3",
                             "singer":  "Baba Kutani, Sohail Madhaar",
                             "duration":  "06:16",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Om%20Namah%20Shivay%20%282%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Om%20Namah%20Shivay%20%282%29.mp3",
                             "size":  "10.04 MB"
                         },
                         {
@@ -1575,7 +1575,7 @@
                             "file_name":  "Om Namah Shivay.mp3",
                             "singer":  "Om Voices",
                             "duration":  "07:40",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Om%20Namah%20Shivay.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Om%20Namah%20Shivay.mp3",
                             "size":  "13.14 MB"
                         },
                         {
@@ -1584,7 +1584,7 @@
                             "file_name":  "Om Namah Shivaya.mp3",
                             "singer":  "Krishna Das",
                             "duration":  "13:29",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Om%20Namah%20Shivaya.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Om%20Namah%20Shivaya.mp3",
                             "size":  "22.38 MB"
                         },
                         {
@@ -1593,7 +1593,7 @@
                             "file_name":  "Parameshwara Stotram.mp3",
                             "singer":  "Armonian",
                             "duration":  "04:52",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Parameshwara%20Stotram.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Parameshwara%20Stotram.mp3",
                             "size":  "8.25 MB"
                         },
                         {
@@ -1602,7 +1602,7 @@
                             "file_name":  "Rhythm of Shiva.mp3",
                             "singer":  "Armonian",
                             "duration":  "03:35",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Rhythm%20of%20Shiva.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Rhythm%20of%20Shiva.mp3",
                             "size":  "6.08 MB"
                         },
                         {
@@ -1611,7 +1611,7 @@
                             "file_name":  "Rudra Shiva Stotram Mantra.mp3",
                             "singer":  "Aniruddha Sastry",
                             "duration":  "02:46",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Rudra%20Shiva%20Stotram%20Mantra.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Rudra%20Shiva%20Stotram%20Mantra.mp3",
                             "size":  "3.92 MB"
                         },
                         {
@@ -1620,7 +1620,7 @@
                             "file_name":  "Rudra.mp3",
                             "singer":  "Bass Rebellion",
                             "duration":  "03:00",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Rudra.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Rudra.mp3",
                             "size":  "5.14 MB"
                         },
                         {
@@ -1629,7 +1629,7 @@
                             "file_name":  "Rudrakshadhari.mp3",
                             "singer":  "Agam Aggarwal, OmkarRaj, Krushna-Vedant",
                             "duration":  "03:19",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Rudrakshadhari.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Rudrakshadhari.mp3",
                             "size":  "5.83 MB"
                         },
                         {
@@ -1638,7 +1638,7 @@
                             "file_name":  "Rudri Path.mp3",
                             "singer":  "Brahmins",
                             "duration":  "34:17",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Rudri%20Path.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Rudri%20Path.mp3",
                             "size":  "33.13 MB"
                         },
                         {
@@ -1647,7 +1647,7 @@
                             "file_name":  "Shadakshara Stotram.mp3",
                             "singer":  "Armonian",
                             "duration":  "04:13",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Shadakshara%20Stotram.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Shadakshara%20Stotram.mp3",
                             "size":  "6.75 MB"
                         },
                         {
@@ -1656,7 +1656,7 @@
                             "file_name":  "Shambho Shankar (Om Namah Shivay).mp3",
                             "singer":  "Akshay Pandya",
                             "duration":  "05:20",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Shambho%20Shankar%20%28Om%20Namah%20Shivay%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Shambho%20Shankar%20%28Om%20Namah%20Shivay%29.mp3",
                             "size":  "9.44 MB"
                         },
                         {
@@ -1665,7 +1665,7 @@
                             "file_name":  "Shambho Shankar Namah Shivay.mp3",
                             "singer":  "Religious India",
                             "duration":  "07:50",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Shambho%20Shankar%20Namah%20Shivay.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Shambho%20Shankar%20Namah%20Shivay.mp3",
                             "size":  "12.81 MB"
                         },
                         {
@@ -1674,7 +1674,7 @@
                             "file_name":  "Shiv Dhun (Shiv Bhajan).mp3",
                             "singer":  "Jainen",
                             "duration":  "03:38",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Shiv%20Dhun%20%28Shiv%20Bhajan%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Shiv%20Dhun%20%28Shiv%20Bhajan%29.mp3",
                             "size":  "4.82 MB"
                         },
                         {
@@ -1683,7 +1683,7 @@
                             "file_name":  "Shiv Dhun (Shiv Stuti Bhajan).mp3",
                             "singer":  "Pandit Jasraj",
                             "duration":  "10:36",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Shiv%20Dhun%20%28Shiv%20Stuti%20Bhajan%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Shiv%20Dhun%20%28Shiv%20Stuti%20Bhajan%29.mp3",
                             "size":  "18.37 MB"
                         },
                         {
@@ -1692,7 +1692,7 @@
                             "file_name":  "Shiv Gayatri Mantra.mp3",
                             "singer":  "Ketan Patwardhan",
                             "duration":  "25:14",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Shiv%20Gayatri%20Mantra.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Shiv%20Gayatri%20Mantra.mp3",
                             "size":  "25.39 MB"
                         },
                         {
@@ -1701,7 +1701,7 @@
                             "file_name":  "Shiv Lingashtkam.mp3",
                             "singer":  "Kailash Kher",
                             "duration":  "03:17",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Shiv%20Lingashtkam.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Shiv%20Lingashtkam.mp3",
                             "size":  "5.68 MB"
                         },
                         {
@@ -1710,7 +1710,7 @@
                             "file_name":  "Shiv Panchakshar Stotra.mp3",
                             "singer":  "Sachet Tandon, Parampara Tandon",
                             "duration":  "03:22",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Shiv%20Panchakshar%20Stotra.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Shiv%20Panchakshar%20Stotra.mp3",
                             "size":  "5.43 MB"
                         },
                         {
@@ -1719,7 +1719,7 @@
                             "file_name":  "Shiv Panchakshara Stotram.mp3",
                             "singer":  "Agam Aggarwal",
                             "duration":  "05:39",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Shiv%20Panchakshara%20Stotram.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Shiv%20Panchakshara%20Stotram.mp3",
                             "size":  "11.02 MB"
                         },
                         {
@@ -1728,7 +1728,7 @@
                             "file_name":  "Shiv Tandav (1).mp3",
                             "singer":  "Hansraj Raghuwanshi",
                             "duration":  "05:52",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Shiv%20Tandav%20%281%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Shiv%20Tandav%20%281%29.mp3",
                             "size":  "5.12 MB"
                         },
                         {
@@ -1737,7 +1737,7 @@
                             "file_name":  "Shiv Tandav (2).mp3",
                             "singer":  "Vardaan, Viraam",
                             "duration":  "04:44",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Shiv%20Tandav%20%282%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Shiv%20Tandav%20%282%29.mp3",
                             "size":  "4.69 MB"
                         },
                         {
@@ -1746,7 +1746,7 @@
                             "file_name":  "Shiv Tandav Stotram (Har Har Shiv Shankar).mp3",
                             "singer":  "Sachet Tandon, Parampara Tandon",
                             "duration":  "05:31",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Shiv%20Tandav%20Stotram%20%28Har%20Har%20Shiv%20Shankar%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Shiv%20Tandav%20Stotram%20%28Har%20Har%20Shiv%20Shankar%29.mp3",
                             "size":  "8.93 MB"
                         },
                         {
@@ -1755,7 +1755,7 @@
                             "file_name":  "Shiv Tandav Strotam.mp3",
                             "singer":  "Induuji Ke Remedies",
                             "duration":  "06:32",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Shiv%20Tandav%20Strotam.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Shiv%20Tandav%20Strotam.mp3",
                             "size":  "6.29 MB"
                         },
                         {
@@ -1764,7 +1764,7 @@
                             "file_name":  "Shiv Tandav.mp3",
                             "singer":  "Agam Aggarwal",
                             "duration":  "10:24",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Shiv%20Tandav.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Shiv%20Tandav.mp3",
                             "size":  "17.53 MB"
                         },
                         {
@@ -1773,7 +1773,7 @@
                             "file_name":  "Shiva Bliss.mp3",
                             "singer":  "Etnikal",
                             "duration":  "08:08",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Shiva%20Bliss.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Shiva%20Bliss.mp3",
                             "size":  "14.49 MB"
                         },
                         {
@@ -1782,7 +1782,7 @@
                             "file_name":  "Shiva Mantra (Om Namah Shivaya).mp3",
                             "singer":  "Indian Trap, S. J. Jananiy",
                             "duration":  "03:36",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Shiva%20Mantra%20%28Om%20Namah%20Shivaya%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Shiva%20Mantra%20%28Om%20Namah%20Shivaya%29.mp3",
                             "size":  "6.27 MB"
                         },
                         {
@@ -1791,7 +1791,7 @@
                             "file_name":  "Shiva Tandava Stotram.mp3",
                             "singer":  "Uma Mohan",
                             "duration":  "06:37",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Shiva%20Tandava%20Stotram.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Shiva%20Tandava%20Stotram.mp3",
                             "size":  "12.13 MB"
                         },
                         {
@@ -1800,7 +1800,7 @@
                             "file_name":  "Shiva Tandava.mp3",
                             "singer":  "Bass Rebellion",
                             "duration":  "05:40",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Shiva%20Tandava.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Shiva%20Tandava.mp3",
                             "size":  "9.89 MB"
                         },
                         {
@@ -1809,7 +1809,7 @@
                             "file_name":  "Shiva Tere Charno Mein.mp3",
                             "singer":  "Hansika Pareek, Khushi Pareek, Aditya Bisht",
                             "duration":  "03:12",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Shiva%20Tere%20Charno%20Mein.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Shiva%20Tere%20Charno%20Mein.mp3",
                             "size":  "5.44 MB"
                         },
                         {
@@ -1818,7 +1818,7 @@
                             "file_name":  "Shiva Trance (1).mp3",
                             "singer":  "Pratish Mhaske",
                             "duration":  "06:17",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Shiva%20Trance%20%281%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Shiva%20Trance%20%281%29.mp3",
                             "size":  "11.19 MB"
                         },
                         {
@@ -1827,7 +1827,7 @@
                             "file_name":  "Shiva Trance.mp3",
                             "singer":  "Bomb Bay",
                             "duration":  "04:24",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Shiva%20Trance.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Shiva%20Trance.mp3",
                             "size":  "4.40 MB"
                         },
                         {
@@ -1836,7 +1836,7 @@
                             "file_name":  "Shiva.mp3",
                             "singer":  "Vinay Katoch",
                             "duration":  "04:39",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Shiva.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Shiva.mp3",
                             "size":  "8.02 MB"
                         },
                         {
@@ -1845,7 +1845,7 @@
                             "file_name":  "Sojugada.mp3",
                             "singer":  "Hansraj Raghuwanshi",
                             "duration":  "04:15",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Sojugada.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Sojugada.mp3",
                             "size":  "7.08 MB"
                         },
                         {
@@ -1854,7 +1854,7 @@
                             "file_name":  "Taandav.mp3",
                             "singer":  "Samira Koppikar, Kailash Kher, Brijesh Shandilya, Puneet Sharma",
                             "duration":  "03:10",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Taandav.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Taandav.mp3",
                             "size":  "5.60 MB"
                         },
                         {
@@ -1863,7 +1863,7 @@
                             "file_name":  "Tandava - Remix.mp3",
                             "singer":  "Shanti People, Somnia",
                             "duration":  "03:20",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Tandava%20-%20Remix.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Tandava%20-%20Remix.mp3",
                             "size":  "5.78 MB"
                         },
                         {
@@ -1872,7 +1872,7 @@
                             "file_name":  "THE DESTROYER (Shiv Tandav Stotram).mp3",
                             "singer":  "Raja Kumari",
                             "duration":  "05:44",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/THE%20DESTROYER%20%28Shiv%20Tandav%20Stotram%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/THE%20DESTROYER%20%28Shiv%20Tandav%20Stotram%29.mp3",
                             "size":  "9.47 MB"
                         },
                         {
@@ -1881,7 +1881,7 @@
                             "file_name":  "Theme of Maha Shiva.mp3",
                             "singer":  "Armonian",
                             "duration":  "07:31",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Theme%20of%20Maha%20Shiva.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Theme%20of%20Maha%20Shiva.mp3",
                             "size":  "12.63 MB"
                         },
                         {
@@ -1890,7 +1890,7 @@
                             "file_name":  "Theme Of Shiva.mp3",
                             "singer":  "Tanisha Roy, Arpita Das, Pobitra Das, Debashis Vaidya",
                             "duration":  "08:07",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Theme%20Of%20Shiva.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Theme%20Of%20Shiva.mp3",
                             "size":  "14.07 MB"
                         },
                         {
@@ -1899,7 +1899,7 @@
                             "file_name":  "Thotakashtakam.mp3",
                             "singer":  "Armonian",
                             "duration":  "05:00",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Thotakashtakam.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Thotakashtakam.mp3",
                             "size":  "8.36 MB"
                         },
                         {
@@ -1908,7 +1908,7 @@
                             "file_name":  "Twamev Mata Pita Twameva.mp3",
                             "singer":  "Siddhant Khattri",
                             "duration":  "04:02",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Twamev%20Mata%20Pita%20Twameva.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Twamev%20Mata%20Pita%20Twameva.mp3",
                             "size":  "7.99 MB"
                         },
                         {
@@ -1917,7 +1917,7 @@
                             "file_name":  "Winds of Kailash.mp3",
                             "singer":  "Armonian",
                             "duration":  "03:08",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Winds%20of%20Kailash.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Winds%20of%20Kailash.mp3",
                             "size":  "5.23 MB"
                         },
                         {
@@ -1926,7 +1926,7 @@
                             "file_name":  "Worship of Mahadev.mp3",
                             "singer":  "Armonian, S.Sharma",
                             "duration":  "10:12",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Worship%20of%20Mahadev.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Worship%20of%20Mahadev.mp3",
                             "size":  "18.29 MB"
                         },
                         {
@@ -1935,7 +1935,7 @@
                             "file_name":  "Yogeshwaraya Mahadevaya (Raag Shankara).mp3",
                             "singer":  "Pandit Jasraj",
                             "duration":  "06:43",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Yogeshwaraya%20Mahadevaya%20%28Raag%20Shankara%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Yogeshwaraya%20Mahadevaya%20%28Raag%20Shankara%29.mp3",
                             "size":  "10.91 MB"
                         },
                         {
@@ -1944,7 +1944,7 @@
                             "file_name":  "Yogeshwaraya Mahadevaya Namaha.mp3",
                             "singer":  "Agam Aggarwal",
                             "duration":  "09:13",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Yogeshwaraya%20Mahadevaya%20Namaha.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Yogeshwaraya%20Mahadevaya%20Namaha.mp3",
                             "size":  "15.63 MB"
                         },
                         {
@@ -1953,14 +1953,14 @@
                             "file_name":  "Yogeshwaraya.mp3",
                             "singer":  "Smitha",
                             "duration":  "06:54",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/LordShiva/Yogeshwaraya.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/LordShiva/Yogeshwaraya.mp3",
                             "size":  "13.44 MB"
                         }
                     ]
     },
     {
         "category":  "RadhaRani",
-        "category_image_url":  "https://abhivishrut.github.io/Api/music/Bhajans/RadhaRani/Bhajman%20Radhe%20Radhe%20Govinda_thumb.jpg",
+        "category_image_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Bhajman%20Radhe%20Radhe%20Govinda_thumb.jpg",
         "bhajans":  [
                         {
                             "id":  216,
@@ -1968,7 +1968,7 @@
                             "file_name":  "Bhajman Radhe Radhe Govinda.mp3",
                             "singer":  "Acyuta Gopi",
                             "duration":  "04:47",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/RadhaRani/Bhajman%20Radhe%20Radhe%20Govinda.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Bhajman%20Radhe%20Radhe%20Govinda.mp3",
                             "size":  "7.32 MB"
                         },
                         {
@@ -1977,7 +1977,7 @@
                             "file_name":  "Hai Mere Geet Tere Liye Radha.mp3",
                             "singer":  "Swasti Mehul",
                             "duration":  "04:37",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/RadhaRani/Hai%20Mere%20Geet%20Tere%20Liye%20Radha.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Hai%20Mere%20Geet%20Tere%20Liye%20Radha.mp3",
                             "size":  "7.70 MB"
                         },
                         {
@@ -1986,7 +1986,7 @@
                             "file_name":  "Maa Tu Hai.mp3",
                             "singer":  "Hansika Pareek, Khushi Pareek, Aditya Bisht",
                             "duration":  "02:45",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/RadhaRani/Maa%20Tu%20Hai.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Maa%20Tu%20Hai.mp3",
                             "size":  "4.60 MB"
                         },
                         {
@@ -1995,7 +1995,7 @@
                             "file_name":  "Main Radha Vallabh Ki.mp3",
                             "singer":  "Devi Neha Saraswat",
                             "duration":  "06:39",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/RadhaRani/Main%20Radha%20Vallabh%20Ki.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Main%20Radha%20Vallabh%20Ki.mp3",
                             "size":  "11.41 MB"
                         },
                         {
@@ -2004,7 +2004,7 @@
                             "file_name":  "Meri Vinti Yahi Hai Radha Rani.mp3",
                             "singer":  "Chitra Vichitra Ji Maharaj",
                             "duration":  "10:17",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/RadhaRani/Meri%20Vinti%20Yahi%20Hai%20Radha%20Rani.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Meri%20Vinti%20Yahi%20Hai%20Radha%20Rani.mp3",
                             "size":  "18.28 MB"
                         },
                         {
@@ -2013,7 +2013,7 @@
                             "file_name":  "Mithe Ras Se Bharyo Radha Rani Lage.mp3",
                             "singer":  "Maanya Arora",
                             "duration":  "03:56",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/RadhaRani/Mithe%20Ras%20Se%20Bharyo%20Radha%20Rani%20Lage.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Mithe%20Ras%20Se%20Bharyo%20Radha%20Rani%20Lage.mp3",
                             "size":  "6.53 MB"
                         },
                         {
@@ -2022,7 +2022,7 @@
                             "file_name":  "Radha Gori Gori.mp3",
                             "singer":  "Indresh Upadhyay, B Praak",
                             "duration":  "05:54",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/RadhaRani/Radha%20Gori%20Gori.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Radha%20Gori%20Gori.mp3",
                             "size":  "10.53 MB"
                         },
                         {
@@ -2031,7 +2031,7 @@
                             "file_name":  "Radha Kaise Na Jale.mp3",
                             "singer":  "Asha Bhosle, Udit Narayan, Vaishali Samant, A.R. Rahman",
                             "duration":  "05:34",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/RadhaRani/Radha%20Kaise%20Na%20Jale.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Radha%20Kaise%20Na%20Jale.mp3",
                             "size":  "10.03 MB"
                         },
                         {
@@ -2040,7 +2040,7 @@
                             "file_name":  "Radha Raman Mere Ghar Aavenge.mp3",
                             "singer":  "Harinaam Das",
                             "duration":  "05:31",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/RadhaRani/Radha%20Raman%20Mere%20Ghar%20Aavenge.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Radha%20Raman%20Mere%20Ghar%20Aavenge.mp3",
                             "size":  "9.34 MB"
                         },
                         {
@@ -2049,7 +2049,7 @@
                             "file_name":  "Radha Rani - Bhajan Mashup.mp3",
                             "singer":  "Dhruv Sharma, Swarna Shri",
                             "duration":  "09:04",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/RadhaRani/Radha%20Rani%20-%20Bhajan%20Mashup.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Radha%20Rani%20-%20Bhajan%20Mashup.mp3",
                             "size":  "15.64 MB"
                         },
                         {
@@ -2058,7 +2058,7 @@
                             "file_name":  "Radha Rani Lage.mp3",
                             "singer":  "Simpal Kharel",
                             "duration":  "03:48",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/RadhaRani/Radha%20Rani%20Lage.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Radha%20Rani%20Lage.mp3",
                             "size":  "6.77 MB"
                         },
                         {
@@ -2067,7 +2067,7 @@
                             "file_name":  "Radha Rani Meri Hai.mp3",
                             "singer":  "Devi Neha Saraswat",
                             "duration":  "05:10",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/RadhaRani/Radha%20Rani%20Meri%20Hai.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Radha%20Rani%20Meri%20Hai.mp3",
                             "size":  "8.79 MB"
                         },
                         {
@@ -2076,7 +2076,7 @@
                             "file_name":  "Radha Rani.mp3",
                             "singer":  "Swasti Mehul",
                             "duration":  "05:38",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/RadhaRani/Radha%20Rani.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Radha%20Rani.mp3",
                             "size":  "9.54 MB"
                         },
                         {
@@ -2085,7 +2085,7 @@
                             "file_name":  "Radhe Braj Jan Man Sukhkari.mp3",
                             "singer":  "Devi Neha Saraswat",
                             "duration":  "07:03",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/RadhaRani/Radhe%20Braj%20Jan%20Man%20Sukhkari.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Radhe%20Braj%20Jan%20Man%20Sukhkari.mp3",
                             "size":  "11.31 MB"
                         },
                         {
@@ -2094,7 +2094,7 @@
                             "file_name":  "Radhe Kishori Daya Karo.mp3",
                             "singer":  "Madhavas Rock Band",
                             "duration":  "06:37",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/RadhaRani/Radhe%20Kishori%20Daya%20Karo.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Radhe%20Kishori%20Daya%20Karo.mp3",
                             "size":  "10.17 MB"
                         },
                         {
@@ -2103,7 +2103,7 @@
                             "file_name":  "Radhe Radhe Barsane Wali Radhe.mp3",
                             "singer":  "Vipul",
                             "duration":  "44:53",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/RadhaRani/Radhe%20Radhe%20Barsane%20Wali%20Radhe.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Radhe%20Radhe%20Barsane%20Wali%20Radhe.mp3",
                             "size":  "48.01 MB"
                         },
                         {
@@ -2112,7 +2112,7 @@
                             "file_name":  "Radhe Radhe.mp3",
                             "singer":  "Hansraj Raghuwanshi, Mista Baaz",
                             "duration":  "06:19",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/RadhaRani/Radhe%20Radhe.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Radhe%20Radhe.mp3",
                             "size":  "10.55 MB"
                         },
                         {
@@ -2121,7 +2121,7 @@
                             "file_name":  "Radhe Tere Charno Ki Dhool Jo Mil Jaye.mp3",
                             "singer":  "Bhumika Sharma",
                             "duration":  "07:59",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/RadhaRani/Radhe%20Tere%20Charno%20Ki%20Dhool%20Jo%20Mil%20Jaye.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Radhe%20Tere%20Charno%20Ki%20Dhool%20Jo%20Mil%20Jaye.mp3",
                             "size":  "13.79 MB"
                         },
                         {
@@ -2130,7 +2130,7 @@
                             "file_name":  "Radhika Dulari.mp3",
                             "singer":  "Indresh Upadhyay, B Praak, Mir Desai",
                             "duration":  "06:41",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/RadhaRani/Radhika%20Dulari.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Radhika%20Dulari.mp3",
                             "size":  "10.68 MB"
                         },
                         {
@@ -2139,7 +2139,7 @@
                             "file_name":  "Samay Samjhayega (Lofi).mp3",
                             "singer":  "Mohit Lalwani, Bharat Kamal",
                             "duration":  "01:42",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/RadhaRani/Samay%20Samjhayega%20%28Lofi%29.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Samay%20Samjhayega%20%28Lofi%29.mp3",
                             "size":  "2.80 MB"
                         },
                         {
@@ -2148,7 +2148,7 @@
                             "file_name":  "Tu Sumiran Kar Radhe Radhe.mp3",
                             "singer":  "Madhavas Rock Band",
                             "duration":  "04:56",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/RadhaRani/Tu%20Sumiran%20Kar%20Radhe%20Radhe.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Tu%20Sumiran%20Kar%20Radhe%20Radhe.mp3",
                             "size":  "8.76 MB"
                         },
                         {
@@ -2157,7 +2157,7 @@
                             "file_name":  "Tujhse Preet Lagi Hai Radhe.mp3",
                             "singer":  "Krishna Chaturvedi, Pankaj VRK",
                             "duration":  "03:34",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/RadhaRani/Tujhse%20Preet%20Lagi%20Hai%20Radhe.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Tujhse%20Preet%20Lagi%20Hai%20Radhe.mp3",
                             "size":  "6.04 MB"
                         },
                         {
@@ -2166,7 +2166,7 @@
                             "file_name":  "Tum Prem Ho - Reprise.mp3",
                             "singer":  "Mohit Lalwani, Bharat Kamal",
                             "duration":  "04:48",
-                            "audio_url":  "https://abhivishrut.github.io/Api/music/Bhajans/RadhaRani/Tum%20Prem%20Ho%20-%20Reprise.mp3",
+                            "audio_url":  "https://abhivishrut.github.io/Data1/Music/Bhajans/RadhaRani/Tum%20Prem%20Ho%20-%20Reprise.mp3",
                             "size":  "8.05 MB"
                         }
                     ]
