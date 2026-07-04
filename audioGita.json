@@ -5,8 +5,8 @@
         "file_name": "prakathana.mp3",
         "duration": "01:06:08",
         "size": "30.68 MB",
-        "thumbnail": "",
-        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/prakathana.mp3"
+        "thumbnail": "https://abhivishrut.github.io/Data1/HariNaam/Image/GitaThumbnail/1.jpeg",
+        "audio_url": "https://abhivishrut.github.io/Data1/HariNaam/BhagavadGitaAudio/prakathana.mp3"
     },
     {
         "id": 2,
@@ -14,8 +14,8 @@
         "file_name": "Chapter-1.mp3",
         "duration": "01:27:58",
         "size": "40.68 MB",
-        "thumbnail": "",
-        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-1.mp3"
+        "thumbnail": "https://abhivishrut.github.io/Data1/HariNaam/Image/GitaThumbnail/2.jpeg",
+        "audio_url": "https://abhivishrut.github.io/Data1/HariNaam/BhagavadGitaAudio/Chapter-1.mp3"
     },
     {
         "id": 3,
@@ -23,8 +23,8 @@
         "file_name": "Chapter-2.mp3",
         "duration": "01:56:27",
         "size": "53.71 MB",
-        "thumbnail": "",
-        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-2.mp3"
+        "thumbnail": "https://abhivishrut.github.io/Data1/HariNaam/Image/GitaThumbnail/3.jpeg",
+        "audio_url": "https://abhivishrut.github.io/Data1/HariNaam/BhagavadGitaAudio/Chapter-2.mp3"
     },
     {
         "id": 4,
@@ -32,8 +32,8 @@
         "file_name": "Chapter-3.mp3",
         "duration": "01:18:42",
         "size": "36.44 MB",
-        "thumbnail": "",
-        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-3.mp3"
+        "thumbnail": "https://abhivishrut.github.io/Data1/HariNaam/Image/GitaThumbnail/4.jpeg",
+        "audio_url": "https://abhivishrut.github.io/Data1/HariNaam/BhagavadGitaAudio/Chapter-3.mp3"
     },
     {
         "id": 5,
@@ -41,8 +41,8 @@
         "file_name": "Chapter-4.mp3",
         "duration": "01:31:08",
         "size": "42.12 MB",
-        "thumbnail": "",
-        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-4.mp3"
+        "thumbnail": "https://abhivishrut.github.io/Data1/HariNaam/Image/GitaThumbnail/5.jpeg",
+        "audio_url": "https://abhivishrut.github.io/Data1/HariNaam/BhagavadGitaAudio/Chapter-4.mp3"
     },
     {
         "id": 6,
@@ -50,8 +50,8 @@
         "file_name": "Chapter-5.mp3",
         "duration": "00:43:55",
         "size": "20.51 MB",
-        "thumbnail": "",
-        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-5.mp3"
+        "thumbnail": "https://abhivishrut.github.io/Data1/HariNaam/Image/GitaThumbnail/6.jpeg",
+        "audio_url": "https://abhivishrut.github.io/Data1/HariNaam/BhagavadGitaAudio/Chapter-5.mp3"
     },
     {
         "id": 7,
@@ -59,8 +59,8 @@
         "file_name": "Chapter-6.mp3",
         "duration": "00:58:02",
         "size": "26.97 MB",
-        "thumbnail": "",
-        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-6.mp3"
+        "thumbnail": "https://abhivishrut.github.io/Data1/HariNaam/Image/GitaThumbnail/7.jpeg",
+        "audio_url": "https://abhivishrut.github.io/Data1/HariNaam/BhagavadGitaAudio/Chapter-6.mp3"
     },
     {
         "id": 8,
@@ -68,8 +68,8 @@
         "file_name": "Chapter-7.mp3",
         "duration": "00:41:57",
         "size": "19.61 MB",
-        "thumbnail": "",
-        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-7.mp3"
+        "thumbnail": "https://abhivishrut.github.io/Data1/HariNaam/Image/GitaThumbnail/8.jpeg",
+        "audio_url": "https://abhivishrut.github.io/Data1/HariNaam/BhagavadGitaAudio/Chapter-7.mp3"
     },
     {
         "id": 9,
@@ -77,8 +77,8 @@
         "file_name": "Chapter-8.mp3",
         "duration": "00:50:39",
         "size": "23.59 MB",
-        "thumbnail": "",
-        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-8.mp3"
+        "thumbnail": "https://abhivishrut.github.io/Data1/HariNaam/Image/GitaThumbnail/9.jpeg",
+        "audio_url": "https://abhivishrut.github.io/Data1/HariNaam/BhagavadGitaAudio/Chapter-8.mp3"
     },
     {
         "id": 10,
@@ -86,8 +86,8 @@
         "file_name": "Chapter-9.mp3",
         "duration": "00:54:27",
         "size": "25.33 MB",
-        "thumbnail": "",
-        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-9.mp3"
+        "thumbnail": "https://abhivishrut.github.io/Data1/HariNaam/Image/GitaThumbnail/10.jpeg",
+        "audio_url": "https://abhivishrut.github.io/Data1/HariNaam/BhagavadGitaAudio/Chapter-9.mp3"
     },
     {
         "id": 11,
@@ -95,8 +95,8 @@
         "file_name": "Chapter-10.mp3",
         "duration": "00:52:39",
         "size": "24.51 MB",
-        "thumbnail": "",
-        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-10.mp3"
+        "thumbnail": "https://abhivishrut.github.io/Data1/HariNaam/Image/GitaThumbnail/11.jpeg",
+        "audio_url": "https://abhivishrut.github.io/Data1/HariNaam/BhagavadGitaAudio/Chapter-10.mp3"
     },
     {
         "id": 12,
@@ -104,8 +104,8 @@
         "file_name": "Chapter-11.mp3",
         "duration": "01:16:24",
         "size": "35.38 MB",
-        "thumbnail": "",
-        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-11.mp3"
+        "thumbnail": "https://abhivishrut.github.io/Data1/HariNaam/Image/GitaThumbnail/12.jpeg",
+        "audio_url": "https://abhivishrut.github.io/Data1/HariNaam/BhagavadGitaAudio/Chapter-11.mp3"
     },
     {
         "id": 13,
@@ -113,8 +113,8 @@
         "file_name": "Chapter-12.mp3",
         "duration": "00:26:42",
         "size": "12.63 MB",
-        "thumbnail": "",
-        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-12.mp3"
+        "thumbnail": "https://abhivishrut.github.io/Data1/HariNaam/Image/GitaThumbnail/13.jpeg",
+        "audio_url": "https://abhivishrut.github.io/Data1/HariNaam/BhagavadGitaAudio/Chapter-12.mp3"
     },
     {
         "id": 14,
@@ -122,8 +122,8 @@
         "file_name": "Chapter-13.mp3",
         "duration": "00:42:22",
         "size": "19.80 MB",
-        "thumbnail": "",
-        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-13.mp3"
+        "thumbnail": "https://abhivishrut.github.io/Data1/HariNaam/Image/GitaThumbnail/14.jpeg",
+        "audio_url": "https://abhivishrut.github.io/Data1/HariNaam/BhagavadGitaAudio/Chapter-13.mp3"
     },
     {
         "id": 15,
@@ -131,8 +131,8 @@
         "file_name": "Chapter-14.mp3",
         "duration": "00:32:32",
         "size": "15.30 MB",
-        "thumbnail": "",
-        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-14.mp3"
+        "thumbnail": "https://abhivishrut.github.io/Data1/HariNaam/Image/GitaThumbnail/15.jpeg",
+        "audio_url": "https://abhivishrut.github.io/Data1/HariNaam/BhagavadGitaAudio/Chapter-14.mp3"
     },
     {
         "id": 16,
@@ -140,8 +140,8 @@
         "file_name": "Chapter-15.mp3",
         "duration": "00:33:08",
         "size": "15.57 MB",
-        "thumbnail": "",
-        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-15.mp3"
+        "thumbnail": "https://abhivishrut.github.io/Data1/HariNaam/Image/GitaThumbnail/16.jpeg",
+        "audio_url": "https://abhivishrut.github.io/Data1/HariNaam/BhagavadGitaAudio/Chapter-15.mp3"
     },
     {
         "id": 17,
@@ -149,8 +149,8 @@
         "file_name": "Chapter-16.mp3",
         "duration": "00:33:29",
         "size": "15.73 MB",
-        "thumbnail": "",
-        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-16.mp3"
+        "thumbnail": "https://abhivishrut.github.io/Data1/HariNaam/Image/GitaThumbnail/17.jpeg",
+        "audio_url": "https://abhivishrut.github.io/Data1/HariNaam/BhagavadGitaAudio/Chapter-16.mp3"
     },
     {
         "id": 18,
@@ -158,8 +158,8 @@
         "file_name": "Chapter-17.mp3",
         "duration": "00:40:13",
         "size": "18.82 MB",
-        "thumbnail": "",
-        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-17.mp3"
+        "thumbnail": "https://abhivishrut.github.io/Data1/HariNaam/Image/GitaThumbnail/18.jpeg",
+        "audio_url": "https://abhivishrut.github.io/Data1/HariNaam/BhagavadGitaAudio/Chapter-17.mp3"
     },
     {
         "id": 19,
@@ -167,8 +167,8 @@
         "file_name": "Chapter-18.mp3",
         "duration": "01:44:07",
         "size": "48.07 MB",
-        "thumbnail": "",
-        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/Chapter-18.mp3"
+        "thumbnail": "https://abhivishrut.github.io/Data1/HariNaam/Image/GitaThumbnail/19.jpeg",
+        "audio_url": "https://abhivishrut.github.io/Data1/HariNaam/BhagavadGitaAudio/Chapter-18.mp3"
     },
     {
         "id": 20,
@@ -176,7 +176,7 @@
         "file_name": "upasama.mp3",
         "duration": "01:15:30",
         "size": "34.97 MB",
-        "thumbnail": "",
-        "audio_url": "https://abhivishrut.github.io/Api/music/BhagavadGitaAudio/upasama.mp3"
+        "thumbnail": "https://abhivishrut.github.io/Data1/HariNaam/Image/GitaThumbnail/20.jpeg",
+        "audio_url": "https://abhivishrut.github.io/Data1/HariNaam/BhagavadGitaAudio/upasama.mp3"
     }
 ]
