@@ -2408,5 +2408,141 @@
                 "thumb_url": "https://abhivishrut.github.io/Data1/HariNaam/Bhajans/RadhaRani/Tum%20Prem%20Ho%20-%20Reprise_thumb.jpg"
             }
         ]
+    },
+    {
+        "category": "Guru Jambheshwar",
+        "category_image_url": "https://abhivishrut.github.io/Data2/Bishnoism/Guru_Jambheshwar.png",
+        "bhajans": [
+            {
+                "id": 239,
+                "title": "Aanand Hoyo Aapar",
+                "file_name": "Aanand Hoyo Aapar.mp3",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Aanand%20Hoyo%20Aapar.mp3",
+                "size": "2.45 MB",
+                "thumb_url": "https://abhivishrut.github.io/Data2/Bishnoism/Aanand%20Hoyo%20Aapar_thumb.jpg"
+            },
+            {
+                "id": 240,
+                "title": "Dhin Guru Sa Mara",
+                "file_name": "Dhin Guru Sa Mara.mp3",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Dhin%20Guru%20Sa%20Mara.mp3",
+                "size": "3.58 MB",
+                "thumb_url": "https://abhivishrut.github.io/Data2/Bishnoism/Dhin%20Guru%20Sa%20Mara_thumb.jpg"
+            },
+            {
+                "id": 241,
+                "title": "Guru Jambheshwar Avtari Ne",
+                "file_name": "Guru Jambheshwar Avtari Ne.mp3",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Guru%20Jambheshwar%20Avtari%20Ne.mp3",
+                "size": "3.40 MB",
+                "thumb_url": "https://abhivishrut.github.io/Data2/Bishnoism/Guru%20Jambheshwar%20Avtari%20Ne_thumb.jpg"
+            },
+            {
+                "id": 242,
+                "title": "Guru Ji Thane Manawan Aaya",
+                "file_name": "Guru Ji Thane Manawan Aaya.mp3",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Guru%20Ji%20Thane%20Manawan%20Aaya.mp3",
+                "size": "4.76 MB",
+                "thumb_url": "https://abhivishrut.github.io/Data2/Bishnoism/Guru%20Ji%20Thane%20Manawan%20Aaya_thumb.jpg"
+            },
+            {
+                "id": 243,
+                "title": "Jag Taaran Hari Aaviya",
+                "file_name": "Jag Taaran Hari Aaviya.mp3",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Jag%20Taaran%20Hari%20Aaviya.mp3",
+                "size": "5.01 MB",
+                "thumb_url": "https://abhivishrut.github.io/Data2/Bishnoism/Jag%20Taaran%20Hari%20Aaviya_thumb.jpg"
+            },
+            {
+                "id": 244,
+                "title": "Jai Jambheshwar Jai Bhagwan",
+                "file_name": "Jai Jambheshwar Jai Bhagwan.mp3",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Jai%20Jambheshwar%20Jai%20Bhagwan.mp3",
+                "size": "6.90 MB",
+                "thumb_url": "https://abhivishrut.github.io/Data2/Bishnoism/Jai%20Jambheshwar%20Jai%20Bhagwan_thumb.jpg"
+            },
+            {
+                "id": 245,
+                "title": "Jambheshwar Bhagwan Maane",
+                "file_name": "Jambheshwar Bhagwan Maane.mp3",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Jambheshwar%20Bhagwan%20Maane.mp3",
+                "size": "3.70 MB",
+                "thumb_url": "https://abhivishrut.github.io/Data2/Bishnoism/Jambheshwar%20Bhagwan%20Maane_thumb.jpg"
+            },
+            {
+                "id": 246,
+                "title": "Mane Pyaro Laage",
+                "file_name": "Mane Pyaro Laage.mp3",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Mane%20Pyaro%20Laage.mp3",
+                "size": "7.96 MB",
+                "thumb_url": "https://abhivishrut.github.io/Data2/Bishnoism/Mane%20Pyaro%20Laage_thumb.jpg"
+            },
+            {
+                "id": 247,
+                "title": "Sab Su Pahla Siwaru Main",
+                "file_name": "Sab Su Pahla Siwaru Main.mp3",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Sab%20Su%20Pahla%20Siwaru%20Main.mp3",
+                "size": "5.19 MB",
+                "thumb_url": "https://abhivishrut.github.io/Data2/Bishnoism/Sab%20Su%20Pahla%20Siwaru%20Main_thumb.jpg"
+            },
+            {
+                "id": 248,
+                "title": "Samrathal Walo Re",
+                "file_name": "Samrathal Walo Re.mp3",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Samrathal%20Walo%20Re.mp3",
+                "size": "3.85 MB",
+                "thumb_url": "https://abhivishrut.github.io/Data2/Bishnoism/Samrathal%20Walo%20Re_thumb.jpg"
+            },
+            {
+                "id": 249,
+                "title": "Sun Mari Laadli",
+                "file_name": "Sun Mari Laadli.mp3",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Sun%20Mari%20Laadli.mp3",
+                "size": "4.32 MB",
+                "thumb_url": "https://abhivishrut.github.io/Data2/Bishnoism/Sun%20Mari%20Laadli_thumb.jpg"
+            },
+            {
+                "id": 250,
+                "title": "Thakur Ji Lohawat Ji Re",
+                "file_name": "Thakur Ji Lohawat Ji Re.mp3",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Thakur%20Ji%20Lohawat%20Ji%20Re.mp3",
+                "size": "4.93 MB",
+                "thumb_url": "https://abhivishrut.github.io/Data2/Bishnoism/Thakur%20Ji%20Lohawat%20Ji%20Re_thumb.jpg"
+            },
+            {
+                "id": 251,
+                "title": "Tthumak Tthumak Aave",
+                "file_name": "Tthumak Tthumak Aave.mp3",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Tthumak%20Tthumak%20Aave.mp3",
+                "size": "3.79 MB",
+                "thumb_url": "https://abhivishrut.github.io/Data2/Bishnoism/Tthumak%20Tthumak%20Aave_thumb.jpg"
+            }
+        ]
     }
 ]
