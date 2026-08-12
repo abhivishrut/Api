@@ -1,0 +1,587 @@
+{
+  "LEVEL046": {
+    "level_number": 46,
+    "title": "Navadurga and Forms of Devi",
+    "difficulty": "Advanced",
+    "questions": {
+      "Q0451": {
+        "question": "Which form of Navadurga is depicted as riding a tiger and represents the ferocious form of Parvati that killed the demon Mahishasura?",
+        "options": {
+          "A": "Kalaratri",
+          "B": "Kushmanda",
+          "C": "Katyayani",
+          "D": "Chandraghanta"
+        },
+        "correct_answer": "C",
+        "explanation": "Goddess Katyayani is the warrior goddess, born out of the anger of the gods to destroy Mahishasura. She rides a lion or tiger."
+      },
+      "Q0452": {
+        "question": "According to the Navadurga tradition, which goddess is worshipped on the first day of Navratri and is the daughter of the Mountain King Himalaya?",
+        "options": {
+          "A": "Shailaputri",
+          "B": "Brahmacharini",
+          "C": "Siddhidatri",
+          "D": "Mahagauri"
+        },
+        "correct_answer": "A",
+        "explanation": "Shailaputri (daughter of the mountain) is the first form of Goddess Durga, representing nature and purity."
+      },
+      "Q0453": {
+        "question": "Which form of Goddess Parvati is worshipped on the eighth day of Navratri and is known for her extreme fairness?",
+        "options": {
+          "A": "Kalaratri",
+          "B": "Siddhidatri",
+          "C": "Mahagauri",
+          "D": "Chandraghanta"
+        },
+        "correct_answer": "C",
+        "explanation": "Mahagauri is the eighth form of Navadurga. She represents purity, calmness, and is renowned for her radiant, fair complexion."
+      },
+      "Q0454": {
+        "question": "The cosmic egg or the universe is believed to have been created by the mere smile of which Navadurga?",
+        "options": {
+          "A": "Skandamata",
+          "B": "Kushmanda",
+          "C": "Kalaratri",
+          "D": "Brahmacharini"
+        },
+        "correct_answer": "B",
+        "explanation": "Goddess Kushmanda is credited with creating the universe with her divine smile when there was absolute darkness."
+      },
+      "Q0455": {
+        "question": "Which form of Devi has a half-moon shaped like a bell on her forehead?",
+        "options": {
+          "A": "Chandraghanta",
+          "B": "Katyayani",
+          "C": "Shailaputri",
+          "D": "Siddhidatri"
+        },
+        "correct_answer": "A",
+        "explanation": "Goddess Chandraghanta wears a crescent moon shaped like a bell (ghanta) on her forehead, hence her name."
+      },
+      "Q0456": {
+        "question": "Goddess Skandamata is the mother of which prominent deity?",
+        "options": {
+          "A": "Ganesha",
+          "B": "Ayyappa",
+          "C": "Kartikeya",
+          "D": "Hanuman"
+        },
+        "correct_answer": "C",
+        "explanation": "Skandamata is the mother of Skanda (Lord Kartikeya/Murugan). She is worshipped on the fifth day of Navratri."
+      },
+      "Q0457": {
+        "question": "Which fierce form of Goddess Durga is worshipped on the seventh day of Navratri and is associated with the destruction of ignorance and darkness?",
+        "options": {
+          "A": "Kushmanda",
+          "B": "Mahagauri",
+          "C": "Siddhidatri",
+          "D": "Kalaratri"
+        },
+        "correct_answer": "D",
+        "explanation": "Kalaratri is the fiercest form of Durga, destroying darkness, ignorance, and evil entities."
+      },
+      "Q0458": {
+        "question": "According to Markandeya Purana, Siddhidatri grants 26 different siddhis (perfections). To whom did she initially grant all these siddhis?",
+        "options": {
+          "A": "Brahma",
+          "B": "Shiva",
+          "C": "Vishnu",
+          "D": "Indra"
+        },
+        "correct_answer": "B",
+        "explanation": "Lord Shiva worshipped Goddess Siddhidatri and attained all siddhis (supernatural powers) by her grace, leading to his Ardhanarishvara form."
+      },
+      "Q0459": {
+        "question": "Which form of Navadurga signifies the unmarried form of Goddess Parvati engaged in severe penance?",
+        "options": {
+          "A": "Brahmacharini",
+          "B": "Shailaputri",
+          "C": "Katyayani",
+          "D": "Chandraghanta"
+        },
+        "correct_answer": "A",
+        "explanation": "Brahmacharini represents the phase of Parvati's life when she observed severe austerities to attain Shiva as her husband."
+      },
+      "Q0460": {
+        "question": "The festival of Bathukamma, celebrated predominantly in Telangana, honors which Goddess?",
+        "options": {
+          "A": "Saraswati",
+          "B": "Maha Gauri",
+          "C": "Kali",
+          "D": "Lakshmi"
+        },
+        "correct_answer": "B",
+        "explanation": "Bathukamma is a floral festival celebrated in Telangana honoring Goddess Maha Gauri, the patron goddess of womanhood."
+      }
+    }
+  },
+  "LEVEL047": {
+    "level_number": 47,
+    "title": "Shakti Peethas and Legends",
+    "difficulty": "Advanced",
+    "questions": {
+      "Q0461": {
+        "question": "Which cosmic event led to the formation of the 51 Shakti Peethas?",
+        "options": {
+          "A": "Samudra Manthan",
+          "B": "Daksha Yajna",
+          "C": "Tripura Samhara",
+          "D": "Kurukshetra War"
+        },
+        "correct_answer": "B",
+        "explanation": "The destruction of Daksha's Yajna and Sati's self-immolation led Shiva to carry her body. Vishnu cut her body with his Sudarshana Chakra, and the fallen parts formed the Shakti Peethas."
+      },
+      "Q0462": {
+        "question": "Which body part of Goddess Sati is believed to have fallen at the Kamakhya Temple in Assam?",
+        "options": {
+          "A": "Heart",
+          "B": "Eyes",
+          "C": "Yoni",
+          "D": "Tongue"
+        },
+        "correct_answer": "C",
+        "explanation": "The Yoni (womb) of Goddess Sati is believed to have fallen at the Nilachal Hill, where the Kamakhya Temple is situated."
+      },
+      "Q0463": {
+        "question": "The Kalighat Shakti Peetha in Kolkata is associated with which fallen body part of Goddess Sati?",
+        "options": {
+          "A": "Right toes",
+          "B": "Left leg",
+          "C": "Throat",
+          "D": "Right hand"
+        },
+        "correct_answer": "A",
+        "explanation": "According to legend, the right toes of Goddess Sati fell at Kalighat, making it a prominent Shakti Peetha."
+      },
+      "Q0464": {
+        "question": "Which text is considered the most authoritative source enumerating the 51 Shakti Peethas?",
+        "options": {
+          "A": "Shiva Purana",
+          "B": "Devi Bhagavata Purana",
+          "C": "Tantra Chudamani",
+          "D": "Matsya Purana"
+        },
+        "correct_answer": "C",
+        "explanation": "The Tantra Chudamani describes the 51 Shakti Peethas, listing the body part, the corresponding form of Shakti, and the accompanying Bhairava for each."
+      },
+      "Q0465": {
+        "question": "In the context of Shakti Peethas, what role does a 'Bhairava' serve?",
+        "options": {
+          "A": "A priest of the temple",
+          "B": "The protector of the specific body part",
+          "C": "The founder of the temple",
+          "D": "A demon subdued by the Goddess"
+        },
+        "correct_answer": "B",
+        "explanation": "For every Shakti Peetha, there is an associated Bhairava (a manifestation of Shiva) who serves as the guardian or protector of the shrine."
+      },
+      "Q0466": {
+        "question": "Which Shakti Peetha, located in modern-day Pakistan, is dedicated to the mind or head (Brahmarandhra) of Sati?",
+        "options": {
+          "A": "Hinglaj Mata",
+          "B": "Sharada Peeth",
+          "C": "Jwalamukhi",
+          "D": "Katyayani Peeth"
+        },
+        "correct_answer": "A",
+        "explanation": "Hinglaj Mata (or Nani Mandir) in Balochistan, Pakistan, is where Sati's Brahmarandhra (top of the head) is believed to have fallen."
+      },
+      "Q0467": {
+        "question": "At the Jwalamukhi Shakti Peetha in Himachal Pradesh, which part of Sati's body fell, represented by the eternal flames?",
+        "options": {
+          "A": "Left eye",
+          "B": "Tongue",
+          "C": "Left ear",
+          "D": "Nose"
+        },
+        "correct_answer": "B",
+        "explanation": "The tongue of Goddess Sati is believed to have fallen at Jwalamukhi, where the Goddess is worshipped in the form of eternal flames."
+      },
+      "Q0468": {
+        "question": "Vimala Temple, located within the Jagannath Temple complex in Puri, is considered a Shakti Peetha. Which body part fell here?",
+        "options": {
+          "A": "Navel",
+          "B": "Heart",
+          "C": "Throat",
+          "D": "Knee"
+        },
+        "correct_answer": "A",
+        "explanation": "The navel (Nabhi) of Sati is believed to have fallen at Puri, where the Vimala Temple is situated."
+      },
+      "Q0469": {
+        "question": "Sharada Peeth, an ancient center of learning and a Shakti Peetha, is located in which region?",
+        "options": {
+          "A": "Kashmir (PoK)",
+          "B": "Uttarakhand",
+          "C": "Tibet",
+          "D": "Assam"
+        },
+        "correct_answer": "A",
+        "explanation": "Sharada Peeth is an abandoned Hindu temple and ancient center of learning situated in Pakistan-occupied Kashmir along the Neelum River."
+      },
+      "Q0470": {
+        "question": "The throat of Goddess Sati is believed to have fallen at which Shakti Peetha, located in Jammu and Kashmir?",
+        "options": {
+          "A": "Amarnath",
+          "B": "Vaishno Devi",
+          "C": "Kheer Bhawani",
+          "D": "Mahamaya"
+        },
+        "correct_answer": "A",
+        "explanation": "The throat of Goddess Sati is said to have fallen at Mahamaya/Amarnath in Kashmir, guarded by Trisandhyeshwar Bhairava."
+      }
+    }
+  },
+  "LEVEL048": {
+    "level_number": 48,
+    "title": "Durga Saptashati & Chandi Path",
+    "difficulty": "Advanced",
+    "questions": {
+      "Q0471": {
+        "question": "The Durga Saptashati is part of which ancient Purana?",
+        "options": {
+          "A": "Devi Purana",
+          "B": "Markandeya Purana",
+          "C": "Shiva Purana",
+          "D": "Kalika Purana"
+        },
+        "correct_answer": "B",
+        "explanation": "The Devi Mahatmya, also known as the Durga Saptashati, consists of 700 verses found in the Markandeya Purana."
+      },
+      "Q0472": {
+        "question": "How many verses (shlokas) are traditionally contained within the Durga Saptashati?",
+        "options": {
+          "A": "1000",
+          "B": "700",
+          "C": "500",
+          "D": "108"
+        },
+        "correct_answer": "B",
+        "explanation": "The term 'Saptashati' literally means seven hundred. It comprises 700 verses describing the glory of the Goddess."
+      },
+      "Q0473": {
+        "question": "In the first episode (Prathama Charitra) of the Devi Mahatmya, who are the two demons defeated by Lord Vishnu with the help of Yoga Nidra?",
+        "options": {
+          "A": "Shumbha and Nishumbha",
+          "B": "Madhu and Kaitabha",
+          "C": "Chanda and Munda",
+          "D": "Raktabija and Dhumralochana"
+        },
+        "correct_answer": "B",
+        "explanation": "Madhu and Kaitabha emerged from the earwax of Lord Vishnu while he was sleeping. Goddess Yoga Nidra was invoked by Brahma to wake Vishnu so he could defeat them."
+      },
+      "Q0474": {
+        "question": "Which demon had a boon that every drop of his blood that fell on the ground would produce another demon like him?",
+        "options": {
+          "A": "Raktabija",
+          "B": "Mahishasura",
+          "C": "Dhumralochana",
+          "D": "Bhasmasura"
+        },
+        "correct_answer": "A",
+        "explanation": "Raktabija possessed this unique boon. Goddess Kali expanded her tongue to drink his blood before it could touch the earth, aiding in his defeat."
+      },
+      "Q0475": {
+        "question": "Who were the two messengers sent by Shumbha and Nishumbha to propose marriage to the Goddess?",
+        "options": {
+          "A": "Chanda and Munda",
+          "B": "Sugriva and Dhumralochana",
+          "C": "Madhu and Kaitabha",
+          "D": "Rahu and Ketu"
+        },
+        "correct_answer": "B",
+        "explanation": "Sugriva (a demon general) and Dhumralochana were sent to persuade or capture the Goddess after she refused Shumbha's marriage proposal."
+      },
+      "Q0476": {
+        "question": "The middle episode (Madhyama Charitra) of Devi Mahatmya primarily focuses on the destruction of which demon?",
+        "options": {
+          "A": "Shumbha",
+          "B": "Madhu",
+          "C": "Mahishasura",
+          "D": "Raktabija"
+        },
+        "correct_answer": "C",
+        "explanation": "The second part of the Devi Mahatmya describes the manifestation of Goddess Chandika (Durga) and her slaying of the buffalo demon Mahishasura."
+      },
+      "Q0477": {
+        "question": "Which fierce form of the Goddess emerged from Durga's forehead to slay the demons Chanda and Munda?",
+        "options": {
+          "A": "Tara",
+          "B": "Chamunda",
+          "C": "Bhairavi",
+          "D": "Bagalamukhi"
+        },
+        "correct_answer": "B",
+        "explanation": "Goddess Kali emerged from Durga's forehead and decapitated Chanda and Munda. Durga then bestowed the title 'Chamunda' upon her."
+      },
+      "Q0478": {
+        "question": "Who is the narrator of the Devi Mahatmya to the king Suratha and the merchant Samadhi?",
+        "options": {
+          "A": "Sage Vyasa",
+          "B": "Sage Markandeya",
+          "C": "Sage Medhas",
+          "D": "Sage Vashistha"
+        },
+        "correct_answer": "C",
+        "explanation": "Sage Medhas narrates the glory of the Goddess (Devi Mahatmya) to King Suratha and the merchant Samadhi, who sought peace and enlightenment."
+      },
+      "Q0479": {
+        "question": "In the Devi Mahatmya, which text is recited before starting the Saptashati as armor or protection for the reciter?",
+        "options": {
+          "A": "Argala Stotram",
+          "B": "Keelakam",
+          "C": "Devi Kavacham",
+          "D": "Ratri Suktam"
+        },
+        "correct_answer": "C",
+        "explanation": "Devi Kavacham (the armor of the Goddess) is chanted prior to the Saptashati to seek the Goddess's protection."
+      },
+      "Q0480": {
+        "question": "What is the collective term for the protective prayers comprising Kavacham, Argala Stotram, and Keelakam?",
+        "options": {
+          "A": "Saptashati Rahasya",
+          "B": "Navarna Mantra",
+          "C": "Chandi Patha",
+          "D": "Durga Saptashati Anga"
+        },
+        "correct_answer": "D",
+        "explanation": "The Kavacham, Argala, and Keelakam form the preliminary parts or 'Angas' (limbs) that must be recited before the core chapters of the Durga Saptashati."
+      }
+    }
+  },
+  "LEVEL049": {
+    "level_number": 49,
+    "title": "Mahavidyas and Tantric Goddesses",
+    "difficulty": "Advanced",
+    "questions": {
+      "Q0481": {
+        "question": "How many Goddesses constitute the Dasa Mahavidyas in Shaktism?",
+        "options": {
+          "A": "7",
+          "B": "9",
+          "C": "10",
+          "D": "12"
+        },
+        "correct_answer": "C",
+        "explanation": "The Dasa Mahavidyas are a group of ten (Dasa) distinct aspects of the Divine Mother or Parvati in Hindu tantra."
+      },
+      "Q0482": {
+        "question": "Which of the Mahavidyas is known as the 'Goddess who paralyzes enemies' and is often depicted holding a demon's tongue?",
+        "options": {
+          "A": "Chhinnamasta",
+          "B": "Bagalamukhi",
+          "C": "Matangi",
+          "D": "Dhumavati"
+        },
+        "correct_answer": "B",
+        "explanation": "Bagalamukhi is the Mahavidya who crushes the devotee's misconceptions and delusions, often worshipped for success in legal matters and paralyzing enemies."
+      },
+      "Q0483": {
+        "question": "Which Mahavidya is uniquely depicted holding her own severed head and drinking the blood spurting from her neck?",
+        "options": {
+          "A": "Kali",
+          "B": "Bhairavi",
+          "C": "Chhinnamasta",
+          "D": "Tara"
+        },
+        "correct_answer": "C",
+        "explanation": "Chhinnamasta, the self-decapitated Goddess, represents life, death, and sex in a single image, symbolizing the transcendence of the physical body."
+      },
+      "Q0484": {
+        "question": "Among the Dasa Mahavidyas, which Goddess is portrayed as a widow, associated with crows, inauspiciousness, and the void after destruction?",
+        "options": {
+          "A": "Dhumavati",
+          "B": "Matangi",
+          "C": "Bhairavi",
+          "D": "Tripura Sundari"
+        },
+        "correct_answer": "A",
+        "explanation": "Dhumavati is the only Mahavidya without a consort. She is depicted as an old, ugly widow riding a crow or a horseless chariot."
+      },
+      "Q0485": {
+        "question": "Tripura Sundari, one of the foremost Mahavidyas, is also known by which name in the Sri Vidya tradition?",
+        "options": {
+          "A": "Shodashi",
+          "B": "Kamala",
+          "C": "Tara",
+          "D": "Bhuvaneshvari"
+        },
+        "correct_answer": "A",
+        "explanation": "Tripura Sundari is also known as Shodashi (the sixteen-year-old), representing ultimate beauty and perfection in the Sri Chakra."
+      },
+      "Q0486": {
+        "question": "Which Mahavidya is often associated with the Outcaste (Chandalini), rules over speech and music, and is considered the Tantric Saraswati?",
+        "options": {
+          "A": "Matangi",
+          "B": "Kamala",
+          "C": "Bagalamukhi",
+          "D": "Tara"
+        },
+        "correct_answer": "A",
+        "explanation": "Matangi is associated with pollution, outcasts, and music. She is the tantric counterpart of Saraswati."
+      },
+      "Q0487": {
+        "question": "Goddess Kamala, the tenth Mahavidya, is the tantric aspect of which mainstream Hindu Goddess?",
+        "options": {
+          "A": "Parvati",
+          "B": "Lakshmi",
+          "C": "Saraswati",
+          "D": "Radha"
+        },
+        "correct_answer": "B",
+        "explanation": "Kamalatmika or Kamala is the tantric form of Lakshmi, the goddess of wealth, fertility, and prosperity."
+      },
+      "Q0488": {
+        "question": "Which Mahavidya's name literally translates to 'Queen of the Universe' and represents the spatial aspect of creation?",
+        "options": {
+          "A": "Bhuvaneshvari",
+          "B": "Tripura Sundari",
+          "C": "Bhairavi",
+          "D": "Kali"
+        },
+        "correct_answer": "A",
+        "explanation": "Bhuvaneshvari translates to 'Queen of the Universe'. She embodies the physical universe and the concept of space."
+      },
+      "Q0489": {
+        "question": "Tara, the second Mahavidya, is closely related to Kali. In which prominent Buddhist tradition is also a primary deity?",
+        "options": {
+          "A": "Theravada",
+          "B": "Vajrayana",
+          "C": "Zen",
+          "D": "Pure Land"
+        },
+        "correct_answer": "B",
+        "explanation": "Goddess Tara is a central deity in Vajrayana (Tibetan) Buddhism, illustrating a historical synthesis between Hindu Tantra and Buddhist Tantra."
+      },
+      "Q0490": {
+        "question": "Bhairavi, the fierce Mahavidya, is considered the feminine equivalent and consort of which form of Lord Shiva?",
+        "options": {
+          "A": "Nataraja",
+          "B": "Dakshinamurthy",
+          "C": "Kalabhairava",
+          "D": "Ardhanarishvara"
+        },
+        "correct_answer": "C",
+        "explanation": "Bhairavi is the consort of Bhairava (Kalabhairava), representing the destructive and formidable aspects of the Divine."
+      }
+    }
+  },
+  "LEVEL050": {
+    "level_number": 50,
+    "title": "The Devi Bhagavata Purana & Philosophy",
+    "difficulty": "Advanced",
+    "questions": {
+      "Q0491": {
+        "question": "In the Devi Bhagavata Purana, what is the supreme, ultimate reality (Brahman) considered to be?",
+        "options": {
+          "A": "Lord Vishnu",
+          "B": "Lord Shiva",
+          "C": "Adi Parashakti",
+          "D": "Lord Brahma"
+        },
+        "correct_answer": "C",
+        "explanation": "The Devi Bhagavata Purana, a principal text of Shaktism, posits that the Goddess (Adi Parashakti) is the ultimate reality and the creator of the Trinity."
+      },
+      "Q0492": {
+        "question": "What is the abode of Adi Parashakti, the supreme Goddess, known as in the Devi Bhagavata Purana?",
+        "options": {
+          "A": "Mani Dvipa",
+          "B": "Vaikuntha",
+          "C": "Kailasa",
+          "D": "Brahmaloka"
+        },
+        "correct_answer": "A",
+        "explanation": "Mani Dvipa (the Island of Jewels) is described as the supreme abode of the Goddess, considered superior to all other divine realms."
+      },
+      "Q0493": {
+        "question": "According to Shakta philosophy, the universe is created by the dynamic, feminine energy of the Divine. What is this energy called?",
+        "options": {
+          "A": "Prakriti",
+          "B": "Purusha",
+          "C": "Maya",
+          "D": "Avidya"
+        },
+        "correct_answer": "A",
+        "explanation": "Prakriti (or Shakti) is the active, feminine, creative energy of the universe, whereas Purusha represents the passive consciousness."
+      },
+      "Q0494": {
+        "question": "In the Devi Gita, a philosophical dialogue within the Devi Bhagavata Purana, to whom does the Goddess reveal her cosmic form?",
+        "options": {
+          "A": "Arjuna",
+          "B": "Himavan (King of Mountains)",
+          "C": "Brahma",
+          "D": "Sage Vyasa"
+        },
+        "correct_answer": "B",
+        "explanation": "In the Devi Gita, Adi Parashakti imparts supreme spiritual knowledge and reveals her cosmic form (Vishwaroopa) to her father, Himavan."
+      },
+      "Q0495": {
+        "question": "The concept of 'Kundalini' in Tantric Shaktism refers to:",
+        "options": {
+          "A": "A sacred mantra",
+          "B": "The dormant spiritual energy coiled at the base of the spine",
+          "C": "A form of classical dance",
+          "D": "A ritual fire offering"
+        },
+        "correct_answer": "B",
+        "explanation": "Kundalini Shakti is the primal, dormant divine energy that rests at the base of the spine. When awakened, it ascends to unite with Shiva at the crown chakra."
+      },
+      "Q0496": {
+        "question": "Which major philosophical school forms the metaphysical foundation of Shaktism, emphasizing non-dualism between the individual soul and the Goddess?",
+        "options": {
+          "A": "Dvaita Vedanta",
+          "B": "Advaita Vedanta",
+          "C": "Samkhya",
+          "D": "Mimamsa"
+        },
+        "correct_answer": "B",
+        "explanation": "Shaktism is closely aligned with Advaita (non-dualism), teaching that the individual soul (Jiva) and the Supreme Goddess (Brahman) are ultimately one."
+      },
+      "Q0497": {
+        "question": "What is the central Yantra (mystic diagram) used in the worship of Goddess Tripura Sundari in Sri Vidya?",
+        "options": {
+          "A": "Shiva Yantra",
+          "B": "Kali Yantra",
+          "C": "Sri Yantra (Sri Chakra)",
+          "D": "Ganesha Yantra"
+        },
+        "correct_answer": "C",
+        "explanation": "The Sri Yantra or Sri Chakra is the central geometric diagram used in the Sri Vidya tradition, representing the union of Shiva and Shakti."
+      },
+      "Q0498": {
+        "question": "In Shakta theology, what are the three primary qualities (Gunas) that the Goddess controls to maintain the universe?",
+        "options": {
+          "A": "Iccha, Jnana, Kriya",
+          "B": "Sattva, Rajas, Tamas",
+          "C": "Dharma, Artha, Kama",
+          "D": "Srishti, Sthiti, Laya"
+        },
+        "correct_answer": "B",
+        "explanation": "The Goddess weaves the universe using the three Gunas: Sattva (goodness/purity), Rajas (passion/activity), and Tamas (ignorance/inertia)."
+      },
+      "Q0499": {
+        "question": "Who is the legendary sage considered the author/compiler of the Devi Bhagavata Purana?",
+        "options": {
+          "A": "Valmiki",
+          "B": "Agastya",
+          "C": "Veda Vyasa",
+          "D": "Shankaracharya"
+        },
+        "correct_answer": "C",
+        "explanation": "Like most major Puranas, the composition of the Devi Bhagavata Purana is traditionally attributed to Sage Veda Vyasa."
+      },
+      "Q0500": {
+        "question": "The Devi Bhagavata Purana states that chanting a specific syllable is identical to the Goddess herself. Which seed-syllable (Bija Mantra) is this?",
+        "options": {
+          "A": "Om",
+          "B": "Krim",
+          "C": "Hrim",
+          "D": "Shrim"
+        },
+        "correct_answer": "C",
+        "explanation": "The Bija mantra 'Hrim' (the Maya Bija) is deeply associated with Goddess Bhuvaneshvari and is considered the supreme sound form of Adi Parashakti in the text."
+      }
+    }
+  }
+}

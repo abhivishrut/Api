@@ -1,0 +1,587 @@
+{
+  "LEVEL071": {
+    "level_number": 71,
+    "title": "Major Puranas and Classifications",
+    "difficulty": "Expert+",
+    "questions": {
+      "Q0701": {
+        "question": "According to the traditional classification based on Gunas, which of the following Puranas is considered a Sattvika Purana?",
+        "options": {
+          "A": "Brahma Vaivarta Purana",
+          "B": "Padma Purana",
+          "C": "Matsya Purana",
+          "D": "Markandeya Purana"
+        },
+        "correct_answer": "B",
+        "explanation": "The Padma Purana is classified as a Sattvika Purana, traditionally associated with Lord Vishnu and spiritual liberation."
+      },
+      "Q0702": {
+        "question": "Which Purana is traditionally known as an encyclopedia of ancient Indian culture, covering arts, grammar, and weaponology, originally narrated to Sage Vasishta?",
+        "options": {
+          "A": "Vayu Purana",
+          "B": "Garuda Purana",
+          "C": "Agni Purana",
+          "D": "Matsya Purana"
+        },
+        "correct_answer": "C",
+        "explanation": "The Agni Purana is highly encyclopedic, covering subjects from rituals to secular arts, and was spoken by Lord Agni to Sage Vasishta."
+      },
+      "Q0703": {
+        "question": "The Skanda Purana, the largest of the Mahapuranas, is divided into major sections called Khandas. How many main Khandas does it traditionally contain?",
+        "options": {
+          "A": "5",
+          "B": "7",
+          "C": "9",
+          "D": "12"
+        },
+        "correct_answer": "B",
+        "explanation": "It traditionally consists of 7 Khandas: Maheshvara, Vaishnava, Brahma, Kashi, Avanti, Nagara, and Prabhasa."
+      },
+      "Q0704": {
+        "question": "Which Mahapurana is unique for explicitly containing a detailed treatise on architecture (Vastu Shastra) and iconography, known as the 'Pratimalakshana'?",
+        "options": {
+          "A": "Matsya Purana",
+          "B": "Kurma Purana",
+          "C": "Bhavishya Purana",
+          "D": "Linga Purana"
+        },
+        "correct_answer": "A",
+        "explanation": "The Matsya Purana contains extensive chapters dedicated to Hindu architecture, sculpture making, and temple construction guidelines."
+      },
+      "Q0705": {
+        "question": "In the context of the Puranic tradition, a text must possess five defining characteristics (Pancha Lakshana). Which of the following is NOT one of these five?",
+        "options": {
+          "A": "Sarga (Creation)",
+          "B": "Pratisarga (Secondary creation)",
+          "C": "Manvantara (Epochs of Manus)",
+          "D": "Vyakarna (Grammar)"
+        },
+        "correct_answer": "D",
+        "explanation": "Vyakarna (Grammar) is not one of the Pancha Lakshana. The five are Sarga, Pratisarga, Vamsha, Manvantara, and Vamshanucharita."
+      },
+      "Q0706": {
+        "question": "The Vayu Purana is often considered to be the older version or closely related to which other Mahapurana due to extensive textual overlap?",
+        "options": {
+          "A": "Shiva Purana",
+          "B": "Skanda Purana",
+          "C": "Brahmanda Purana",
+          "D": "Agni Purana"
+        },
+        "correct_answer": "C",
+        "explanation": "Scholars believe the Vayu and Brahmanda Puranas were originally a single text that later split into two separate Mahapuranas."
+      },
+      "Q0707": {
+        "question": "Which Purana prominently features the narrative of Goddess Durga slaying Mahishasura in its famous section known as the Devi Mahatmya (Chandi Path)?",
+        "options": {
+          "A": "Devi Bhagavata Purana",
+          "B": "Kalika Purana",
+          "C": "Vamana Purana",
+          "D": "Markandeya Purana"
+        },
+        "correct_answer": "D",
+        "explanation": "The Devi Mahatmya, a premier text of Shaktism, is embedded within the Markandeya Purana."
+      },
+      "Q0708": {
+        "question": "Among the Upapuranas, the 'Vishnudharmottara Purana' is celebrated for its exhaustive section on painting and aesthetics. What is the name of this specific section?",
+        "options": {
+          "A": "Chitrasutra",
+          "B": "Shilpashastra",
+          "C": "Kala-tattva",
+          "D": "Vastu-vidya"
+        },
+        "correct_answer": "A",
+        "explanation": "The Chitrasutra section of the Vishnudharmottara Purana is an ancient Indian treatise detailing the rules and principles of painting."
+      },
+      "Q0709": {
+        "question": "The Kurma Purana is notable for being classified under which Guna, despite its narrator being an avatar of Vishnu?",
+        "options": {
+          "A": "Sattva",
+          "B": "Rajas",
+          "C": "Tamas",
+          "D": "Nirguna"
+        },
+        "correct_answer": "C",
+        "explanation": "Despite being named after Vishnu's tortoise avatar, the Kurma Purana heavily glorifies Lord Shiva and is traditionally classified as a Tamasika Purana."
+      },
+      "Q0710": {
+        "question": "The 5th Canto of which major Purana provides an elaborate cosmological description of the universe, Bhumandala, and planetary systems?",
+        "options": {
+          "A": "Vishnu Purana",
+          "B": "Brahma Purana",
+          "C": "Narada Purana",
+          "D": "Bhagavata Purana"
+        },
+        "correct_answer": "D",
+        "explanation": "The 5th Canto of the Bhagavata Purana meticulously outlines Vedic cosmology, the structure of Jambudvipa, and the planetary orbits."
+      }
+    }
+  },
+  "LEVEL072": {
+    "level_number": 72,
+    "title": "Vishnu Purana and Bhagavata Purana",
+    "difficulty": "Expert+",
+    "questions": {
+      "Q0711": {
+        "question": "In the Vishnu Purana, who is the primary narrator imparting knowledge of the universe and theology to his disciple Maitreya?",
+        "options": {
+          "A": "Vyasa",
+          "B": "Parashara",
+          "C": "Shuka",
+          "D": "Vaishampayana"
+        },
+        "correct_answer": "B",
+        "explanation": "Sage Parashara, the father of Vyasa, is the primary narrator of the Vishnu Purana, instructing his disciple Maitreya."
+      },
+      "Q0712": {
+        "question": "The Bhagavata Purana describes the philosophical teachings given by Lord Kapila to his mother Devahuti. Which system of Indian philosophy forms the core of these teachings?",
+        "options": {
+          "A": "Sankhya",
+          "B": "Nyaya",
+          "C": "Advaita",
+          "D": "Mimamsa"
+        },
+        "correct_answer": "A",
+        "explanation": "Lord Kapila propagates a theistic version of the Sankhya philosophy, detailing the evolution of material elements from Prakriti."
+      },
+      "Q0713": {
+        "question": "In the Bhagavata Purana, how many Skandhas (Cantos) are there in total, and which Skandha is specifically dedicated to the detailed pastimes of Lord Krishna?",
+        "options": {
+          "A": "10 Skandhas; 10th Skandha",
+          "B": "12 Skandhas; 11th Skandha",
+          "C": "12 Skandhas; 10th Skandha",
+          "D": "18 Skandhas; 12th Skandha"
+        },
+        "correct_answer": "C",
+        "explanation": "The Bhagavata Purana comprises 12 Cantos, with the 10th Canto being the longest and entirely devoted to Lord Krishna's life."
+      },
+      "Q0714": {
+        "question": "The Uddhava Gita, a profound philosophical discourse between Lord Krishna and his devotee Uddhava, is found in which Canto (Skandha) of the Bhagavata Purana?",
+        "options": {
+          "A": "9th Canto",
+          "B": "10th Canto",
+          "C": "12th Canto",
+          "D": "11th Canto"
+        },
+        "correct_answer": "D",
+        "explanation": "The Uddhava Gita, summarizing the paths of Karma, Jnana, and Bhakti, is contained within the 11th Canto prior to Krishna's departure."
+      },
+      "Q0715": {
+        "question": "According to the Vishnu Purana, who is the son of Budha and Ila, considered the founder of the Lunar Dynasty (Chandra Vamsha)?",
+        "options": {
+          "A": "Nahusha",
+          "B": "Pururavas",
+          "C": "Yayati",
+          "D": "Bharata"
+        },
+        "correct_answer": "B",
+        "explanation": "Pururavas was the son of Budha (Mercury) and Ila, and he established the glorious Lunar Dynasty."
+      },
+      "Q0716": {
+        "question": "The story of Dhruva, who attained the fixed position as the Pole Star through severe penance, is elaborately described in which book (Amsha) of the Vishnu Purana?",
+        "options": {
+          "A": "Fourth Amsha",
+          "B": "Third Amsha",
+          "C": "Second Amsha",
+          "D": "First Amsha"
+        },
+        "correct_answer": "D",
+        "explanation": "The First Amsha of the Vishnu Purana deals with primary creation and the narratives of prominent devotees like Dhruva and Prahlada."
+      },
+      "Q0717": {
+        "question": "In the Bhagavata Purana, King Parikshit is cursed to die within seven days by a snake bite. Who is the sage whose son pronounced this curse?",
+        "options": {
+          "A": "Bhrigu",
+          "B": "Kashyapa",
+          "C": "Shamika",
+          "D": "Gautama"
+        },
+        "correct_answer": "C",
+        "explanation": "King Parikshit placed a dead snake on Sage Shamika. In response, Shamika's young son, Shringi, cursed the king."
+      },
+      "Q0718": {
+        "question": "According to the 12th Canto of the Bhagavata Purana, what is the supreme process for spiritual realization in the Kali Yuga?",
+        "options": {
+          "A": "Dhyana (Meditation)",
+          "B": "Nama-sankirtana (Chanting holy names)",
+          "C": "Yajna (Sacrifice)",
+          "D": "Archana (Temple worship)"
+        },
+        "correct_answer": "B",
+        "explanation": "The text states that the spiritual benefits achieved through meditation in Satya Yuga or sacrifice in Treta Yuga are obtained in Kali Yuga simply by chanting the holy names."
+      },
+      "Q0719": {
+        "question": "In the context of Bhagavata Purana's cosmology, what is the name of the spiritual sky or the eternal abode of the Supreme Lord, situated beyond the material universe?",
+        "options": {
+          "A": "Vaikuntha",
+          "B": "Maharloka",
+          "C": "Tapoloka",
+          "D": "Satyaloka"
+        },
+        "correct_answer": "A",
+        "explanation": "Vaikuntha is the eternal, anxiety-free spiritual realm situated beyond the material coverings of the Brahmanda."
+      },
+      "Q0720": {
+        "question": "The Vishnu Purana details the genealogies (Vamshanucharita) of various dynasties. The complete list of kings of the Kali Yuga is prophesied in which Amsha of this text?",
+        "options": {
+          "A": "Fourth Amsha",
+          "B": "Third Amsha",
+          "C": "Fifth Amsha",
+          "D": "Sixth Amsha"
+        },
+        "correct_answer": "A",
+        "explanation": "The Fourth Amsha is dedicated extensively to the genealogies of the Solar and Lunar dynasties, predicting future kings of the Kali age."
+      }
+    }
+  },
+  "LEVEL073": {
+    "level_number": 73,
+    "title": "Shiva Purana and Devi Bhagavata",
+    "difficulty": "Expert+",
+    "questions": {
+      "Q0721": {
+        "question": "The Shiva Purana is traditionally divided into several Samhitas. Which Samhita contains the detailed narrative of the origin of the twelve Jyotirlingas?",
+        "options": {
+          "A": "Vidyeshvara Samhita",
+          "B": "Rudra Samhita",
+          "C": "Shatarudra Samhita",
+          "D": "Kotirudra Samhita"
+        },
+        "correct_answer": "D",
+        "explanation": "The Kotirudra Samhita is specifically dedicated to the greatness, origins, and locations of the various Jyotirlingas of Lord Shiva."
+      },
+      "Q0722": {
+        "question": "In the Devi Bhagavata Purana, the Supreme Divine Mother, representing the ultimate reality, resides in the highest loka known as what?",
+        "options": {
+          "A": "Kailasa",
+          "B": "Vaikuntha",
+          "C": "Manidvipa",
+          "D": "Goloka"
+        },
+        "correct_answer": "C",
+        "explanation": "Manidvipa (the Island of Jewels) is the supreme dimensional abode of the Goddess Bhuvaneshvari (Adi Parashakti) in Shakta cosmology."
+      },
+      "Q0723": {
+        "question": "In the Shiva Purana (Rudra Samhita), who serves as the divine architect to construct the magnificent three cities of gold, silver, and iron for the Asuras, known as Tripura?",
+        "options": {
+          "A": "Maya Danava",
+          "B": "Vishvakarma",
+          "C": "Tvashtar",
+          "D": "Shukracharya"
+        },
+        "correct_answer": "A",
+        "explanation": "Maya Danava was the great architect of the Asuras who built the invincible flying cities of Tripura."
+      },
+      "Q0724": {
+        "question": "The Devi Bhagavata Purana uniquely includes a philosophical dialogue known as the 'Devi Gita'. In which Skandha (Canto) is this text located?",
+        "options": {
+          "A": "5th Skandha",
+          "B": "9th Skandha",
+          "C": "11th Skandha",
+          "D": "7th Skandha"
+        },
+        "correct_answer": "D",
+        "explanation": "The Devi Gita, which expounds Shakta philosophy and Yoga, is found in the final chapters of the 7th Skandha."
+      },
+      "Q0725": {
+        "question": "According to the Shatarudra Samhita of the Shiva Purana, Hanuman is considered a powerful incarnation of which deity?",
+        "options": {
+          "A": "Vayu",
+          "B": "Shiva",
+          "C": "Vishnu",
+          "D": "Brahma"
+        },
+        "correct_answer": "B",
+        "explanation": "The text describes Lord Hanuman as the 11th Rudra avatar of Lord Shiva, born to assist Rama."
+      },
+      "Q0726": {
+        "question": "The Navarna Mantra is a central mantra dedicated to the Supreme Goddess mentioned prominently in texts like the Devi Bhagavata. How many syllables does it contain?",
+        "options": {
+          "A": "9",
+          "B": "5",
+          "C": "12",
+          "D": "15"
+        },
+        "correct_answer": "A",
+        "explanation": "The Navarna Mantra (Om Aim Hrim Klim Chamundayai Vicce) consists of nine syllables, essential in Shakta worship."
+      },
+      "Q0727": {
+        "question": "According to the Shiva Purana, what was the primary reason Lord Shiva consumed the Halahala poison during the Samudra Manthana?",
+        "options": {
+          "A": "To prove his supremacy over Vishnu and Brahma",
+          "B": "To acquire the title of Nilakantha",
+          "C": "To save the universe from destruction by its toxic fumes",
+          "D": "To test the devotion of the Devas and Asuras"
+        },
+        "correct_answer": "C",
+        "explanation": "The deadly Halahala poison threatened to destroy all of creation, prompting Shiva to drink it out of immense compassion for the universe."
+      },
+      "Q0728": {
+        "question": "In the Shakta traditions echoing through the Puranas, how many Maha-Vidyas (great forms of wisdom goddesses) are described as manifestations of the Supreme Goddess?",
+        "options": {
+          "A": "7",
+          "B": "9",
+          "C": "15",
+          "D": "10"
+        },
+        "correct_answer": "D",
+        "explanation": "There are ten Dasha Maha-Vidyas (like Kali, Tara, Tripura Sundari, etc.) representing various cosmic wisdoms."
+      },
+      "Q0729": {
+        "question": "What is the infinite pillar of fire that appeared before Brahma and Vishnu in the Shiva Purana, settling their debate about supremacy, known as?",
+        "options": {
+          "A": "Brahmanda Stambha",
+          "B": "Jyotirlinga",
+          "C": "Lingodbhava",
+          "D": "Agni Skandha"
+        },
+        "correct_answer": "B",
+        "explanation": "The endless pillar of light is the supreme Jyotirlinga, representing Shiva's infinite and beginningless nature."
+      },
+      "Q0730": {
+        "question": "In the Devi Bhagavata Purana, the ninth Canto focuses extensively on the narratives of Lord Krishna, Radha, and Prakriti. This canto is heavily influenced by, and almost identical to, a section of which other text?",
+        "options": {
+          "A": "Brahma Vaivarta Purana",
+          "B": "Harivamsa",
+          "C": "Vishnu Purana",
+          "D": "Garga Samhita"
+        },
+        "correct_answer": "A",
+        "explanation": "The 9th Canto of the Devi Bhagavata Purana shares a massive textual overlap with the Prakriti Khanda of the Brahma Vaivarta Purana."
+      }
+    }
+  },
+  "LEVEL074": {
+    "level_number": 74,
+    "title": "Hindu Cosmology, Yugas, and Kalpas",
+    "difficulty": "Expert+",
+    "questions": {
+      "Q0731": {
+        "question": "According to Hindu cosmology, what is the duration of one Maha Yuga (Chatur Yuga) in human years?",
+        "options": {
+          "A": "1,728,000 years",
+          "B": "8,640,000 years",
+          "C": "4,320,000 years",
+          "D": "4,320,000,000 years"
+        },
+        "correct_answer": "C",
+        "explanation": "A complete cycle of four Yugas (Maha Yuga) lasts for 4,320,000 human years."
+      },
+      "Q0732": {
+        "question": "A Kalpa is defined as one day of Brahma. How many Maha Yugas constitute one Kalpa?",
+        "options": {
+          "A": "100",
+          "B": "71",
+          "C": "14",
+          "D": "1000"
+        },
+        "correct_answer": "D",
+        "explanation": "One Kalpa is made up of 1,000 Maha Yugas, which equals 4.32 billion human years."
+      },
+      "Q0733": {
+        "question": "In the cosmological division of time, a Manvantara is the lifespan of one Manu. Approximately how many Maha Yugas make up one Manvantara?",
+        "options": {
+          "A": "71",
+          "B": "14",
+          "C": "100",
+          "D": "1000"
+        },
+        "correct_answer": "A",
+        "explanation": "One Manvantara is composed of 71 Maha Yugas. There are 14 such Manvantaras in a single Kalpa."
+      },
+      "Q0734": {
+        "question": "According to the Puranas, which Kalpa are we currently living in?",
+        "options": {
+          "A": "Padma Kalpa",
+          "B": "Brahma Kalpa",
+          "C": "Varaha Kalpa",
+          "D": "Sarasvata Kalpa"
+        },
+        "correct_answer": "C",
+        "explanation": "We are currently in the Shveta Varaha Kalpa, named after Lord Vishnu's boar incarnation that initiated this epoch."
+      },
+      "Q0735": {
+        "question": "In Hindu cosmology, the universe is divided into fourteen realms (Lokas). Which is the lowest of the subterranean realms (Patalas)?",
+        "options": {
+          "A": "Atala",
+          "B": "Patala",
+          "C": "Rasatala",
+          "D": "Sutala"
+        },
+        "correct_answer": "B",
+        "explanation": "Patala (or Patala Loka) is the lowest of the seven lower planetary systems, ruled by the Nagas."
+      },
+      "Q0736": {
+        "question": "In the Puranic geographical description, Jambudvipa is the central island continent. What is the name of the ocean that directly surrounds it?",
+        "options": {
+          "A": "Lavana (Saltwater)",
+          "B": "Sura (Wine)",
+          "C": "Ikshu (Sugarcane juice)",
+          "D": "Kshira (Milk)"
+        },
+        "correct_answer": "A",
+        "explanation": "Jambudvipa is centrally located and surrounded by the Lavana Sagara, the ocean of saltwater."
+      },
+      "Q0737": {
+        "question": "According to Puranic cosmology, the universe is enclosed in a cosmic egg known as the Brahmanda. How many concentric layers of elemental matter are said to envelop this egg?",
+        "options": {
+          "A": "5",
+          "B": "9",
+          "C": "11",
+          "D": "7"
+        },
+        "correct_answer": "D",
+        "explanation": "The Brahmanda is enveloped by seven progressive layers: earth, water, fire, air, ether, ego (ahankara), and cosmic intelligence (mahat)."
+      },
+      "Q0738": {
+        "question": "The current Manu governing our epoch (Manvantara) is the seventh Manu. What is his name?",
+        "options": {
+          "A": "Svayambhuva",
+          "B": "Chakshusha",
+          "C": "Vaivasvata",
+          "D": "Savarni"
+        },
+        "correct_answer": "C",
+        "explanation": "The current, seventh Manu is Vaivasvata Manu, the son of Vivasvan (the Sun God)."
+      },
+      "Q0739": {
+        "question": "In the progression of the four Yugas, the prescribed primary method of dharma changes. What is the primary method recommended for the Treta Yuga?",
+        "options": {
+          "A": "Yajna (Sacrificial rites)",
+          "B": "Tapas (Austerity)",
+          "C": "Dana (Charity)",
+          "D": "Dhyana (Meditation)"
+        },
+        "correct_answer": "A",
+        "explanation": "Meditation is for Satya Yuga, Yajna (fire sacrifices) for Treta Yuga, temple worship for Dvapara Yuga, and chanting for Kali Yuga."
+      },
+      "Q0740": {
+        "question": "At the end of a Kalpa (one day of Brahma), a partial dissolution of the universe occurs. What is this type of dissolution known as?",
+        "options": {
+          "A": "Prakritika Pralaya",
+          "B": "Naimittika Pralaya",
+          "C": "Atyantika Pralaya",
+          "D": "Nitya Pralaya"
+        },
+        "correct_answer": "B",
+        "explanation": "Naimittika Pralaya is the occasional dissolution that happens at the end of Brahma's day, where the lower planetary systems are submerged."
+      }
+    }
+  },
+  "LEVEL075": {
+    "level_number": 75,
+    "title": "Creation Concepts and Traditional Narratives",
+    "difficulty": "Expert+",
+    "questions": {
+      "Q0741": {
+        "question": "In the Sankhya-based creation model described in many Puranas, what is the first manifest principle to emerge from the unmanifest Prakriti (Pradhana)?",
+        "options": {
+          "A": "Ahankara",
+          "B": "Manas",
+          "C": "Pancha Tanmatra",
+          "D": "Mahat-tattva"
+        },
+        "correct_answer": "D",
+        "explanation": "Mahat-tattva, the cosmic intelligence, is the first principle to emerge when the equilibrium of Prakriti's gunas is disturbed."
+      },
+      "Q0742": {
+        "question": "According to the Puranic creation myth, Lord Brahma was born from a lotus. From where did this cosmic lotus sprout?",
+        "options": {
+          "A": "The navel of Lord Garbhodakashayi Vishnu",
+          "B": "The cosmic ocean of milk",
+          "C": "The forehead of Lord Shiva",
+          "D": "The heart of the golden egg"
+        },
+        "correct_answer": "A",
+        "explanation": "A divine lotus sprouted from the navel of Vishnu as He rested on the causal waters, and Brahma was born upon it."
+      },
+      "Q0743": {
+        "question": "Who is the great sage who fathered the Devas, Asuras, Nagas, and various other beings through his marriages to the daughters of Daksha Prajapati?",
+        "options": {
+          "A": "Atri",
+          "B": "Vasishta",
+          "C": "Kashyapa",
+          "D": "Vishvamitra"
+        },
+        "correct_answer": "C",
+        "explanation": "Sage Kashyapa married 13 (or sometimes 60 in other texts) daughters of Daksha, becoming the progenitor of almost all species in the universe."
+      },
+      "Q0744": {
+        "question": "During the initial stages of creation, Brahma created four mind-born sons who refused to procreate, choosing a life of celibacy. Who among the following is NOT one of these Kumaras?",
+        "options": {
+          "A": "Sanaka",
+          "B": "Suka",
+          "C": "Sanatkumara",
+          "D": "Sanandana"
+        },
+        "correct_answer": "B",
+        "explanation": "Suka was the son of Sage Vyasa. The four Kumaras are Sanaka, Sanandana, Sanatana, and Sanatkumara."
+      },
+      "Q0745": {
+        "question": "The narrative of the Churning of the Ocean (Samudra Manthana) is a central cosmic event. Which mountain was used as the churning rod by the Devas and Asuras?",
+        "options": {
+          "A": "Mount Mandara",
+          "B": "Mount Kailash",
+          "C": "Mount Meru",
+          "D": "Mount Govardhana"
+        },
+        "correct_answer": "A",
+        "explanation": "Mount Mandara was used as the churning rod, while the serpent Vasuki served as the churning rope."
+      },
+      "Q0746": {
+        "question": "In Puranic cosmology, the river Ganges descends from the heavenly realms and divides into four branches atop Mount Meru. Which branch flows south into India?",
+        "options": {
+          "A": "Sita",
+          "B": "Chakshu",
+          "C": "Bhadra",
+          "D": "Alakananda"
+        },
+        "correct_answer": "D",
+        "explanation": "The Alakananda branch flows southwards through the Himalayas into Bharatavarsha (India)."
+      },
+      "Q0747": {
+        "question": "According to the traditional account of creation, the 'Pancha Mahabhutas' (gross elements) evolve from the 'Pancha Tanmatras' (subtle elements). Which gross element evolves from the 'Shabda Tanmatra' (subtle sound)?",
+        "options": {
+          "A": "Vayu (Air)",
+          "B": "Agni (Fire)",
+          "C": "Akasha (Ether/Space)",
+          "D": "Jala (Water)"
+        },
+        "correct_answer": "C",
+        "explanation": "Akasha (Space or Ether) is the first gross element to manifest and possesses the sole quality of Shabda (Sound)."
+      },
+      "Q0748": {
+        "question": "In the story of the cosmic dissolution (Pralaya), Lord Vishnu is depicted resting, floating on the causal waters. What is the name of his multi-hooded serpent bed?",
+        "options": {
+          "A": "Vasuki",
+          "B": "Ananta Shesha",
+          "C": "Takshaka",
+          "D": "Kaliya"
+        },
+        "correct_answer": "B",
+        "explanation": "Lord Narayana rests upon Ananta Shesha (or Sheshanaga), the infinite serpent, during the cosmic sleep between creations."
+      },
+      "Q0749": {
+        "question": "The concept of 'Hiranyagarbha' refers to the golden womb or the cosmic egg from which the universe is created. This term is primarily associated with which deity functioning as the creator?",
+        "options": {
+          "A": "Brahma",
+          "B": "Vishnu",
+          "C": "Shiva",
+          "D": "Indra"
+        },
+        "correct_answer": "A",
+        "explanation": "Hiranyagarbha is a Vedic and Puranic epithet for Lord Brahma, the creator who emerges from the golden cosmic egg."
+      },
+      "Q0750": {
+        "question": "The process of 'Pratisarga' in the Puranas specifically refers to what aspect of cosmology?",
+        "options": {
+          "A": "The primary creation of the elements by God",
+          "B": "The complete and final dissolution of the universe",
+          "C": "The creation of the human race and society",
+          "D": "The secondary creation or re-creation of the universe by Brahma after a partial dissolution"
+        },
+        "correct_answer": "D",
+        "explanation": "Sarga is the primary elemental creation by the Supreme, while Pratisarga refers to the periodic secondary creation by Brahma following a dissolution (Pralaya)."
+      }
+    }
+  }
+}

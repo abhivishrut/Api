@@ -1,0 +1,587 @@
+{
+  "LEVEL096": {
+    "level_number": 96,
+    "title": "Advanced Vedantic Concepts",
+    "difficulty": "Master",
+    "questions": {
+      "Q0951": {
+        "question": "In Advaita Vedanta, which term refers to the concealing power of Maya?",
+        "options": {
+          "A": "Vikshepa Shakti",
+          "B": "Avarana Shakti",
+          "C": "Ichha Shakti",
+          "D": "Kriya Shakti"
+        },
+        "correct_answer": "B",
+        "explanation": "Avarana Shakti is the concealing power of Maya that hides the true nature of Brahman, while Vikshepa Shakti projects the illusion of the world."
+      },
+      "Q0952": {
+        "question": "According to Ramanuja's Vishishtadvaita, what is the relationship between Brahman and the universe?",
+        "options": {
+          "A": "Absolute identity without attributes",
+          "B": "Complete separation and duality",
+          "C": "Sharira-Shariri (Body-Soul) relationship",
+          "D": "An illusion projected on Brahman"
+        },
+        "correct_answer": "C",
+        "explanation": "Vishishtadvaita posits the Sharira-Shariri Bhava, where the universe and souls are the 'body' (Sharira) of the Supreme Soul, Brahman (Shariri)."
+      },
+      "Q0953": {
+        "question": "Which text is considered the primary foundational sutra for the Mimamsa school of philosophy?",
+        "options": {
+          "A": "Brahma Sutras",
+          "B": "Yoga Sutras",
+          "C": "Nyaya Sutras",
+          "D": "Purva Mimamsa Sutras"
+        },
+        "correct_answer": "D",
+        "explanation": "The Purva Mimamsa Sutras, written by Sage Jaimini, form the foundational text for the Mimamsa school, focusing on the exegesis of Vedic rituals."
+      },
+      "Q0954": {
+        "question": "In the context of the Prasthanatrayi, which text represents the Smriti Prasthana?",
+        "options": {
+          "A": "Upanishads",
+          "B": "Bhagavad Gita",
+          "C": "Brahma Sutras",
+          "D": "Rig Veda"
+        },
+        "correct_answer": "B",
+        "explanation": "The Bhagavad Gita is the Smriti Prasthana (remembered tradition), while the Upanishads are Shruti Prasthana and Brahma Sutras are Nyaya Prasthana."
+      },
+      "Q0955": {
+        "question": "What does the term 'Pramana' mean in Indian epistemology?",
+        "options": {
+          "A": "The object of knowledge",
+          "B": "The knower",
+          "C": "The valid means of knowledge",
+          "D": "The illusion of knowledge"
+        },
+        "correct_answer": "C",
+        "explanation": "Pramana refers to the valid means or sources of knowledge, such as Pratyaksha (perception) and Anumana (inference)."
+      },
+      "Q0956": {
+        "question": "Which of the six orthodox Darshanas heavily emphasizes atomic theory (Paramanu-vada)?",
+        "options": {
+          "A": "Samkhya",
+          "B": "Vaisheshika",
+          "C": "Yoga",
+          "D": "Vedanta"
+        },
+        "correct_answer": "B",
+        "explanation": "The Vaisheshika school, founded by Sage Kanada, is known for its naturalism and atomic theory, positing that all physical reality is made of indestructible atoms."
+      },
+      "Q0957": {
+        "question": "In Samkhya philosophy, which of the following is NOT a characteristic of Purusha?",
+        "options": {
+          "A": "Conscious",
+          "B": "Active agent (Karta)",
+          "C": "Unchanging",
+          "D": "Witness (Sakshi)"
+        },
+        "correct_answer": "B",
+        "explanation": "In Samkhya, Purusha is pure consciousness and a mere witness (Sakshi). Activity and agency belong to Prakriti (nature)."
+      },
+      "Q0958": {
+        "question": "The concept of 'Sphota' (bursting forth of meaning) is a central doctrine in which philosophical tradition?",
+        "options": {
+          "A": "Vyakarana (Grammar)",
+          "B": "Nyaya",
+          "C": "Mimamsa",
+          "D": "Vaisheshika"
+        },
+        "correct_answer": "A",
+        "explanation": "Sphota-vada is the philosophy of language associated with Vyakarana (Grammarians), famously developed by Bhartrihari, explaining how meaning is conveyed by sound."
+      },
+      "Q0959": {
+        "question": "In Kashmir Shaivism, what is the term for the ultimate, unmanifest reality?",
+        "options": {
+          "A": "Parama Shiva",
+          "B": "Brahman",
+          "C": "Purusha",
+          "D": "Hiranyagarbha"
+        },
+        "correct_answer": "A",
+        "explanation": "Parama Shiva is the ultimate, non-dual, pure consciousness in Kashmir Shaivism, containing both static (Shiva) and dynamic (Shakti) aspects."
+      },
+      "Q0960": {
+        "question": "What is the highest state of Samadhi in Patanjali's Yoga Sutras, where one is free from all mental modifications and impressions?",
+        "options": {
+          "A": "Savikalpa Samadhi",
+          "B": "Asamprajnata Samadhi",
+          "C": "Dharmamegha Samadhi",
+          "D": "Samprajnata Samadhi"
+        },
+        "correct_answer": "B",
+        "explanation": "Asamprajnata Samadhi (or Nirvikalpa Samadhi) is the highest state where even the latent impressions (samskaras) are dissolved, leading to Kaivalya."
+      }
+    }
+  },
+  "LEVEL097": {
+    "level_number": 97,
+    "title": "Cross-Scriptural Connections",
+    "difficulty": "Master",
+    "questions": {
+      "Q0961": {
+        "question": "Which Upanishad is extensively quoted in the Bhagavad Gita, particularly regarding the nature of the eternal soul?",
+        "options": {
+          "A": "Isha Upanishad",
+          "B": "Katha Upanishad",
+          "C": "Mandukya Upanishad",
+          "D": "Taittiriya Upanishad"
+        },
+        "correct_answer": "B",
+        "explanation": "The Bhagavad Gita draws heavily on the Katha Upanishad; for instance, the verse describing the soul as unborn and eternal (Gita 2.20) closely parallels Katha Upanishad 1.2.18."
+      },
+      "Q0962": {
+        "question": "The concept of 'Vaikuntha' as the supreme abode is central to Vaishnavism. Which Vedic hymn contains the earliest seeds of Vishnu's supreme step encompassing the universe?",
+        "options": {
+          "A": "Purusha Sukta",
+          "B": "Nasadiya Sukta",
+          "C": "Vishnu Sukta (Rig Veda)",
+          "D": "Sri Sukta"
+        },
+        "correct_answer": "C",
+        "explanation": "The Vishnu Sukta of the Rig Veda (e.g., 1.154) extols Vishnu's three great strides, which conceptually evolve into the all-encompassing abode of Vaikuntha."
+      },
+      "Q0963": {
+        "question": "The famous 'Nasadiya Sukta' dealing with the origins of the universe is found in which Mandala of the Rig Veda?",
+        "options": {
+          "A": "Mandala 1",
+          "B": "Mandala 5",
+          "C": "Mandala 10",
+          "D": "Mandala 8"
+        },
+        "correct_answer": "C",
+        "explanation": "The Nasadiya Sukta, often known as the Hymn of Creation, is found in the 10th Mandala of the Rig Veda (RV 10.129)."
+      },
+      "Q0964": {
+        "question": "Which Purana is considered the natural commentary on the Vedanta Sutras (Brahma Sutras) by the Gaudiya Vaishnava tradition?",
+        "options": {
+          "A": "Vishnu Purana",
+          "B": "Padma Purana",
+          "C": "Shiva Purana",
+          "D": "Srimad Bhagavatam (Bhagavata Purana)"
+        },
+        "correct_answer": "D",
+        "explanation": "Gaudiya Vaishnavas accept Srimad Bhagavatam as the flawless, natural commentary (amala purana) on the Brahma Sutras, both authored by Vyasadeva."
+      },
+      "Q0965": {
+        "question": "The triad of 'Prasthanatrayi' includes the Upanishads, Brahma Sutras, and the Bhagavad Gita. Who composed the definitive commentary on all three, establishing the Advaita school?",
+        "options": {
+          "A": "Ramanujacharya",
+          "B": "Madhvacharya",
+          "C": "Adi Shankaracharya",
+          "D": "Vallabhacharya"
+        },
+        "correct_answer": "C",
+        "explanation": "Adi Shankaracharya wrote extensive commentaries (Bhashyas) on the Prasthanatrayi to consolidate and propagate the philosophy of Advaita Vedanta."
+      },
+      "Q0966": {
+        "question": "In the Mahavakya 'Tat Tvam Asi' from the Chandogya Upanishad, the term 'Tat' refers to what?",
+        "options": {
+          "A": "The individual soul",
+          "B": "The material universe",
+          "C": "Brahman, the supreme reality",
+          "D": "The mind"
+        },
+        "correct_answer": "C",
+        "explanation": "In 'Tat Tvam Asi' (That Thou Art), 'Tat' (That) refers to Brahman, the ultimate reality, and 'Tvam' refers to the inner self (Atman)."
+      },
+      "Q0967": {
+        "question": "The philosophical debate between ritual action (Karma Kanda) and knowledge (Jnana Kanda) is famously reconciled in which text through the concept of Nishkama Karma?",
+        "options": {
+          "A": "Ashtavakra Gita",
+          "B": "Bhagavad Gita",
+          "C": "Manu Smriti",
+          "D": "Brahma Sutras"
+        },
+        "correct_answer": "B",
+        "explanation": "The Bhagavad Gita harmonizes the paths by advocating Nishkama Karma (action without attachment to fruits) as a means of purification leading to knowledge."
+      },
+      "Q0968": {
+        "question": "The Gayatri Mantra originates from the Rig Veda. Which sage is credited with its revelation?",
+        "options": {
+          "A": "Sage Vashistha",
+          "B": "Sage Vishwamitra",
+          "C": "Sage Bharadwaja",
+          "D": "Sage Agastya"
+        },
+        "correct_answer": "B",
+        "explanation": "The Gayatri Mantra (Rig Veda 3.62.10) was revealed to Sage Vishwamitra, one of the prominent Rishis in the Vedic tradition."
+      },
+      "Q0969": {
+        "question": "Which Agama texts are fundamental to the ritualistic worship in Sri Vaishnavism, as championed by Ramanujacharya?",
+        "options": {
+          "A": "Pancharatra Agamas",
+          "B": "Vaikhanasa Agamas",
+          "C": "Shaiva Siddhanta Agamas",
+          "D": "Shakta Agamas"
+        },
+        "correct_answer": "A",
+        "explanation": "Ramanujacharya strongly defended and established the authority of the Pancharatra Agamas as the primary basis for temple worship in Sri Vaishnavism."
+      },
+      "Q0970": {
+        "question": "The concept of 'Lila' (divine play) is most elaborately detailed in relation to Krishna's pastimes in which text?",
+        "options": {
+          "A": "Mahabharata",
+          "B": "Harivamsa",
+          "C": "Srimad Bhagavatam",
+          "D": "Garga Samhita"
+        },
+        "correct_answer": "C",
+        "explanation": "While others mention it, the 10th Canto of the Srimad Bhagavatam provides the most profound, detailed, and theologically rich exposition of Krishna's Lila."
+      }
+    }
+  },
+  "LEVEL098": {
+    "level_number": 98,
+    "title": "Esoteric Sanskrit Terminology",
+    "difficulty": "Master",
+    "questions": {
+      "Q0971": {
+        "question": "In Vedanta, the term 'Upadhi' refers to:",
+        "options": {
+          "A": "A limiting adjunct or condition",
+          "B": "A state of liberation",
+          "C": "The supreme reality",
+          "D": "A method of meditation"
+        },
+        "correct_answer": "A",
+        "explanation": "Upadhi refers to an apparent limitation or adjunct that makes a thing appear different from what it is, like the mind and body are upadhis of the Atman."
+      },
+      "Q0972": {
+        "question": "What does the term 'Apauruseya' mean in the context of the Vedas?",
+        "options": {
+          "A": "Written by ancient seers",
+          "B": "Not of human origin",
+          "C": "Originating from the purusharthas",
+          "D": "Incomprehensible"
+        },
+        "correct_answer": "B",
+        "explanation": "Apauruseya means 'not of human authorship'. The Vedas are considered eternal and revealed, rather than composed by humans."
+      },
+      "Q0973": {
+        "question": "In Nyaya philosophy, what is 'Vyapti'?",
+        "options": {
+          "A": "The logical fallacy",
+          "B": "The conclusion of an argument",
+          "C": "The invariable concomitance between middle and major terms",
+          "D": "The subject of the inference"
+        },
+        "correct_answer": "C",
+        "explanation": "Vyapti is the universal and invariable relationship between the middle term (hetu, e.g., smoke) and the major term (sadhya, e.g., fire), essential for valid inference."
+      },
+      "Q0974": {
+        "question": "What does 'Kaivalya' mean in Yoga and Samkhya philosophies?",
+        "options": {
+          "A": "Merger with God",
+          "B": "Absolute isolation or aloneness of the Purusha",
+          "C": "Enjoyment of heavenly realms",
+          "D": "Attainment of mystical powers"
+        },
+        "correct_answer": "B",
+        "explanation": "Kaivalya is the ultimate goal in these systems, representing the absolute independence and isolation of consciousness (Purusha) from matter (Prakriti)."
+      },
+      "Q0975": {
+        "question": "In the Tattvas of Kashmir Shaivism, 'Sadashiva' represents:",
+        "options": {
+          "A": "The pure physical elements",
+          "B": "The stage of cosmic evolution where 'I am This' arises",
+          "C": "The delusion of the ego",
+          "D": "The unmanifest Parama Shiva"
+        },
+        "correct_answer": "B",
+        "explanation": "Sadashiva tattva is the third principle in Kashmir Shaivism where the experience of 'I am This' (Aham Idam) begins to form, with a predominance of the 'I' (Aham)."
+      },
+      "Q0976": {
+        "question": "What is 'Antahkarana' in Vedantic psychology?",
+        "options": {
+          "A": "The gross physical body",
+          "B": "The inner instrument comprising mind, intellect, ego, and memory",
+          "C": "The supreme self",
+          "D": "The vital breath (Prana)"
+        },
+        "correct_answer": "B",
+        "explanation": "Antahkarana is the 'inner instrument' encompassing the Manas (mind), Buddhi (intellect), Chitta (memory/subconsciousness), and Ahamkara (ego)."
+      },
+      "Q0977": {
+        "question": "The term 'Adhyasa' as explained by Adi Shankaracharya means:",
+        "options": {
+          "A": "Superimposition of the unreal on the real",
+          "B": "Deep meditational trance",
+          "C": "The study of scriptures",
+          "D": "Renunciation of action"
+        },
+        "correct_answer": "A",
+        "explanation": "Adhyasa is the superimposition of the attributes of one thing upon another, such as projecting the characteristics of the non-self onto the Self."
+      },
+      "Q0978": {
+        "question": "In mimamsa, 'Apurva' signifies:",
+        "options": {
+          "A": "The formless God",
+          "B": "The unseen potency or merit generated by a ritual",
+          "C": "The original cause of the universe",
+          "D": "A type of sacrificial fire"
+        },
+        "correct_answer": "B",
+        "explanation": "Apurva is the invisible, transcendental result or potency produced by performing Vedic rituals, which later yields the fruit of the action."
+      },
+      "Q0979": {
+        "question": "What is the meaning of 'Vivarta-vada' in Advaita Vedanta?",
+        "options": {
+          "A": "The theory of real transformation",
+          "B": "The theory of apparent or illusory manifestation",
+          "C": "The theory of atomic combination",
+          "D": "The theory of divine grace"
+        },
+        "correct_answer": "B",
+        "explanation": "Vivarta-vada asserts that the world is an apparent, illusory manifestation of Brahman, just as a rope appears as a snake, without undergoing real change."
+      },
+      "Q0980": {
+        "question": "In the context of the gunas, 'Sattva' is characterized by:",
+        "options": {
+          "A": "Inertia and darkness",
+          "B": "Passion and activity",
+          "C": "Purity, illumination, and harmony",
+          "D": "Destruction and dissolution"
+        },
+        "correct_answer": "C",
+        "explanation": "Sattva is the guna associated with light, knowledge, harmony, and purity, leading towards spiritual evolution."
+      }
+    }
+  },
+  "LEVEL099": {
+    "level_number": 99,
+    "title": "Philosophical Distinctions in Darshanas",
+    "difficulty": "Master",
+    "questions": {
+      "Q0981": {
+        "question": "How does Parinama-vada (Samkhya) differ from Vivarta-vada (Advaita)?",
+        "options": {
+          "A": "Parinama is real transformation; Vivarta is apparent manifestation.",
+          "B": "Parinama is apparent; Vivarta is real transformation.",
+          "C": "Both accept that the cause is destroyed in the effect.",
+          "D": "Both reject causality entirely."
+        },
+        "correct_answer": "A",
+        "explanation": "Parinama-vada (Samkhya) holds that Prakriti actually transforms into the world (like milk to curd), whereas Vivarta-vada (Advaita) holds the world is an illusory appearance of Brahman (like rope to snake)."
+      },
+      "Q0982": {
+        "question": "Which of the following best describes the 'Bhedabheda' philosophy?",
+        "options": {
+          "A": "Absolute difference between soul and God",
+          "B": "Absolute non-difference between soul and God",
+          "C": "Simultaneous difference and non-difference between soul and God",
+          "D": "The soul is an illusion"
+        },
+        "correct_answer": "C",
+        "explanation": "Bhedabheda (difference and non-difference) posits that the individual soul and the Supreme Lord are both different and identical from different perspectives."
+      },
+      "Q0983": {
+        "question": "In Madhvacharya's Dvaita philosophy, which of the following is NOT one of the five eternal differences (Pancha Bheda)?",
+        "options": {
+          "A": "Between God and soul",
+          "B": "Between different souls",
+          "C": "Between God and matter",
+          "D": "Between God and Brahman"
+        },
+        "correct_answer": "D",
+        "explanation": "In Dvaita, God (Vishnu) is Brahman. The Pancha Bhedas are between God/soul, soul/soul, God/matter, soul/matter, and matter/matter."
+      },
+      "Q0984": {
+        "question": "According to the Nyaya school, how many valid Pramanas (means of knowledge) are accepted?",
+        "options": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "correct_answer": "D",
+        "explanation": "Nyaya accepts four Pramanas: Pratyaksha (perception), Anumana (inference), Upamana (comparison), and Shabda (verbal testimony)."
+      },
+      "Q0985": {
+        "question": "What is the primary distinguishing feature of the Charvaka school compared to the six orthodox Darshanas?",
+        "options": {
+          "A": "It accepts only Inference as a Pramana.",
+          "B": "It rejects the authority of the Vedas entirely.",
+          "C": "It focuses solely on ritualistic sacrifices.",
+          "D": "It promotes intense asceticism."
+        },
+        "correct_answer": "B",
+        "explanation": "Charvaka is a Nastika (heterodox) school of materialism that completely rejects the authority of the Vedas, the existence of God, and the afterlife."
+      },
+      "Q0986": {
+        "question": "In Ramanuja's epistemology, what is the status of illusions (e.g., seeing a snake in a rope)?",
+        "options": {
+          "A": "They are completely non-existent (Asat).",
+          "B": "They are purely mental projections with no basis.",
+          "C": "They have a basis in reality; all knowledge is of the real (Satkhyati).",
+          "D": "They are inexplicable (Anirvachaniya)."
+        },
+        "correct_answer": "C",
+        "explanation": "Ramanuja advocates Satkhyati, asserting that all cognition, including illusions, has some basis in reality due to the intricate mixture of elements (Panchikarana) in all objects."
+      },
+      "Q0987": {
+        "question": "Which philosophy advocates 'Achintya Bhedabheda Tattva' (Inconceivable simultaneous oneness and difference)?",
+        "options": {
+          "A": "Sri Vaishnavism",
+          "B": "Pushtimarg",
+          "C": "Gaudiya Vaishnavism",
+          "D": "Nimbarka Sampradaya"
+        },
+        "correct_answer": "C",
+        "explanation": "Achintya Bhedabheda Tattva was propounded by Sri Chaitanya Mahaprabhu, the central figure of Gaudiya Vaishnavism."
+      },
+      "Q0988": {
+        "question": "In Jain philosophy, what is 'Syadvada'?",
+        "options": {
+          "A": "The doctrine of non-violence",
+          "B": "The doctrine of conditioned or relative prediction",
+          "C": "The theory of atoms",
+          "D": "The belief in multiple gods"
+        },
+        "correct_answer": "B",
+        "explanation": "Syadvada is the Jain doctrine that all judgments are conditional, holding good only in certain conditions, circumstances, or senses, often expressed with 'somehow' or 'in a way' (Syat)."
+      },
+      "Q0989": {
+        "question": "What is the primary focus of the Purva Mimamsa Darshana?",
+        "options": {
+          "A": "The liberation of the soul through knowledge",
+          "B": "The logical proof of God's existence",
+          "C": "The hermeneutics and execution of Vedic dharma and rituals",
+          "D": "The control of the mind through Yoga"
+        },
+        "correct_answer": "C",
+        "explanation": "Purva Mimamsa focuses primarily on the early parts of the Vedas (Karmakanda), emphasizing dharma through the rigorous analysis and performance of rituals."
+      },
+      "Q0990": {
+        "question": "Which Vedanta school proposes 'Shuddhadvaita' (Pure Non-dualism)?",
+        "options": {
+          "A": "Vallabhacharya",
+          "B": "Ramanujacharya",
+          "C": "Madhvacharya",
+          "D": "Nimbarkacharya"
+        },
+        "correct_answer": "A",
+        "explanation": "Vallabhacharya founded Shuddhadvaita, stating that Brahman is pure and free from Maya, and the universe is a real manifestation of Brahman without any illusion."
+      }
+    }
+  },
+  "LEVEL100": {
+    "level_number": 100,
+    "title": "Master of Sanatana Dharma",
+    "difficulty": "Master",
+    "questions": {
+      "Q0991": {
+        "question": "The 'Mandukya Karika', a foundational text for Advaita Vedanta, was authored by whom?",
+        "options": {
+          "A": "Adi Shankaracharya",
+          "B": "Gaudapada",
+          "C": "Vidyaranya",
+          "D": "Sureshvara"
+        },
+        "correct_answer": "B",
+        "explanation": "Gaudapada, the paramaguru (guru's guru) of Adi Shankaracharya, authored the Mandukya Karika, establishing early Advaita concepts."
+      },
+      "Q0992": {
+        "question": "Which Veda contains the 'Shatapatha Brahmana', one of the most comprehensive texts on Vedic rituals?",
+        "options": {
+          "A": "Rig Veda",
+          "B": "Sama Veda",
+          "C": "Yajur Veda",
+          "D": "Atharva Veda"
+        },
+        "correct_answer": "C",
+        "explanation": "The Shatapatha Brahmana is associated with the Shukla (White) Yajur Veda and is a crucial text for understanding the intricacies of Vedic sacrifices."
+      },
+      "Q0993": {
+        "question": "In the spiritual practice of Laya Yoga, what does 'Laya' mean?",
+        "options": {
+          "A": "Breathing",
+          "B": "Absorption or dissolution of the mind",
+          "C": "Physical postures",
+          "D": "Chanting mantras"
+        },
+        "correct_answer": "B",
+        "explanation": "Laya means dissolution or absorption. Laya Yoga involves absorbing the mind in the supreme consciousness through deep meditation on internal energy centers."
+      },
+      "Q0994": {
+        "question": "Which esoteric Upanishad is widely recognized as the source for the concept of the chakras and Kundalini?",
+        "options": {
+          "A": "Kena Upanishad",
+          "B": "Prashna Upanishad",
+          "C": "Yoga Kundalini Upanishad",
+          "D": "Aitareya Upanishad"
+        },
+        "correct_answer": "C",
+        "explanation": "The Yoga Kundalini Upanishad, among other minor Yoga Upanishads, explicitly details the science of Kundalini and the chakras."
+      },
+      "Q0995": {
+        "question": "The 'Tirumantiram', a seminal text on Tamil Shaiva Siddhanta, was composed by which saint?",
+        "options": {
+          "A": "Appar",
+          "B": "Sambandar",
+          "C": "Manikkavasagar",
+          "D": "Tirumular"
+        },
+        "correct_answer": "D",
+        "explanation": "Tirumular, a mystic and siddha, composed the Tirumantiram, which forms the tenth volume of the Tirumurai in Shaiva Siddhanta."
+      },
+      "Q0996": {
+        "question": "What is the concept of 'Prarabdha Karma'?",
+        "options": {
+          "A": "Karma that is currently being created",
+          "B": "The accumulated karma from past lives yet to fructify",
+          "C": "The portion of past karma responsible for the current body and life situations",
+          "D": "Karma dedicated to God"
+        },
+        "correct_answer": "C",
+        "explanation": "Prarabdha Karma is that fraction of accumulated karma (Sanchita) which has begun to bear fruit and has caused the current physical birth and experiences."
+      },
+      "Q0997": {
+        "question": "In the philosophy of Bhartrihari's Vakyapadiya, the ultimate reality is described as:",
+        "options": {
+          "A": "Shunya (Emptiness)",
+          "B": "Shabda Brahman (The Word as Absolute)",
+          "C": "Prakriti",
+          "D": "Ishvara"
+        },
+        "correct_answer": "B",
+        "explanation": "Bhartrihari propounded the concept of Shabda Brahman, stating that the ultimate reality is of the nature of the Word or Sound, from which the universe manifests."
+      },
+      "Q0998": {
+        "question": "The 'Devi Mahatmyam', a central text of the Shakta tradition, is embedded within which Purana?",
+        "options": {
+          "A": "Markandeya Purana",
+          "B": "Skanda Purana",
+          "C": "Matsya Purana",
+          "D": "Brahmanda Purana"
+        },
+        "correct_answer": "A",
+        "explanation": "The Devi Mahatmyam, also known as Durga Saptashati, consists of chapters 81-93 of the Markandeya Purana."
+      },
+      "Q0999": {
+        "question": "In the Dasam Granth of the Sikh tradition, which avatar of Vishnu is extensively detailed in the 'Chaubis Avatar' section?",
+        "options": {
+          "A": "Kalki",
+          "B": "Krishna",
+          "C": "All twenty-four avatars",
+          "D": "Rama"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'Chaubis Avatar' section of the Dasam Granth recounts the stories of twenty-four avatars of Vishnu, drawing from Puranic literature."
+      },
+      "Q1000": {
+        "question": "What is the ultimate goal in the Kashmiri Shaiva concept of 'Pratyabhijna'?",
+        "options": {
+          "A": "To ascend to heavenly planets",
+          "B": "To recognize one's true identity as Parama Shiva",
+          "C": "To dissolve into nothingness",
+          "D": "To acquire supernatural powers (siddhis)"
+        },
+        "correct_answer": "B",
+        "explanation": "Pratyabhijna means 'recognition'. The philosophy teaches that liberation is attained simply by recognizing one's own true nature as identical with the supreme consciousness, Parama Shiva."
+      }
+    }
+  }
+}

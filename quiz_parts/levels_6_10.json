@@ -1,0 +1,587 @@
+{
+  "LEVEL006": {
+    "level_number": 6,
+    "title": "Ganesha and Divine Basics",
+    "difficulty": "Beginner",
+    "questions": {
+      "Q0051": {
+        "question": "Which deity is traditionally worshipped first before beginning any new venture?",
+        "options": {
+          "A": "Lord Ganesha",
+          "B": "Lord Shiva",
+          "C": "Lord Vishnu",
+          "D": "Lord Brahma"
+        },
+        "correct_answer": "A",
+        "explanation": "Lord Ganesha is known as the remover of obstacles and is always invoked first in Hindu rituals."
+      },
+      "Q0052": {
+        "question": "What is the traditional vehicle (Vahana) of Lord Ganesha?",
+        "options": {
+          "A": "Peacock",
+          "B": "Mouse (Mooshika)",
+          "C": "Lion",
+          "D": "Bull"
+        },
+        "correct_answer": "B",
+        "explanation": "The mouse or Mooshika represents the ego and desires, which Lord Ganesha keeps under control."
+      },
+      "Q0053": {
+        "question": "Lord Ganesha is famously known to have the head of which animal?",
+        "options": {
+          "A": "Lion",
+          "B": "Horse",
+          "C": "Elephant",
+          "D": "Monkey"
+        },
+        "correct_answer": "C",
+        "explanation": "Lord Ganesha has an elephant head, representing immense wisdom, intellect, and the ability to listen."
+      },
+      "Q0054": {
+        "question": "Which traditional sweet is considered the favorite food of Lord Ganesha?",
+        "options": {
+          "A": "Jalebi",
+          "B": "Gulab Jamun",
+          "C": "Rasgulla",
+          "D": "Modak"
+        },
+        "correct_answer": "D",
+        "explanation": "Modak is a dumpling-like sweet which is highly associated with Lord Ganesha and offered during festivals."
+      },
+      "Q0055": {
+        "question": "Who are the divine parents of Lord Ganesha?",
+        "options": {
+          "A": "Shiva and Parvati",
+          "B": "Vishnu and Lakshmi",
+          "C": "Brahma and Saraswati",
+          "D": "Surya and Sanjna"
+        },
+        "correct_answer": "A",
+        "explanation": "Lord Ganesha is the son of Lord Shiva and Goddess Parvati."
+      },
+      "Q0056": {
+        "question": "What does the broken tusk of Lord Ganesha often symbolize?",
+        "options": {
+          "A": "Defeat in battle",
+          "B": "Sacrifice and writing the Mahabharata",
+          "C": "Loss of wisdom",
+          "D": "Anger towards the moon"
+        },
+        "correct_answer": "B",
+        "explanation": "He broke his own tusk to use it as a pen to write down the great epic Mahabharata as dictated by Sage Vyasa."
+      },
+      "Q0057": {
+        "question": "Which popular festival celebrates the birth of Lord Ganesha?",
+        "options": {
+          "A": "Diwali",
+          "B": "Holi",
+          "C": "Ganesh Chaturthi",
+          "D": "Navaratri"
+        },
+        "correct_answer": "C",
+        "explanation": "Ganesh Chaturthi is a grand multi-day festival celebrating his arrival to earth from Kailash."
+      },
+      "Q0058": {
+        "question": "Who is the brother of Lord Ganesha?",
+        "options": {
+          "A": "Indra",
+          "B": "Agni",
+          "C": "Varuna",
+          "D": "Kartikeya (Murugan)"
+        },
+        "correct_answer": "D",
+        "explanation": "Lord Kartikeya, also known as Murugan or Skanda, is the brother of Lord Ganesha."
+      },
+      "Q0059": {
+        "question": "Which tool or weapon is commonly seen in Lord Ganesha's hand to guide his devotees on the right path?",
+        "options": {
+          "A": "Ankusha (goad)",
+          "B": "Bow and Arrow",
+          "C": "Flute",
+          "D": "Sword"
+        },
+        "correct_answer": "A",
+        "explanation": "The Ankusha or goad is used to steer the soul away from ignorance and illusions."
+      },
+      "Q0060": {
+        "question": "What does the large belly of Lord Ganesha philosophically represent?",
+        "options": {
+          "A": "Wealth and prosperity",
+          "B": "Digesting all good and bad in life peacefully",
+          "C": "A love for sweets",
+          "D": "Physical strength"
+        },
+        "correct_answer": "B",
+        "explanation": "His large belly symbolizes the ability to peacefully digest all the pleasant and unpleasant experiences of life."
+      }
+    }
+  },
+  "LEVEL007": {
+    "level_number": 7,
+    "title": "Shiva and Parvati",
+    "difficulty": "Beginner",
+    "questions": {
+      "Q0061": {
+        "question": "In the Hindu Trimurti (Trinity), Lord Shiva is considered the god of what?",
+        "options": {
+          "A": "Creation",
+          "B": "Preservation",
+          "C": "Destruction and Transformation",
+          "D": "Wealth"
+        },
+        "correct_answer": "C",
+        "explanation": "Lord Shiva destroys the universe at the end of time to pave the way for a new creation."
+      },
+      "Q0062": {
+        "question": "What living creature is wrapped around Lord Shiva's neck?",
+        "options": {
+          "A": "A garland of lotuses",
+          "B": "A golden chain",
+          "C": "A tiger",
+          "D": "A snake (Vasuki)"
+        },
+        "correct_answer": "D",
+        "explanation": "The serpent Vasuki is coiled around his neck, symbolizing his control over fear and death."
+      },
+      "Q0063": {
+        "question": "Which sacred river is depicted flowing from the matted hair of Lord Shiva?",
+        "options": {
+          "A": "Ganga (Ganges)",
+          "B": "Yamuna",
+          "C": "Saraswati",
+          "D": "Godavari"
+        },
+        "correct_answer": "A",
+        "explanation": "Shiva bore the force of the descending river Ganga in his matted locks to prevent the earth from being shattered."
+      },
+      "Q0064": {
+        "question": "What is the primary weapon carried by Lord Shiva?",
+        "options": {
+          "A": "Mace (Gada)",
+          "B": "Trident (Trishul)",
+          "C": "Chakra",
+          "D": "Spear"
+        },
+        "correct_answer": "B",
+        "explanation": "The Trishul or trident represents the three aspects of consciousness: waking, dreaming, and sleeping."
+      },
+      "Q0065": {
+        "question": "What does the third eye on Lord Shiva's forehead represent?",
+        "options": {
+          "A": "Ability to see the future",
+          "B": "Power to read minds",
+          "C": "Wisdom and the destruction of ignorance",
+          "D": "Ability to control the weather"
+        },
+        "correct_answer": "C",
+        "explanation": "When opened, the third eye burns ignorance and desires to ashes, revealing ultimate truth."
+      },
+      "Q0066": {
+        "question": "What is the name of Lord Shiva's devoted bull and vehicle?",
+        "options": {
+          "A": "Airavata",
+          "B": "Garuda",
+          "C": "Uchchaihshravas",
+          "D": "Nandi"
+        },
+        "correct_answer": "D",
+        "explanation": "Nandi is a sacred bull who serves as the gatekeeper and vehicle (vahana) of Lord Shiva."
+      },
+      "Q0067": {
+        "question": "Where is the traditional mountainous abode of Lord Shiva located?",
+        "options": {
+          "A": "Mount Kailash",
+          "B": "Mount Everest",
+          "C": "Mount Meru",
+          "D": "Vindhya Mountains"
+        },
+        "correct_answer": "A",
+        "explanation": "Mount Kailash in the Himalayas is considered the spiritual and physical abode of Lord Shiva."
+      },
+      "Q0068": {
+        "question": "Which musical instrument is closely associated with Lord Shiva?",
+        "options": {
+          "A": "Veena",
+          "B": "Damaru (small drum)",
+          "C": "Flute",
+          "D": "Sitar"
+        },
+        "correct_answer": "B",
+        "explanation": "The Damaru is a small two-headed drum whose sound represents the cosmic rhythm of creation."
+      },
+      "Q0069": {
+        "question": "The divine, cosmic dance performed by Lord Shiva is known as what?",
+        "options": {
+          "A": "Kathak",
+          "B": "Bharatanatyam",
+          "C": "Tandava",
+          "D": "Garba"
+        },
+        "correct_answer": "C",
+        "explanation": "The Tandava is the vigorous cosmic dance of Shiva, symbolizing the cycle of creation, preservation, and dissolution."
+      },
+      "Q0070": {
+        "question": "Which major annual festival is dedicated to the worship of Lord Shiva?",
+        "options": {
+          "A": "Rama Navami",
+          "B": "Janmashtami",
+          "C": "Maha Kumbh",
+          "D": "Maha Shivaratri"
+        },
+        "correct_answer": "D",
+        "explanation": "Maha Shivaratri is the 'Great Night of Shiva', celebrating overcoming darkness and ignorance."
+      }
+    }
+  },
+  "LEVEL008": {
+    "level_number": 8,
+    "title": "Vishnu and Avatars",
+    "difficulty": "Beginner",
+    "questions": {
+      "Q0071": {
+        "question": "What is the primary role of Lord Vishnu in the Hindu Trimurti (Trinity)?",
+        "options": {
+          "A": "Preserver and Protector",
+          "B": "Creator",
+          "C": "Destroyer",
+          "D": "Messenger"
+        },
+        "correct_answer": "A",
+        "explanation": "Lord Vishnu maintains and preserves the cosmic order, intervening when dharma (righteousness) is threatened."
+      },
+      "Q0072": {
+        "question": "Which of these is one of the most famous avatars of Lord Vishnu?",
+        "options": {
+          "A": "Ganesha",
+          "B": "Krishna",
+          "C": "Hanuman",
+          "D": "Kartikeya"
+        },
+        "correct_answer": "B",
+        "explanation": "Lord Krishna is the eighth avatar of Lord Vishnu, known for the Bhagavad Gita and his role in the Mahabharata."
+      },
+      "Q0073": {
+        "question": "What spinning, disc-like weapon does Lord Vishnu hold?",
+        "options": {
+          "A": "Pasha",
+          "B": "Kaumodaki",
+          "C": "Sudarshana Chakra",
+          "D": "Sharanga"
+        },
+        "correct_answer": "C",
+        "explanation": "The Sudarshana Chakra is a spinning, disk-like weapon symbolizing time and the destruction of evil."
+      },
+      "Q0074": {
+        "question": "Who is the eternal consort of Lord Vishnu?",
+        "options": {
+          "A": "Goddess Parvati",
+          "B": "Goddess Saraswati",
+          "C": "Goddess Kali",
+          "D": "Goddess Lakshmi"
+        },
+        "correct_answer": "D",
+        "explanation": "Goddess Lakshmi, the deity of wealth and prosperity, is the consort of Lord Vishnu."
+      },
+      "Q0075": {
+        "question": "Lord Vishnu is often depicted resting on a giant cosmic serpent named what?",
+        "options": {
+          "A": "Shesha (Ananta)",
+          "B": "Kaliya",
+          "C": "Takshaka",
+          "D": "Vasuki"
+        },
+        "correct_answer": "A",
+        "explanation": "Ananta-Shesha is the king of nagas upon whose coils Lord Vishnu rests in the cosmic ocean."
+      },
+      "Q0076": {
+        "question": "What is the name of Lord Vishnu's vehicle, a divine eagle-like bird?",
+        "options": {
+          "A": "Jatayu",
+          "B": "Garuda",
+          "C": "Sampati",
+          "D": "Hamsa"
+        },
+        "correct_answer": "B",
+        "explanation": "Garuda is a divine eagle and the trusted mount (vahana) of Lord Vishnu."
+      },
+      "Q0077": {
+        "question": "Which avatar of Vishnu saved earthly life from a great flood by taking the form of a giant fish?",
+        "options": {
+          "A": "Kurma",
+          "B": "Varaha",
+          "C": "Matsya",
+          "D": "Kalki"
+        },
+        "correct_answer": "C",
+        "explanation": "Matsya is the first avatar of Vishnu, taking the form of a fish to rescue humanity and the Vedas from a deluge."
+      },
+      "Q0078": {
+        "question": "In which epic is the avatar Lord Rama the central hero?",
+        "options": {
+          "A": "Mahabharata",
+          "B": "Bhagavata Purana",
+          "C": "Shiva Purana",
+          "D": "Ramayana"
+        },
+        "correct_answer": "D",
+        "explanation": "The Ramayana tells the story of Lord Rama's journey to rescue his wife Sita and defeat the demon king Ravana."
+      },
+      "Q0079": {
+        "question": "What color is typically used to depict the skin of Lord Vishnu and his avatars like Krishna and Rama?",
+        "options": {
+          "A": "Blue",
+          "B": "Red",
+          "C": "White",
+          "D": "Green"
+        },
+        "correct_answer": "A",
+        "explanation": "The color blue represents the infinite nature of the sky and the ocean, reflecting Vishnu's boundless presence."
+      },
+      "Q0080": {
+        "question": "Which sacred flower does Lord Vishnu hold in one of his four hands?",
+        "options": {
+          "A": "Rose",
+          "B": "Lotus (Padma)",
+          "C": "Marigold",
+          "D": "Jasmine"
+        },
+        "correct_answer": "B",
+        "explanation": "The lotus represents purity, spiritual awakening, and detachment from worldly impurities."
+      }
+    }
+  },
+  "LEVEL009": {
+    "level_number": 9,
+    "title": "Lakshmi, Saraswati, and Durga",
+    "difficulty": "Beginner",
+    "questions": {
+      "Q0081": {
+        "question": "Goddess Lakshmi is primarily worshipped as the deity of what?",
+        "options": {
+          "A": "Knowledge and Education",
+          "B": "Destruction and Time",
+          "C": "Wealth, Fortune, and Prosperity",
+          "D": "Music and Arts"
+        },
+        "correct_answer": "C",
+        "explanation": "Lakshmi brings spiritual and material wealth, prosperity, and good fortune to her devotees."
+      },
+      "Q0082": {
+        "question": "During which major festival is Goddess Lakshmi most prominently worshipped across India?",
+        "options": {
+          "A": "Maha Shivaratri",
+          "B": "Holi",
+          "C": "Raksha Bandhan",
+          "D": "Diwali"
+        },
+        "correct_answer": "D",
+        "explanation": "Diwali, the festival of lights, includes special prayers to welcome Goddess Lakshmi into homes."
+      },
+      "Q0083": {
+        "question": "Which goddess is the patron of knowledge, learning, music, and the arts?",
+        "options": {
+          "A": "Saraswati",
+          "B": "Parvati",
+          "C": "Sita",
+          "D": "Radha"
+        },
+        "correct_answer": "A",
+        "explanation": "Saraswati is the goddess of wisdom, learning, and the arts, often worshipped by students and musicians."
+      },
+      "Q0084": {
+        "question": "What stringed musical instrument is Goddess Saraswati typically depicted playing?",
+        "options": {
+          "A": "Sitar",
+          "B": "Veena",
+          "C": "Sarod",
+          "D": "Tambura"
+        },
+        "correct_answer": "B",
+        "explanation": "She plays the Veena, which represents the harmony of all sciences and arts."
+      },
+      "Q0085": {
+        "question": "What is the beautiful vehicle (vahana) of Goddess Saraswati?",
+        "options": {
+          "A": "Lion",
+          "B": "Elephant",
+          "C": "Swan (Hamsa) or Peacock",
+          "D": "Owl"
+        },
+        "correct_answer": "C",
+        "explanation": "The swan represents purity and the ability to discriminate between good and evil, truth and illusion."
+      },
+      "Q0086": {
+        "question": "Goddess Durga is primarily invoked and worshipped for what purpose?",
+        "options": {
+          "A": "Gaining material wealth",
+          "B": "Improving musical talents",
+          "C": "Ensuring good rain for crops",
+          "D": "Power, protection, and destroying evil"
+        },
+        "correct_answer": "D",
+        "explanation": "Durga is a fierce warrior goddess who protects her devotees and fights against evil forces."
+      },
+      "Q0087": {
+        "question": "Which buffalo-demon was defeated by Goddess Durga, earning her the title 'Mahishasuramardini'?",
+        "options": {
+          "A": "Mahishasura",
+          "B": "Ravana",
+          "C": "Hiranyakashipu",
+          "D": "Kamsa"
+        },
+        "correct_answer": "A",
+        "explanation": "She was created by the gods to defeat the invincible demon Mahishasura, restoring cosmic balance."
+      },
+      "Q0088": {
+        "question": "What powerful animal does Goddess Durga ride into battle?",
+        "options": {
+          "A": "Elephant",
+          "B": "Lion or Tiger",
+          "C": "Horse",
+          "D": "Bull"
+        },
+        "correct_answer": "B",
+        "explanation": "Riding a lion or tiger symbolizes her mastery over power, will, and determination."
+      },
+      "Q0089": {
+        "question": "How many nights are dedicated to the worship of Goddess Durga and her forms during the Navaratri festival?",
+        "options": {
+          "A": "Three",
+          "B": "Five",
+          "C": "Nine",
+          "D": "Twelve"
+        },
+        "correct_answer": "C",
+        "explanation": "Navaratri translates to 'nine nights', during which nine different forms of the goddess (Navadurga) are honored."
+      },
+      "Q0090": {
+        "question": "Goddess Parvati, Lakshmi, and Saraswati are all manifestations of the supreme divine feminine energy known as what?",
+        "options": {
+          "A": "Brahman",
+          "B": "Atman",
+          "C": "Maya",
+          "D": "Shakti"
+        },
+        "correct_answer": "D",
+        "explanation": "Shakti represents the primordial cosmic energy and the dynamic, creative power of the universe."
+      }
+    }
+  },
+  "LEVEL010": {
+    "level_number": 10,
+    "title": "Hanuman, Surya, and Traditions",
+    "difficulty": "Beginner",
+    "questions": {
+      "Q0091": {
+        "question": "Lord Hanuman is universally celebrated as the greatest and most loyal devotee of which deity?",
+        "options": {
+          "A": "Lord Rama",
+          "B": "Lord Shiva",
+          "C": "Lord Krishna",
+          "D": "Lord Ganesha"
+        },
+        "correct_answer": "A",
+        "explanation": "Hanuman's devotion to Lord Rama is absolute, and he played a crucial role in the epic Ramayana."
+      },
+      "Q0092": {
+        "question": "What heavy weapon is Lord Hanuman commonly depicted carrying on his shoulder?",
+        "options": {
+          "A": "Trishul (Trident)",
+          "B": "Gada (Mace)",
+          "C": "Dhanush (Bow)",
+          "D": "Chakra (Discus)"
+        },
+        "correct_answer": "B",
+        "explanation": "The Gada or mace is a symbol of strength and power, perfectly suiting Hanuman's mighty nature."
+      },
+      "Q0093": {
+        "question": "Which popular devotional hymn praises the glories of Lord Hanuman in forty verses?",
+        "options": {
+          "A": "Shiva Tandava Stotram",
+          "B": "Vishnu Sahasranama",
+          "C": "Hanuman Chalisa",
+          "D": "Bhagavad Gita"
+        },
+        "correct_answer": "C",
+        "explanation": "Authored by Tulsidas, the Hanuman Chalisa is recited by millions for courage and protection."
+      },
+      "Q0094": {
+        "question": "Who is the primary Hindu deity representing the Sun?",
+        "options": {
+          "A": "Chandra",
+          "B": "Indra",
+          "C": "Vayu",
+          "D": "Surya"
+        },
+        "correct_answer": "D",
+        "explanation": "Surya is the Sun God, revered as the source of light, warmth, and life on earth."
+      },
+      "Q0095": {
+        "question": "What is the name of the highly revered Vedic mantra dedicated to the Sun (Savitr) for spiritual illumination?",
+        "options": {
+          "A": "Gayatri Mantra",
+          "B": "Maha Mrityunjaya Mantra",
+          "C": "Shanti Mantra",
+          "D": "Hare Krishna Mantra"
+        },
+        "correct_answer": "A",
+        "explanation": "The Gayatri Mantra is an ancient and powerful chant praying for the illumination of the intellect."
+      },
+      "Q0096": {
+        "question": "The widely celebrated festival of Makar Sankranti marks the transition of which celestial body?",
+        "options": {
+          "A": "The Moon into a new phase",
+          "B": "The Sun moving into Capricorn",
+          "C": "Venus appearing in the morning",
+          "D": "Jupiter changing signs"
+        },
+        "correct_answer": "B",
+        "explanation": "Makar Sankranti celebrates the Sun's transit into Makara (Capricorn), marking longer days and a harvest season."
+      },
+      "Q0097": {
+        "question": "In basic Hindu tradition, what is a 'Puja'?",
+        "options": {
+          "A": "A physical exercise",
+          "B": "A type of classical dance",
+          "C": "A prayer ritual to honor and host deities",
+          "D": "A traditional fasting method"
+        },
+        "correct_answer": "C",
+        "explanation": "Puja is the act of showing reverence to a god, a spirit, or another aspect of the divine through invocations and offerings."
+      },
+      "Q0098": {
+        "question": "What is the traditional decorative mark worn on the forehead by many Hindus called?",
+        "options": {
+          "A": "Mangalsutra",
+          "B": "Sindoor",
+          "C": "Mehndi",
+          "D": "Bindi or Tilak"
+        },
+        "correct_answer": "D",
+        "explanation": "The Bindi or Tilak is worn on the forehead between the eyebrows, representing the third eye of spiritual sight."
+      },
+      "Q0099": {
+        "question": "What spiritual concept does the joining of hands in the greeting 'Namaste' symbolize?",
+        "options": {
+          "A": "The divine in me bows to the divine in you",
+          "B": "A request for charity",
+          "C": "A challenge to a duel",
+          "D": "Saying goodbye forever"
+        },
+        "correct_answer": "A",
+        "explanation": "Namaste is a respectful greeting acknowledging that the same divine spark exists in every living being."
+      },
+      "Q0100": {
+        "question": "What does lighting a lamp (Diya) before beginning a prayer traditionally symbolize?",
+        "options": {
+          "A": "Asking for wealth",
+          "B": "Dispelling darkness and ignorance with knowledge",
+          "C": "Scaring away insects",
+          "D": "A sign of ending a ritual"
+        },
+        "correct_answer": "B",
+        "explanation": "Light is associated with knowledge, auspiciousness, and the removal of ignorance and negative forces."
+      }
+    }
+  }
+}

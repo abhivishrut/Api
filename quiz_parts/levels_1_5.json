@@ -1,0 +1,587 @@
+{
+  "LEVEL001": {
+    "level_number": 1,
+    "title": "Introduction to Sanatana Dharma",
+    "difficulty": "Beginner",
+    "questions": {
+      "Q0001": {
+        "question": "What does 'Sanatana Dharma' literally translate to?",
+        "options": {
+          "A": "Eternal Duty or Religion",
+          "B": "Modern Philosophy",
+          "C": "Temporary Rules",
+          "D": "Path of Devotion"
+        },
+        "correct_answer": "A",
+        "explanation": "Sanatana means 'eternal' and Dharma means 'duty', 'law', or 'religion'. Together, it refers to the eternal, universal principles of life."
+      },
+      "Q0002": {
+        "question": "What is the most sacred sound and spiritual symbol in Sanatana Dharma?",
+        "options": {
+          "A": "Swastika",
+          "B": "Om (Aum)",
+          "C": "Trishul",
+          "D": "Lotus"
+        },
+        "correct_answer": "B",
+        "explanation": "Om or Aum is the primordial sound of the universe. It is chanted during prayers, meditation, and spiritual rituals."
+      },
+      "Q0003": {
+        "question": "Which river is considered the most sacred in Hinduism?",
+        "options": {
+          "A": "Yamuna",
+          "B": "Saraswati",
+          "C": "Ganga",
+          "D": "Narmada"
+        },
+        "correct_answer": "C",
+        "explanation": "The Ganga (Ganges) is revered as a Goddess in Hinduism. Bathing in its waters is believed to purify the soul."
+      },
+      "Q0004": {
+        "question": "Who is the preserver and protector of the universe in the Hindu Trinity (Trimurti)?",
+        "options": {
+          "A": "Shiva",
+          "B": "Brahma",
+          "C": "Indra",
+          "D": "Vishnu"
+        },
+        "correct_answer": "D",
+        "explanation": "Lord Vishnu is responsible for the preservation and protection of the universe, stepping in to restore cosmic order when necessary."
+      },
+      "Q0005": {
+        "question": "What is the primary text containing Lord Krishna's teachings in the Mahabharata?",
+        "options": {
+          "A": "Bhagavad Gita",
+          "B": "Ramayana",
+          "C": "Upanishads",
+          "D": "Puranas"
+        },
+        "correct_answer": "A",
+        "explanation": "The Bhagavad Gita is a 700-verse scripture that is part of the Mahabharata, featuring a dialogue between Prince Arjuna and Lord Krishna."
+      },
+      "Q0006": {
+        "question": "The concept of continuous rebirth based on past actions is known as what?",
+        "options": {
+          "A": "Moksha",
+          "B": "Samsara",
+          "C": "Nirvana",
+          "D": "Karma"
+        },
+        "correct_answer": "B",
+        "explanation": "Samsara is the continuous cycle of birth, life, death, and rebirth (reincarnation) in Sanatana Dharma."
+      },
+      "Q0007": {
+        "question": "What is the universal law of cause and effect called?",
+        "options": {
+          "A": "Dharma",
+          "B": "Samskara",
+          "C": "Karma",
+          "D": "Yoga"
+        },
+        "correct_answer": "C",
+        "explanation": "Karma refers to the principle that every action, thought, or word has a corresponding consequence in this life or the next."
+      },
+      "Q0008": {
+        "question": "Who is the creator deity in the Hindu Trinity?",
+        "options": {
+          "A": "Agni",
+          "B": "Surya",
+          "C": "Shiva",
+          "D": "Brahma"
+        },
+        "correct_answer": "D",
+        "explanation": "Lord Brahma is the first god in the Hindu Trimurti, responsible for the creation of the world and all creatures."
+      },
+      "Q0009": {
+        "question": "The festival of lights, celebrating the victory of good over evil, is called:",
+        "options": {
+          "A": "Diwali (Deepavali)",
+          "B": "Holi",
+          "C": "Navaratri",
+          "D": "Dussehra"
+        },
+        "correct_answer": "A",
+        "explanation": "Diwali, or Deepavali, is the festival of lights. It spiritually signifies the victory of light over darkness and good over evil."
+      },
+      "Q0010": {
+        "question": "What is the ultimate goal of life in Sanatana Dharma, meaning liberation from the cycle of rebirth?",
+        "options": {
+          "A": "Artha",
+          "B": "Moksha",
+          "C": "Kama",
+          "D": "Dharma"
+        },
+        "correct_answer": "B",
+        "explanation": "Moksha is the ultimate liberation of the soul from Samsara (the cycle of rebirth), uniting the individual soul with the Supreme."
+      }
+    }
+  },
+  "LEVEL002": {
+    "level_number": 2,
+    "title": "Basic Terminology",
+    "difficulty": "Beginner",
+    "questions": {
+      "Q0011": {
+        "question": "What does the term 'Yoga' fundamentally mean?",
+        "options": {
+          "A": "Stretching exercises",
+          "B": "Breathing techniques",
+          "C": "Union or to join",
+          "D": "Deep sleep"
+        },
+        "correct_answer": "C",
+        "explanation": "The word 'Yoga' is derived from the Sanskrit root 'Yuj', meaning 'to join' or 'to unite'. It signifies the union of individual consciousness with universal consciousness."
+      },
+      "Q0012": {
+        "question": "A spiritual teacher or guide who dispels the darkness of ignorance is referred to as a:",
+        "options": {
+          "A": "Pandit",
+          "B": "Pujari",
+          "C": "Shishya",
+          "D": "Guru"
+        },
+        "correct_answer": "D",
+        "explanation": "A Guru is a spiritual master. 'Gu' means darkness and 'Ru' means dispeller, so a Guru is one who dispels the darkness of ignorance."
+      },
+      "Q0013": {
+        "question": "What does 'Ahimsa', a core principle of Hindu ethics, mean?",
+        "options": {
+          "A": "Non-violence",
+          "B": "Truthfulness",
+          "C": "Celibacy",
+          "D": "Generosity"
+        },
+        "correct_answer": "A",
+        "explanation": "Ahimsa means non-violence or non-injury in thought, word, and deed toward all living beings."
+      },
+      "Q0014": {
+        "question": "The sacred place of worship for Hindus is commonly known as a:",
+        "options": {
+          "A": "Vihara",
+          "B": "Mandir (Temple)",
+          "C": "Ashram",
+          "D": "Stupa"
+        },
+        "correct_answer": "B",
+        "explanation": "A Mandir is a Hindu temple, a sacred space designed to bring human beings and gods together through worship and meditation."
+      },
+      "Q0015": {
+        "question": "What is the Sanskrit term for the act of daily worship or offering to deities?",
+        "options": {
+          "A": "Yajna",
+          "B": "Tapas",
+          "C": "Puja",
+          "D": "Dhyana"
+        },
+        "correct_answer": "C",
+        "explanation": "Puja is the act of showing reverence to a god, a spirit, or another aspect of the divine through invocations, prayers, songs, and rituals."
+      },
+      "Q0016": {
+        "question": "The true self or inner soul, considered eternal and indestructible, is known as:",
+        "options": {
+          "A": "Manas",
+          "B": "Buddhi",
+          "C": "Ahamkara",
+          "D": "Atman"
+        },
+        "correct_answer": "D",
+        "explanation": "Atman is a Sanskrit word that means inner self, spirit, or soul. It is the eternal essence of an individual."
+      },
+      "Q0017": {
+        "question": "In the context of human life, what does 'Dharma' generally refer to?",
+        "options": {
+          "A": "Righteousness or Duty",
+          "B": "Wealth accumulation",
+          "C": "Sensual pleasure",
+          "D": "Physical strength"
+        },
+        "correct_answer": "A",
+        "explanation": "Dharma signifies behaviors that are considered to be in accord with the order that makes life and universe possible, often translated as duty or righteousness."
+      },
+      "Q0018": {
+        "question": "A sacred utterance, syllable, or phrase used in meditation or worship is a:",
+        "options": {
+          "A": "Shloka",
+          "B": "Mantra",
+          "C": "Stotra",
+          "D": "Katha"
+        },
+        "correct_answer": "B",
+        "explanation": "A mantra is a sacred utterance believed to have spiritual and psychological power when chanted or meditated upon."
+      },
+      "Q0019": {
+        "question": "The foundational holy texts containing ancient spiritual knowledge of Hinduism are the:",
+        "options": {
+          "A": "Agamas",
+          "B": "Puranas",
+          "C": "Vedas",
+          "D": "Sutras"
+        },
+        "correct_answer": "C",
+        "explanation": "The Vedas are a large body of religious texts originating in ancient India. They constitute the oldest layer of Sanskrit literature and the oldest scriptures of Hinduism."
+      },
+      "Q0020": {
+        "question": "A deliberate descent or incarnation of a deity on Earth to restore cosmic order is called an:",
+        "options": {
+          "A": "Rishi",
+          "B": "Deva",
+          "C": "Asura",
+          "D": "Avatar"
+        },
+        "correct_answer": "D",
+        "explanation": "An Avatar is the material appearance or incarnation of a deity on Earth, most commonly associated with Lord Vishnu (e.g., Rama, Krishna)."
+      }
+    }
+  },
+  "LEVEL003": {
+    "level_number": 3,
+    "title": "Basic Spiritual Values",
+    "difficulty": "Beginner",
+    "questions": {
+      "Q0021": {
+        "question": "Which Hindu spiritual value emphasizes always speaking and aligning with the truth?",
+        "options": {
+          "A": "Satya",
+          "B": "Daya",
+          "C": "Dama",
+          "D": "Dana"
+        },
+        "correct_answer": "A",
+        "explanation": "Satya translates to truthfulness. It is considered one of the most important virtues, promoting honesty in thoughts, words, and actions."
+      },
+      "Q0022": {
+        "question": "The practice of keeping the mind, body, and environment clean and pure is known as:",
+        "options": {
+          "A": "Santosha",
+          "B": "Saucha",
+          "C": "Svadhyaya",
+          "D": "Tapas"
+        },
+        "correct_answer": "B",
+        "explanation": "Saucha means purity, cleanliness, and clearness. It refers to purity of body, mind, and speech, and is essential for spiritual growth."
+      },
+      "Q0023": {
+        "question": "Which principle advocates contentment, gratitude, and being happy with what one has?",
+        "options": {
+          "A": "Aparigraha",
+          "B": "Brahmacharya",
+          "C": "Santosha",
+          "D": "Asteya"
+        },
+        "correct_answer": "C",
+        "explanation": "Santosha is contentment. It means accepting one's circumstances with gratitude and avoiding unnecessary desires."
+      },
+      "Q0024": {
+        "question": "Showing deep compassion and kindness to all living beings is called:",
+        "options": {
+          "A": "Kshama",
+          "B": "Maitri",
+          "C": "Mudita",
+          "D": "Karuna"
+        },
+        "correct_answer": "D",
+        "explanation": "Karuna means compassion. It is the sincere desire to alleviate the suffering of others, recognizing the divine spark in all."
+      },
+      "Q0025": {
+        "question": "The value of self-discipline, austerity, and spiritual effort is known as:",
+        "options": {
+          "A": "Tapas",
+          "B": "Yajna",
+          "C": "Dana",
+          "D": "Seva"
+        },
+        "correct_answer": "A",
+        "explanation": "Tapas signifies austerity or spiritual discipline. It involves practices that build willpower and purify the mind."
+      },
+      "Q0026": {
+        "question": "The ethical principle of non-stealing in thought, word, and deed is known as:",
+        "options": {
+          "A": "Ahimsa",
+          "B": "Asteya",
+          "C": "Satya",
+          "D": "Aparigraha"
+        },
+        "correct_answer": "B",
+        "explanation": "Asteya translates to non-stealing. It teaches individuals not to take what does not belong to them, including time, ideas, or physical property."
+      },
+      "Q0027": {
+        "question": "The ancient teaching 'Matru Devo Bhava, Pitru Devo Bhava' highlights the importance of respecting:",
+        "options": {
+          "A": "Teachers and Guests",
+          "B": "Kings and Leaders",
+          "C": "Mother and Father",
+          "D": "Nature and Animals"
+        },
+        "correct_answer": "C",
+        "explanation": "These Sanskrit phrases translate to 'Treat your mother as God, treat your father as God,' emphasizing deep reverence for parents."
+      },
+      "Q0028": {
+        "question": "The practice of self-study, reflection, and studying sacred scriptures is called:",
+        "options": {
+          "A": "Dhyana",
+          "B": "Pranayama",
+          "C": "Asana",
+          "D": "Svadhyaya"
+        },
+        "correct_answer": "D",
+        "explanation": "Svadhyaya means self-study. It involves introspection and the study of spiritual texts to better understand oneself and the divine."
+      },
+      "Q0029": {
+        "question": "The virtue of forgiving others, showing patience, and letting go of anger is called:",
+        "options": {
+          "A": "Kshama",
+          "B": "Daya",
+          "C": "Arjava",
+          "D": "Dhriti"
+        },
+        "correct_answer": "A",
+        "explanation": "Kshama is patience, forbearance, and forgiveness. It allows a person to remain calm and forgiving, even when provoked or wronged."
+      },
+      "Q0030": {
+        "question": "Surrendering one's ego and actions to the divine will is termed:",
+        "options": {
+          "A": "Santosha",
+          "B": "Ishvara Pranidhana",
+          "C": "Saucha",
+          "D": "Tapas"
+        },
+        "correct_answer": "B",
+        "explanation": "Ishvara Pranidhana translates to surrendering to God. It involves offering one's actions to the divine and accepting the outcomes as God's will."
+      }
+    }
+  },
+  "LEVEL004": {
+    "level_number": 4,
+    "title": "Common Hindu Traditions",
+    "difficulty": "Beginner",
+    "questions": {
+      "Q0031": {
+        "question": "The common gesture of greeting with folded hands and a slight bow is called:",
+        "options": {
+          "A": "Pranam",
+          "B": "Anjali",
+          "C": "Namaste",
+          "D": "Mudra"
+        },
+        "correct_answer": "C",
+        "explanation": "Namaste is a traditional Hindu greeting. It signifies 'the divine in me bows to the divine in you,' expressing deep respect."
+      },
+      "Q0032": {
+        "question": "Which animal is considered highly sacred in Hinduism, symbolizing non-violence and motherly nature?",
+        "options": {
+          "A": "Elephant",
+          "B": "Tiger",
+          "C": "Monkey",
+          "D": "Cow"
+        },
+        "correct_answer": "D",
+        "explanation": "The cow (Gau Mata) is revered as a mother figure and a symbol of wealth, strength, and selfless giving in Hindu culture."
+      },
+      "Q0033": {
+        "question": "What is the sacred dot or mark worn on the forehead between the eyebrows called?",
+        "options": {
+          "A": "Bindi or Tilak",
+          "B": "Sindoor",
+          "C": "Mangalsutra",
+          "D": "Kalava"
+        },
+        "correct_answer": "A",
+        "explanation": "A Bindi (for women) or Tilak (for men and women) is worn on the forehead. It represents the 'third eye' of spiritual wisdom and protects against negative energy."
+      },
+      "Q0034": {
+        "question": "Which vibrant festival of colors celebrates the arrival of spring and divine love?",
+        "options": {
+          "A": "Maha Shivaratri",
+          "B": "Holi",
+          "C": "Pongal",
+          "D": "Onam"
+        },
+        "correct_answer": "B",
+        "explanation": "Holi is the popular festival of colors. It celebrates the eternal and divine love of Radha Krishna and the triumph of good over evil."
+      },
+      "Q0035": {
+        "question": "What is the sacred thread ceremony that initiates a student into formal spiritual and academic learning?",
+        "options": {
+          "A": "Vivaha",
+          "B": "Namakarana",
+          "C": "Upanayana",
+          "D": "Antyeshti"
+        },
+        "correct_answer": "C",
+        "explanation": "Upanayana is a major Samskara (rite of passage) marking the start of a child's formal education and spiritual initiation, symbolized by the wearing of a sacred thread."
+      },
+      "Q0036": {
+        "question": "Food that is offered to a deity during worship and then distributed as a blessing is called:",
+        "options": {
+          "A": "Bhog",
+          "B": "Amrit",
+          "C": "Naivedya",
+          "D": "Prasad"
+        },
+        "correct_answer": "D",
+        "explanation": "Prasad is a material substance, usually food, that is first offered to a deity and then consumed by devotees as a divine blessing."
+      },
+      "Q0037": {
+        "question": "Which elephant-headed deity is traditionally worshipped first at the start of any new venture to remove obstacles?",
+        "options": {
+          "A": "Ganesha",
+          "B": "Hanuman",
+          "C": "Kartikeya",
+          "D": "Vishnu"
+        },
+        "correct_answer": "A",
+        "explanation": "Lord Ganesha is universally revered as the remover of obstacles (Vighnaharta), the patron of arts and sciences, and the deva of intellect and wisdom."
+      },
+      "Q0038": {
+        "question": "The devotional practice of walking clockwise around a deity, temple, or sacred object is called:",
+        "options": {
+          "A": "Aarti",
+          "B": "Parikrama (Pradakshina)",
+          "C": "Bhajan",
+          "D": "Kirtan"
+        },
+        "correct_answer": "B",
+        "explanation": "Parikrama or Pradakshina is the circumambulation of sacred entities, representing the belief that the divine is the center of one's existence."
+      },
+      "Q0039": {
+        "question": "Fasting on specific holy days for physical and spiritual purification is known as:",
+        "options": {
+          "A": "Japa",
+          "B": "Homa",
+          "C": "Vrata (Upavasa)",
+          "D": "Abhisheka"
+        },
+        "correct_answer": "C",
+        "explanation": "Upavasa (fasting) or Vrata (vow) is a common practice to exercise self-control and focus the mind on God by denying bodily pleasures."
+      },
+      "Q0040": {
+        "question": "The nine-night festival dedicated to the worship of the Divine Mother (Goddess Durga) is:",
+        "options": {
+          "A": "Ganesh Chaturthi",
+          "B": "Krishna Janmashtami",
+          "C": "Ramanavami",
+          "D": "Navaratri"
+        },
+        "correct_answer": "D",
+        "explanation": "Navaratri spans nine nights and celebrates the divine feminine, honoring various forms of Goddess Durga and the victory of Dharma."
+      }
+    }
+  },
+  "LEVEL005": {
+    "level_number": 5,
+    "title": "Core Concepts and Practices",
+    "difficulty": "Beginner",
+    "questions": {
+      "Q0041": {
+        "question": "In Hindu philosophy, what does 'Brahman' refer to?",
+        "options": {
+          "A": "The Supreme, Universal Reality",
+          "B": "A class of priests",
+          "C": "The creator god",
+          "D": "A holy text"
+        },
+        "correct_answer": "A",
+        "explanation": "Brahman is the ultimate, formless, infinite, and eternal truth and reality that pervades the entire universe."
+      },
+      "Q0042": {
+        "question": "The powerful illusion that makes the soul perceive the temporary material world as the ultimate reality is called:",
+        "options": {
+          "A": "Prakriti",
+          "B": "Maya",
+          "C": "Guna",
+          "D": "Lila"
+        },
+        "correct_answer": "B",
+        "explanation": "Maya is the cosmic illusion that veils the true nature of Brahman and binds the soul to the cycle of birth and death."
+      },
+      "Q0043": {
+        "question": "Which path of Yoga focuses on intense devotion, love, and surrender to a personal God?",
+        "options": {
+          "A": "Jnana Yoga",
+          "B": "Raja Yoga",
+          "C": "Bhakti Yoga",
+          "D": "Hatha Yoga"
+        },
+        "correct_answer": "C",
+        "explanation": "Bhakti Yoga is the spiritual path of pure love and devotion towards the divine, making it one of the most popular paths to Moksha."
+      },
+      "Q0044": {
+        "question": "The spiritual path of performing one's duty selflessly, without attachment to the results, is known as:",
+        "options": {
+          "A": "Bhakti Yoga",
+          "B": "Jnana Yoga",
+          "C": "Raja Yoga",
+          "D": "Karma Yoga"
+        },
+        "correct_answer": "D",
+        "explanation": "Karma Yoga is the path of unselfish action. It teaches that one should act according to Dharma without being attached to the fruits of the actions."
+      },
+      "Q0045": {
+        "question": "Who is revered as the destroyer of evil and the transformer of the universe in the Hindu Trinity?",
+        "options": {
+          "A": "Shiva",
+          "B": "Vishnu",
+          "C": "Brahma",
+          "D": "Indra"
+        },
+        "correct_answer": "A",
+        "explanation": "Lord Shiva's role is to destroy the universe in order to re-create it, dissolving imperfections and paving the way for spiritual transformation."
+      },
+      "Q0046": {
+        "question": "Which major ancient Indian epic details the life and righteous journey of Lord Rama?",
+        "options": {
+          "A": "Mahabharata",
+          "B": "Ramayana",
+          "C": "Bhagavata Purana",
+          "D": "Shiva Purana"
+        },
+        "correct_answer": "B",
+        "explanation": "The Ramayana is an epic that narrates the life of Lord Rama, an ideal king and avatar of Vishnu, emphasizing the importance of Dharma."
+      },
+      "Q0047": {
+        "question": "Which of the four Vedas is considered the oldest and consists of a vast collection of ancient Sanskrit hymns?",
+        "options": {
+          "A": "Yajurveda",
+          "B": "Samaveda",
+          "C": "Rigveda",
+          "D": "Atharvaveda"
+        },
+        "correct_answer": "C",
+        "explanation": "The Rigveda is the oldest known Vedic Sanskrit text and one of the oldest surviving texts in any Indo-European language."
+      },
+      "Q0048": {
+        "question": "A holy person, ascetic, or monk who has completely renounced worldly life for spiritual goals is called a:",
+        "options": {
+          "A": "Grihastha",
+          "B": "Brahmachari",
+          "C": "Vanaprastha",
+          "D": "Sadhu or Sannyasi"
+        },
+        "correct_answer": "D",
+        "explanation": "A Sannyasi or Sadhu is a religious ascetic who has renounced material life to focus entirely on attaining spiritual liberation."
+      },
+      "Q0049": {
+        "question": "The foundational Hindu concept that God is present everywhere, in all living and non-living things, is known as:",
+        "options": {
+          "A": "Omnipresence",
+          "B": "Polytheism",
+          "C": "Atheism",
+          "D": "Agnosticism"
+        },
+        "correct_answer": "A",
+        "explanation": "Sanatana Dharma teaches that the Supreme Reality (Brahman) is omnipresent, pervading every atom of the universe."
+      },
+      "Q0050": {
+        "question": "What is the term for the dormant spiritual energy described as a coiled serpent lying at the base of the spine?",
+        "options": {
+          "A": "Prana",
+          "B": "Kundalini",
+          "C": "Chakra",
+          "D": "Nadi"
+        },
+        "correct_answer": "B",
+        "explanation": "Kundalini is the primal spiritual energy. In yogic traditions, awakening it and raising it through the chakras leads to enlightenment."
+      }
+    }
+  }
+}

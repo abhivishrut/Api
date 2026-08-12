@@ -1,0 +1,587 @@
+{
+  "LEVEL086": {
+    "level_number": 86,
+    "title": "Detailed Bhagavad Gita",
+    "difficulty": "Scholar",
+    "questions": {
+      "Q0851": {
+        "question": "In Chapter 13 of the Bhagavad Gita, the body and the knower of the body are respectively called:",
+        "options": {
+          "A": "Kshetra and Kshetrajna",
+          "B": "Prakriti and Purusha",
+          "C": "Jiva and Ishvara",
+          "D": "Atman and Brahman"
+        },
+        "correct_answer": "A",
+        "explanation": "Chapter 13 details Kshetra (the field, or body) and Kshetrajna (the knower of the field, or soul)."
+      },
+      "Q0852": {
+        "question": "In which chapter does Lord Krishna reveal His Universal Form (Vishvarupa)?",
+        "options": {
+          "A": "Chapter 9",
+          "B": "Chapter 11",
+          "C": "Chapter 12",
+          "D": "Chapter 10"
+        },
+        "correct_answer": "B",
+        "explanation": "Chapter 11 of the Bhagavad Gita is named 'Vishvarupa Darshana Yoga', where the Universal Form is revealed."
+      },
+      "Q0853": {
+        "question": "Which chapter extensively categorizes the three modes of material nature (Gunas)?",
+        "options": {
+          "A": "Chapter 12",
+          "B": "Chapter 13",
+          "C": "Chapter 14",
+          "D": "Chapter 15"
+        },
+        "correct_answer": "C",
+        "explanation": "Chapter 14, 'Gunatraya Vibhaga Yoga', explains Sattva, Rajas, and Tamas in great detail."
+      },
+      "Q0854": {
+        "question": "Which type of Yoga emphasizes the path of knowledge and wisdom?",
+        "options": {
+          "A": "Karma Yoga",
+          "B": "Bhakti Yoga",
+          "C": "Raja Yoga",
+          "D": "Jnana Yoga"
+        },
+        "correct_answer": "D",
+        "explanation": "Jnana Yoga is the path of philosophical study and wisdom to attain liberation."
+      },
+      "Q0855": {
+        "question": "In Chapter 17, Krishna categorizes food, charity, and austerities based on what?",
+        "options": {
+          "A": "The Three Gunas",
+          "B": "The Four Ashramas",
+          "C": "The Four Varnas",
+          "D": "The Five Elements"
+        },
+        "correct_answer": "A",
+        "explanation": "Lord Krishna explains that all activities, including eating and charity, are influenced by Sattva, Rajas, and Tamas."
+      },
+      "Q0856": {
+        "question": "What is the meaning of 'Akshara' Brahman in the Bhagavad Gita?",
+        "options": {
+          "A": "The highest demigod",
+          "B": "The indestructible, absolute truth",
+          "C": "The temporary material world",
+          "D": "The individual soul only"
+        },
+        "correct_answer": "B",
+        "explanation": "Akshara means indestructible. Akshara Brahman refers to the supreme, eternal, and indestructible spiritual reality."
+      },
+      "Q0857": {
+        "question": "Which famous verse translates roughly to 'You have a right to perform your prescribed duty, but you are not entitled to the fruits of action'?",
+        "options": {
+          "A": "BG 2.13",
+          "B": "BG 4.34",
+          "C": "BG 2.47",
+          "D": "BG 18.66"
+        },
+        "correct_answer": "C",
+        "explanation": "Verse 2.47 'Karmanye vadhikaraste ma phaleshu kadachana' imparts this foundational teaching of Karma Yoga."
+      },
+      "Q0858": {
+        "question": "In Chapter 10 (Vibhuti Yoga), Krishna says that among the Rudras, He is:",
+        "options": {
+          "A": "Agni",
+          "B": "Vayu",
+          "C": "Yama",
+          "D": "Shiva (Shankara)"
+        },
+        "correct_answer": "D",
+        "explanation": "Krishna states 'rudranam shankaras casmi', meaning among the eleven Rudras, He is Lord Shankara (Shiva)."
+      },
+      "Q0859": {
+        "question": "The definition 'Yoga is skill in action' (Yogah karmasu kaushalam) appears in which chapter?",
+        "options": {
+          "A": "Chapter 2",
+          "B": "Chapter 3",
+          "C": "Chapter 5",
+          "D": "Chapter 6"
+        },
+        "correct_answer": "A",
+        "explanation": "This profound definition is given in Chapter 2, verse 50 of the Bhagavad Gita."
+      },
+      "Q0860": {
+        "question": "Who narrated the events of the Kurukshetra war, including the Gita, to the blind King Dhritarashtra?",
+        "options": {
+          "A": "Vidura",
+          "B": "Sanjaya",
+          "C": "Vyasa",
+          "D": "Bhishma"
+        },
+        "correct_answer": "B",
+        "explanation": "Sage Vyasa granted Sanjaya divine vision to see the battlefield and narrate the events to Dhritarashtra."
+      }
+    }
+  },
+  "LEVEL087": {
+    "level_number": 87,
+    "title": "Upanishadic Concepts",
+    "difficulty": "Scholar",
+    "questions": {
+      "Q0861": {
+        "question": "Which Upanishad is the shortest and primarily focuses on the syllable 'AUM' and the four states of consciousness?",
+        "options": {
+          "A": "Kena Upanishad",
+          "B": "Isha Upanishad",
+          "C": "Mandukya Upanishad",
+          "D": "Katha Upanishad"
+        },
+        "correct_answer": "C",
+        "explanation": "The Mandukya Upanishad has only 12 verses and deeply analyzes AUM and consciousness states (waking, dreaming, deep sleep, Turiya)."
+      },
+      "Q0862": {
+        "question": "In the Katha Upanishad, the young boy Nachiketa receives how many boons from Yama (the Lord of Death)?",
+        "options": {
+          "A": "One",
+          "B": "Two",
+          "C": "Five",
+          "D": "Three"
+        },
+        "correct_answer": "D",
+        "explanation": "Nachiketa is granted three boons by Lord Yama, the last of which was the secret of what happens after death."
+      },
+      "Q0863": {
+        "question": "The Mahavakya 'Tat Tvam Asi' (Thou Art That) is found in which Upanishad?",
+        "options": {
+          "A": "Chandogya Upanishad",
+          "B": "Brihadaranyaka Upanishad",
+          "C": "Mundaka Upanishad",
+          "D": "Prashna Upanishad"
+        },
+        "correct_answer": "A",
+        "explanation": "It appears in the Chandogya Upanishad, spoken by sage Uddalaka Aruni to his son Shvetaketu."
+      },
+      "Q0864": {
+        "question": "The Isha Upanishad strongly emphasizes the balance between Vidya (knowledge) and what else?",
+        "options": {
+          "A": "Bhakti (devotion)",
+          "B": "Avidya (action/ignorance)",
+          "C": "Dhyana (meditation)",
+          "D": "Tapas (austerity)"
+        },
+        "correct_answer": "B",
+        "explanation": "It teaches that balancing Vidya (spiritual knowledge) and Avidya (worldly duties/action) leads to immortality."
+      },
+      "Q0865": {
+        "question": "How many 'Koshas' (sheaths) covering the soul are described in the Taittiriya Upanishad?",
+        "options": {
+          "A": "Three",
+          "B": "Four",
+          "C": "Five",
+          "D": "Seven"
+        },
+        "correct_answer": "C",
+        "explanation": "It details five sheaths: Annamaya, Pranamaya, Manomaya, Vijnanamaya, and Anandamaya Kosha."
+      },
+      "Q0866": {
+        "question": "Which Upanishad contains the famous Mahavakya 'Aham Brahmasmi' (I am Brahman)?",
+        "options": {
+          "A": "Maitrayaniya Upanishad",
+          "B": "Katha Upanishad",
+          "C": "Taittiriya Upanishad",
+          "D": "Brihadaranyaka Upanishad"
+        },
+        "correct_answer": "D",
+        "explanation": "This profound statement of non-duality is found in the Brihadaranyaka Upanishad."
+      },
+      "Q0867": {
+        "question": "The Prashna Upanishad is structured around how many questions asked by seekers to Sage Pippalada?",
+        "options": {
+          "A": "Six",
+          "B": "Five",
+          "C": "Eight",
+          "D": "Ten"
+        },
+        "correct_answer": "A",
+        "explanation": "The word 'Prashna' means question. Six students ask one question each to the sage."
+      },
+      "Q0868": {
+        "question": "What does the word 'Kena' mean in the context of the Kena Upanishad?",
+        "options": {
+          "A": "Why",
+          "B": "By whom",
+          "C": "Where",
+          "D": "How"
+        },
+        "correct_answer": "B",
+        "explanation": "The Upanishad starts with the word 'Kena' meaning 'By whom?', asking who directs the mind and senses."
+      },
+      "Q0869": {
+        "question": "Which Upanishad is notable for its early exposition of Shaivism and devotion to Lord Rudra/Shiva?",
+        "options": {
+          "A": "Prashna Upanishad",
+          "B": "Aitareya Upanishad",
+          "C": "Svetasvatara Upanishad",
+          "D": "Mandukya Upanishad"
+        },
+        "correct_answer": "C",
+        "explanation": "The Svetasvatara Upanishad emphasizes devotion (Bhakti) to Lord Shiva/Rudra as the Supreme Brahman."
+      },
+      "Q0870": {
+        "question": "The national motto of India, 'Satyameva Jayate' (Truth alone triumphs), is taken from which Upanishad?",
+        "options": {
+          "A": "Katha Upanishad",
+          "B": "Chandogya Upanishad",
+          "C": "Isha Upanishad",
+          "D": "Mundaka Upanishad"
+        },
+        "correct_answer": "D",
+        "explanation": "This phrase is from mantra 3.1.6 of the Mundaka Upanishad."
+      }
+    }
+  },
+  "LEVEL088": {
+    "level_number": 88,
+    "title": "Deep Mahabharata & Ramayana",
+    "difficulty": "Scholar",
+    "questions": {
+      "Q0871": {
+        "question": "Who was the elder sister of Lord Rama?",
+        "options": {
+          "A": "Shanta",
+          "B": "Urmila",
+          "C": "Mandavi",
+          "D": "Shrutakirti"
+        },
+        "correct_answer": "A",
+        "explanation": "Shanta was the daughter of King Dasharatha and Queen Kausalya, later adopted by King Romapada."
+      },
+      "Q0872": {
+        "question": "In which Parva of the Mahabharata is the Vishnu Sahasranama (Thousand Names of Vishnu) recited by Bhishma?",
+        "options": {
+          "A": "Bhishma Parva",
+          "B": "Anushasana Parva",
+          "C": "Shanti Parva",
+          "D": "Drona Parva"
+        },
+        "correct_answer": "B",
+        "explanation": "The Vishnu Sahasranama is found in the Anushasana Parva, recited by Bhishma on his deathbed to Yudhishthira."
+      },
+      "Q0873": {
+        "question": "Who was the wife of Lakshmana?",
+        "options": {
+          "A": "Mandavi",
+          "B": "Shrutakirti",
+          "C": "Urmila",
+          "D": "Sita"
+        },
+        "correct_answer": "C",
+        "explanation": "Urmila, the daughter of King Janaka and sister of Sita, was married to Lakshmana."
+      },
+      "Q0874": {
+        "question": "Whose death caused Yudhishthira to tell a half-truth, resulting in his chariot wheels touching the ground?",
+        "options": {
+          "A": "Abhimanyu",
+          "B": "Karna",
+          "C": "Bhishma",
+          "D": "Ashwatthama (the elephant)"
+        },
+        "correct_answer": "D",
+        "explanation": "Yudhishthira said 'Ashwatthama is dead', referring to an elephant, causing his previously levitating chariot to hit the ground for deceiving Drona."
+      },
+      "Q0875": {
+        "question": "Vali, the powerful Vanara king in the Ramayana, was the spiritual son of which deity?",
+        "options": {
+          "A": "Indra",
+          "B": "Surya",
+          "C": "Vayu",
+          "D": "Agni"
+        },
+        "correct_answer": "A",
+        "explanation": "Vali was the son of Indra, the king of gods, while his brother Sugriva was the son of Surya."
+      },
+      "Q0876": {
+        "question": "Who finally killed Shikhandi on the 18th night of the Kurukshetra war?",
+        "options": {
+          "A": "Karna",
+          "B": "Ashwatthama",
+          "C": "Duryodhana",
+          "D": "Kritavarma"
+        },
+        "correct_answer": "B",
+        "explanation": "Ashwatthama killed Shikhandi and many other sleeping warriors in a night raid on the Pandava camp."
+      },
+      "Q0877": {
+        "question": "Who is the author of the Awadhi epic 'Ramcharitmanas'?",
+        "options": {
+          "A": "Valmiki",
+          "B": "Kamban",
+          "C": "Tulsidas",
+          "D": "Kalidasa"
+        },
+        "correct_answer": "C",
+        "explanation": "Goswami Tulsidas composed the Ramcharitmanas in the 16th century in the Awadhi dialect."
+      },
+      "Q0878": {
+        "question": "During the Pandavas' incognito exile in Virata, Nakula assumed the name Granthika and worked as a:",
+        "options": {
+          "A": "Cook",
+          "B": "Cowherd",
+          "C": "Dance teacher",
+          "D": "Horse keeper"
+        },
+        "correct_answer": "D",
+        "explanation": "Nakula, skilled with horses, looked after the royal stables under the alias Granthika."
+      },
+      "Q0879": {
+        "question": "What was the original name of Indrajit, the son of Ravana?",
+        "options": {
+          "A": "Meghanada",
+          "B": "Kumbhakarna",
+          "C": "Atikaya",
+          "D": "Prahasta"
+        },
+        "correct_answer": "A",
+        "explanation": "He was originally named Meghanada because his birth cry sounded like thunder. He became Indrajit after conquering Indra."
+      },
+      "Q0880": {
+        "question": "Who is revered as the Adi Kavi (First Poet) for composing the original Sanskrit Ramayana?",
+        "options": {
+          "A": "Vyasa",
+          "B": "Valmiki",
+          "C": "Vishvamitra",
+          "D": "Vashistha"
+        },
+        "correct_answer": "B",
+        "explanation": "Sage Valmiki is recognized as the Adi Kavi, and his Ramayana is considered the first epic poem in Sanskrit."
+      }
+    }
+  },
+  "LEVEL089": {
+    "level_number": 89,
+    "title": "Puranic Knowledge",
+    "difficulty": "Scholar",
+    "questions": {
+      "Q0881": {
+        "question": "Traditionally, how many Maha Puranas (major Puranas) are there?",
+        "options": {
+          "A": "108",
+          "B": "12",
+          "C": "18",
+          "D": "24"
+        },
+        "correct_answer": "C",
+        "explanation": "There are 18 Maha Puranas and 18 Upa Puranas in traditional Hindu literature."
+      },
+      "Q0882": {
+        "question": "The Srimad Bhagavata Purana is divided into how many Skandhas (cantos)?",
+        "options": {
+          "A": "10",
+          "B": "18",
+          "C": "24",
+          "D": "12"
+        },
+        "correct_answer": "D",
+        "explanation": "The Bhagavata Purana consists of 12 Skandhas, with the 10th Skandha detailing the life of Lord Krishna."
+      },
+      "Q0883": {
+        "question": "Which of the following is considered the most voluminous (largest) of the Maha Puranas?",
+        "options": {
+          "A": "Skanda Purana",
+          "B": "Vishnu Purana",
+          "C": "Matsya Purana",
+          "D": "Brahma Purana"
+        },
+        "correct_answer": "A",
+        "explanation": "The Skanda Purana is the largest, comprising over 81,000 verses."
+      },
+      "Q0884": {
+        "question": "Details about Kalki, the future avatar of Vishnu, are most prominently found in which specific Purana?",
+        "options": {
+          "A": "Kurma Purana",
+          "B": "Kalki Purana",
+          "C": "Shiva Purana",
+          "D": "Agni Purana"
+        },
+        "correct_answer": "B",
+        "explanation": "Though mentioned in others, the Kalki Purana (an Upa Purana) is dedicated entirely to his upcoming incarnation."
+      },
+      "Q0885": {
+        "question": "Which Purana is famously known as an encyclopedia of knowledge encompassing rituals, architecture, martial arts, and grammar?",
+        "options": {
+          "A": "Vayu Purana",
+          "B": "Narada Purana",
+          "C": "Agni Purana",
+          "D": "Padma Purana"
+        },
+        "correct_answer": "C",
+        "explanation": "The Agni Purana is an encyclopedic text that covers diverse secular and religious topics."
+      },
+      "Q0886": {
+        "question": "The Markandeya Purana contains a highly revered section dedicated to Goddess Durga known as:",
+        "options": {
+          "A": "Lalita Sahasranama",
+          "B": "Saundarya Lahari",
+          "C": "Devi Bhagavata",
+          "D": "Devi Mahatmya (Chandi Path)"
+        },
+        "correct_answer": "D",
+        "explanation": "The Devi Mahatmya, a foundational text of Shaktism, is embedded within the Markandeya Purana."
+      },
+      "Q0887": {
+        "question": "According to the Shiva Purana, how many Jyotirlingas (shrines of Shiva) are considered paramount?",
+        "options": {
+          "A": "12",
+          "B": "108",
+          "C": "64",
+          "D": "9"
+        },
+        "correct_answer": "A",
+        "explanation": "There are 12 revered Jyotirlinga shrines scattered across India, symbolizing the infinite nature of Lord Shiva."
+      },
+      "Q0888": {
+        "question": "The Vishnu Purana is presented as a dialogue between Sage Parashara and his disciple named:",
+        "options": {
+          "A": "Shuka",
+          "B": "Maitreya",
+          "C": "Saunaka",
+          "D": "Vyasa"
+        },
+        "correct_answer": "B",
+        "explanation": "Sage Parashara narrates the cosmology, lineages, and stories of Vishnu to his disciple Maitreya."
+      },
+      "Q0889": {
+        "question": "Which Purana predominantly focuses on the iconography, installation, and worship of the Shiva Linga?",
+        "options": {
+          "A": "Brahma Vaivarta Purana",
+          "B": "Kurma Purana",
+          "C": "Linga Purana",
+          "D": "Vamana Purana"
+        },
+        "correct_answer": "C",
+        "explanation": "The Linga Purana details the origin of the Linga, its significance, and proper methods of worship."
+      },
+      "Q0890": {
+        "question": "Which Purana describes the history of creation and solar dynasties, and is often associated with the Konark Sun Temple?",
+        "options": {
+          "A": "Garuda Purana",
+          "B": "Matsya Purana",
+          "C": "Varaha Purana",
+          "D": "Brahma Purana"
+        },
+        "correct_answer": "D",
+        "explanation": "The Brahma Purana has a significant section dedicated to sun worship and places like Konark."
+      }
+    }
+  },
+  "LEVEL090": {
+    "level_number": 90,
+    "title": "Sanskrit Terminology & Philosophies",
+    "difficulty": "Scholar",
+    "questions": {
+      "Q0891": {
+        "question": "What is the literal translation of the philosophical term 'Advaita'?",
+        "options": {
+          "A": "Not two (Non-dualism)",
+          "B": "Supreme devotion",
+          "C": "Action without desire",
+          "D": "Dual reality"
+        },
+        "correct_answer": "A",
+        "explanation": "Advaita translates to 'not two', referring to the non-dualistic philosophy where Atman and Brahman are one."
+      },
+      "Q0892": {
+        "question": "Who was the primary exponent and systematizer of the Vishishtadvaita (qualified non-dualism) philosophy?",
+        "options": {
+          "A": "Adi Shankaracharya",
+          "B": "Ramanujacharya",
+          "C": "Madhvacharya",
+          "D": "Nimbarkacharya"
+        },
+        "correct_answer": "B",
+        "explanation": "Sri Ramanujacharya firmly established the Vishishtadvaita school of Vedanta in the 11th century."
+      },
+      "Q0893": {
+        "question": "How many orthodox (Astika) schools of Hindu philosophy exist?",
+        "options": {
+          "A": "Four",
+          "B": "Eight",
+          "C": "Six",
+          "D": "Ten"
+        },
+        "correct_answer": "C",
+        "explanation": "There are six Astika Darshanas: Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa, and Vedanta."
+      },
+      "Q0894": {
+        "question": "The Nyaya school of philosophy is primarily concerned with:",
+        "options": {
+          "A": "Physical Yoga exercises",
+          "B": "Ritual sacrifices",
+          "C": "Atomic theory",
+          "D": "Logic and epistemology"
+        },
+        "correct_answer": "D",
+        "explanation": "Nyaya focuses heavily on logic, rules of debate, and the reliable means of obtaining valid knowledge."
+      },
+      "Q0895": {
+        "question": "The Samkhya school of philosophy analyzes the universe into how many fundamental principles (Tattvas)?",
+        "options": {
+          "A": "25",
+          "B": "5",
+          "C": "108",
+          "D": "3"
+        },
+        "correct_answer": "A",
+        "explanation": "Samkhya philosophy enumerates 25 Tattvas, starting with Purusha and Prakriti."
+      },
+      "Q0896": {
+        "question": "Purva Mimamsa primarily deals with:",
+        "options": {
+          "A": "The nature of the soul",
+          "B": "Hermeneutics and the authority of the Vedas in rituals",
+          "C": "Meditation techniques",
+          "D": "Creation of the universe"
+        },
+        "correct_answer": "B",
+        "explanation": "Mimamsa focuses on the exegesis of the Vedas, ensuring proper understanding and performance of Vedic rituals (Dharma)."
+      },
+      "Q0897": {
+        "question": "What does the term 'Moksha' literally imply in Indian philosophy?",
+        "options": {
+          "A": "Heavenly planets",
+          "B": "Good karma",
+          "C": "Liberation or release",
+          "D": "Wealth and prosperity"
+        },
+        "correct_answer": "C",
+        "explanation": "Moksha means liberation from the cycle of birth, death, and rebirth (Samsara)."
+      },
+      "Q0898": {
+        "question": "Which Acharya founded the Dvaita (Dualism) school of Vedanta?",
+        "options": {
+          "A": "Vallabhacharya",
+          "B": "Chaitanya Mahaprabhu",
+          "C": "Ramanuja",
+          "D": "Madhvacharya"
+        },
+        "correct_answer": "D",
+        "explanation": "Sri Madhvacharya established Dvaita Vedanta, which posits a strict distinction between God (Brahman) and the individual souls."
+      },
+      "Q0899": {
+        "question": "In Vedantic philosophy, the state of 'Turiya' refers to:",
+        "options": {
+          "A": "The fourth state of consciousness beyond waking, dreaming, and deep sleep",
+          "B": "The lowest hellish planet",
+          "C": "The stage of householder life",
+          "D": "The end of the universe"
+        },
+        "correct_answer": "A",
+        "explanation": "Turiya is the fourth state, the state of pure consciousness that underlies and transcends the other three states."
+      },
+      "Q0900": {
+        "question": "Sage Patanjali is best known for compiling which foundational text?",
+        "options": {
+          "A": "Brahma Sutras",
+          "B": "Yoga Sutras",
+          "C": "Nyaya Sutras",
+          "D": "Vaisheshika Sutras"
+        },
+        "correct_answer": "B",
+        "explanation": "Patanjali compiled the Yoga Sutras, which systematized the philosophy and practice of classical Yoga."
+      }
+    }
+  }
+}

@@ -1,0 +1,587 @@
+{
+  "LEVEL031": {
+    "level_number": 31,
+    "title": "Lord Rama: The Ideal King",
+    "difficulty": "Intermediate+",
+    "questions": {
+      "Q0301": {
+        "question": "Which sage took Rama and Lakshmana to protect his sacrifices from demons?",
+        "options": {
+          "A": "Sage Vishwamitra",
+          "B": "Sage Vashistha",
+          "C": "Sage Agastya",
+          "D": "Sage Bharadwaja"
+        },
+        "correct_answer": "A",
+        "explanation": "Sage Vishwamitra took the young princes Rama and Lakshmana to the forest to slay demons like Tataka and Maricha who were disrupting his yajnas."
+      },
+      "Q0302": {
+        "question": "Under whose guidance did Rama receive the divine weapons (Bala and Atibala)?",
+        "options": {
+          "A": "Sage Agastya",
+          "B": "Sage Vishwamitra",
+          "C": "Sage Vashistha",
+          "D": "Sage Valmiki"
+        },
+        "correct_answer": "B",
+        "explanation": "Sage Vishwamitra taught them the mantras of Bala and Atibala, which removed hunger, thirst, and fatigue."
+      },
+      "Q0303": {
+        "question": "Whose bow did Lord Rama break to win Sita's hand in marriage?",
+        "options": {
+          "A": "Lord Indra's",
+          "B": "Lord Brahma's",
+          "C": "Lord Shiva's",
+          "D": "Lord Vishnu's"
+        },
+        "correct_answer": "C",
+        "explanation": "Lord Rama broke the Pinaka, the divine bow of Lord Shiva, at King Janaka's court during Sita's swayamvara."
+      },
+      "Q0304": {
+        "question": "Which demoness tried to entice Rama in the Dandaka forest?",
+        "options": {
+          "A": "Simhika",
+          "B": "Surasa",
+          "C": "Tataka",
+          "D": "Shurpanakha"
+        },
+        "correct_answer": "D",
+        "explanation": "Shurpanakha, Ravana's sister, tried to seduce Rama and Lakshmana, which eventually led to the war."
+      },
+      "Q0305": {
+        "question": "Who was the maternal uncle of Bharata?",
+        "options": {
+          "A": "Janaka",
+          "B": "Yudhajit",
+          "C": "Vibhishana",
+          "D": "Kushadhwaja"
+        },
+        "correct_answer": "B",
+        "explanation": "Yudhajit was the brother of Kaikeyi and the maternal uncle of Bharata."
+      },
+      "Q0306": {
+        "question": "Who presented Lord Rama with the Aditya Hrudayam stotram?",
+        "options": {
+          "A": "Sage Vashistha",
+          "B": "Sage Vishwamitra",
+          "C": "Sage Agastya",
+          "D": "Lord Indra"
+        },
+        "correct_answer": "C",
+        "explanation": "Sage Agastya taught Lord Rama the Aditya Hrudayam before his final battle with Ravana."
+      },
+      "Q0307": {
+        "question": "Which mountain did Hanuman bring to save Lakshmana?",
+        "options": {
+          "A": "Kailash",
+          "B": "Mandara",
+          "C": "Sanjeevani (Dronagiri)",
+          "D": "Govardhana"
+        },
+        "correct_answer": "C",
+        "explanation": "Hanuman uprooted and brought the Dronagiri mountain, which contained the Sanjeevani herb, to revive Lakshmana."
+      },
+      "Q0308": {
+        "question": "What was the name of the eagle who fought Ravana to rescue Sita?",
+        "options": {
+          "A": "Sampati",
+          "B": "Garuda",
+          "C": "Jatayu",
+          "D": "Kaka Bhushundi"
+        },
+        "correct_answer": "C",
+        "explanation": "Jatayu, the vulture king and a friend of Dasharatha, bravely fought Ravana but was mortally wounded."
+      },
+      "Q0309": {
+        "question": "Which king helped Lord Rama search for Sita after Vali was killed?",
+        "options": {
+          "A": "Vibhishana",
+          "B": "Sugriva",
+          "C": "Angada",
+          "D": "Jambavan"
+        },
+        "correct_answer": "B",
+        "explanation": "Sugriva, the king of Kishkindha, pledged his Vanara army to help Rama find Sita."
+      },
+      "Q0310": {
+        "question": "Who killed the powerful demon Indrajit (Meghanada)?",
+        "options": {
+          "A": "Lord Rama",
+          "B": "Hanuman",
+          "C": "Lakshmana",
+          "D": "Sugriva"
+        },
+        "correct_answer": "C",
+        "explanation": "Lakshmana defeated and killed Indrajit, Ravana's son, breaking his invincibility through severe penance and austerity."
+      }
+    }
+  },
+  "LEVEL032": {
+    "level_number": 32,
+    "title": "Hanuman's Devotion",
+    "difficulty": "Intermediate+",
+    "questions": {
+      "Q0311": {
+        "question": "Who reminded Hanuman of his forgotten powers before he leaped across the ocean?",
+        "options": {
+          "A": "Sugriva",
+          "B": "Angada",
+          "C": "Nala",
+          "D": "Jambavan"
+        },
+        "correct_answer": "D",
+        "explanation": "Jambavan, the bear king, reminded Hanuman of his divine origins and immense strength, breaking the curse of his forgetfulness."
+      },
+      "Q0312": {
+        "question": "Which motherly figure tested Hanuman's strength and intelligence on his way to Lanka?",
+        "options": {
+          "A": "Surasa",
+          "B": "Simhika",
+          "C": "Lankini",
+          "D": "Mainaka"
+        },
+        "correct_answer": "A",
+        "explanation": "Surasa, the mother of the nagas, tested him by asking him to enter her mouth, and Hanuman outsmarted her by shrinking his size."
+      },
+      "Q0313": {
+        "question": "What item did Rama give Hanuman as a token of recognition for Sita?",
+        "options": {
+          "A": "His bow",
+          "B": "A golden armlet",
+          "C": "His signet ring",
+          "D": "A lotus flower"
+        },
+        "correct_answer": "C",
+        "explanation": "Lord Rama gave Hanuman his signet ring (mudrika) so Sita would recognize him as Rama's genuine messenger."
+      },
+      "Q0314": {
+        "question": "What jewel did Sita give Hanuman to bring back to Rama?",
+        "options": {
+          "A": "A pearl necklace",
+          "B": "Chudamani",
+          "C": "A diamond ring",
+          "D": "Kaustubha"
+        },
+        "correct_answer": "B",
+        "explanation": "Sita gave Hanuman her Chudamani (hair ornament) as a token of her presence and hope for Rama."
+      },
+      "Q0315": {
+        "question": "Which demoness tried to pull Hanuman down by catching his shadow?",
+        "options": {
+          "A": "Surasa",
+          "B": "Trijata",
+          "C": "Simhika",
+          "D": "Tataka"
+        },
+        "correct_answer": "C",
+        "explanation": "Simhika, a demoness in the ocean, caught Hanuman's shadow, but he entered her body and killed her from within."
+      },
+      "Q0316": {
+        "question": "Who was the guardian spirit of Lanka whom Hanuman subdued before entering the city?",
+        "options": {
+          "A": "Trijata",
+          "B": "Mandodari",
+          "C": "Lankini",
+          "D": "Shurpanakha"
+        },
+        "correct_answer": "C",
+        "explanation": "Lankini was the guardian deity of Lanka. Hanuman struck her, and realizing he was Rama's devotee, she let him pass."
+      },
+      "Q0317": {
+        "question": "Where did Hanuman finally find Mother Sita in Lanka?",
+        "options": {
+          "A": "In Ravana's palace",
+          "B": "Ashoka Vatika",
+          "C": "Nandana Vana",
+          "D": "Chitrakoota"
+        },
+        "correct_answer": "B",
+        "explanation": "Hanuman found Sita held captive in the Ashoka Vatika, a beautiful grove in Lanka."
+      },
+      "Q0318": {
+        "question": "How did Ravana punish Hanuman when he was brought to the court?",
+        "options": {
+          "A": "He cut off his hands",
+          "B": "He threw him in the ocean",
+          "C": "He set his tail on fire",
+          "D": "He imprisoned him"
+        },
+        "correct_answer": "C",
+        "explanation": "Ravana ordered Hanuman's tail to be set on fire, which Hanuman then used to burn down the city of Lanka."
+      },
+      "Q0319": {
+        "question": "Which son of Ravana did Hanuman slay in Ashoka Vatika?",
+        "options": {
+          "A": "Indrajit",
+          "B": "Atikaya",
+          "C": "Prahasta",
+          "D": "Aksha Kumara"
+        },
+        "correct_answer": "D",
+        "explanation": "Aksha Kumara, Ravana's young son, attacked Hanuman in the grove and was killed in combat."
+      },
+      "Q0320": {
+        "question": "Which demoness was kind to Sita and had a dream predicting Rama's victory?",
+        "options": {
+          "A": "Lankini",
+          "B": "Surasa",
+          "C": "Trijata",
+          "D": "Praghasa"
+        },
+        "correct_answer": "C",
+        "explanation": "Trijata, a Rakshasi guarding Sita, was sympathetic to her and dreamt of Ravana's downfall and Rama's victory."
+      }
+    }
+  },
+  "LEVEL033": {
+    "level_number": 33,
+    "title": "Sundara Kanda",
+    "difficulty": "Intermediate+",
+    "questions": {
+      "Q0321": {
+        "question": "Sundara Kanda primarily focuses on the heroic exploits of which character?",
+        "options": {
+          "A": "Lord Rama",
+          "B": "Lakshmana",
+          "C": "Hanuman",
+          "D": "Sugriva"
+        },
+        "correct_answer": "C",
+        "explanation": "The Sundara Kanda highlights Hanuman's journey to Lanka, his discovery of Sita, and his immense devotion."
+      },
+      "Q0322": {
+        "question": "Which mountain rose from the ocean to offer Hanuman rest during his flight?",
+        "options": {
+          "A": "Mahendra",
+          "B": "Mainaka",
+          "C": "Malaya",
+          "D": "Vindhya"
+        },
+        "correct_answer": "B",
+        "explanation": "Mainaka, a golden mountain in the ocean, offered Hanuman a place to rest, honoring his father Vayu."
+      },
+      "Q0323": {
+        "question": "What is the meaning of the word 'Sundara' in Sundara Kanda?",
+        "options": {
+          "A": "Terrible",
+          "B": "Beautiful",
+          "C": "Strong",
+          "D": "Devotional"
+        },
+        "correct_answer": "B",
+        "explanation": "'Sundara' means beautiful. It refers to the beauty of Hanuman's exploits and devotion, as well as the beautiful ending of finding Sita."
+      },
+      "Q0324": {
+        "question": "What form did Hanuman take to enter Lanka undetected?",
+        "options": {
+          "A": "A giant monkey",
+          "B": "A Brahmin",
+          "C": "A cat-sized creature",
+          "D": "A fly"
+        },
+        "correct_answer": "C",
+        "explanation": "Hanuman shrank himself to the size of a cat or small creature (Mashaka) to search Lanka without being noticed."
+      },
+      "Q0325": {
+        "question": "Who bound Hanuman in the court of Ravana using the Brahmastra?",
+        "options": {
+          "A": "Ravana",
+          "B": "Kumbhakarna",
+          "C": "Vibhishana",
+          "D": "Indrajit"
+        },
+        "correct_answer": "D",
+        "explanation": "Indrajit used the Brahmastra. Out of respect for Lord Brahma, Hanuman allowed himself to be bound, though he could have broken free."
+      },
+      "Q0326": {
+        "question": "In what form did Hanuman present himself before Sita in Ashoka Vatika?",
+        "options": {
+          "A": "A tiny monkey",
+          "B": "A regular human",
+          "C": "A golden deer",
+          "D": "A giant warrior"
+        },
+        "correct_answer": "A",
+        "explanation": "Hanuman appeared in a tiny, non-threatening monkey form to gain Sita's trust before revealing his true identity."
+      },
+      "Q0327": {
+        "question": "Which hymn did Hanuman sing from the tree to reassure Sita?",
+        "options": {
+          "A": "Hanuman Chalisa",
+          "B": "Rama Katha (Story of Rama)",
+          "C": "Aditya Hrudayam",
+          "D": "Vishnu Sahasranama"
+        },
+        "correct_answer": "B",
+        "explanation": "Hanuman softly narrated the glory and story of Lord Rama to capture her attention and build trust."
+      },
+      "Q0328": {
+        "question": "Who suggested to Ravana not to kill Hanuman as he was an envoy?",
+        "options": {
+          "A": "Kumbhakarna",
+          "B": "Indrajit",
+          "C": "Mandodari",
+          "D": "Vibhishana"
+        },
+        "correct_answer": "D",
+        "explanation": "Vibhishana advised Ravana that killing a messenger (doota) was against Dharma, suggesting a lesser punishment."
+      },
+      "Q0329": {
+        "question": "Which parts of Lanka did Hanuman spare from the fire?",
+        "options": {
+          "A": "The Armory",
+          "B": "Vibhishana's house and Ashoka Vatika",
+          "C": "Ravana's palace",
+          "D": "The main gates"
+        },
+        "correct_answer": "B",
+        "explanation": "Hanuman spared Vibhishana's dwelling out of respect for his devotion, and the Ashoka Vatika to protect Sita."
+      },
+      "Q0330": {
+        "question": "What was Hanuman's exclamation upon returning to Rama and the Vanaras?",
+        "options": {
+          "A": "Lanka is destroyed!",
+          "B": "Sita is safe!",
+          "C": "Drishta Sita! (Seen Sita!)",
+          "D": "Victory to Rama!"
+        },
+        "correct_answer": "C",
+        "explanation": "Hanuman famously said 'Drishta Sita' (I have seen Sita) first, ensuring Rama heard the good news immediately."
+      }
+    }
+  },
+  "LEVEL034": {
+    "level_number": 34,
+    "title": "Characters of Ramayana",
+    "difficulty": "Intermediate+",
+    "questions": {
+      "Q0331": {
+        "question": "Who was the father of Sita?",
+        "options": {
+          "A": "King Dasharatha",
+          "B": "King Janaka",
+          "C": "King Kushadhwaja",
+          "D": "Sage Vishwamitra"
+        },
+        "correct_answer": "B",
+        "explanation": "King Janaka of Mithila found Sita in a furrow while plowing the earth and adopted her as his daughter."
+      },
+      "Q0332": {
+        "question": "Who advised Sugriva to send search parties in all four directions?",
+        "options": {
+          "A": "Hanuman",
+          "B": "Angada",
+          "C": "Jambavan",
+          "D": "Lord Rama"
+        },
+        "correct_answer": "D",
+        "explanation": "Lord Rama commanded Sugriva, who organized his armies to search the earth systematically."
+      },
+      "Q0333": {
+        "question": "Who was the mother of Shatrughna?",
+        "options": {
+          "A": "Kausalya",
+          "B": "Kaikeyi",
+          "C": "Sumitra",
+          "D": "Urmila"
+        },
+        "correct_answer": "C",
+        "explanation": "Queen Sumitra was the mother of the twins, Lakshmana and Shatrughna."
+      },
+      "Q0334": {
+        "question": "Who built the bridge (Ram Setu) to Lanka?",
+        "options": {
+          "A": "Hanuman and Angada",
+          "B": "Nala and Nila",
+          "C": "Sugriva and Jambavan",
+          "D": "Rama and Lakshmana"
+        },
+        "correct_answer": "B",
+        "explanation": "The Vanara engineers, Nala and Nila, designed and built the bridge using floating stones."
+      },
+      "Q0335": {
+        "question": "Who informed Lord Rama about Sita's abduction by Ravana?",
+        "options": {
+          "A": "Hanuman",
+          "B": "Kabandha",
+          "C": "Jatayu",
+          "D": "Shabari"
+        },
+        "correct_answer": "C",
+        "explanation": "The dying vulture king Jatayu informed Rama and Lakshmana that Ravana had abducted Sita and taken her south."
+      },
+      "Q0336": {
+        "question": "What was the name of Ravana's father?",
+        "options": {
+          "A": "Pulastya",
+          "B": "Vishrava",
+          "C": "Kashyapa",
+          "D": "Sumali"
+        },
+        "correct_answer": "B",
+        "explanation": "Sage Vishrava was the father of Ravana, Kumbhakarna, Vibhishana, and Kubera."
+      },
+      "Q0337": {
+        "question": "Who was the chief commander of Ravana's army before Indrajit?",
+        "options": {
+          "A": "Prahasta",
+          "B": "Kumbhakarna",
+          "C": "Vidyujjihva",
+          "D": "Malyavan"
+        },
+        "correct_answer": "A",
+        "explanation": "Prahasta was the chief commander of Lanka's forces and a maternal uncle of Ravana."
+      },
+      "Q0338": {
+        "question": "Whom did Shatrughna kill to conquer Madhupura (Mathura)?",
+        "options": {
+          "A": "Kamsa",
+          "B": "Lavanasura",
+          "C": "Khar",
+          "D": "Dushana"
+        },
+        "correct_answer": "B",
+        "explanation": "Shatrughna killed the demon Lavanasura and established his kingdom in Madhupura."
+      },
+      "Q0339": {
+        "question": "What was the name of Vali's wife?",
+        "options": {
+          "A": "Tara",
+          "B": "Ruma",
+          "C": "Mandodari",
+          "D": "Sulochana"
+        },
+        "correct_answer": "A",
+        "explanation": "Tara was the intelligent and powerful wife of Vali, and later queen of Kishkindha."
+      },
+      "Q0340": {
+        "question": "Who was the brother of Jatayu who guided the Vanaras to Lanka's location?",
+        "options": {
+          "A": "Garuda",
+          "B": "Sampati",
+          "C": "Maricha",
+          "D": "Subahu"
+        },
+        "correct_answer": "B",
+        "explanation": "Sampati, Jatayu's elder brother, had powerful eyesight and saw Sita captive in Lanka, guiding the search party."
+      }
+    }
+  },
+  "LEVEL035": {
+    "level_number": 35,
+    "title": "Spiritual Teachings & Bhakti",
+    "difficulty": "Intermediate+",
+    "questions": {
+      "Q0341": {
+        "question": "Which great devotee fed Lord Rama half-eaten berries to ensure they were sweet?",
+        "options": {
+          "A": "Ahalya",
+          "B": "Shabari",
+          "C": "Anusuya",
+          "D": "Sita"
+        },
+        "correct_answer": "B",
+        "explanation": "Shabari's pure devotion led her to taste the berries before offering them to Rama, which he lovingly accepted."
+      },
+      "Q0342": {
+        "question": "What does 'Ram Rajya' signify in Hindu philosophy?",
+        "options": {
+          "A": "Rule by a monarch",
+          "B": "An ideal, just, and righteous society",
+          "C": "A period of constant war",
+          "D": "Ascetic life"
+        },
+        "correct_answer": "B",
+        "explanation": "Ram Rajya represents the epitome of a just, peaceful, and righteous rule where dharma is upheld."
+      },
+      "Q0343": {
+        "question": "Who taught the Navadha Bhakti (nine forms of devotion) to Shabari?",
+        "options": {
+          "A": "Sage Matanga",
+          "B": "Lord Rama",
+          "C": "Hanuman",
+          "D": "Sage Vashistha"
+        },
+        "correct_answer": "B",
+        "explanation": "Lord Rama explained the Navadha Bhakti (nine steps of devotion) to Shabari in the Aranya Kanda."
+      },
+      "Q0344": {
+        "question": "Which sacred text is considered the poetic rewriting of Valmiki's Ramayana in Awadhi?",
+        "options": {
+          "A": "Kamba Ramayanam",
+          "B": "Ramcharitmanas",
+          "C": "Adhyatma Ramayana",
+          "D": "Ananda Ramayana"
+        },
+        "correct_answer": "B",
+        "explanation": "The Ramcharitmanas was composed by Goswami Tulsidas in Awadhi, spreading Rama Bhakti widely."
+      },
+      "Q0345": {
+        "question": "When Vibhishana sought refuge, what did Lord Rama declare about his policy of granting asylum?",
+        "options": {
+          "A": "Only Vanaras are accepted",
+          "B": "Refuge is granted to anyone who asks even once",
+          "C": "Enemies cannot be trusted",
+          "D": "Refuge requires a trial"
+        },
+        "correct_answer": "B",
+        "explanation": "Rama declared his vow (Saranagati): He grants protection to all beings who seek refuge in him even once."
+      },
+      "Q0346": {
+        "question": "In the context of Rama Bhakti, Hanuman is considered the perfect example of which type of devotee?",
+        "options": {
+          "A": "Madhurya Bhava",
+          "B": "Vatsalya Bhava",
+          "C": "Dasya Bhava",
+          "D": "Sakhya Bhava"
+        },
+        "correct_answer": "C",
+        "explanation": "Hanuman epitomizes Dasya Bhava—the attitude of a dedicated servant towards his master."
+      },
+      "Q0347": {
+        "question": "How did Bharata rule Ayodhya during Rama's 14-year exile?",
+        "options": {
+          "A": "By sitting on the throne himself",
+          "B": "By placing Rama's sandals (Paduka) on the throne",
+          "C": "By dissolving the monarchy",
+          "D": "By moving the capital to Lanka"
+        },
+        "correct_answer": "B",
+        "explanation": "Bharata lived as an ascetic in Nandigrama and ruled on behalf of Rama's Paduka (sandals), signifying ultimate surrender."
+      },
+      "Q0348": {
+        "question": "What is the philosophical significance of the bridge (Ram Setu)?",
+        "options": {
+          "A": "Conquering nature",
+          "B": "Connecting the Jiva (soul) to Paramatma (God) through devotion",
+          "C": "A trade route",
+          "D": "Defeating Ravana easily"
+        },
+        "correct_answer": "B",
+        "explanation": "Spiritually, Ram Setu represents the bridge of faith and devotion that connects the individual soul to the Supreme."
+      },
+      "Q0349": {
+        "question": "Why did Rama ask Sita to undergo the Agni Pariksha?",
+        "options": {
+          "A": "He doubted her character",
+          "B": "To prove her purity to the world and silence future doubts",
+          "C": "As a punishment for getting abducted",
+          "D": "To show off his magical powers"
+        },
+        "correct_answer": "B",
+        "explanation": "Rama, knowing Sita's purity, ordered the test to establish her pristine character publicly, fulfilling his duty as a king."
+      },
+      "Q0350": {
+        "question": "Which deity's incarnation is Lord Rama?",
+        "options": {
+          "A": "Lord Shiva",
+          "B": "Lord Brahma",
+          "C": "Lord Vishnu",
+          "D": "Lord Indra"
+        },
+        "correct_answer": "C",
+        "explanation": "Lord Rama is the seventh avatar (incarnation) of Lord Vishnu."
+      }
+    }
+  }
+}

@@ -1,0 +1,587 @@
+{
+  "LEVEL021": {
+    "level_number": 21,
+    "title": "Mahabharata: Origins and Early Years",
+    "difficulty": "Intermediate",
+    "questions": {
+      "Q0201": {
+        "question": "Who was the father of Bhishma?",
+        "options": {
+          "A": "Shantanu",
+          "B": "Pandu",
+          "C": "Dhritarashtra",
+          "D": "Bharata"
+        },
+        "correct_answer": "A",
+        "explanation": "Bhishma was the son of King Shantanu and Goddess Ganga."
+      },
+      "Q0202": {
+        "question": "What was the original name of Bhishma?",
+        "options": {
+          "A": "Satyavrata",
+          "B": "Devavrata",
+          "C": "Brihadratha",
+          "D": "Chitrangada"
+        },
+        "correct_answer": "B",
+        "explanation": "Bhishma's birth name was Devavrata. He received the name Bhishma after taking his terrible vow of celibacy."
+      },
+      "Q0203": {
+        "question": "Who was the sage that fathered Dhritarashtra, Pandu, and Vidura?",
+        "options": {
+          "A": "Vashistha",
+          "B": "Vishwamitra",
+          "C": "Vyasa",
+          "D": "Bharadwaja"
+        },
+        "correct_answer": "C",
+        "explanation": "Sage Vyasa was called upon by Satyavati to bless Ambika, Ambalika, and a maid, resulting in the birth of Dhritarashtra, Pandu, and Vidura."
+      },
+      "Q0204": {
+        "question": "Which celestial being was the spiritual father of Arjuna?",
+        "options": {
+          "A": "Surya",
+          "B": "Yama",
+          "C": "Vayu",
+          "D": "Indra"
+        },
+        "correct_answer": "D",
+        "explanation": "Arjuna was born to Kunti through the blessings of Lord Indra, the king of the gods."
+      },
+      "Q0205": {
+        "question": "What was the name of the capital city ruled by the Kurus?",
+        "options": {
+          "A": "Hastinapura",
+          "B": "Ayodhya",
+          "C": "Mathura",
+          "D": "Kashi"
+        },
+        "correct_answer": "A",
+        "explanation": "Hastinapura was the primary capital of the Kuru Kingdom, central to the conflict in the Mahabharata."
+      },
+      "Q0206": {
+        "question": "Who was the mother of Karna?",
+        "options": {
+          "A": "Madri",
+          "B": "Kunti",
+          "C": "Gandhari",
+          "D": "Radha"
+        },
+        "correct_answer": "B",
+        "explanation": "Kunti was Karna's biological mother, who invoked Lord Surya before her marriage. He was later raised by Radha, earning him the name Radheya."
+      },
+      "Q0207": {
+        "question": "Which king of Panchala was the father of Draupadi?",
+        "options": {
+          "A": "Shalya",
+          "B": "Virata",
+          "C": "Drupada",
+          "D": "Jarasandha"
+        },
+        "correct_answer": "C",
+        "explanation": "King Drupada of Panchala performed a yajna to obtain a son to kill Drona, resulting in the birth of Dhrishtadyumna and Draupadi."
+      },
+      "Q0208": {
+        "question": "Who was the first preceptor of the Kauravas and Pandavas before Drona?",
+        "options": {
+          "A": "Parashurama",
+          "B": "Bhishma",
+          "C": "Vyasa",
+          "D": "Kripacharya"
+        },
+        "correct_answer": "D",
+        "explanation": "Kripacharya taught the royal children the initial lessons in warfare and scriptures before Dronacharya took over."
+      },
+      "Q0209": {
+        "question": "What was the name of the barren land that the Pandavas developed into their capital?",
+        "options": {
+          "A": "Khandavaprastha",
+          "B": "Takshashila",
+          "C": "Avanti",
+          "D": "Magadha"
+        },
+        "correct_answer": "A",
+        "explanation": "The Pandavas were given Khandavaprastha, a barren wilderness, which they transformed into the magnificent city of Indraprastha."
+      },
+      "Q0210": {
+        "question": "Who built the illusionary and magnificent palace in Indraprastha for the Pandavas?",
+        "options": {
+          "A": "Vishwakarma",
+          "B": "Mayasura",
+          "C": "Kubera",
+          "D": "Indra"
+        },
+        "correct_answer": "B",
+        "explanation": "Mayasura, a great architect of the asuras, built the Maya Sabha for the Pandavas out of gratitude for Arjuna sparing his life."
+      }
+    }
+  },
+  "LEVEL022": {
+    "level_number": 22,
+    "title": "Mahabharata: Key Characters and Tensions",
+    "difficulty": "Intermediate",
+    "questions": {
+      "Q0211": {
+        "question": "In the fateful game of dice, who rolled the dice on behalf of Duryodhana?",
+        "options": {
+          "A": "Dushasana",
+          "B": "Karna",
+          "C": "Shakuni",
+          "D": "Ashwatthama"
+        },
+        "correct_answer": "C",
+        "explanation": "Shakuni, Duryodhana's maternal uncle, used loaded dice to defeat Yudhishthira and strip the Pandavas of their kingdom."
+      },
+      "Q0212": {
+        "question": "Which powerful king of Magadha was killed by Bhima prior to the Rajasuya Yajna?",
+        "options": {
+          "A": "Shishupala",
+          "B": "Kamsa",
+          "C": "Shalya",
+          "D": "Jarasandha"
+        },
+        "correct_answer": "D",
+        "explanation": "Bhima killed Jarasandha in a wrestling match with the guidance of Krishna, paving the way for the Rajasuya Yajna."
+      },
+      "Q0213": {
+        "question": "What was the name of Arjuna's celestial bow?",
+        "options": {
+          "A": "Gandiva",
+          "B": "Vijaya",
+          "C": "Sharanga",
+          "D": "Pinaka"
+        },
+        "correct_answer": "A",
+        "explanation": "Arjuna received the Gandiva bow from Lord Varuna during the burning of the Khandava forest."
+      },
+      "Q0214": {
+        "question": "Who cursed Karna that he would forget his knowledge of weapons when he needed it most?",
+        "options": {
+          "A": "Durvasa",
+          "B": "Parashurama",
+          "C": "Drona",
+          "D": "Bhrigu"
+        },
+        "correct_answer": "B",
+        "explanation": "Sage Parashurama cursed Karna because Karna had disguised himself as a Brahmin to learn from him."
+      },
+      "Q0215": {
+        "question": "Which Pandava was known for his exceptional expertise in handling and treating horses?",
+        "options": {
+          "A": "Sahadeva",
+          "B": "Arjuna",
+          "C": "Nakula",
+          "D": "Yudhishthira"
+        },
+        "correct_answer": "C",
+        "explanation": "Nakula, one of the Ashwini twins' spiritual sons, was an expert equestrian and managed the king's stables during incognito exile."
+      },
+      "Q0216": {
+        "question": "What was the name of Lord Krishna's famous conch shell?",
+        "options": {
+          "A": "Devadatta",
+          "B": "Paundra",
+          "C": "Anantavijaya",
+          "D": "Panchajanya"
+        },
+        "correct_answer": "D",
+        "explanation": "Krishna's conch, Panchajanya, was blown at the beginning of the Kurukshetra war, striking terror in the hearts of the Kauravas."
+      },
+      "Q0217": {
+        "question": "Who was the second eldest of the Kauravas, after Duryodhana?",
+        "options": {
+          "A": "Dushasana",
+          "B": "Vikarna",
+          "C": "Yuyutsu",
+          "D": "Chitrasena"
+        },
+        "correct_answer": "A",
+        "explanation": "Dushasana was the second son of Dhritarashtra and Gandhari, and a principal supporter of Duryodhana's wicked plans."
+      },
+      "Q0218": {
+        "question": "Which demoness did Bhima marry during the Pandavas' early exile in the forest?",
+        "options": {
+          "A": "Putana",
+          "B": "Hidimbi",
+          "C": "Tataka",
+          "D": "Surpanakha"
+        },
+        "correct_answer": "B",
+        "explanation": "After killing the demon Hidimba, Bhima married his sister, the demoness Hidimbi."
+      },
+      "Q0219": {
+        "question": "What was the name of the brave son born to Bhima and Hidimbi?",
+        "options": {
+          "A": "Abhimanyu",
+          "B": "Barbareek",
+          "C": "Ghatotkacha",
+          "D": "Iravan"
+        },
+        "correct_answer": "C",
+        "explanation": "Ghatotkacha was the half-demon son of Bhima who fought valiantly for the Pandavas in the Kurukshetra war."
+      },
+      "Q0220": {
+        "question": "Who shamelessly attempted to disrobe Draupadi in the Kuru assembly?",
+        "options": {
+          "A": "Shakuni",
+          "B": "Karna",
+          "C": "Duryodhana",
+          "D": "Dushasana"
+        },
+        "correct_answer": "D",
+        "explanation": "Following Duryodhana's orders, Dushasana dragged Draupadi to the court and tried to disrobe her, leading to Krishna's divine intervention."
+      }
+    }
+  },
+  "LEVEL023": {
+    "level_number": 23,
+    "title": "Mahabharata: Exile and Agnatavasa",
+    "difficulty": "Intermediate",
+    "questions": {
+      "Q0221": {
+        "question": "For how many years were the Pandavas exiled to the forest before their year of incognito living?",
+        "options": {
+          "A": "12 years",
+          "B": "13 years",
+          "C": "14 years",
+          "D": "10 years"
+        },
+        "correct_answer": "A",
+        "explanation": "The condition of their defeat in the dice game was 12 years of forest exile followed by 1 year of incognito exile."
+      },
+      "Q0222": {
+        "question": "How long was the Pandavas' period of Agnatavasa (incognito exile)?",
+        "options": {
+          "A": "2 years",
+          "B": "1 year",
+          "C": "6 months",
+          "D": "3 years"
+        },
+        "correct_answer": "B",
+        "explanation": "The Agnatavasa was meant to last for 1 year. If discovered during this time, they would have to repeat the 12-year forest exile."
+      },
+      "Q0223": {
+        "question": "In which kingdom did the Pandavas successfully spend their year of incognito exile?",
+        "options": {
+          "A": "Panchala",
+          "B": "Magadha",
+          "C": "Matsya",
+          "D": "Chedi"
+        },
+        "correct_answer": "C",
+        "explanation": "The Pandavas hid in the Matsya kingdom, ruled by King Virata, taking on various disguises."
+      },
+      "Q0224": {
+        "question": "What was the disguised name and role of Yudhishthira during the incognito exile?",
+        "options": {
+          "A": "Vallabha (Cook)",
+          "B": "Granthika (Horsekeeper)",
+          "C": "Tantipala (Cowherd)",
+          "D": "Kanka (Courtier/Dice Player)"
+        },
+        "correct_answer": "D",
+        "explanation": "Yudhishthira assumed the identity of a brahmin named Kanka, acting as an advisor and dice-playing companion to King Virata."
+      },
+      "Q0225": {
+        "question": "Under what name did Arjuna live in the court of King Virata as a dance teacher?",
+        "options": {
+          "A": "Brihannala",
+          "B": "Kanka",
+          "C": "Vallabha",
+          "D": "Sairandhri"
+        },
+        "correct_answer": "A",
+        "explanation": "Arjuna lived as the eunuch Brihannala, utilizing Urvashi's curse to teach dance and music to Princess Uttara."
+      },
+      "Q0226": {
+        "question": "Who was the arrogant commander and brother-in-law of King Virata, killed by Bhima?",
+        "options": {
+          "A": "Susharma",
+          "B": "Kichaka",
+          "C": "Jayadratha",
+          "D": "Shalya"
+        },
+        "correct_answer": "B",
+        "explanation": "Kichaka harassed Draupadi (disguised as Sairandhri), leading Bhima to secretly kill him in the dance hall."
+      },
+      "Q0227": {
+        "question": "Which deity tested Yudhishthira's wisdom as a Yaksha by a poisoned lake?",
+        "options": {
+          "A": "Indra",
+          "B": "Shiva",
+          "C": "Yama (Dharma)",
+          "D": "Agni"
+        },
+        "correct_answer": "C",
+        "explanation": "Yama, the god of death and justice (Dharma), disguised himself as a Yaksha to test his spiritual son, Yudhishthira."
+      },
+      "Q0228": {
+        "question": "What was Draupadi's disguised identity in King Virata's court?",
+        "options": {
+          "A": "Malini",
+          "B": "Subhadra",
+          "C": "Bhanumati",
+          "D": "Sairandhri"
+        },
+        "correct_answer": "D",
+        "explanation": "Draupadi worked as a Sairandhri (maidservant and hairdresser) for Queen Sudeshna of Matsya."
+      },
+      "Q0229": {
+        "question": "Who did Abhimanyu marry, uniting the Pandavas and the Matsya kingdom?",
+        "options": {
+          "A": "Uttara",
+          "B": "Vrushali",
+          "C": "Dushala",
+          "D": "Karenumati"
+        },
+        "correct_answer": "A",
+        "explanation": "King Virata offered his daughter Uttara to Arjuna, but Arjuna accepted her as a daughter-in-law for his son Abhimanyu."
+      },
+      "Q0230": {
+        "question": "Which deity granted Yudhishthira the Akshaya Patra, an inexhaustible vessel of food?",
+        "options": {
+          "A": "Vishnu",
+          "B": "Surya",
+          "C": "Brahma",
+          "D": "Shiva"
+        },
+        "correct_answer": "B",
+        "explanation": "Lord Surya (the Sun God) gave the Akshaya Patra to Yudhishthira to ensure the Pandavas could feed their guests during their exile."
+      }
+    }
+  },
+  "LEVEL024": {
+    "level_number": 24,
+    "title": "Mahabharata: The Kurukshetra War - Part 1",
+    "difficulty": "Intermediate",
+    "questions": {
+      "Q0231": {
+        "question": "For how many days did the epic Kurukshetra war last?",
+        "options": {
+          "A": "14 days",
+          "B": "21 days",
+          "C": "18 days",
+          "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "The great war between the Kauravas and Pandavas was fought over a period of exactly 18 days."
+      },
+      "Q0232": {
+        "question": "Who was the first commander-in-chief of the Kaurava army?",
+        "options": {
+          "A": "Drona",
+          "B": "Karna",
+          "C": "Shalya",
+          "D": "Bhishma"
+        },
+        "correct_answer": "D",
+        "explanation": "Grandsire Bhishma led the Kaurava army as its supreme commander for the first 10 days of the war."
+      },
+      "Q0233": {
+        "question": "For how many days did Bhishma lead the Kaurava army before falling on a bed of arrows?",
+        "options": {
+          "A": "10 days",
+          "B": "5 days",
+          "C": "12 days",
+          "D": "14 days"
+        },
+        "correct_answer": "A",
+        "explanation": "Bhishma was undefeated for 10 days until Arjuna, using Shikhandi as a shield, immobilized him."
+      },
+      "Q0234": {
+        "question": "Who narrated the events of the Kurukshetra war live to the blind King Dhritarashtra?",
+        "options": {
+          "A": "Vidura",
+          "B": "Sanjaya",
+          "C": "Vyasa",
+          "D": "Kripacharya"
+        },
+        "correct_answer": "B",
+        "explanation": "Sanjaya was granted divine vision by Sage Vyasa to see the battlefield and narrate the events to Dhritarashtra."
+      },
+      "Q0235": {
+        "question": "Who served as the charioteer of Arjuna during the Kurukshetra war?",
+        "options": {
+          "A": "Satyaki",
+          "B": "Daruka",
+          "C": "Krishna",
+          "D": "Yuyutsu"
+        },
+        "correct_answer": "C",
+        "explanation": "Lord Krishna chose not to fight but served as Arjuna's charioteer, guiding him physically and spiritually."
+      },
+      "Q0236": {
+        "question": "Which Kaurava commander could only be killed if he laid down his weapons in grief?",
+        "options": {
+          "A": "Karna",
+          "B": "Bhishma",
+          "C": "Jayadratha",
+          "D": "Drona"
+        },
+        "correct_answer": "D",
+        "explanation": "Dronacharya was invincible in battle as long as he held his weapons; he dropped them upon hearing a false report of his son's death."
+      },
+      "Q0237": {
+        "question": "Who held off the Pandava brothers, leaving Abhimanyu trapped alone in the Chakravyuha?",
+        "options": {
+          "A": "Jayadratha",
+          "B": "Ashwatthama",
+          "C": "Kripacharya",
+          "D": "Karna"
+        },
+        "correct_answer": "A",
+        "explanation": "Jayadratha utilized a boon from Lord Shiva to hold back all the Pandavas except Arjuna, leaving Abhimanyu to face the Kaurava maharathis alone."
+      },
+      "Q0238": {
+        "question": "What was the name of the elephant whose death confused Drona into believing his son was dead?",
+        "options": {
+          "A": "Supratika",
+          "B": "Ashwatthama",
+          "C": "Airavata",
+          "D": "Kuvalayapida"
+        },
+        "correct_answer": "B",
+        "explanation": "Bhima killed an elephant named Ashwatthama. Yudhishthira confirmed 'Ashwatthama is dead', leading Drona to drop his weapons."
+      },
+      "Q0239": {
+        "question": "Who was the supreme commander of the Pandava army during the war?",
+        "options": {
+          "A": "Arjuna",
+          "B": "Yudhishthira",
+          "C": "Dhrishtadyumna",
+          "D": "Shikhandi"
+        },
+        "correct_answer": "C",
+        "explanation": "Dhrishtadyumna, the prince of Panchala and brother of Draupadi, served as the commander-in-chief of the Pandava forces."
+      },
+      "Q0240": {
+        "question": "Who beheaded Dronacharya while he sat in a state of meditation?",
+        "options": {
+          "A": "Satyaki",
+          "B": "Bhima",
+          "C": "Arjuna",
+          "D": "Dhrishtadyumna"
+        },
+        "correct_answer": "D",
+        "explanation": "Fulfilling the purpose of his birth, Dhrishtadyumna killed Dronacharya after the preceptor laid down his arms."
+      }
+    }
+  },
+  "LEVEL025": {
+    "level_number": 25,
+    "title": "Mahabharata: The War's End and Aftermath",
+    "difficulty": "Intermediate",
+    "questions": {
+      "Q0241": {
+        "question": "Who became the commander-in-chief of the Kauravas after Drona's death?",
+        "options": {
+          "A": "Karna",
+          "B": "Ashwatthama",
+          "C": "Shalya",
+          "D": "Kripacharya"
+        },
+        "correct_answer": "A",
+        "explanation": "Karna led the Kaurava army on the 16th and 17th days of the war."
+      },
+      "Q0242": {
+        "question": "Who killed Dushasana and drank his blood to fulfill a terrible vow made during the game of dice?",
+        "options": {
+          "A": "Arjuna",
+          "B": "Bhima",
+          "C": "Nakula",
+          "D": "Sahadeva"
+        },
+        "correct_answer": "B",
+        "explanation": "Bhima tore open Dushasana's chest on the battlefield, fulfilling his vow to avenge Draupadi's humiliation."
+      },
+      "Q0243": {
+        "question": "Who finally killed Karna on the battlefield of Kurukshetra?",
+        "options": {
+          "A": "Yudhishthira",
+          "B": "Satyaki",
+          "C": "Arjuna",
+          "D": "Bhima"
+        },
+        "correct_answer": "C",
+        "explanation": "Arjuna killed Karna while the latter was trying to lift his sunken chariot wheel, as directed by Lord Krishna."
+      },
+      "Q0244": {
+        "question": "Which maternal uncle of the Pandavas was tricked into fighting on the side of the Kauravas?",
+        "options": {
+          "A": "Shakuni",
+          "B": "Kritavarma",
+          "C": "Bahlika",
+          "D": "Shalya"
+        },
+        "correct_answer": "D",
+        "explanation": "King Shalya of Madra, brother of Madri, was deceived by Duryodhana's hospitality and forced to fight for the Kauravas."
+      },
+      "Q0245": {
+        "question": "Who was the final commander-in-chief of the Kauravas on the 18th day of the war?",
+        "options": {
+          "A": "Shalya",
+          "B": "Ashwatthama",
+          "C": "Kritavarma",
+          "D": "Duryodhana"
+        },
+        "correct_answer": "A",
+        "explanation": "After Karna's death, Shalya led the remaining Kaurava forces until he was slain by Yudhishthira."
+      },
+      "Q0246": {
+        "question": "Where did Duryodhana hide after the Kaurava army was completely destroyed?",
+        "options": {
+          "A": "A dense forest",
+          "B": "Dwaipayana Lake",
+          "C": "A cave in the Himalayas",
+          "D": "Underground palace"
+        },
+        "correct_answer": "B",
+        "explanation": "Duryodhana used his mystical powers to hide and solidify the waters of Dwaipayana Lake, resting at the bottom."
+      },
+      "Q0247": {
+        "question": "Who ruthlessly killed the sleeping sons of the Pandavas (the Upapandavas) in a night raid?",
+        "options": {
+          "A": "Kritavarma",
+          "B": "Kripacharya",
+          "C": "Ashwatthama",
+          "D": "Duryodhana"
+        },
+        "correct_answer": "C",
+        "explanation": "Ashwatthama, consumed by revenge for his father's deceitful death, massacred the Pandava camp at night."
+      },
+      "Q0248": {
+        "question": "What ultimate weapon did Ashwatthama invoke to destroy the unborn grandchild of Arjuna?",
+        "options": {
+          "A": "Pashupatastra",
+          "B": "Narayanastra",
+          "C": "Vajra",
+          "D": "Brahmashira astra"
+        },
+        "correct_answer": "D",
+        "explanation": "Unable to recall the Brahmashira astra, Ashwatthama directed it towards the womb of Uttara to end the Pandava lineage."
+      },
+      "Q0249": {
+        "question": "Who protected the unborn Parikshit in Uttara's womb from Ashwatthama's deadly weapon?",
+        "options": {
+          "A": "Krishna",
+          "B": "Vyasa",
+          "C": "Arjuna",
+          "D": "Yudhishthira"
+        },
+        "correct_answer": "A",
+        "explanation": "Lord Krishna used his divine powers to protect the fetus from the immense heat of the Brahmashira astra."
+      },
+      "Q0250": {
+        "question": "Which king ruled Hastinapura after the Pandavas retired to the Himalayas?",
+        "options": {
+          "A": "Vajra",
+          "B": "Parikshit",
+          "C": "Janamejaya",
+          "D": "Yuyutsu"
+        },
+        "correct_answer": "B",
+        "explanation": "Parikshit, the grandson of Arjuna and son of Abhimanyu, succeeded Yudhishthira as the king of Hastinapura."
+      }
+    }
+  }
+}

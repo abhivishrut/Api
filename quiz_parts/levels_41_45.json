@@ -1,0 +1,587 @@
+{
+  "LEVEL041": {
+    "level_number": 41,
+    "title": "Vishnu and Divine Emanations",
+    "difficulty": "Advanced",
+    "questions": {
+      "Q0401": {
+        "question": "Which Purana primarily details the origins and significance of the sacred Shaligram Shila?",
+        "options": {
+          "A": "Skanda Purana",
+          "B": "Shiva Purana",
+          "C": "Matsya Purana",
+          "D": "Kurma Purana"
+        },
+        "correct_answer": "A",
+        "explanation": "The Skanda Purana contains extensive sections detailing the greatness of the Shaligram Shila, its origins from the Gandaki river, and the rules for its worship."
+      },
+      "Q0402": {
+        "question": "In the spiritual realm of Vaikuntha, what is the name of the divine mace (Gada) wielded by Lord Vishnu?",
+        "options": {
+          "A": "Sharanga",
+          "B": "Kaumodaki",
+          "C": "Nandaka",
+          "D": "Panchajanya"
+        },
+        "correct_answer": "B",
+        "explanation": "Lord Vishnu's divine mace is named Kaumodaki. It symbolizes the power of knowledge, the intellect, and the power of time."
+      },
+      "Q0403": {
+        "question": "The Pancharatra Agamas classify Vishnu's manifestations into five forms. Which of these denotes the Lord dwelling within the heart of all beings?",
+        "options": {
+          "A": "Vyuhas",
+          "B": "Vibhava",
+          "C": "Antaryami",
+          "D": "Archa"
+        },
+        "correct_answer": "C",
+        "explanation": "Antaryami is the 'inner controller' or the manifestation of the Lord residing in the hearts of all living beings, guiding them from within."
+      },
+      "Q0404": {
+        "question": "What is the name of the divine conch shell (Shankha) blown by Lord Vishnu?",
+        "options": {
+          "A": "Devadatta",
+          "B": "Paundra",
+          "C": "Anantavijaya",
+          "D": "Panchajanya"
+        },
+        "correct_answer": "D",
+        "explanation": "The Panchajanya is the sacred conch of Lord Vishnu, representing the origin of existence and the primeval sound 'Om'."
+      },
+      "Q0405": {
+        "question": "The concept of Chaturvyuha in Vaishnavism represents four primary emanations of the Supreme. Who among the following is NOT one of them?",
+        "options": {
+          "A": "Kalki",
+          "B": "Vasudeva",
+          "C": "Sankarshana",
+          "D": "Aniruddha"
+        },
+        "correct_answer": "A",
+        "explanation": "The Chaturvyuha (four emanations) consists of Vasudeva, Sankarshana, Pradyumna, and Aniruddha. Kalki is a Vibhava (incarnation), not a Vyuha."
+      },
+      "Q0406": {
+        "question": "Goddess Lakshmi emerged during the Samudra Manthan. Which sage's curse on Indra precipitated the churning of the ocean?",
+        "options": {
+          "A": "Bhrigu",
+          "B": "Durvasa",
+          "C": "Agastya",
+          "D": "Vishwamitra"
+        },
+        "correct_answer": "B",
+        "explanation": "Sage Durvasa cursed Indra when the latter disrespected a divine garland. This led to the Devas losing their glory and wealth, necessitating the churning of the ocean."
+      },
+      "Q0407": {
+        "question": "The auspicious mark on Lord Vishnu's chest is known as Srivatsa. What is the name of the divine jewel He wears on His chest?",
+        "options": {
+          "A": "Syamantaka",
+          "B": "Chintamani",
+          "C": "Kaustubha",
+          "D": "Navaratna"
+        },
+        "correct_answer": "C",
+        "explanation": "The Kaustubha is a divine, brilliant jewel that emerged during the Samudra Manthan and is worn by Lord Vishnu on His chest."
+      },
+      "Q0408": {
+        "question": "Who recited the Vishnu Sahasranama (thousand names of Vishnu) in the Anushasana Parva of the Mahabharata?",
+        "options": {
+          "A": "Vyasa",
+          "B": "Krishna",
+          "C": "Yudhishthira",
+          "D": "Bhishma"
+        },
+        "correct_answer": "D",
+        "explanation": "Bhishma recited the Vishnu Sahasranama to Yudhishthira while lying on his bed of arrows, in the presence of Lord Krishna."
+      },
+      "Q0409": {
+        "question": "In Vaishnava philosophy, the term 'Archa-avatara' specifically refers to what form of the Lord?",
+        "options": {
+          "A": "The consecrated temple deity",
+          "B": "The cosmic creator",
+          "C": "The boar incarnation",
+          "D": "The subtle mind"
+        },
+        "correct_answer": "A",
+        "explanation": "Archa-avatara refers to the Lord's incarnation in the form of physical idols or images consecrated in temples, allowing devotees to serve Him directly."
+      },
+      "Q0410": {
+        "question": "What is the highest, supreme spiritual abode of Lord Vishnu, frequently extolled in the Upanishads and Divya Prabandhams?",
+        "options": {
+          "A": "Svarga",
+          "B": "Paramapada (Vaikuntha)",
+          "C": "Brahmaloka",
+          "D": "Kailasa"
+        },
+        "correct_answer": "B",
+        "explanation": "Paramapada, synonymous with Vaikuntha, is the supreme, eternal, and transcendental abode of Lord Vishnu, beyond the material universes."
+      }
+    }
+  },
+  "LEVEL042": {
+    "level_number": 42,
+    "title": "Dashavatara: The Great Descents",
+    "difficulty": "Advanced",
+    "questions": {
+      "Q0411": {
+        "question": "In the Varaha avatar, Lord Vishnu rescued the Earth from the cosmic ocean by slaying which demon?",
+        "options": {
+          "A": "Hiranyakashipu",
+          "B": "Tarakasura",
+          "C": "Hiranyaksha",
+          "D": "Madhu"
+        },
+        "correct_answer": "C",
+        "explanation": "Lord Vishnu took the form of Varaha (the boar) to defeat the demon Hiranyaksha, who had taken the Earth to the bottom of the cosmic ocean."
+      },
+      "Q0412": {
+        "question": "During the Kurma avatar, what served as the churning rope (Netra) for the gods and demons to churn the ocean?",
+        "options": {
+          "A": "Vasuki",
+          "B": "Shesha Naga",
+          "C": "Karkotaka",
+          "D": "Mount Mandara"
+        },
+        "correct_answer": "A",
+        "explanation": "The serpent king Vasuki served as the churning rope, wrapped around Mount Mandara, which was supported by Lord Vishnu in His Kurma (tortoise) avatar."
+      },
+      "Q0413": {
+        "question": "The Matsya avatar rescued the first man and the seeds of life from a great deluge. What was the name of this king, who later became a Manu?",
+        "options": {
+          "A": "Satyavrata",
+          "B": "Ikshvaku",
+          "C": "Prithu",
+          "D": "Bharata"
+        },
+        "correct_answer": "A",
+        "explanation": "King Satyavrata was saved by the Matsya avatar during the great flood and subsequently became the Vaivasvata Manu in the current cosmic cycle."
+      },
+      "Q0414": {
+        "question": "The Narasimha avatar is unique for bypassing the boons of Hiranyakashipu. At what specific time did Narasimha appear to slay the demon?",
+        "options": {
+          "A": "Midnight",
+          "B": "Sandhya (Dusk)",
+          "C": "Noon",
+          "D": "Dawn"
+        },
+        "correct_answer": "B",
+        "explanation": "To bypass the boon that the demon could not be killed in the day or night, Lord Narasimha appeared at Sandhya, the twilight period."
+      },
+      "Q0415": {
+        "question": "Prahlada, the great devotee of Narasimha, was the grandfather of which famous Daitya king, who was later subdued by Vamana?",
+        "options": {
+          "A": "Virochana",
+          "B": "Banasura",
+          "C": "Narakasura",
+          "D": "Bali"
+        },
+        "correct_answer": "D",
+        "explanation": "King Bali (Mahabali) was the grandson of Prahlada. He was a righteous but ambitious king subdued by Lord Vishnu in His Vamana avatar."
+      },
+      "Q0416": {
+        "question": "In the Vamana avatar, Lord Vishnu as a dwarf Brahmin asked for three paces of land from King Bali. Who was Bali's preceptor (guru) who warned him against this?",
+        "options": {
+          "A": "Brihaspati",
+          "B": "Shukracharya",
+          "C": "Vashistha",
+          "D": "Vishwamitra"
+        },
+        "correct_answer": "B",
+        "explanation": "Shukracharya, the guru of the Asuras, recognized Vamana as Lord Vishnu and warned King Bali not to grant the request, but Bali remained steadfast in his charity."
+      },
+      "Q0417": {
+        "question": "According to Puranic legends, the river Ganges originated from the toe of Lord Vishnu during which avatar?",
+        "options": {
+          "A": "Rama",
+          "B": "Kurma",
+          "C": "Vamana (Trivikrama)",
+          "D": "Krishna"
+        },
+        "correct_answer": "C",
+        "explanation": "When Vamana expanded into Trivikrama, His foot pierced the universal covering. The water of the causal ocean entered, washing His toe, and descended as the holy Ganges."
+      },
+      "Q0418": {
+        "question": "Parashurama, the warrior-sage avatar, was born to Sage Jamadagni and which illustrious woman?",
+        "options": {
+          "A": "Renuka",
+          "B": "Arundhati",
+          "C": "Anusuya",
+          "D": "Lopamudra"
+        },
+        "correct_answer": "A",
+        "explanation": "Parashurama was the son of Sage Jamadagni and Mother Renuka, descending to rid the world of corrupt and tyrannical kshatriyas."
+      },
+      "Q0419": {
+        "question": "Parashurama received his legendary axe (Parashu) after undertaking severe penance to appease which deity?",
+        "options": {
+          "A": "Indra",
+          "B": "Brahma",
+          "C": "Agni",
+          "D": "Shiva"
+        },
+        "correct_answer": "D",
+        "explanation": "Parashurama performed intense austerities to please Lord Shiva, who bestowed upon him martial arts skills and his famous axe, the Parashu."
+      },
+      "Q0420": {
+        "question": "Balarama, the elder brother of Krishna, is traditionally considered an avatar of which divine entity associated with Vishnu?",
+        "options": {
+          "A": "Garuda",
+          "B": "Shesha Naga",
+          "C": "Sudarshana Chakra",
+          "D": "Vishvaksena"
+        },
+        "correct_answer": "B",
+        "explanation": "Balarama is revered as the incarnation of Adishesha (Shesha Naga), the divine serpent upon whom Lord Vishnu reclines."
+      }
+    }
+  },
+  "LEVEL043": {
+    "level_number": 43,
+    "title": "Rama and Krishna: The Supreme Avatars",
+    "difficulty": "Advanced",
+    "questions": {
+      "Q0421": {
+        "question": "In the Ramayana, the mighty bow broken by Lord Rama to win Sita's hand was called Pinaka. Who was its original divine owner?",
+        "options": {
+          "A": "Brahma",
+          "B": "Indra",
+          "C": "Varuna",
+          "D": "Shiva"
+        },
+        "correct_answer": "D",
+        "explanation": "The Pinaka bow originally belonged to Lord Shiva. It was given to King Janaka's ancestors and was kept in his court until Rama lifted and broke it."
+      },
+      "Q0422": {
+        "question": "The divine architect who constructed the magnificent island city of Dwarka for Lord Krishna was?",
+        "options": {
+          "A": "Maya Danava",
+          "B": "Vishwakarma",
+          "C": "Kubera",
+          "D": "Tvastar"
+        },
+        "correct_answer": "B",
+        "explanation": "Vishwakarma, the architect of the gods, built the fortified city of Dwarka on the ocean at the behest of Lord Krishna to protect the Yadavas."
+      },
+      "Q0423": {
+        "question": "Krishna's conch shell was Panchajanya. What was the name of the conch shell blown by Arjuna during the Kurukshetra war?",
+        "options": {
+          "A": "Paundra",
+          "B": "Devadatta",
+          "C": "Sughosha",
+          "D": "Manipushpaka"
+        },
+        "correct_answer": "B",
+        "explanation": "As mentioned in the Bhagavad Gita, Arjuna's conch was named Devadatta, which means 'God-given'."
+      },
+      "Q0424": {
+        "question": "During the Kurukshetra war, Lord Krishna momentarily obscured the sun with His Sudarshana Chakra to ensure the death of which warrior?",
+        "options": {
+          "A": "Karna",
+          "B": "Drona",
+          "C": "Jayadratha",
+          "D": "Ashwatthama"
+        },
+        "correct_answer": "C",
+        "explanation": "Krishna created a false sunset to make Jayadratha drop his guard, allowing Arjuna to fulfill his vow of killing him before sunset."
+      },
+      "Q0425": {
+        "question": "The Syamantaka jewel, central to a famous episode proving Krishna's innocence, was originally gifted to Satrajit by which deity?",
+        "options": {
+          "A": "Surya",
+          "B": "Chandra",
+          "C": "Indra",
+          "D": "Agni"
+        },
+        "correct_answer": "A",
+        "explanation": "The Sun God, Surya, gifted the magical Syamantaka jewel to his devotee Satrajit. It produced vast amounts of gold daily."
+      },
+      "Q0426": {
+        "question": "Lord Rama's royal lineage is known as the Ikshvaku dynasty. Ikshvaku was the son of which legendary figure?",
+        "options": {
+          "A": "Vaivasvata Manu",
+          "B": "Kashyapa",
+          "C": "Daksha",
+          "D": "Harishchandra"
+        },
+        "correct_answer": "A",
+        "explanation": "Ikshvaku was the son of Vaivasvata Manu (the progenitor of mankind in this epoch), tracing the lineage back to Surya (the Sun God)."
+      },
+      "Q0427": {
+        "question": "In the Ramayana, who was the mother of Lakshmana and Shatrughna?",
+        "options": {
+          "A": "Kausalya",
+          "B": "Kaikeyi",
+          "C": "Sumitra",
+          "D": "Urmila"
+        },
+        "correct_answer": "C",
+        "explanation": "Queen Sumitra, the third wife of King Dasharatha, gave birth to the twins Lakshmana and Shatrughna."
+      },
+      "Q0428": {
+        "question": "In the Mahabharata, Krishna's half-sister Subhadra married Arjuna. Who was her mother?",
+        "options": {
+          "A": "Devaki",
+          "B": "Yashoda",
+          "C": "Kunti",
+          "D": "Rohini"
+        },
+        "correct_answer": "D",
+        "explanation": "Subhadra was the daughter of Vasudeva and Rohini, making her the younger sister of Balarama and half-sister of Krishna."
+      },
+      "Q0429": {
+        "question": "Which demon, who attacked Vrindavan in the form of a gigantic horse, was slain by Lord Krishna, earning Him the name 'Keshava'?",
+        "options": {
+          "A": "Arishta",
+          "B": "Keshi",
+          "C": "Dhenuka",
+          "D": "Vatsa"
+        },
+        "correct_answer": "B",
+        "explanation": "The demon Keshi took the form of a terrifying horse. After Krishna killed him by thrusting His arm into the demon's mouth, He was hailed as 'Keshava' (slayer of Keshi)."
+      },
+      "Q0430": {
+        "question": "What was the name of the formidable bow wielded by Lord Rama in battle?",
+        "options": {
+          "A": "Gandiva",
+          "B": "Vijaya",
+          "C": "Kodanda",
+          "D": "Sharanga"
+        },
+        "correct_answer": "C",
+        "explanation": "Lord Rama's personal bow was named Kodanda, which is why He is often affectionately referred to as Kodanda Rama."
+      }
+    }
+  },
+  "LEVEL044": {
+    "level_number": 44,
+    "title": "Vaishnava Sampradayas and Saints",
+    "difficulty": "Advanced",
+    "questions": {
+      "Q0431": {
+        "question": "Sri Vaishnavism traces its philosophical roots to the Alvars. Who was the first acharya to compile their hymns into the Nalayira Divya Prabandham?",
+        "options": {
+          "A": "Nathamuni",
+          "B": "Ramanuja",
+          "C": "Vedanta Desika",
+          "D": "Yamunacharya"
+        },
+        "correct_answer": "A",
+        "explanation": "Nathamuni was a pioneering theologian who gathered and compiled the lost Tamil hymns of the Alvars, establishing the basis for the Sri Vaishnava sampradaya."
+      },
+      "Q0432": {
+        "question": "The Gaudiya Vaishnava tradition centers on the profound devotion to Radha and Krishna. Who is the revered 15th-century founder of this tradition?",
+        "options": {
+          "A": "Nimbarkacharya",
+          "B": "Chaitanya Mahaprabhu",
+          "C": "Vallabhacharya",
+          "D": "Swami Haridas"
+        },
+        "correct_answer": "B",
+        "explanation": "Sri Chaitanya Mahaprabhu, considered a combined avatar of Radha and Krishna, popularized the sankirtan movement and founded Gaudiya Vaishnavism."
+      },
+      "Q0433": {
+        "question": "The philosophical system propounded by Madhvacharya, forming the basis of the Brahma Sampradaya, is known as?",
+        "options": {
+          "A": "Advaita",
+          "B": "Vishishtadvaita",
+          "C": "Dvaita",
+          "D": "Achintya Bheda Abheda"
+        },
+        "correct_answer": "C",
+        "explanation": "Madhvacharya propounded Dvaita (dualism), establishing a strict distinction between the Supreme Lord (Vishnu) and the individual souls (jivas)."
+      },
+      "Q0434": {
+        "question": "Vallabhacharya founded the Pushtimarg sect centered around Lord Krishna. What is the name of his pure non-dualistic philosophical system?",
+        "options": {
+          "A": "Dvaitadvaita",
+          "B": "Shuddhadvaita",
+          "C": "Vishishtadvaita",
+          "D": "Kevaladvaita"
+        },
+        "correct_answer": "B",
+        "explanation": "Shuddhadvaita (Pure Non-Dualism) posits that the entire universe is a manifestation of the Supreme Brahman (Krishna) without any illusion (Maya) involved."
+      },
+      "Q0435": {
+        "question": "The Alvars were twelve mystic Tamil poet-saints of South India. Who among them is the only female Alvar, revered for her Tiruppavai?",
+        "options": {
+          "A": "Andal",
+          "B": "Karaikkal Ammaiyar",
+          "C": "Avvaiyar",
+          "D": "Akka Mahadevi"
+        },
+        "correct_answer": "A",
+        "explanation": "Andal is the only female Alvar, highly venerated for her intense devotion to Lord Ranganatha and her poetic works, the Tiruppavai and Nachiyar Tirumozhi."
+      },
+      "Q0436": {
+        "question": "Which of the twelve Alvars is traditionally believed to be the divine incarnation of Lord Vishnu's Sudarshana Chakra?",
+        "options": {
+          "A": "Nammalvar",
+          "B": "Kulasekhara Alvar",
+          "C": "Thirumangai Alvar",
+          "D": "Thirumazhisai Alvar"
+        },
+        "correct_answer": "D",
+        "explanation": "Thirumazhisai Alvar is traditionally regarded as the incarnation of the Sudarshana Chakra, the divine discus of Lord Vishnu."
+      },
+      "Q0437": {
+        "question": "In the Sri Vaishnava tradition, the foundational philosophy is 'Vishishtadvaita'. What does the prefix 'Vishishta' signify in this context?",
+        "options": {
+          "A": "Illusionary",
+          "B": "Qualified or differentiated",
+          "C": "Absolute",
+          "D": "Inconceivable"
+        },
+        "correct_answer": "B",
+        "explanation": "Vishishtadvaita means 'qualified non-dualism.' It asserts that reality is one (Brahman), but characterized by attributes (chit and achit - souls and matter)."
+      },
+      "Q0438": {
+        "question": "The Haridasa movement in Karnataka was a major Vaishnava devotional wave. Who is often considered the 'Pitamaha' (grandfather) of Carnatic music within this movement?",
+        "options": {
+          "A": "Kanaka Dasa",
+          "B": "Vyasatirtha",
+          "C": "Purandara Dasa",
+          "D": "Vadiraja Tirtha"
+        },
+        "correct_answer": "C",
+        "explanation": "Purandara Dasa composed thousands of devotional songs praising Lord Purandara Vittala (Krishna) and systematized the teaching methodology of Carnatic music."
+      },
+      "Q0439": {
+        "question": "The Brahma Sampradaya is one of the four bona fide Vaishnava lineages. Which famous philosopher is the principal acharya of this Sampradaya?",
+        "options": {
+          "A": "Ramanujacharya",
+          "B": "Madhvacharya",
+          "C": "Nimbarkacharya",
+          "D": "Vishnuswami"
+        },
+        "correct_answer": "B",
+        "explanation": "Madhvacharya is the foremost acharya of the Brahma Sampradaya, teaching that Lord Vishnu is the supreme absolute truth."
+      },
+      "Q0440": {
+        "question": "Who authored the renowned 12th-century Sanskrit poem 'Gita Govinda', which deeply influenced the Bhakti movement by exploring the divine love of Krishna and Radha?",
+        "options": {
+          "A": "Vidyapati",
+          "B": "Surdas",
+          "C": "Mirabai",
+          "D": "Jayadeva"
+        },
+        "correct_answer": "D",
+        "explanation": "The poet Jayadeva composed the Gita Govinda, a lyrical masterpiece that greatly influenced subsequent Vaishnava traditions and art forms across India."
+      }
+    }
+  },
+  "LEVEL045": {
+    "level_number": 45,
+    "title": "Puranic Lore and Symbolism",
+    "difficulty": "Advanced",
+    "questions": {
+      "Q0441": {
+        "question": "The Bhagavata Purana lists 22 or 24 incarnations of Lord Vishnu. Which of these is traditionally considered the very first avatar, manifesting as the four eternal youths?",
+        "options": {
+          "A": "Narada",
+          "B": "Sanat Kumaras",
+          "C": "Varaha",
+          "D": "Nara-Narayana"
+        },
+        "correct_answer": "B",
+        "explanation": "The four Kumaras (Sanaka, Sanandana, Sanatana, and Sanat Kumara) are described in the Bhagavata Purana as the first incarnation, embodying eternal celibacy and knowledge."
+      },
+      "Q0442": {
+        "question": "Lord Vishnu's divine mount (Vahana), Garuda, is the mighty king of birds. He is the son of sage Kashyapa and which of his wives?",
+        "options": {
+          "A": "Kadru",
+          "B": "Aditi",
+          "C": "Diti",
+          "D": "Vinata"
+        },
+        "correct_answer": "D",
+        "explanation": "Garuda was born to sage Kashyapa and Vinata. He holds deep enmity toward snakes, who were born to Kashyapa's other wife, Kadru."
+      },
+      "Q0443": {
+        "question": "According to Puranic eschatology, Kalki, the final avatar of the current Mahayuga, will be born in which mysterious village?",
+        "options": {
+          "A": "Ayodhya",
+          "B": "Mathura",
+          "C": "Shambhala",
+          "D": "Kashi"
+        },
+        "correct_answer": "C",
+        "explanation": "The Puranas prophesize that Kalki will be born in the village of Shambhala to an eminent brahmin named Vishnuyasha to end the Kali Yuga."
+      },
+      "Q0444": {
+        "question": "The 'Narayana Suktam', a powerful hymn detailing the cosmic form of Lord Narayana, is a part of which ancient Vedic text?",
+        "options": {
+          "A": "Rig Veda (Mandala 10)",
+          "B": "Yajur Veda (Taittiriya Aranyaka)",
+          "C": "Sama Veda (Chandogya)",
+          "D": "Atharva Veda (Shaunaka)"
+        },
+        "correct_answer": "B",
+        "explanation": "The Narayana Suktam is found in the Taittiriya Aranyaka of the Krishna Yajur Veda. It is chanted during the worship and bathing of deities."
+      },
+      "Q0445": {
+        "question": "The famous Padmanabhaswamy Temple in Thiruvananthapuram enshrines Lord Vishnu in which specific reclining posture?",
+        "options": {
+          "A": "Vaikuntha Kamala",
+          "B": "Yoga Nidra",
+          "C": "Anantha Shayana",
+          "D": "Sesha Vahana"
+        },
+        "correct_answer": "C",
+        "explanation": "The presiding deity is Lord Vishnu in the 'Anantha Shayana' posture (reclining on the serpent Anantha), in a state of conscious cosmic slumber."
+      },
+      "Q0446": {
+        "question": "Which pious Asura king's unparalleled devotion and sacrifice compelled Lord Vishnu to serve as the eternal guard of his kingdom in Patala Loka?",
+        "options": {
+          "A": "Prahlada",
+          "B": "Virochana",
+          "C": "Bali",
+          "D": "Banasura"
+        },
+        "correct_answer": "C",
+        "explanation": "Moved by King Bali's absolute surrender during the Vamana avatar, Lord Vishnu granted him the subterranean realm of Sutala and personally guarded his gates."
+      },
+      "Q0447": {
+        "question": "The 'Vishnu Sahasranama' (Thousand Names of Vishnu) was recited by the dying Bhishma. In whose immediate presence was this profound discourse delivered?",
+        "options": {
+          "A": "Krishna",
+          "B": "Vyasa",
+          "C": "Vidura",
+          "D": "Dronacharya"
+        },
+        "correct_answer": "A",
+        "explanation": "Bhishma recited the thousand names of Vishnu to King Yudhishthira, perfectly conscious that Lord Krishna, standing before him, was the very Supreme Lord being praised."
+      },
+      "Q0448": {
+        "question": "According to Hindu cosmology, Lord Vishnu reclines on the serpent Ananta Shesha in the primordial cosmic ocean. What is the name of this ocean?",
+        "options": {
+          "A": "Lavana Sagara",
+          "B": "Kshira Sagara",
+          "C": "Ikshu Sagara",
+          "D": "Sura Sagara"
+        },
+        "correct_answer": "B",
+        "explanation": "The Kshira Sagara (Ocean of Milk) is the cosmic ocean where Lord Vishnu rests on Adishesha, accompanied by Goddess Lakshmi."
+      },
+      "Q0449": {
+        "question": "In the allegorical story of Gajendra Moksha, which creature grabbed the elephant Gajendra's leg, leading to his ultimate surrender to Lord Vishnu?",
+        "options": {
+          "A": "A gigantic serpent",
+          "B": "A mystical tortoise",
+          "C": "A fierce crocodile (Makara)",
+          "D": "A water demon"
+        },
+        "correct_answer": "C",
+        "explanation": "A powerful crocodile (who was formerly the Gandharva king Huhu) caught Gajendra's leg, leading to a long struggle that ended when Gajendra surrendered to Vishnu."
+      },
+      "Q0450": {
+        "question": "Vaikuntha Ekadashi is one of the most auspicious days for Vaishnavas. It occurs during the solar month of Dhanurmasa, which typically corresponds to which lunar month?",
+        "options": {
+          "A": "Chaitra",
+          "B": "Shravana",
+          "C": "Kartik",
+          "D": "Margashirsha"
+        },
+        "correct_answer": "D",
+        "explanation": "Vaikuntha Ekadashi falls in the waxing phase of the lunar month of Margashirsha (or the solar month of Dhanurmasa in the Tamil calendar)."
+      }
+    }
+  }
+}

@@ -1,0 +1,587 @@
+{
+  "LEVEL016": {
+    "level_number": 16,
+    "title": "The Kingdom of Ayodhya and Birth of Rama",
+    "difficulty": "Beginner+",
+    "questions": {
+      "Q0151": {
+        "question": "Who was the king of Ayodhya and the father of Lord Rama?",
+        "options": {
+          "A": "King Janaka",
+          "B": "King Dasharatha",
+          "C": "King Sugriva",
+          "D": "King Vali"
+        },
+        "correct_answer": "B",
+        "explanation": "King Dasharatha was the ruler of Ayodhya and the father of Lord Rama."
+      },
+      "Q0152": {
+        "question": "Which river flows near the city of Ayodhya?",
+        "options": {
+          "A": "Ganga",
+          "B": "Yamuna",
+          "C": "Sarayu",
+          "D": "Godavari"
+        },
+        "correct_answer": "C",
+        "explanation": "The ancient city of Ayodhya is situated on the banks of the sacred Sarayu river."
+      },
+      "Q0153": {
+        "question": "Who was the mother of Lord Rama?",
+        "options": {
+          "A": "Sumitra",
+          "B": "Kaikeyi",
+          "C": "Kausalya",
+          "D": "Urmila"
+        },
+        "correct_answer": "C",
+        "explanation": "Queen Kausalya was the eldest wife of King Dasharatha and the mother of Lord Rama."
+      },
+      "Q0154": {
+        "question": "Lord Rama is considered the seventh avatar of which principal Hindu deity?",
+        "options": {
+          "A": "Lord Shiva",
+          "B": "Lord Brahma",
+          "C": "Lord Ganesha",
+          "D": "Lord Vishnu"
+        },
+        "correct_answer": "D",
+        "explanation": "Lord Rama is revered as the seventh incarnation (avatar) of Lord Vishnu, preserver of the universe."
+      },
+      "Q0155": {
+        "question": "Who was the trusted sage that mentored Rama and Lakshmana in their youth?",
+        "options": {
+          "A": "Sage Vishwamitra",
+          "B": "Sage Vashistha",
+          "C": "Sage Durvasa",
+          "D": "Sage Agastya"
+        },
+        "correct_answer": "A",
+        "explanation": "Sage Vishwamitra took Rama and Lakshmana to the forest to protect his yajnas and taught them advanced weaponry."
+      },
+      "Q0156": {
+        "question": "Who did Lord Rama marry after breaking the divine bow of Shiva?",
+        "options": {
+          "A": "Mandodari",
+          "B": "Sita",
+          "C": "Radha",
+          "D": "Rukmini"
+        },
+        "correct_answer": "B",
+        "explanation": "Lord Rama married Sita, the daughter of King Janaka, after successfully stringing and breaking the Pinaka bow."
+      },
+      "Q0157": {
+        "question": "Which of Rama's brothers was born to Queen Kaikeyi?",
+        "options": {
+          "A": "Lakshmana",
+          "B": "Shatrughna",
+          "C": "Bharata",
+          "D": "Lava"
+        },
+        "correct_answer": "C",
+        "explanation": "Bharata was the son of King Dasharatha and Queen Kaikeyi."
+      },
+      "Q0158": {
+        "question": "Who was the royal priest (Kula Guru) of the Ikshvaku dynasty?",
+        "options": {
+          "A": "Sage Vishwamitra",
+          "B": "Sage Narada",
+          "C": "Sage Valmiki",
+          "D": "Sage Vashistha"
+        },
+        "correct_answer": "D",
+        "explanation": "Sage Vashistha served as the royal priest and chief advisor to King Dasharatha."
+      },
+      "Q0159": {
+        "question": "Which demoness did Rama slay in the forest while assisting Sage Vishwamitra?",
+        "options": {
+          "A": "Surpanakha",
+          "B": "Simhika",
+          "C": "Tataka",
+          "D": "Putana"
+        },
+        "correct_answer": "C",
+        "explanation": "Rama killed the demoness Tataka at the behest of Sage Vishwamitra to protect the sages' rituals."
+      },
+      "Q0160": {
+        "question": "For how many years was Lord Rama sent into exile?",
+        "options": {
+          "A": "12 years",
+          "B": "13 years",
+          "C": "14 years",
+          "D": "15 years"
+        },
+        "correct_answer": "C",
+        "explanation": "Lord Rama was exiled to the forest for 14 years due to the boons claimed by Queen Kaikeyi."
+      }
+    }
+  },
+  "LEVEL017": {
+    "level_number": 17,
+    "title": "Exile and the Forest Life",
+    "difficulty": "Beginner+",
+    "questions": {
+      "Q0161": {
+        "question": "Who accompanied Lord Rama into exile?",
+        "options": {
+          "A": "Only Sita",
+          "B": "Only Lakshmana",
+          "C": "Sita and Lakshmana",
+          "D": "Bharata and Shatrughna"
+        },
+        "correct_answer": "C",
+        "explanation": "His wife Sita and devoted brother Lakshmana chose to accompany Lord Rama into the forest."
+      },
+      "Q0162": {
+        "question": "Who poisoned Queen Kaikeyi's mind against Rama?",
+        "options": {
+          "A": "Surpanakha",
+          "B": "Manthara",
+          "C": "Maricha",
+          "D": "Subahu"
+        },
+        "correct_answer": "B",
+        "explanation": "Manthara, a maidservant, poisoned Kaikeyi's mind, leading her to demand Rama's exile."
+      },
+      "Q0163": {
+        "question": "What did Bharata place on the throne of Ayodhya in Rama's absence?",
+        "options": {
+          "A": "Rama's crown",
+          "B": "Rama's sandals (Paduka)",
+          "C": "Rama's bow",
+          "D": "A statue of Rama"
+        },
+        "correct_answer": "B",
+        "explanation": "Bharata placed Lord Rama's sandals on the throne as a symbol of Rama's true authority while ruling as a regent."
+      },
+      "Q0164": {
+        "question": "Which demoness tried to seduce Rama and attacked Sita in the Dandaka forest?",
+        "options": {
+          "A": "Tataka",
+          "B": "Simhika",
+          "C": "Trijata",
+          "D": "Surpanakha"
+        },
+        "correct_answer": "D",
+        "explanation": "Surpanakha, Ravana's sister, tried to court Rama and Lakshmana, and was punished when she attacked Sita."
+      },
+      "Q0165": {
+        "question": "How did Lakshmana punish Surpanakha?",
+        "options": {
+          "A": "By cutting off her nose and ears",
+          "B": "By turning her into a stone",
+          "C": "By exiling her to Lanka",
+          "D": "By tying her to a tree"
+        },
+        "correct_answer": "A",
+        "explanation": "Lakshmana chopped off Surpanakha's nose and ears as punishment for her aggression towards Sita."
+      },
+      "Q0166": {
+        "question": "Who took the form of a golden deer to distract Rama and Lakshmana?",
+        "options": {
+          "A": "Ravana",
+          "B": "Kumbhakarna",
+          "C": "Maricha",
+          "D": "Khara"
+        },
+        "correct_answer": "C",
+        "explanation": "The demon Maricha disguised himself as a golden deer to lure Rama away from Sita at Ravana's request."
+      },
+      "Q0167": {
+        "question": "Where did Rama, Sita, and Lakshmana build their hermitage in the Dandaka forest?",
+        "options": {
+          "A": "Kishkindha",
+          "B": "Panchavati",
+          "C": "Ashoka Vatika",
+          "D": "Chitrakoot"
+        },
+        "correct_answer": "B",
+        "explanation": "They spent a significant part of their exile living in a hermitage in Panchavati."
+      },
+      "Q0168": {
+        "question": "Who was the great eagle that fought Ravana to rescue Sita?",
+        "options": {
+          "A": "Garuda",
+          "B": "Jatayu",
+          "C": "Sampati",
+          "D": "Kakabhushundi"
+        },
+        "correct_answer": "B",
+        "explanation": "Jatayu, the noble eagle and friend of King Dasharatha, valiantly fought Ravana but was mortally wounded."
+      },
+      "Q0169": {
+        "question": "Who informed Lord Rama about Sita's abduction by Ravana?",
+        "options": {
+          "A": "Hanuman",
+          "B": "Sugriva",
+          "C": "Jatayu",
+          "D": "Shabari"
+        },
+        "correct_answer": "C",
+        "explanation": "A dying Jatayu informed Lord Rama that Ravana had abducted Sita and taken her towards the south."
+      },
+      "Q0170": {
+        "question": "Which great devotee offered half-eaten berries to Lord Rama in the forest?",
+        "options": {
+          "A": "Ahalya",
+          "B": "Anusuya",
+          "C": "Shabari",
+          "D": "Urmila"
+        },
+        "correct_answer": "C",
+        "explanation": "Shabari, an elderly female ascetic, tasted the berries first to ensure they were sweet before offering them to Rama, showcasing her pure devotion."
+      }
+    }
+  },
+  "LEVEL018": {
+    "level_number": 18,
+    "title": "The Abduction of Sita and Search",
+    "difficulty": "Beginner+",
+    "questions": {
+      "Q0171": {
+        "question": "Who was the ten-headed demon king of Lanka who abducted Sita?",
+        "options": {
+          "A": "Vibhishana",
+          "B": "Kumbhakarna",
+          "C": "Indrajit",
+          "D": "Ravana"
+        },
+        "correct_answer": "D",
+        "explanation": "Ravana was the powerful Rakshasa king of Lanka who abducted Mother Sita."
+      },
+      "Q0172": {
+        "question": "Where did Ravana keep Sita captive in Lanka?",
+        "options": {
+          "A": "In his main palace",
+          "B": "In the dungeon",
+          "C": "Ashoka Vatika",
+          "D": "Mount Trikuta"
+        },
+        "correct_answer": "C",
+        "explanation": "Ravana kept Sita confined in a beautiful grove called Ashoka Vatika, guarded by demonesses."
+      },
+      "Q0173": {
+        "question": "Who did Rama form an alliance with to search for Sita?",
+        "options": {
+          "A": "King Vali",
+          "B": "King Sugriva",
+          "C": "King Janaka",
+          "D": "King Guha"
+        },
+        "correct_answer": "B",
+        "explanation": "Rama allied with Sugriva, the Vanara king, promising to restore his kingdom in exchange for help finding Sita."
+      },
+      "Q0174": {
+        "question": "Who was Sugriva's elder brother, whom Rama defeated?",
+        "options": {
+          "A": "Angada",
+          "B": "Jambavan",
+          "C": "Vali",
+          "D": "Nala"
+        },
+        "correct_answer": "C",
+        "explanation": "Vali (or Bali) was the powerful king of Kishkindha whom Rama defeated to restore Sugriva to the throne."
+      },
+      "Q0175": {
+        "question": "Who is the great monkey devotee of Lord Rama known for his immense strength and devotion?",
+        "options": {
+          "A": "Sugriva",
+          "B": "Hanuman",
+          "C": "Angada",
+          "D": "Neela"
+        },
+        "correct_answer": "B",
+        "explanation": "Hanuman is the ultimate symbol of strength, courage, and pure devotion to Lord Rama."
+      },
+      "Q0176": {
+        "question": "Who reminded Hanuman of his forgotten powers?",
+        "options": {
+          "A": "Angada",
+          "B": "Sugriva",
+          "C": "Jambavan",
+          "D": "Rama"
+        },
+        "correct_answer": "C",
+        "explanation": "The wise bear king Jambavan reminded Hanuman of his divine origins and immense powers, enabling him to cross the ocean."
+      },
+      "Q0177": {
+        "question": "What did Rama give Hanuman to prove his identity to Sita?",
+        "options": {
+          "A": "His bow",
+          "B": "His signet ring",
+          "C": "His sandals",
+          "D": "A lotus flower"
+        },
+        "correct_answer": "B",
+        "explanation": "Rama gave Hanuman his signet ring so that Sita would recognize him as a genuine messenger."
+      },
+      "Q0178": {
+        "question": "What did Sita give Hanuman as a token for Rama?",
+        "options": {
+          "A": "Her necklace",
+          "B": "Her bangles",
+          "C": "Her hair ornament (Chudamani)",
+          "D": "A piece of her saree"
+        },
+        "correct_answer": "C",
+        "explanation": "Sita gave Hanuman her Chudamani (a divine hair ornament) to take back to Rama as proof of their meeting."
+      },
+      "Q0179": {
+        "question": "What did Hanuman do to Lanka before returning to Rama?",
+        "options": {
+          "A": "He flooded it",
+          "B": "He froze it",
+          "C": "He completely destroyed the palace",
+          "D": "He set the city on fire"
+        },
+        "correct_answer": "D",
+        "explanation": "After Ravana ordered Hanuman's tail to be set on fire, Hanuman used it to burn down much of the city of Lanka."
+      },
+      "Q0180": {
+        "question": "Who was the demoness stationed in the ocean that tried to swallow Hanuman by capturing his shadow?",
+        "options": {
+          "A": "Simhika",
+          "B": "Surasa",
+          "C": "Lankini",
+          "D": "Tataka"
+        },
+        "correct_answer": "A",
+        "explanation": "Simhika was a sea monster who tried to capture Hanuman by gripping his shadow as he flew over the ocean."
+      }
+    }
+  },
+  "LEVEL019": {
+    "level_number": 19,
+    "title": "The Journey to Lanka and the Bridge",
+    "difficulty": "Beginner+",
+    "questions": {
+      "Q0181": {
+        "question": "Which brother of Ravana left him and sought refuge with Lord Rama?",
+        "options": {
+          "A": "Kumbhakarna",
+          "B": "Indrajit",
+          "C": "Vibhishana",
+          "D": "Khara"
+        },
+        "correct_answer": "C",
+        "explanation": "Vibhishana, a righteous demon, advised Ravana to return Sita. When rejected, he surrendered to Lord Rama."
+      },
+      "Q0182": {
+        "question": "Who were the primary architects of the bridge built across the ocean to Lanka?",
+        "options": {
+          "A": "Hanuman and Angada",
+          "B": "Nala and Nila",
+          "C": "Sugriva and Jambavan",
+          "D": "Rama and Lakshmana"
+        },
+        "correct_answer": "B",
+        "explanation": "The Vanaras Nala and Nila were skilled engineers who led the construction of the Ram Setu (bridge)."
+      },
+      "Q0183": {
+        "question": "What is the name of the bridge built by the Vanara army?",
+        "options": {
+          "A": "Lanka Setu",
+          "B": "Rama Setu",
+          "C": "Ocean Bridge",
+          "D": "Sugriva Path"
+        },
+        "correct_answer": "B",
+        "explanation": "The bridge built across the ocean from Rameswaram to Lanka is known as Rama Setu (Rama's Bridge)."
+      },
+      "Q0184": {
+        "question": "What magical property did the stones used for the bridge possess?",
+        "options": {
+          "A": "They were unbreakable",
+          "B": "They glowed in the dark",
+          "C": "They floated on water",
+          "D": "They multiplied automatically"
+        },
+        "correct_answer": "C",
+        "explanation": "By the grace of the Lord and the devotion of the Vanaras, the stones inscribed with 'Rama' floated on the ocean."
+      },
+      "Q0185": {
+        "question": "Which deity did Lord Rama worship at Rameswaram before crossing the ocean?",
+        "options": {
+          "A": "Lord Brahma",
+          "B": "Lord Ganesha",
+          "C": "Lord Shiva",
+          "D": "Lord Vishnu"
+        },
+        "correct_answer": "C",
+        "explanation": "Lord Rama established a Shiva Linga at Rameswaram and worshipped Lord Shiva to seek blessings for victory."
+      },
+      "Q0186": {
+        "question": "Who was the son of Vali that played a key role as a messenger and warrior?",
+        "options": {
+          "A": "Nala",
+          "B": "Nila",
+          "C": "Angada",
+          "D": "Hanuman"
+        },
+        "correct_answer": "C",
+        "explanation": "Angada, the son of Vali, served as a brave commander in the Vanara army and went as an envoy to Ravana's court."
+      },
+      "Q0187": {
+        "question": "What did Lord Rama use to threaten the Ocean God (Varuna) when he initially refused to give way?",
+        "options": {
+          "A": "His sword",
+          "B": "The Brahmastra weapon",
+          "C": "A curse",
+          "D": "The Pashupatastra"
+        },
+        "correct_answer": "B",
+        "explanation": "When the Ocean God did not respond to prayers, Rama angrily prepared to use the Brahmastra to dry up the ocean, forcing Varuna to appear."
+      },
+      "Q0188": {
+        "question": "Who brought a mountain of healing herbs to save Lakshmana's life?",
+        "options": {
+          "A": "Sugriva",
+          "B": "Angada",
+          "C": "Hanuman",
+          "D": "Jambavan"
+        },
+        "correct_answer": "C",
+        "explanation": "When Lakshmana was mortally wounded, Hanuman flew to the Himalayas and brought the entire Dronagiri mountain containing the Sanjeevani herb."
+      },
+      "Q0189": {
+        "question": "What was the name of the life-saving herb Hanuman fetched?",
+        "options": {
+          "A": "Tulsi",
+          "B": "Ashwagandha",
+          "C": "Sanjeevani",
+          "D": "Neem"
+        },
+        "correct_answer": "C",
+        "explanation": "Sanjeevani Booti was the miraculous herb that revived Lakshmana from near death."
+      },
+      "Q0190": {
+        "question": "Who was the physician in Lanka that advised the use of the Sanjeevani herb?",
+        "options": {
+          "A": "Vibhishana",
+          "B": "Sushena",
+          "C": "Dhanvantari",
+          "D": "Charaka"
+        },
+        "correct_answer": "B",
+        "explanation": "Sushena, the physician of Lanka, diagnosed Lakshmana's condition and instructed Hanuman to fetch the Sanjeevani herb."
+      }
+    }
+  },
+  "LEVEL020": {
+    "level_number": 20,
+    "title": "The Great War and Return to Ayodhya",
+    "difficulty": "Beginner+",
+    "questions": {
+      "Q0191": {
+        "question": "Who was the giant brother of Ravana known for sleeping six months at a time?",
+        "options": {
+          "A": "Kumbhakarna",
+          "B": "Vibhishana",
+          "C": "Khara",
+          "D": "Dushana"
+        },
+        "correct_answer": "A",
+        "explanation": "Kumbhakarna was a massive warrior who, due to a curse, slept for six months a year and was awakened to fight in the war."
+      },
+      "Q0192": {
+        "question": "Who was Ravana's eldest son, known for his mastery over illusions and magical weapons?",
+        "options": {
+          "A": "Akshayakumara",
+          "B": "Meghanada (Indrajit)",
+          "C": "Atikaya",
+          "D": "Prahasta"
+        },
+        "correct_answer": "B",
+        "explanation": "Meghanada, also known as Indrajit for conquering Indra, was Ravana's most powerful son and a master of illusionary warfare."
+      },
+      "Q0193": {
+        "question": "Who ultimately killed Indrajit?",
+        "options": {
+          "A": "Lord Rama",
+          "B": "Hanuman",
+          "C": "Lakshmana",
+          "D": "Sugriva"
+        },
+        "correct_answer": "C",
+        "explanation": "Lakshmana, who had remained celibate and sleepless for 14 years, was uniquely qualified to defeat Indrajit in battle."
+      },
+      "Q0194": {
+        "question": "Which weapon did Lord Rama finally use to defeat Ravana?",
+        "options": {
+          "A": "Pashupatastra",
+          "B": "Brahmastra",
+          "C": "Narayanastra",
+          "D": "Vajra"
+        },
+        "correct_answer": "B",
+        "explanation": "Lord Rama used the divine Brahmastra, given to him by Sage Agastya, to strike Ravana's navel and defeat him."
+      },
+      "Q0195": {
+        "question": "Where was Ravana's vulnerability located?",
+        "options": {
+          "A": "His left heel",
+          "B": "His right shoulder",
+          "C": "His navel",
+          "D": "His tenth head"
+        },
+        "correct_answer": "C",
+        "explanation": "Vibhishana revealed that Ravana stored the nectar of immortality in his navel, which Rama then targeted."
+      },
+      "Q0196": {
+        "question": "Who was crowned the King of Lanka after Ravana's defeat?",
+        "options": {
+          "A": "Mandodari",
+          "B": "Vibhishana",
+          "C": "Indrajit",
+          "D": "Kumbhakarna"
+        },
+        "correct_answer": "B",
+        "explanation": "Lord Rama crowned the righteous Vibhishana as the new King of Lanka."
+      },
+      "Q0197": {
+        "question": "What test did Sita undergo to prove her purity after being rescued?",
+        "options": {
+          "A": "Agni Pariksha (Test of Fire)",
+          "B": "Jala Pariksha (Test of Water)",
+          "C": "Vayu Pariksha",
+          "D": "Earth Test"
+        },
+        "correct_answer": "A",
+        "explanation": "Sita willingly underwent the Agni Pariksha to prove her unblemished chastity and purity to the world."
+      },
+      "Q0198": {
+        "question": "In which flying chariot did Rama, Sita, and Lakshmana return to Ayodhya?",
+        "options": {
+          "A": "Garuda",
+          "B": "Pushpaka Vimana",
+          "C": "Airavata",
+          "D": "Surya's Chariot"
+        },
+        "correct_answer": "B",
+        "explanation": "They returned to Ayodhya in the Pushpaka Vimana, a magical flying chariot that originally belonged to Kubera."
+      },
+      "Q0199": {
+        "question": "Which widely celebrated Hindu festival marks Lord Rama's return to Ayodhya?",
+        "options": {
+          "A": "Holi",
+          "B": "Dussehra",
+          "C": "Diwali",
+          "D": "Navratri"
+        },
+        "correct_answer": "C",
+        "explanation": "Diwali, the festival of lights, is celebrated to commemorate the joyous return of Lord Rama to Ayodhya."
+      },
+      "Q0200": {
+        "question": "What is the golden era of Lord Rama's righteous rule known as?",
+        "options": {
+          "A": "Dharma Rajya",
+          "B": "Rama Rajya",
+          "C": "Ayodhya Rajya",
+          "D": "Satya Yuga"
+        },
+        "correct_answer": "B",
+        "explanation": "Rama Rajya is the term used to describe the ideal, just, and prosperous rule of Lord Rama in Ayodhya."
+      }
+    }
+  }
+}

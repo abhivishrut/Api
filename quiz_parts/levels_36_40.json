@@ -1,0 +1,587 @@
+{
+  "LEVEL036": {
+    "level_number": 36,
+    "title": "Forms and Manifestations of Shiva",
+    "difficulty": "Intermediate+",
+    "questions": {
+      "Q0351": {
+        "question": "Which form of Lord Shiva represents him as the cosmic dancer who performs the divine dance of destruction?",
+        "options": {
+          "A": "Nataraja",
+          "B": "Dakshinamurthy",
+          "C": "Bhairava",
+          "D": "Rudra"
+        },
+        "correct_answer": "A",
+        "explanation": "Nataraja is the depiction of Lord Shiva as the cosmic dancer who performs the Ananda Tandava, symbolizing the cosmic cycles of creation and destruction."
+      },
+      "Q0352": {
+        "question": "In which form is Lord Shiva depicted as a supreme teacher of yoga, knowledge, and music to the sages?",
+        "options": {
+          "A": "Bhikshatana",
+          "B": "Dakshinamurthy",
+          "C": "Nataraja",
+          "D": "Kankalamurti"
+        },
+        "correct_answer": "B",
+        "explanation": "Dakshinamurthy is the aspect of Lord Shiva as a guru (teacher) of all types of knowledge, typically depicted facing south and teaching the rishis."
+      },
+      "Q0353": {
+        "question": "Which manifestation of Shiva symbolizes the inseparable synthesis of male and female energies, depicted as half-Shiva and half-Parvati?",
+        "options": {
+          "A": "Harihara",
+          "B": "Vrishabhavahana",
+          "C": "Ardhanarishvara",
+          "D": "Gangadhara"
+        },
+        "correct_answer": "C",
+        "explanation": "Ardhanarishvara represents the synthesis of masculine and feminine energies of the universe, split equally between Lord Shiva and Goddess Parvati."
+      },
+      "Q0354": {
+        "question": "What name was given to Lord Shiva after he consumed the lethal Halahala poison during the churning of the ocean?",
+        "options": {
+          "A": "Trilochana",
+          "B": "Pashupati",
+          "C": "Mahadeva",
+          "D": "Neelakantha"
+        },
+        "correct_answer": "D",
+        "explanation": "Neelakantha means 'the blue-throated one.' Shiva held the Halahala poison in his throat to save the universe, which turned his neck blue."
+      },
+      "Q0355": {
+        "question": "Which title refers to Lord Shiva as the 'Lord of all living beings' or 'Lord of animals'?",
+        "options": {
+          "A": "Pashupatinath",
+          "B": "Gajantaka",
+          "C": "Somaskanda",
+          "D": "Bholenath"
+        },
+        "correct_answer": "A",
+        "explanation": "Pashupati or Pashupatinath translates to 'Lord of the animals' or 'Lord of all beings,' showcasing his protective nature over all life forms."
+      },
+      "Q0356": {
+        "question": "Which fierce manifestation of Shiva is often associated with annihilation and is the protector of the city of Kashi?",
+        "options": {
+          "A": "Somanatha",
+          "B": "Bhairava",
+          "C": "Chandrashekhara",
+          "D": "Shankara"
+        },
+        "correct_answer": "B",
+        "explanation": "Kaal Bhairava is a fierce manifestation of Lord Shiva associated with annihilation. He is considered the supreme guardian of Varanasi (Kashi)."
+      },
+      "Q0357": {
+        "question": "Which form did Shiva assume to destroy the three flying demon cities of Tripura?",
+        "options": {
+          "A": "Kamakantaka",
+          "B": "Gajasurasamhara",
+          "C": "Tripurantaka",
+          "D": "Kalantaka"
+        },
+        "correct_answer": "C",
+        "explanation": "Tripurantaka is the manifestation of Shiva who destroyed the three mythical cities of illusion (Tripura) created by the Asuras."
+      },
+      "Q0358": {
+        "question": "Which name is given to Lord Shiva for bearing the mighty river Ganges in his matted locks?",
+        "options": {
+          "A": "Nataraja",
+          "B": "Neelakantha",
+          "C": "Rameshvara",
+          "D": "Gangadhara"
+        },
+        "correct_answer": "D",
+        "explanation": "Gangadhara means 'the bearer of the Ganga.' Shiva caught the river goddess Ganga in his matted hair to soften her impact on Earth."
+      },
+      "Q0359": {
+        "question": "What is the name of Lord Shiva that signifies him wearing the crescent moon on his head?",
+        "options": {
+          "A": "Chandrashekhara",
+          "B": "Trimbakeshwara",
+          "C": "Mahakaleshwara",
+          "D": "Omkareshwara"
+        },
+        "correct_answer": "A",
+        "explanation": "Chandrashekhara translates to 'the one who bears the moon on his crest.' He placed the crescent moon on his head to cool the poison he drank."
+      },
+      "Q0360": {
+        "question": "In which form did Lord Shiva kick the god of death, Yama, to protect his young devotee Markandeya?",
+        "options": {
+          "A": "Bhairava",
+          "B": "Kalantaka",
+          "C": "Virabhadra",
+          "D": "Dakshinamurthy"
+        },
+        "correct_answer": "B",
+        "explanation": "Kalantaka (also Kalasamhara) means 'Destroyer of Time/Death'. Shiva assumed this form to defeat Yama and save Markandeya."
+      }
+    }
+  },
+  "LEVEL037": {
+    "level_number": 37,
+    "title": "The Twelve Jyotirlingas",
+    "difficulty": "Intermediate+",
+    "questions": {
+      "Q0361": {
+        "question": "Which Jyotirlinga, located in Gujarat, is traditionally considered the very first of the twelve sacred Jyotirlingas?",
+        "options": {
+          "A": "Kashi Vishwanath",
+          "B": "Kedarnath",
+          "C": "Somnath",
+          "D": "Mallikarjuna"
+        },
+        "correct_answer": "C",
+        "explanation": "The Somnath temple in Prabhas Patan, Gujarat, is revered as the first among the twelve Jyotirlinga shrines of Lord Shiva."
+      },
+      "Q0362": {
+        "question": "Which Jyotirlinga located in Ujjain is famous for being the only one facing south (Dakshinamurti)?",
+        "options": {
+          "A": "Omkareshwar",
+          "B": "Bhimashankar",
+          "C": "Vaidyanath",
+          "D": "Mahakaleshwar"
+        },
+        "correct_answer": "D",
+        "explanation": "Mahakaleshwar Jyotirlinga in Ujjain is unique because its lingam is dakshinamukhi (south-facing), a highly revered position in Tantric traditions."
+      },
+      "Q0363": {
+        "question": "Which sacred site is unique as it houses both a Jyotirlinga and a Maha Shakti Peetha, situated on the Srisailam hills?",
+        "options": {
+          "A": "Mallikarjuna",
+          "B": "Nageshwar",
+          "C": "Trimbakeshwar",
+          "D": "Grishneshwar"
+        },
+        "correct_answer": "A",
+        "explanation": "Mallikarjuna Swamy Temple in Srisailam, Andhra Pradesh, is celebrated for having both a Jyotirlinga and a Shakti Peetha (Bhramaramba)."
+      },
+      "Q0364": {
+        "question": "Which Jyotirlinga is situated on an island in the Narmada River that is said to be shaped like the sacred symbol 'Om'?",
+        "options": {
+          "A": "Kedarnath",
+          "B": "Omkareshwar",
+          "C": "Rameshwaram",
+          "D": "Mahakaleshwar"
+        },
+        "correct_answer": "B",
+        "explanation": "Omkareshwar Jyotirlinga is located on Mandhata island in the Narmada River, Madhya Pradesh, which resembles the Hindu symbol Om."
+      },
+      "Q0365": {
+        "question": "Situated in the Himalayas, which of the following is the highest altitude Jyotirlinga among the twelve?",
+        "options": {
+          "A": "Somnath",
+          "B": "Bhimashankar",
+          "C": "Kedarnath",
+          "D": "Trimbakeshwar"
+        },
+        "correct_answer": "C",
+        "explanation": "Kedarnath, located in the Garhwal Himalayan range near the Mandakini river in Uttarakhand, is the highest of the twelve Jyotirlingas."
+      },
+      "Q0366": {
+        "question": "Which famous Jyotirlinga is located on the western bank of the holy river Ganga in Varanasi?",
+        "options": {
+          "A": "Rameshwaram",
+          "B": "Vaidyanath",
+          "C": "Nageshwar",
+          "D": "Kashi Vishwanath"
+        },
+        "correct_answer": "D",
+        "explanation": "The Kashi Vishwanath Temple is dedicated to Lord Shiva and is located in Varanasi (Kashi), Uttar Pradesh, on the banks of the Ganga."
+      },
+      "Q0367": {
+        "question": "Which Jyotirlinga, located in Maharashtra, is uniquely associated with the origin of the sacred Godavari River?",
+        "options": {
+          "A": "Trimbakeshwar",
+          "B": "Bhimashankar",
+          "C": "Omkareshwar",
+          "D": "Grishneshwar"
+        },
+        "correct_answer": "A",
+        "explanation": "Trimbakeshwar Jyotirlinga in Nashik, Maharashtra, is situated at the source of the Godavari River and features three faces embodying Brahma, Vishnu, and Shiva."
+      },
+      "Q0368": {
+        "question": "According to the Ramayana, which Jyotirlinga was established by Lord Rama before he crossed the ocean to Lanka?",
+        "options": {
+          "A": "Somnath",
+          "B": "Rameshwaram",
+          "C": "Mallikarjuna",
+          "D": "Mahakaleshwar"
+        },
+        "correct_answer": "B",
+        "explanation": "The Ramanathaswamy Temple in Rameshwaram, Tamil Nadu, enshrines the Jyotirlinga worshipped by Lord Rama to absolve the sin of killing Ravana."
+      },
+      "Q0369": {
+        "question": "Located in Deoghar, Jharkhand, which Jyotirlinga is associated with the demon king Ravana carrying the linga?",
+        "options": {
+          "A": "Kedarnath",
+          "B": "Omkareshwar",
+          "C": "Vaidyanath",
+          "D": "Nageshwar"
+        },
+        "correct_answer": "C",
+        "explanation": "Baidyanath (Vaidyanath) Jyotirlinga in Deoghar is linked to the legend where Ravana worshipped Shiva to get the linga to Lanka but was tricked into placing it there."
+      },
+      "Q0370": {
+        "question": "Which Jyotirlinga is situated in the state of Maharashtra, closely situated to the UNESCO recognized Ellora Caves?",
+        "options": {
+          "A": "Trimbakeshwar",
+          "B": "Bhimashankar",
+          "C": "Mallikarjuna",
+          "D": "Grishneshwar"
+        },
+        "correct_answer": "D",
+        "explanation": "The Grishneshwar Jyotirlinga temple is located in Verul village in Maharashtra, less than a kilometer from the famous Ellora Caves."
+      }
+    }
+  },
+  "LEVEL038": {
+    "level_number": 38,
+    "title": "Shiva Purana and Epics",
+    "difficulty": "Intermediate+",
+    "questions": {
+      "Q0371": {
+        "question": "In the Shiva Purana, what form did Shiva take to test the supremacy between Lord Brahma and Lord Vishnu?",
+        "options": {
+          "A": "An endless pillar of light",
+          "B": "A colossal bull",
+          "C": "A devastating flood",
+          "D": "A multi-headed serpent"
+        },
+        "correct_answer": "A",
+        "explanation": "Lord Shiva manifested as an infinite pillar of light (the Jyotirlinga) to settle the dispute between Brahma and Vishnu over who was superior."
+      },
+      "Q0372": {
+        "question": "During the Mahabharata, which powerful cosmic weapon did Lord Shiva bestow upon Arjuna after testing him in the form of a hunter?",
+        "options": {
+          "A": "Brahmastra",
+          "B": "Pashupatastra",
+          "C": "Narayanastra",
+          "D": "Vajra"
+        },
+        "correct_answer": "B",
+        "explanation": "Shiva disguised himself as a Kirata (hunter) to test Arjuna's prowess before granting him the invincible Pashupatastra."
+      },
+      "Q0373": {
+        "question": "In the iconography of Nataraja, which dwarf demon is depicted being crushed under Lord Shiva's right foot, representing ignorance?",
+        "options": {
+          "A": "Andhaka",
+          "B": "Tarakasura",
+          "C": "Apasmara",
+          "D": "Jalandhara"
+        },
+        "correct_answer": "C",
+        "explanation": "Apasmara (also known as Muyalaka) is the dwarf demon of ignorance and epilepsy whom Shiva subdues by stepping on him during the cosmic dance."
+      },
+      "Q0374": {
+        "question": "Which powerful asura was born from the fierce fire of Shiva's third eye when it was thrown into the ocean?",
+        "options": {
+          "A": "Bhasmasura",
+          "B": "Tripurasura",
+          "C": "Raktabija",
+          "D": "Jalandhara"
+        },
+        "correct_answer": "D",
+        "explanation": "Jalandhara was born from the fire of Shiva's third eye that was cast into the ocean to spare Indra. He became a mighty king of the Asuras."
+      },
+      "Q0375": {
+        "question": "Who was burnt to ashes by Lord Shiva's third eye when he tried to disturb Shiva's deep meditation?",
+        "options": {
+          "A": "Kamadeva",
+          "B": "Agni",
+          "C": "Indra",
+          "D": "Varuna"
+        },
+        "correct_answer": "A",
+        "explanation": "Kamadeva, the god of love, was burnt to ashes (Kama Dahanam) by Shiva's third eye for shooting a flowery arrow to break his meditation."
+      },
+      "Q0376": {
+        "question": "Who was created by Lord Shiva from a lock of his matted hair to destroy Daksha's Yagna after Sati's death?",
+        "options": {
+          "A": "Bhairava",
+          "B": "Virabhadra",
+          "C": "Nandi",
+          "D": "Kartikeya"
+        },
+        "correct_answer": "B",
+        "explanation": "In his immense grief and rage over Sati's self-immolation, Shiva plucked a lock of his hair and created the fierce warrior Virabhadra to destroy the Yagna."
+      },
+      "Q0377": {
+        "question": "Impressed by Ravana's devotion and musical skills after he tried to lift Mount Kailash, what divine sword did Shiva gift him?",
+        "options": {
+          "A": "Trishula",
+          "B": "Pinaka",
+          "C": "Chandrahas",
+          "D": "Khatvanga"
+        },
+        "correct_answer": "C",
+        "explanation": "When Ravana composed the Shiva Tandava Stotram after being crushed under Mount Kailash, an impressed Shiva gifted him the invincible sword Chandrahas."
+      },
+      "Q0378": {
+        "question": "What is the name of Lord Shiva's divine bow, which was later broken by Lord Rama during Sita's Swayamvara?",
+        "options": {
+          "A": "Gandiva",
+          "B": "Sharanga",
+          "C": "Vijaya",
+          "D": "Pinaka"
+        },
+        "correct_answer": "D",
+        "explanation": "Pinaka is the divine bow of Lord Shiva. It was left with King Janaka's ancestor and was eventually strung and broken by Rama to win Sita's hand."
+      },
+      "Q0379": {
+        "question": "During the Samudra Manthan, who swallowed the deadly Halahala poison to save the universe from destruction?",
+        "options": {
+          "A": "Shiva",
+          "B": "Vishnu",
+          "C": "Brahma",
+          "D": "Indra"
+        },
+        "correct_answer": "A",
+        "explanation": "Lord Shiva drank the highly toxic Halahala poison that emerged during the churning of the ocean (Samudra Manthan) to protect the universe."
+      },
+      "Q0380": {
+        "question": "What is the sacred ash associated with Lord Shiva, symbolizing purity and the ultimate reality of existence, commonly applied on the forehead?",
+        "options": {
+          "A": "Kumkum",
+          "B": "Vibhuti",
+          "C": "Chandan",
+          "D": "Sindoor"
+        },
+        "correct_answer": "B",
+        "explanation": "Vibhuti (or Bhasma) is the sacred ash applied by devotees of Shiva. It symbolizes detachment and the truth that everything eventually turns to ash."
+      }
+    }
+  },
+  "LEVEL039": {
+    "level_number": 39,
+    "title": "Family: Parvati, Ganesha, and Kartikeya",
+    "difficulty": "Intermediate+",
+    "questions": {
+      "Q0381": {
+        "question": "What name did Goddess Parvati earn for giving up even eating leaves during her extreme penance to win Shiva as her husband?",
+        "options": {
+          "A": "Uma",
+          "B": "Gauri",
+          "C": "Aparna",
+          "D": "Kali"
+        },
+        "correct_answer": "C",
+        "explanation": "Aparna means 'one without leaves.' She earned this name because she stopped consuming even dry leaves during the final stages of her rigorous asceticism."
+      },
+      "Q0382": {
+        "question": "What is the vahana (mount) of Lord Kartikeya (Murugan), the god of war?",
+        "options": {
+          "A": "Lion",
+          "B": "Mouse",
+          "C": "Bull",
+          "D": "Peacock"
+        },
+        "correct_answer": "D",
+        "explanation": "Lord Kartikeya rides a divine peacock named Paravani, which represents the destruction of ego and toxic traits (as peacocks kill snakes)."
+      },
+      "Q0383": {
+        "question": "According to the Shiva Purana, from what material did Goddess Parvati create the boy who would become Lord Ganesha?",
+        "options": {
+          "A": "Turmeric paste",
+          "B": "Sandalwood",
+          "C": "Ash",
+          "D": "Clay"
+        },
+        "correct_answer": "A",
+        "explanation": "Parvati created Ganesha out of the turmeric paste (or sandalwood dough) she used for bathing, breathing life into him to guard her quarters."
+      },
+      "Q0384": {
+        "question": "For the destruction of which powerful demon was Lord Kartikeya specifically born?",
+        "options": {
+          "A": "Mahishasura",
+          "B": "Tarakasura",
+          "C": "Shumbha",
+          "D": "Raktabija"
+        },
+        "correct_answer": "B",
+        "explanation": "Tarakasura had a boon that he could only be killed by the son of Shiva. Thus, Kartikeya was born and led the Devas to defeat him."
+      },
+      "Q0385": {
+        "question": "According to tradition, for writing which epic did Lord Ganesha break one of his tusks to use as a pen?",
+        "options": {
+          "A": "Ramayana",
+          "B": "Vedas",
+          "C": "Mahabharata",
+          "D": "Puranas"
+        },
+        "correct_answer": "C",
+        "explanation": "Ganesha acted as a scribe for the sage Vyasa to write down the Mahabharata. When his feather pen broke, he snapped off his own tusk to continue without pause."
+      },
+      "Q0386": {
+        "question": "What name is given to Lord Kartikeya due to his having six faces?",
+        "options": {
+          "A": "Chaturmukha",
+          "B": "Panchamukha",
+          "C": "Dashanana",
+          "D": "Shanmukha"
+        },
+        "correct_answer": "D",
+        "explanation": "Shanmukha (or Arumugam in Tamil) means 'the six-faced one.' He was nursed by the six Krittikas (Pleiades), growing six faces to drink from all simultaneously."
+      },
+      "Q0387": {
+        "question": "Who is the daughter of Lord Shiva and Goddess Parvati, born from the wish-fulfilling tree Kalpavriksha?",
+        "options": {
+          "A": "Ashokasundari",
+          "B": "Lakshmi",
+          "C": "Saraswati",
+          "D": "Devasena"
+        },
+        "correct_answer": "A",
+        "explanation": "Ashokasundari was created from the Kalpavriksha tree when Parvati wished for a daughter to alleviate her loneliness (ashoka means without sorrow)."
+      },
+      "Q0388": {
+        "question": "What is the primary divine weapon of Lord Kartikeya, bestowed upon him by Goddess Parvati?",
+        "options": {
+          "A": "Trishul",
+          "B": "Vel",
+          "C": "Gada",
+          "D": "Chakra"
+        },
+        "correct_answer": "B",
+        "explanation": "The Vel is a divine spear given to Kartikeya by his mother Parvati, embodying her shakti (power) and wisdom, which he used to defeat Tarakasura."
+      },
+      "Q0389": {
+        "question": "Who are traditionally considered the twin consorts of Lord Ganesha in North Indian mythology?",
+        "options": {
+          "A": "Ganga & Yamuna",
+          "B": "Sita & Urmila",
+          "C": "Riddhi & Siddhi",
+          "D": "Rati & Priti"
+        },
+        "correct_answer": "C",
+        "explanation": "Riddhi (Prosperity) and Siddhi (Spiritual Power/Intellect), the daughters of Prajapati Vishwakarma, are traditionally the consorts of Lord Ganesha."
+      },
+      "Q0390": {
+        "question": "Which of the Navadurga forms signifies Parvati as the daughter of the Himalayas?",
+        "options": {
+          "A": "Kushmanda",
+          "B": "Skandamata",
+          "C": "Kalaratri",
+          "D": "Shailaputri"
+        },
+        "correct_answer": "D",
+        "explanation": "Shailaputri (Daughter of the Mountain) is the first form of Goddess Durga, worshipped on the first day of Navaratri, symbolizing Parvati's birth to Himavan."
+      }
+    }
+  },
+  "LEVEL040": {
+    "level_number": 40,
+    "title": "Shaivism Philosophy and Festivals",
+    "difficulty": "Intermediate+",
+    "questions": {
+      "Q0391": {
+        "question": "On which lunar phase and month is the great festival of Mahashivratri celebrated annually?",
+        "options": {
+          "A": "Chaturdashi of Krishna Paksha in Phalguna/Magha",
+          "B": "Purnima in Chaitra",
+          "C": "Ekadashi of Shukla Paksha in Shravana",
+          "D": "Amavasya in Ashvin"
+        },
+        "correct_answer": "A",
+        "explanation": "Mahashivratri is observed on the 13th night/14th day (Chaturdashi) of the waning moon (Krishna Paksha) in the month of Phalguna (or Magha in some calendars)."
+      },
+      "Q0392": {
+        "question": "Who was the father of Nandi, the sacred bull and foremost devotee of Lord Shiva?",
+        "options": {
+          "A": "Kashyapa",
+          "B": "Shilada",
+          "C": "Vishvamitra",
+          "D": "Bhrigu"
+        },
+        "correct_answer": "B",
+        "explanation": "Sage Shilada performed intense penance to receive an immortal child devoted to Shiva, leading to the birth of Nandi."
+      },
+      "Q0393": {
+        "question": "According to legend, what is the mythological origin of the holy Rudraksha beads?",
+        "options": {
+          "A": "Shiva's hair",
+          "B": "Shiva's sweat",
+          "C": "Shiva's tears",
+          "D": "Shiva's blood"
+        },
+        "correct_answer": "C",
+        "explanation": "The term Rudraksha means 'tears of Rudra.' The beads are said to have grown from the tears shed by Shiva out of compassion for mankind."
+      },
+      "Q0394": {
+        "question": "The Nayanars were a group of renowned poet-saints from Tamil Nadu who were passionately devoted to which deity?",
+        "options": {
+          "A": "Vishnu",
+          "B": "Devi",
+          "C": "Surya",
+          "D": "Shiva"
+        },
+        "correct_answer": "D",
+        "explanation": "The Nayanars were highly revered Shaivite saints who lived between the 5th and 10th centuries, composing exquisite devotional poetry to Lord Shiva."
+      },
+      "Q0395": {
+        "question": "How many Nayanar saints are traditionally recognized in South Indian Shaivism?",
+        "options": {
+          "A": "63",
+          "B": "12",
+          "C": "108",
+          "D": "18"
+        },
+        "correct_answer": "A",
+        "explanation": "There are exactly 63 Nayanars (hounds of Shiva) canonized in Tamil Shaiva Siddhanta, whose lives are chronicled in the Periya Puranam."
+      },
+      "Q0396": {
+        "question": "Which specific sacred trifoliate leaf is considered essential and highly auspicious for worshipping Lord Shiva?",
+        "options": {
+          "A": "Tulsi",
+          "B": "Bilva",
+          "C": "Neem",
+          "D": "Peepal"
+        },
+        "correct_answer": "B",
+        "explanation": "The Bilva (Bael) leaf is most sacred to Lord Shiva. Its three leaflets symbolize the Trinity, his three eyes, and his three weapons."
+      },
+      "Q0397": {
+        "question": "Who was the 12th-century philosopher and social reformer who founded the Lingayatism (Vira Shaiva) tradition?",
+        "options": {
+          "A": "Shankaracharya",
+          "B": "Ramanujacharya",
+          "C": "Basavanna",
+          "D": "Madhvacharya"
+        },
+        "correct_answer": "C",
+        "explanation": "Basavanna (Basaveshwara) was a prominent poet, philosopher, and social reformer in Karnataka who founded the Lingayat sect, deeply devoted to Lord Shiva."
+      },
+      "Q0398": {
+        "question": "The Pratyabhijna school, a non-dualistic philosophy emphasizing the recognition of one's identity with Shiva, belongs to which tradition?",
+        "options": {
+          "A": "Tamil Shaiva Siddhanta",
+          "B": "Pashupata",
+          "C": "Kapalika",
+          "D": "Kashmir Shaivism"
+        },
+        "correct_answer": "D",
+        "explanation": "Kashmir Shaivism is strongly associated with the Pratyabhijna ('recognition') school, teaching that liberation comes from recognizing one's true self as Shiva."
+      },
+      "Q0399": {
+        "question": "The five faces of Lord Shiva (Panchanana) are symbolically associated with which of the following?",
+        "options": {
+          "A": "Five elements & directions",
+          "B": "Five senses",
+          "C": "Five weapons",
+          "D": "Five rivers"
+        },
+        "correct_answer": "A",
+        "explanation": "The five faces (Sadyojata, Vamadeva, Aghora, Tatpurusha, and Ishana) symbolize the five elements, the five directions (including upward), and Shiva's five activities."
+      },
+      "Q0400": {
+        "question": "What does the term 'Mahashivratri' literally translate to in English?",
+        "options": {
+          "A": "Navaratri",
+          "B": "The Great Night of Shiva",
+          "C": "The Birth of Shiva",
+          "D": "The Dance of Shiva"
+        },
+        "correct_answer": "B",
+        "explanation": "Maha means 'Great', Shiva refers to the deity, and Ratri means 'Night'. Together it means 'The Great Night of Shiva', celebrating his marriage and cosmic dance."
+      }
+    }
+  }
+}

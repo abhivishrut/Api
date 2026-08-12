@@ -1,0 +1,587 @@
+{
+  "LEVEL076": {
+    "level_number": 76,
+    "title": "Char Dham & Himalayan Shrines",
+    "difficulty": "Expert+",
+    "questions": {
+      "Q0751": {
+        "question": "According to legend, Adi Shankaracharya recovered the original idol of Lord Badrinath from which sacred water body?",
+        "options": {
+          "A": "Narad Kund",
+          "B": "Gauri Kund",
+          "C": "Surya Kund",
+          "D": "Brahma Kund"
+        },
+        "correct_answer": "A",
+        "explanation": "Adi Shankaracharya discovered the Saligram stone idol of Lord Badrinath in the Alaknanda River near the Narad Kund and enshrined it."
+      },
+      "Q0752": {
+        "question": "Which of the original Char Dham pilgrimage sites is situated on the banks of the Mandakini river?",
+        "options": {
+          "A": "Badrinath",
+          "B": "Kedarnath",
+          "C": "Gangotri",
+          "D": "Yamunotri"
+        },
+        "correct_answer": "B",
+        "explanation": "Kedarnath is situated near the chorabari glacier, the source of the Mandakini river, a major tributary of the Alaknanda."
+      },
+      "Q0753": {
+        "question": "During the Rath Yatra in Jagannath Puri, what is the specific name of Lord Jagannath's grand chariot?",
+        "options": {
+          "A": "Taladhwaja",
+          "B": "Darpadalana",
+          "C": "Nandighosha",
+          "D": "Garudadhwaja"
+        },
+        "correct_answer": "C",
+        "explanation": "Lord Jagannath's chariot is called Nandighosha, which features 16 wheels and is draped in red and yellow cloth."
+      },
+      "Q0754": {
+        "question": "How many sacred Teerthams (wells/tanks) must a pilgrim bathe in within the Ramanathaswamy Temple precincts in Rameshwaram?",
+        "options": {
+          "A": "12",
+          "B": "18",
+          "C": "21",
+          "D": "22"
+        },
+        "correct_answer": "D",
+        "explanation": "There are 22 sacred Teerthams inside the temple complex, representing the 22 arrows in Lord Rama's quiver."
+      },
+      "Q0755": {
+        "question": "During the winter months when Badrinath is inaccessible, where is the Utsav Murti of Lord Badrinath worshipped?",
+        "options": {
+          "A": "Narsingh Temple, Joshimath",
+          "B": "Omkareshwar Temple, Ukhimath",
+          "C": "Vishwanath Temple, Guptkashi",
+          "D": "Raghunath Temple, Devprayag"
+        },
+        "correct_answer": "A",
+        "explanation": "In winter, the chief priest moves the Utsav Murti (festival deity) to the Narsingh Temple at Jyotirmath (Joshimath) for worship."
+      },
+      "Q0756": {
+        "question": "The Yamunotri temple, dedicated to Goddess Yamuna, is located near the foot of which mountain massif?",
+        "options": {
+          "A": "Nanda Devi",
+          "B": "Bandarpunch",
+          "C": "Trishul",
+          "D": "Kamet"
+        },
+        "correct_answer": "B",
+        "explanation": "Yamunotri is situated on the western flank of the Bandarpunch massif in the Garhwal Himalayas."
+      },
+      "Q0757": {
+        "question": "What is the unique shape of the Shiva lingam worshipped at the Kedarnath temple?",
+        "options": {
+          "A": "Spherical and smooth",
+          "B": "Cylindrical with five faces",
+          "C": "Pyramidal or conical (hump of a bull)",
+          "D": "Flat and square"
+        },
+        "correct_answer": "C",
+        "explanation": "According to the Panch Kedar legend, Lord Shiva took the form of a bull, and his hump appeared at Kedarnath, hence the pyramidal shape of the lingam."
+      },
+      "Q0758": {
+        "question": "Who established the four cardinal Peethams (monasteries) associated with the Char Dham to revive Sanatana Dharma?",
+        "options": {
+          "A": "Ramanujacharya",
+          "B": "Madhvacharya",
+          "C": "Vallabhacharya",
+          "D": "Adi Shankaracharya"
+        },
+        "correct_answer": "D",
+        "explanation": "Adi Shankaracharya established the four Peethams: Sringeri (South), Dwarka (West), Puri (East), and Jyotirmath (North)."
+      },
+      "Q0759": {
+        "question": "Which river technically originates from the Gomukh snout of the Gangotri Glacier?",
+        "options": {
+          "A": "Bhagirathi",
+          "B": "Alaknanda",
+          "C": "Mandakini",
+          "D": "Pindar"
+        },
+        "correct_answer": "A",
+        "explanation": "The river is called Bhagirathi at its source in Gomukh. It merges with Alaknanda at Devprayag to form the Ganga."
+      },
+      "Q0760": {
+        "question": "The Ramanathaswamy Temple in Rameshwaram is architecturally renowned globally for possessing the longest what?",
+        "options": {
+          "A": "Gopuram",
+          "B": "Corridor (Prakaram)",
+          "C": "Mandapam",
+          "D": "Dhwaja Stambha"
+        },
+        "correct_answer": "B",
+        "explanation": "The temple holds the record for having the longest pillared corridor in the world, with over 1000 ornately carved pillars."
+      }
+    }
+  },
+  "LEVEL077": {
+    "level_number": 77,
+    "title": "Jyotirlingas of Lord Shiva",
+    "difficulty": "Expert+",
+    "questions": {
+      "Q0761": {
+        "question": "Which Jyotirlinga is uniquely situated on an Om-shaped island called Mandhata in the Narmada river?",
+        "options": {
+          "A": "Mahakaleshwar",
+          "B": "Bhimashankar",
+          "C": "Omkareshwar",
+          "D": "Trimbakeshwar"
+        },
+        "correct_answer": "C",
+        "explanation": "Omkareshwar Jyotirlinga is located on the Mandhata island, which is naturally shaped like the sacred symbol 'Om'."
+      },
+      "Q0762": {
+        "question": "The Grishneshwar Jyotirlinga is situated very close to which famous UNESCO World Heritage site?",
+        "options": {
+          "A": "Elephanta Caves",
+          "B": "Ajanta Caves",
+          "C": "Bhimbetka",
+          "D": "Ellora Caves"
+        },
+        "correct_answer": "D",
+        "explanation": "Grishneshwar, the 12th Jyotirlinga, is located less than a kilometer away from the ancient rock-cut Ellora Caves in Maharashtra."
+      },
+      "Q0763": {
+        "question": "Which of the twelve Jyotirlingas is uniquely 'Dakshinamurti' (facing south)?",
+        "options": {
+          "A": "Mahakaleshwar",
+          "B": "Kashi Vishwanath",
+          "C": "Somnath",
+          "D": "Baidyanath"
+        },
+        "correct_answer": "A",
+        "explanation": "Mahakaleshwar in Ujjain is the only Jyotirlinga whose idol faces south, representing the direction of death and time (Yama)."
+      },
+      "Q0764": {
+        "question": "Mallikarjuna Jyotirlinga, often referred to as the Kailash of the South, is located on which sacred mountain?",
+        "options": {
+          "A": "Arunachala",
+          "B": "Srisailam (Shri Parvata)",
+          "C": "Venkata Hill",
+          "D": "Brahmagiri"
+        },
+        "correct_answer": "B",
+        "explanation": "Mallikarjuna is located on Shri Parvata in Srisailam, Andhra Pradesh, uniquely housing both a Jyotirlinga and a Shakti Peetha."
+      },
+      "Q0765": {
+        "question": "According to the Shiva Purana, Nageshwar Jyotirlinga is situated in which ancient mythological forest?",
+        "options": {
+          "A": "Naimisharanya",
+          "B": "Dandakaranya",
+          "C": "Darukavana",
+          "D": "Khandavaprastha"
+        },
+        "correct_answer": "C",
+        "explanation": "The Nageshwar Jyotirlinga is associated with Darukavana, the forest where Lord Shiva defeated the demon Daruka."
+      },
+      "Q0766": {
+        "question": "The Bhimashankar Jyotirlinga in Maharashtra is located near the source of which prominent river?",
+        "options": {
+          "A": "Godavari",
+          "B": "Krishna",
+          "C": "Tapi",
+          "D": "Bhima"
+        },
+        "correct_answer": "D",
+        "explanation": "Bhimashankar is nestled in the Sahyadri ranges and is the source of the Bhima River, a major tributary of the Krishna River."
+      },
+      "Q0767": {
+        "question": "Which Jyotirlinga, located in Jharkhand, is central to the massive annual Kanwar Yatra (Shravani Mela)?",
+        "options": {
+          "A": "Baidyanath",
+          "B": "Vishwanath",
+          "C": "Ramanathaswamy",
+          "D": "Kedarnath"
+        },
+        "correct_answer": "A",
+        "explanation": "Baidyanath Jyotirlinga in Deoghar, Jharkhand, draws millions of Kanwariyas during the holy month of Shravan."
+      },
+      "Q0768": {
+        "question": "What is the unique feature of the lingam at the Trimbakeshwar Jyotirlinga temple?",
+        "options": {
+          "A": "It is made of natural ice",
+          "B": "It has three faces representing Brahma, Vishnu, and Shiva",
+          "C": "It is constantly submerged in river water",
+          "D": "It features a natural flame emitting from the stone"
+        },
+        "correct_answer": "B",
+        "explanation": "Trimbakeshwar is unique as its lingam features three small thumb-sized faces representing the Trideva: Brahma, Vishnu, and Shiva."
+      },
+      "Q0769": {
+        "question": "Which ancient Jyotirlinga temple, repeatedly destroyed by invaders, was rebuilt post-independence under the initiative of Sardar Vallabhbhai Patel?",
+        "options": {
+          "A": "Kashi Vishwanath",
+          "B": "Nageshwar",
+          "C": "Somnath",
+          "D": "Grishneshwar"
+        },
+        "correct_answer": "C",
+        "explanation": "The Somnath Temple in Gujarat was reconstructed in 1951, spearheaded by India's first Deputy Prime Minister, Sardar Vallabhbhai Patel."
+      },
+      "Q0770": {
+        "question": "While thousands of Shivalingas exist, how many primary Maha-Jyotirlingas are described in the Dwadasha Jyotirlinga Stotram?",
+        "options": {
+          "A": "5",
+          "B": "7",
+          "C": "9",
+          "D": "12"
+        },
+        "correct_answer": "D",
+        "explanation": "The Dwadasha Jyotirlinga Stotram composed by Adi Shankaracharya explicitly mentions the 12 most sacred Jyotirlingas."
+      }
+    }
+  },
+  "LEVEL078": {
+    "level_number": 78,
+    "title": "Shakti Peethas & Divine Feminine",
+    "difficulty": "Expert+",
+    "questions": {
+      "Q0771": {
+        "question": "Which body part of Goddess Sati is believed to have fallen at the Kamakhya Shakti Peetha in Assam?",
+        "options": {
+          "A": "Yoni (Womb)",
+          "B": "Heart",
+          "C": "Right Arm",
+          "D": "Eyes"
+        },
+        "correct_answer": "A",
+        "explanation": "Kamakhya is considered one of the most powerful Shakti Peethas, where the Yoni (generative organ) of Sati is said to have fallen."
+      },
+      "Q0772": {
+        "question": "Which highly revered Shakti Peetha is located in a cave in the remote Makran coast of Balochistan, Pakistan?",
+        "options": {
+          "A": "Sharada Peeth",
+          "B": "Hinglaj Mata",
+          "C": "Chhinnamastika",
+          "D": "Bhavani Ashtabhuja"
+        },
+        "correct_answer": "B",
+        "explanation": "Hinglaj Mata, where Sati's head (or Brahmarandhra) is believed to have fallen, is a major pilgrimage site in Balochistan."
+      },
+      "Q0773": {
+        "question": "At the Kalighat Shakti Peetha in Kolkata, which part of Sati's divine body is believed to have fallen?",
+        "options": {
+          "A": "Necklace",
+          "B": "Left Leg",
+          "C": "Right Toes",
+          "D": "Left Ear"
+        },
+        "correct_answer": "C",
+        "explanation": "Kalighat is a prominent Shakti Peetha in West Bengal where the right toes of Goddess Sati fell."
+      },
+      "Q0774": {
+        "question": "Which traditional Tantric text provides the standard, most widely accepted list of 51 Shakti Peethas?",
+        "options": {
+          "A": "Devi Mahatmyam",
+          "B": "Lalita Sahasranama",
+          "C": "Saundarya Lahari",
+          "D": "Tantra Chudamani (Peetha Nirnaya)"
+        },
+        "correct_answer": "D",
+        "explanation": "The Peetha Nirnaya section of the Tantra Chudamani systematically lists the 51 Shakti Peethas, their corresponding body parts, and the presiding Bhairavas."
+      },
+      "Q0775": {
+        "question": "The Jwalamukhi Temple in Himachal Pradesh is a unique Shakti Peetha that lacks an idol and is instead represented by eternal flames. Which body part fell here?",
+        "options": {
+          "A": "Tongue",
+          "B": "Teeth",
+          "C": "Nose",
+          "D": "Forehead"
+        },
+        "correct_answer": "A",
+        "explanation": "At Jwalamukhi, Goddess Sati's tongue fell. The deity is worshipped in the form of natural, continuously burning blue flames."
+      },
+      "Q0776": {
+        "question": "The Harsiddhi Mata Temple, where Sati's upper lip or elbow fell, is a famous Shakti Peetha located in which ancient city?",
+        "options": {
+          "A": "Mathura",
+          "B": "Ujjain",
+          "C": "Dwarka",
+          "D": "Kanchipuram"
+        },
+        "correct_answer": "B",
+        "explanation": "Harsiddhi Mata is a powerful Shakti Peetha in Ujjain, located near the Mahakaleshwar Jyotirlinga."
+      },
+      "Q0777": {
+        "question": "The Vimala Temple, an important Shakti Peetha where Sati's navel fell, is located within the complex of which major temple?",
+        "options": {
+          "A": "Meenakshi Temple, Madurai",
+          "B": "Lingaraj Temple, Bhubaneswar",
+          "C": "Jagannath Temple, Puri",
+          "D": "Brihadeeswarar Temple, Thanjavur"
+        },
+        "correct_answer": "C",
+        "explanation": "The Vimala Temple is situated in the south-west corner of the Jagannath Temple complex in Puri. Food offered to Jagannath becomes Mahaprasad only after being offered to Vimala."
+      },
+      "Q0778": {
+        "question": "The Vishalakshi Temple, revered as the Shakti Peetha where Sati's earrings fell, is situated in which holy city?",
+        "options": {
+          "A": "Haridwar",
+          "B": "Ayodhya",
+          "C": "Rishikesh",
+          "D": "Varanasi (Kashi)"
+        },
+        "correct_answer": "D",
+        "explanation": "Vishalakshi Temple is a prominent Shakti Peetha located near the Manikarnika Ghat in the holy city of Kashi."
+      },
+      "Q0779": {
+        "question": "According to the mythological origin of the Shakti Peethas, who carried the burnt body of Goddess Sati, performing the fierce Tandava?",
+        "options": {
+          "A": "Lord Shiva",
+          "B": "Lord Vishnu",
+          "C": "Lord Brahma",
+          "D": "Daksha Prajapati"
+        },
+        "correct_answer": "A",
+        "explanation": "Consumed by grief and rage after Sati immolated herself, Lord Shiva carried her body and danced the destructive Tandava."
+      },
+      "Q0780": {
+        "question": "To save the universe from Shiva's destructive grief, which weapon was used by Lord Vishnu to sever Sati's body into pieces?",
+        "options": {
+          "A": "Kaumodaki Gada",
+          "B": "Sudarshana Chakra",
+          "C": "Narayanastra",
+          "D": "Sharanga Bow"
+        },
+        "correct_answer": "B",
+        "explanation": "Lord Vishnu deployed his Sudarshana Chakra to cut Sati's lifeless body, scattering the parts across the Indian subcontinent."
+      }
+    }
+  },
+  "LEVEL079": {
+    "level_number": 79,
+    "title": "Sacred Rivers & Tirthas",
+    "difficulty": "Expert+",
+    "questions": {
+      "Q0781": {
+        "question": "The sacred confluence of the Ganga, Yamuna, and the mythical invisible Saraswati rivers in Prayagraj is known as what?",
+        "options": {
+          "A": "Panch Prayag",
+          "B": "Rudraprayag",
+          "C": "Triveni Sangam",
+          "D": "Devprayag"
+        },
+        "correct_answer": "C",
+        "explanation": "The Triveni Sangam is the meeting point of these three sacred rivers and is the site of the massive Kumbh Mela."
+      },
+      "Q0782": {
+        "question": "Which ancient and holy city, famous for hosting the Simhastha Kumbh Mela, is situated on the banks of the Shipra river?",
+        "options": {
+          "A": "Nashik",
+          "B": "Haridwar",
+          "C": "Varanasi",
+          "D": "Ujjain"
+        },
+        "correct_answer": "D",
+        "explanation": "Ujjain is historically nestled on the banks of the sacred Shipra River and hosts the Kumbh Mela every 12 years."
+      },
+      "Q0783": {
+        "question": "The Pushkar Lake in Rajasthan, surrounded by 52 bathing ghats, is most closely associated with which primary deity?",
+        "options": {
+          "A": "Lord Brahma",
+          "B": "Lord Vishnu",
+          "C": "Lord Shiva",
+          "D": "Surya Deva"
+        },
+        "correct_answer": "A",
+        "explanation": "Pushkar is famous for the Brahma Temple, one of the very few temples worldwide dedicated to Lord Brahma, who is said to have created the lake."
+      },
+      "Q0784": {
+        "question": "In Hindu scriptures, which sacred river is personified as the daughter of the Sun God (Surya) and the sister of Yama (God of Death)?",
+        "options": {
+          "A": "Ganga",
+          "B": "Yamuna",
+          "C": "Narmada",
+          "D": "Kaveri"
+        },
+        "correct_answer": "B",
+        "explanation": "Yamuna is known as Yami, the daughter of Surya and Sanjna, and the twin sister of Yama."
+      },
+      "Q0785": {
+        "question": "During the Kumbh Mela held in Nashik, millions of pilgrims take a holy dip in which sacred river?",
+        "options": {
+          "A": "Narmada",
+          "B": "Tapti",
+          "C": "Godavari",
+          "D": "Mahanadi"
+        },
+        "correct_answer": "C",
+        "explanation": "Nashik is situated on the banks of the Godavari river, making it one of the four sites for the Kumbh Mela."
+      },
+      "Q0786": {
+        "question": "Which ancient holy sarovar in Kurukshetra is believed to be the place from where Lord Brahma manifested the universe?",
+        "options": {
+          "A": "Bindu Sarovar",
+          "B": "Pushkar Sarovar",
+          "C": "Narayan Sarovar",
+          "D": "Brahma Sarovar"
+        },
+        "correct_answer": "D",
+        "explanation": "Brahma Sarovar in Kurukshetra is a vast sacred water body where taking a dip during a solar eclipse is considered highly meritorious."
+      },
+      "Q0787": {
+        "question": "What is the name of the sacred river that flows near the Tirumala hills and is central to the Srikalahasti temple?",
+        "options": {
+          "A": "Swarnamukhi",
+          "B": "Penna",
+          "C": "Palar",
+          "D": "Tungabhadra"
+        },
+        "correct_answer": "A",
+        "explanation": "The Swarnamukhi river flows through the Chittoor district, closely associated with Srikalahasti and Tirupati pilgrimage sites."
+      },
+      "Q0788": {
+        "question": "According to the Ramayana, Lord Rama, Sita, and Lakshmana spent a significant portion of their exile in Chitrakoot on the banks of which river?",
+        "options": {
+          "A": "Sarayu",
+          "B": "Mandakini",
+          "C": "Betwa",
+          "D": "Ken"
+        },
+        "correct_answer": "B",
+        "explanation": "Chitrakoot is situated on the banks of the Mandakini river (a tributary of the Yamuna), highly celebrated in the Ramayana."
+      },
+      "Q0789": {
+        "question": "Kapila Theertham, a revered Saivite temple possessing a natural waterfall, is situated at the foothills of which mountain range?",
+        "options": {
+          "A": "Nilgiris",
+          "B": "Vindhyas",
+          "C": "Tirumala Hills (Seshachalam)",
+          "D": "Aravalli"
+        },
+        "correct_answer": "C",
+        "explanation": "Located in Tirupati at the base of the Seshachalam hills, Kapila Theertham is the only Shiva temple in the immediate vicinity of Tirumala."
+      },
+      "Q0790": {
+        "question": "Originating from the Brahmagiri Mountain near Trimbakeshwar, which river is often revered as the 'Dakshina Ganga' (Ganges of the South)?",
+        "options": {
+          "A": "Kaveri",
+          "B": "Krishna",
+          "C": "Tungabhadra",
+          "D": "Godavari"
+        },
+        "correct_answer": "D",
+        "explanation": "The Godavari is the longest river in South India and is sacredly known as the Dakshina Ganga."
+      }
+    }
+  },
+  "LEVEL080": {
+    "level_number": 80,
+    "title": "Holy Cities - Kashi, Ayodhya, Mathura",
+    "difficulty": "Expert+",
+    "questions": {
+      "Q0791": {
+        "question": "The holy city of Varanasi (Kashi) gets its geographical name because it lies between which two rivers?",
+        "options": {
+          "A": "Varuna and Assi",
+          "B": "Varuna and Gomti",
+          "C": "Ganga and Assi",
+          "D": "Ganga and Yamuna"
+        },
+        "correct_answer": "A",
+        "explanation": "The city historically spans the land between the Varuna River to the north and the Assi River to the south."
+      },
+      "Q0792": {
+        "question": "In Ayodhya, the Kanak Bhawan temple, heavily decorated with golden artwork, was historically believed to be gifted to Devi Sita by whom?",
+        "options": {
+          "A": "King Janaka",
+          "B": "Queen Kaikeyi",
+          "C": "Queen Kausalya",
+          "D": "Lord Rama"
+        },
+        "correct_answer": "B",
+        "explanation": "According to tradition, Kaikeyi gifted the magnificent Kanak Bhawan to Sita immediately after her marriage to Lord Rama."
+      },
+      "Q0793": {
+        "question": "What is the name of the sacred hill near Mathura which Lord Krishna lifted on his little finger to protect villagers from Indra's wrath?",
+        "options": {
+          "A": "Vindhyagiri",
+          "B": "Nandgaon Hill",
+          "C": "Govardhan Hill",
+          "D": "Barsana Hill"
+        },
+        "correct_answer": "C",
+        "explanation": "Govardhan Hill (Giriraj) is immensely sacred in Vaishnavism, and its Parikrama is performed by millions of devotees."
+      },
+      "Q0794": {
+        "question": "The Manikarnika Ghat in Varanasi is primarily revered as what type of sacred space?",
+        "options": {
+          "A": "A site for royal weddings",
+          "B": "A ghat exclusively for taking holy dips",
+          "C": "The birthplace of Lord Shiva",
+          "D": "A Maha-Shmashana (primary cremation ghat)"
+        },
+        "correct_answer": "D",
+        "explanation": "Manikarnika is one of the oldest and most sacred cremation ghats in Kashi, where the funeral pyres burn continuously."
+      },
+      "Q0795": {
+        "question": "Which specific sacred forest in the Braj region is strictly closed at night due to the belief that Radha and Krishna still perform the divine Rasa Lila there?",
+        "options": {
+          "A": "Nidhivan",
+          "B": "Mahavan",
+          "C": "Bhandirvan",
+          "D": "Kamyavan"
+        },
+        "correct_answer": "A",
+        "explanation": "Nidhivan in Vrindavan is surrounded by intense devotion and mystery, closed after dusk out of reverence for the eternal Rasa Lila."
+      },
+      "Q0796": {
+        "question": "According to the Kashi Khanda of the Skanda Purana, the holy city of Kashi does not rest on Earth but upon what object?",
+        "options": {
+          "A": "Sudarshana Chakra",
+          "B": "The points of Lord Shiva's Trishul",
+          "C": "The hood of Sheshnag",
+          "D": "The back of Kurma (Turtle)"
+        },
+        "correct_answer": "B",
+        "explanation": "Scriptures describe Kashi as standing on the three prongs of Lord Shiva's trident, keeping it unharmed during cosmic dissolution (Pralaya)."
+      },
+      "Q0797": {
+        "question": "In Mathura, the exact location believed to be the prison cell where Lord Krishna was born is part of which major temple complex?",
+        "options": {
+          "A": "Dwarkadhish Temple",
+          "B": "Banke Bihari Temple",
+          "C": "Krishna Janmasthan (Katra Keshavdeva)",
+          "D": "Radha Raman Temple"
+        },
+        "correct_answer": "C",
+        "explanation": "The Krishna Janmabhoomi complex features the Katra Keshavdeva temple built over the prison cell of Kansa."
+      },
+      "Q0798": {
+        "question": "The Sarayu River, on whose sacred banks Ayodhya is situated, merges into which larger river system?",
+        "options": {
+          "A": "Yamuna",
+          "B": "Narmada",
+          "C": "Brahmaputra",
+          "D": "Ghaghara (and eventually the Ganga)"
+        },
+        "correct_answer": "D",
+        "explanation": "The Sarayu flows through Uttar Pradesh and joins the Ghaghara River, which is a major left-bank tributary of the Ganga."
+      },
+      "Q0799": {
+        "question": "Which major ancient temple in Varanasi is dedicated to a fierce manifestation of Lord Shiva, who serves as the 'Kotwal' (Magistrate/Guard) of Kashi?",
+        "options": {
+          "A": "Kaal Bhairav Temple",
+          "B": "Sankat Mochan Temple",
+          "C": "Tulsi Manas Temple",
+          "D": "Durga Kund Temple"
+        },
+        "correct_answer": "A",
+        "explanation": "Lord Kaal Bhairav is considered the guardian deity of Varanasi, and everyone visiting Kashi is traditionally required to take his permission."
+      },
+      "Q0800": {
+        "question": "In the sacred geography of Vrindavan and the larger Braj region, how many main 'Vans' (forests) constitute the traditional Braj Mandala Parikrama?",
+        "options": {
+          "A": "7",
+          "B": "12",
+          "C": "24",
+          "D": "51"
+        },
+        "correct_answer": "B",
+        "explanation": "The Braj Parikrama encompasses 12 main forests (vans) such as Vrindavan, Kumudvan, Kamyavan, and Mahavan, associated with Krishna's pastimes."
+      }
+    }
+  }
+}

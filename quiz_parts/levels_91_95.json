@@ -1,0 +1,587 @@
+{
+  "LEVEL091": {
+    "level_number": 91,
+    "title": "Upanishadic Core and Vedantic Thought",
+    "difficulty": "Master",
+    "questions": {
+      "Q0901": {
+        "question": "Which Upanishad contains the famous Mahavakya 'Prajnanam Brahma' (Consciousness is Brahman)?",
+        "options": {
+          "A": "Aitareya Upanishad",
+          "B": "Brihadaranyaka Upanishad",
+          "C": "Chandogya Upanishad",
+          "D": "Mandukya Upanishad"
+        },
+        "correct_answer": "A",
+        "explanation": "The Mahavakya 'Prajnanam Brahma' is found in the Aitareya Upanishad of the Rigveda. It asserts that the ultimate reality or Brahman is pure consciousness."
+      },
+      "Q0902": {
+        "question": "In Advaita Vedanta, the concept of 'Anirvachaniya' refers to the nature of which of the following?",
+        "options": {
+          "A": "Brahman",
+          "B": "Maya",
+          "C": "Atman",
+          "D": "Moksha"
+        },
+        "correct_answer": "B",
+        "explanation": "Anirvachaniya means 'indescribable' or 'inexpressible.' In Advaita, Maya is considered Anirvachaniya because it cannot be strictly categorized as either absolutely real or absolutely unreal."
+      },
+      "Q0903": {
+        "question": "According to the Taittiriya Upanishad, the human personality is composed of five sheaths (Panchakoshas). Which is the innermost sheath?",
+        "options": {
+          "A": "Vijnanamaya Kosha",
+          "B": "Pranamaya Kosha",
+          "C": "Anandamaya Kosha",
+          "D": "Manomaya Kosha"
+        },
+        "correct_answer": "C",
+        "explanation": "The Anandamaya Kosha, or the sheath of bliss, is the innermost of the five sheaths. It is closest to the true Self (Atman)."
+      },
+      "Q0904": {
+        "question": "Who among the following philosophers is the chief proponent of Achintya Bheda Abheda (Inconceivable Oneness and Difference)?",
+        "options": {
+          "A": "Ramanujacharya",
+          "B": "Madhvacharya",
+          "C": "Nimbarkacharya",
+          "D": "Chaitanya Mahaprabhu"
+        },
+        "correct_answer": "D",
+        "explanation": "Chaitanya Mahaprabhu promulgated the Achintya Bheda Abheda philosophy. It states that the soul and Brahman are inconceivably both one and different."
+      },
+      "Q0905": {
+        "question": "Which specific chapter of the Brihadaranyaka Upanishad features the famous philosophical debate involving Yajnavalkya and Gargi Vachaknavi?",
+        "options": {
+          "A": "Adhyaya 3",
+          "B": "Adhyaya 1",
+          "C": "Adhyaya 4",
+          "D": "Adhyaya 2"
+        },
+        "correct_answer": "A",
+        "explanation": "The debate takes place in the third Adhyaya (chapter) of the Brihadaranyaka Upanishad. Gargi challenges Yajnavalkya with profound questions about the ultimate reality."
+      },
+      "Q0906": {
+        "question": "In the context of the Shad Darshanas, which school of thought was founded by Jaimini?",
+        "options": {
+          "A": "Nyaya",
+          "B": "Purva Mimamsa",
+          "C": "Samkhya",
+          "D": "Vaisheshika"
+        },
+        "correct_answer": "B",
+        "explanation": "The Purva Mimamsa school was founded by sage Jaimini. It focuses primarily on the exegesis of the Vedas and the performance of rituals (Dharma)."
+      },
+      "Q0907": {
+        "question": "What is the primary epistemological tool (Pramana) unique to the Advaita Vedanta and Mimamsa schools for knowing non-existence (Abhava)?",
+        "options": {
+          "A": "Anumana (Inference)",
+          "B": "Upamana (Comparison)",
+          "C": "Anupalabdhi (Non-apprehension)",
+          "D": "Arthapatti (Postulation)"
+        },
+        "correct_answer": "C",
+        "explanation": "Anupalabdhi refers to the non-apprehension or absence of something. Advaita Vedanta and Bhatta Mimamsa consider it a distinct, valid means of knowledge for perceiving non-existence."
+      },
+      "Q0908": {
+        "question": "Which ancient text is traditionally considered the foundational scripture for the Vaisheshika school of Hindu philosophy?",
+        "options": {
+          "A": "Samkhya Karika",
+          "B": "Nyaya Sutras",
+          "C": "Yoga Sutras",
+          "D": "Vaisheshika Sutras"
+        },
+        "correct_answer": "D",
+        "explanation": "The Vaisheshika Sutras, attributed to sage Kanada, form the foundational text of the Vaisheshika school. It is known for its atomic theory of the universe."
+      },
+      "Q0909": {
+        "question": "In the Bhagavad Gita (Chapter 15), the material world is compared to which type of inverted tree?",
+        "options": {
+          "A": "Ashvattha",
+          "B": "Nyagrodha",
+          "C": "Amalaki",
+          "D": "Parijata"
+        },
+        "correct_answer": "A",
+        "explanation": "Lord Krishna compares the material world to an inverted Ashvattha (banyan or peepal) tree. Its roots are upward (representing the Supreme) and branches downward."
+      },
+      "Q0910": {
+        "question": "Which of the following pramanas (means of knowledge) is universally accepted by ALL orthodox (Astika) schools of Hindu philosophy?",
+        "options": {
+          "A": "Anumana (Inference)",
+          "B": "Pratyaksha (Perception)",
+          "C": "Shabda (Verbal Testimony)",
+          "D": "Upamana (Comparison)"
+        },
+        "correct_answer": "B",
+        "explanation": "Pratyaksha (direct perception) is the only Pramana accepted by every single school of Indian philosophy, both Astika and Nastika (like Charvaka)."
+      }
+    }
+  },
+  "LEVEL092": {
+    "level_number": 92,
+    "title": "Intricate Puranic Histories",
+    "difficulty": "Master",
+    "questions": {
+      "Q0911": {
+        "question": "According to the Bhagavata Purana, who was the mother of the great devotee Prahlada?",
+        "options": {
+          "A": "Diti",
+          "B": "Kayadhu",
+          "C": "Danu",
+          "D": "Holika"
+        },
+        "correct_answer": "B",
+        "explanation": "Kayadhu was the wife of Hiranyakashipu and the mother of Prahlada. While she was pregnant, sage Narada imparted spiritual knowledge to Prahlada in her womb."
+      },
+      "Q0912": {
+        "question": "Which sage authored the 'Brahma Sutras', the foundational text of the Vedanta school?",
+        "options": {
+          "A": "Patanjali",
+          "B": "Kapila",
+          "C": "Badarayana",
+          "D": "Gautama"
+        },
+        "correct_answer": "C",
+        "explanation": "The Brahma Sutras were composed by the sage Badarayana (often identified with Vyasa). They systematically summarize the philosophical and spiritual ideas of the Upanishads."
+      },
+      "Q0913": {
+        "question": "In the Mahabharata, who was the commander-in-chief of the Kaurava army immediately following the fall of Dronacharya?",
+        "options": {
+          "A": "Karna",
+          "B": "Shalya",
+          "C": "Ashwatthama",
+          "D": "Kripacharya"
+        },
+        "correct_answer": "A",
+        "explanation": "After the death of Dronacharya on the 15th day of the Kurukshetra war, Karna was appointed as the commander-in-chief of the Kaurava forces."
+      },
+      "Q0914": {
+        "question": "Who was the father of the celestial architect Vishwakarma according to the Puranic genealogies?",
+        "options": {
+          "A": "Kashyapa",
+          "B": "Dharma",
+          "C": "Prabhasa",
+          "D": "Brahma"
+        },
+        "correct_answer": "C",
+        "explanation": "Vishwakarma is described as the son of the Vasu named Prabhasa and his wife Yogasiddha. Prabhasa is one of the Ashtavasus."
+      },
+      "Q0915": {
+        "question": "Which avatar of Lord Vishnu is described as teaching the path of complete renunciation and is considered an incarnation of pure knowledge, typically depicted as a young boy?",
+        "options": {
+          "A": "Kapila",
+          "B": "Dattatreya",
+          "C": "Sanatkumara",
+          "D": "Hayagriva"
+        },
+        "correct_answer": "C",
+        "explanation": "The four Kumaras (Sanaka, Sanandana, Sanatana, and Sanatkumara) are described as avatars of Vishnu who traverse the universe as eternal children, teaching renunciation."
+      },
+      "Q0916": {
+        "question": "During the churning of the ocean (Samudra Manthan), which deadly poison emerged first and threatened to consume all creation?",
+        "options": {
+          "A": "Kalkuta",
+          "B": "Halahala",
+          "C": "Garala",
+          "D": "Visha"
+        },
+        "correct_answer": "B",
+        "explanation": "Halahala (or Kalkuta) was the lethal poison that emerged first during Samudra Manthan. Lord Shiva drank it to save the universe, turning his throat blue (Neelakantha)."
+      },
+      "Q0917": {
+        "question": "Which Rishi is credited with bringing the holy river Ganga down to Earth from the heavens through his intense penance?",
+        "options": {
+          "A": "Agastya",
+          "B": "Vishwamitra",
+          "C": "Bhagiratha",
+          "D": "Kashyapa"
+        },
+        "correct_answer": "C",
+        "explanation": "King Bhagiratha, a descendant of King Sagara, performed severe penance to bring the river Ganga to earth to wash away the sins of his ancestors."
+      },
+      "Q0918": {
+        "question": "According to the Shiva Purana, what is the name of the bow crafted by Vishwakarma that Lord Shiva used to destroy Tripura (the three cities of gold, silver, and iron)?",
+        "options": {
+          "A": "Pinaka",
+          "B": "Sharanga",
+          "C": "Gandiva",
+          "D": "Vijaya"
+        },
+        "correct_answer": "A",
+        "explanation": "Pinaka is the legendary bow of Lord Shiva. He used it during the destruction of the three asura cities (Tripura), an event known as Tripuradahana."
+      },
+      "Q0919": {
+        "question": "Who was the maternal grandfather of Lord Krishna?",
+        "options": {
+          "A": "Ugrasena",
+          "B": "Devamida",
+          "C": "Sura",
+          "D": "Shurasena"
+        },
+        "correct_answer": "A",
+        "explanation": "King Ugrasena of Mathura was the father of Kamsa and Devaki, making him the maternal grandfather of Lord Krishna."
+      },
+      "Q0920": {
+        "question": "Which Purana is famously known to possess exactly 18,000 verses and centers on the pastimes of Lord Krishna?",
+        "options": {
+          "A": "Vishnu Purana",
+          "B": "Srimad Bhagavatam",
+          "C": "Padma Purana",
+          "D": "Garuda Purana"
+        },
+        "correct_answer": "B",
+        "explanation": "Srimad Bhagavatam (Bhagavata Purana) consists of 18,000 verses spread across 12 cantos. It focuses on devotion (Bhakti) to Lord Vishnu, especially in his form as Krishna."
+      }
+    }
+  },
+  "LEVEL093": {
+    "level_number": 93,
+    "title": "Sacred Rituals and Agama Shastras",
+    "difficulty": "Master",
+    "questions": {
+      "Q0921": {
+        "question": "In temple architecture according to the Agamas, the innermost sanctum sanctorum where the primary deity resides is known as:",
+        "options": {
+          "A": "Mandapa",
+          "B": "Vimana",
+          "C": "Garbhagriha",
+          "D": "Gopuram"
+        },
+        "correct_answer": "C",
+        "explanation": "Garbhagriha, meaning 'womb chamber,' is the innermost sanctum of a Hindu temple where the Murti (idol) of the primary deity is installed."
+      },
+      "Q0922": {
+        "question": "The Pancharatra Agamas, a major text of the Vaishnava tradition, fundamentally categorize the manifestations of Vishnu into how many forms?",
+        "options": {
+          "A": "Three",
+          "B": "Four",
+          "C": "Five",
+          "D": "Ten"
+        },
+        "correct_answer": "C",
+        "explanation": "Pancharatra texts describe five forms of Vishnu: Para (supreme), Vyuha (emanations), Vibhava (avatars), Antaryamin (inner controller), and Archa (consecrated image)."
+      },
+      "Q0923": {
+        "question": "What is the ritual called where life force is ceremonially invoked into a temple deity's Murti before it can be worshipped?",
+        "options": {
+          "A": "Abhisheka",
+          "B": "Prana Pratishtha",
+          "C": "Kumbhabhishekam",
+          "D": "Aarti"
+        },
+        "correct_answer": "B",
+        "explanation": "Prana Pratishtha is the sacred rite through which the life force (Prana) is infused into the physical idol, establishing the divine presence within it."
+      },
+      "Q0924": {
+        "question": "Which of the following Veda is the primary source of the chants used by the 'Udgatar' priest during a Soma sacrifice?",
+        "options": {
+          "A": "Rigveda",
+          "B": "Yajurveda",
+          "C": "Samaveda",
+          "D": "Atharvaveda"
+        },
+        "correct_answer": "C",
+        "explanation": "The Udgatar is the priest responsible for chanting the musical hymns of the Samaveda during complex Vedic rituals like the Soma sacrifice."
+      },
+      "Q0925": {
+        "question": "According to traditional Vedic chronology, the daily Sandhyavandanam is meant to be performed during transition periods. Which of the following is NOT one of those times?",
+        "options": {
+          "A": "Pratah (Dawn)",
+          "B": "Madhyahna (Noon)",
+          "C": "Sayam (Dusk)",
+          "D": "Nishitha (Midnight)"
+        },
+        "correct_answer": "D",
+        "explanation": "Sandhyavandanam is performed during the three 'Sandhyas' (junctions) of the day: dawn, noon, and dusk. Midnight is generally excluded from this daily ritual."
+      },
+      "Q0926": {
+        "question": "In traditional Yajna, what is the term for the wooden ladles used for pouring ghee into the sacred fire?",
+        "options": {
+          "A": "Sruk and Sruva",
+          "B": "Kamandalu",
+          "C": "Arghya",
+          "D": "Achamani"
+        },
+        "correct_answer": "A",
+        "explanation": "Sruk and Sruva are specially carved wooden spoons/ladles used to offer oblations, especially clarified butter (ghee), into the Yajna agni."
+      },
+      "Q0927": {
+        "question": "What is the ritualistic act of sipping water three times while reciting specific mantras for inner purification before commencing a puja?",
+        "options": {
+          "A": "Prokshana",
+          "B": "Achamana",
+          "C": "Nyasa",
+          "D": "Mudra"
+        },
+        "correct_answer": "B",
+        "explanation": "Achamana involves sipping water from the right palm three times while chanting names of the deity, symbolizing purification of body, mind, and speech."
+      },
+      "Q0928": {
+        "question": "In the Shaiva Siddhanta tradition, the three fundamental categories of existence are Pati, Pashu, and:",
+        "options": {
+          "A": "Prakriti",
+          "B": "Maya",
+          "C": "Pasha",
+          "D": "Karma"
+        },
+        "correct_answer": "C",
+        "explanation": "Shaiva Siddhanta relies on the triad of Pati (the Lord/Shiva), Pashu (the soul), and Pasha (the bond/fetters that bind the soul)."
+      },
+      "Q0929": {
+        "question": "What is the significance of the 'Avahan' step in a typical Shodashopachara (16-step) Puja?",
+        "options": {
+          "A": "Offering a seat to the deity",
+          "B": "Bathing the deity",
+          "C": "Invoking the deity",
+          "D": "Dismissing the deity"
+        },
+        "correct_answer": "C",
+        "explanation": "Avahan means 'invocation.' It is the ritual step of respectfully inviting and welcoming the deity into the place of worship or the Murti."
+      },
+      "Q0930": {
+        "question": "Which text is considered an authoritative manual for domestic rituals (Grihya rites) like Vivaha (marriage) and Upanayana (thread ceremony)?",
+        "options": {
+          "A": "Shrauta Sutras",
+          "B": "Grihya Sutras",
+          "C": "Dharma Sutras",
+          "D": "Sulba Sutras"
+        },
+        "correct_answer": "B",
+        "explanation": "The Grihya Sutras detail the various domestic rituals (Samskaras) to be performed by a householder, from birth to death."
+      }
+    }
+  },
+  "LEVEL094": {
+    "level_number": 94,
+    "title": "Subtle Philosophies and Ethics",
+    "difficulty": "Master",
+    "questions": {
+      "Q0931": {
+        "question": "In the context of Yoga philosophy, which of the following is NOT one of the five Kleshas (afflictions) described by Patanjali?",
+        "options": {
+          "A": "Avidya (Ignorance)",
+          "B": "Asmita (Egoism)",
+          "C": "Aparigraha (Non-possessiveness)",
+          "D": "Abhinivesha (Fear of death)"
+        },
+        "correct_answer": "C",
+        "explanation": "Aparigraha is one of the Yamas (ethical restraints), not a Klesha. The five Kleshas are Avidya, Asmita, Raga (attachment), Dvesha (aversion), and Abhinivesha."
+      },
+      "Q0932": {
+        "question": "According to the Samkhya philosophy, the entire manifest universe evolves from the interaction of Purusha (Consciousness) and what other eternal principle?",
+        "options": {
+          "A": "Brahman",
+          "B": "Maya",
+          "C": "Prakriti",
+          "D": "Kala"
+        },
+        "correct_answer": "C",
+        "explanation": "Samkhya is a dualistic philosophy positing two ultimate realities: Purusha (pure consciousness) and Prakriti (primordial matter/nature)."
+      },
+      "Q0933": {
+        "question": "Which concept in Mimamsa philosophy describes the unseen, transcendental potency generated by performing Vedic rituals, which yields future results?",
+        "options": {
+          "A": "Adrishta",
+          "B": "Apurva",
+          "C": "Samskara",
+          "D": "Karma-phala"
+        },
+        "correct_answer": "B",
+        "explanation": "Apurva is a central concept in Purva Mimamsa, signifying an invisible potency or 'new' force created by a ritual that connects the act to its future cosmic result."
+      },
+      "Q0934": {
+        "question": "In the Bhagavad Gita, the concept of 'Nishkama Karma' fundamentally teaches:",
+        "options": {
+          "A": "Action performed for personal gain",
+          "B": "Renunciation of all actions",
+          "C": "Action performed without attachment to the results",
+          "D": "Action performed solely through physical labor"
+        },
+        "correct_answer": "C",
+        "explanation": "Nishkama Karma translates to 'desireless action.' It is the practice of performing one's duties meticulously while surrendering the outcome to the Divine."
+      },
+      "Q0935": {
+        "question": "The ethical concept of 'Rta' in the early Vedic period primarily signifies:",
+        "options": {
+          "A": "Material wealth",
+          "B": "Cosmic order and truth",
+          "C": "Non-violence",
+          "D": "Salvation"
+        },
+        "correct_answer": "B",
+        "explanation": "Rta is the physical, moral, and cosmic order of the universe, ensuring that everything functions smoothly. It is closely aligned with Truth (Satya)."
+      },
+      "Q0936": {
+        "question": "In Hindu ethical framework, 'Dharma' is often subdivided. What is the specific term for the duties prescribed according to one's social class and stage of life?",
+        "options": {
+          "A": "Sadharana Dharma",
+          "B": "Svadharma",
+          "C": "Varnashrama Dharma",
+          "D": "Apaddharma"
+        },
+        "correct_answer": "C",
+        "explanation": "Varnashrama Dharma refers to the specific duties and responsibilities based on an individual's Varna (social class) and Ashrama (stage of life)."
+      },
+      "Q0937": {
+        "question": "Who among these deities is traditionally considered the strict enforcer of cosmic law and the judge of the dead in Hindu mythology?",
+        "options": {
+          "A": "Indra",
+          "B": "Varuna",
+          "C": "Yama",
+          "D": "Agni"
+        },
+        "correct_answer": "C",
+        "explanation": "Yama is the Lord of Justice (Dharmaraja) and the deity of death. He judges souls after death according to their Karma."
+      },
+      "Q0938": {
+        "question": "Which of the following Upanishads heavily discusses the concept of 'Turiya', the fourth state of consciousness beyond waking, dreaming, and deep sleep?",
+        "options": {
+          "A": "Katha Upanishad",
+          "B": "Mandukya Upanishad",
+          "C": "Kena Upanishad",
+          "D": "Isha Upanishad"
+        },
+        "correct_answer": "B",
+        "explanation": "The Mandukya Upanishad provides a deep analysis of the syllable 'Om' and correlates it with the four states of consciousness, Turiya being the ultimate, unitive state."
+      },
+      "Q0939": {
+        "question": "The concept of 'Prarabdha Karma' refers to:",
+        "options": {
+          "A": "Karma currently being generated for the future",
+          "B": "The accumulated storehouse of all past Karma",
+          "C": "The portion of past Karma that has begun to bear fruit in this life",
+          "D": "Karma that is destroyed by spiritual knowledge"
+        },
+        "correct_answer": "C",
+        "explanation": "Prarabdha Karma is the 'fructifying' karma—the specific portion of accumulated karma (Sanchita) that determines one's current physical incarnation and life events."
+      },
+      "Q0940": {
+        "question": "According to Advaita Vedanta, the world appears real only as long as one is under the influence of:",
+        "options": {
+          "A": "Ishvara",
+          "B": "Maya (Avidya)",
+          "C": "Karma",
+          "D": "Brahman"
+        },
+        "correct_answer": "B",
+        "explanation": "In Advaita, the apparent multiplicity of the world is a result of Maya (cosmic illusion) and Avidya (individual ignorance). When knowledge dawns, Maya is dispelled."
+      }
+    }
+  },
+  "LEVEL095": {
+    "level_number": 95,
+    "title": "Cross-Topic Synthesis and Obscure Lore",
+    "difficulty": "Master",
+    "questions": {
+      "Q0941": {
+        "question": "Which text systematically harmonizes the seeming contradictions among the Upanishads by declaring Brahman as the sole unifier?",
+        "options": {
+          "A": "Bhagavad Gita",
+          "B": "Brahma Sutras",
+          "C": "Yoga Vasistha",
+          "D": "Vivekachudamani"
+        },
+        "correct_answer": "B",
+        "explanation": "The Brahma Sutras (Vedanta Sutras) were compiled specifically to synthesize and reconcile the various, sometimes seemingly conflicting, statements found across the Upanishads."
+      },
+      "Q0942": {
+        "question": "In the epic Mahabharata, sage Vyasa dictated the grand poem to which deity, who acted as his scribe?",
+        "options": {
+          "A": "Lord Shiva",
+          "B": "Lord Ganesha",
+          "C": "Saraswati",
+          "D": "Brihaspati"
+        },
+        "correct_answer": "B",
+        "explanation": "According to tradition, Vyasa dictated the Mahabharata to Lord Ganesha, on the condition that Ganesha would understand every verse before writing it down."
+      },
+      "Q0943": {
+        "question": "What is the relation between the concepts of 'Bindu' and 'Nada' in Tantric cosmology?",
+        "options": {
+          "A": "Bindu is sound, Nada is form",
+          "B": "Bindu represents the static point of consciousness, Nada is the primal sound vibration",
+          "C": "Both refer strictly to physical yoga postures",
+          "D": "Nada is male energy, Bindu is female energy"
+        },
+        "correct_answer": "B",
+        "explanation": "In Tantric thought, Bindu is the concentrated, static point of ultimate potential (often associated with Shiva), while Nada is the primal resonance or dynamic vibration (associated with Shakti) that initiates creation."
+      },
+      "Q0944": {
+        "question": "Who is the legendary author of the 'Natyashastra', the ancient Indian treatise on the performing arts, encompassing theater, dance, and music?",
+        "options": {
+          "A": "Bharata Muni",
+          "B": "Nandikeshvara",
+          "C": "Abhinavagupta",
+          "D": "Matanga"
+        },
+        "correct_answer": "A",
+        "explanation": "Bharata Muni is the author of the Natyashastra, a foundational text that deeply integrates aesthetics (Rasa), performance, and spirituality."
+      },
+      "Q0945": {
+        "question": "In Vaishnava theology, specifically the Sri Vaishnava tradition, who are the 'Alvars'?",
+        "options": {
+          "A": "Martial defenders of temples",
+          "B": "Philosophers who wrote in Sanskrit only",
+          "C": "Tamil poet-saints known for their intense devotion to Vishnu",
+          "D": "Priests who perform specific Agamic rituals"
+        },
+        "correct_answer": "C",
+        "explanation": "The Alvars were twelve Tamil poet-saints of South India who lived between the 5th and 10th centuries. Their devotional hymns form the Divya Prabandham."
+      },
+      "Q0946": {
+        "question": "Which ancient astronomer/mathematician accurately estimated the length of the solar year and posited that the Earth rotates on its axis, in his text 'Aryabhatiya'?",
+        "options": {
+          "A": "Varahamihira",
+          "B": "Bhaskara II",
+          "C": "Aryabhata",
+          "D": "Brahmagupta"
+        },
+        "correct_answer": "C",
+        "explanation": "Aryabhata, in his 5th-century treatise Aryabhatiya, made groundbreaking contributions to astronomy, explicitly stating that the apparent movement of the stars is due to the Earth's rotation."
+      },
+      "Q0947": {
+        "question": "Which avatar of Lord Vishnu is associated with rescuing the Vedas from the demon Hayagriva (or sometimes Madhu-Kaitabha) during a cosmic deluge?",
+        "options": {
+          "A": "Matsya",
+          "B": "Kurma",
+          "C": "Varaha",
+          "D": "Narasimha"
+        },
+        "correct_answer": "A",
+        "explanation": "The Matsya (fish) avatar rescued the first man, Manu, along with seeds of all life, and also recovered the Vedas stolen by the demon Hayagriva during the universal flood."
+      },
+      "Q0948": {
+        "question": "According to traditional accounts, which Adi Shankaracharya's disciple was formerly known as Mandana Mishra before a famous philosophical debate?",
+        "options": {
+          "A": "Padmapada",
+          "B": "Hastamalaka",
+          "C": "Totakacharya",
+          "D": "Sureshvara"
+        },
+        "correct_answer": "D",
+        "explanation": "After being defeated in a philosophical debate by Adi Shankaracharya, the Mimamsa scholar Mandana Mishra became his disciple and was renamed Sureshvaracharya."
+      },
+      "Q0949": {
+        "question": "The 'Prasthanatrayi', the three foundational pillars of Vedanta, consists of the Upanishads, the Brahma Sutras, and which other text?",
+        "options": {
+          "A": "Bhagavad Gita",
+          "B": "Ramayana",
+          "C": "Patanjali Yoga Sutras",
+          "D": "Manu Smriti"
+        },
+        "correct_answer": "A",
+        "explanation": "The Prasthanatrayi refers to the three sources of authority for Vedanta: the Upanishads (Shruti), the Brahma Sutras (Nyaya), and the Bhagavad Gita (Smriti)."
+      },
+      "Q0950": {
+        "question": "What unique role does 'Chitragupta' play in the cosmic administration according to Hindu belief?",
+        "options": {
+          "A": "He is the architect of heaven",
+          "B": "He maintains the detailed records of the deeds (Karma) of all human beings",
+          "C": "He controls the seasonal rains",
+          "D": "He is the physician of the gods"
+        },
+        "correct_answer": "B",
+        "explanation": "Chitragupta is the celestial record-keeper and assistant to Yama. He maintains the 'Akashic records' of every individual's good and bad karmas to facilitate post-mortem judgment."
+      }
+    }
+  }
+}

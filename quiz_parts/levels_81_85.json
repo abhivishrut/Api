@@ -1,0 +1,587 @@
+{
+  "LEVEL081": {
+    "level_number": 81,
+    "title": "Mantras & Japa - Deep Dive",
+    "difficulty": "Scholar",
+    "questions": {
+      "Q0801": {
+        "question": "In the context of Japa, what is 'Manasika Japa'?",
+        "options": {
+          "A": "Chanting loudly for others to hear",
+          "B": "Mental repetition of the mantra without moving the lips",
+          "C": "Whispering the mantra softly",
+          "D": "Writing the mantra in a book"
+        },
+        "correct_answer": "B",
+        "explanation": "Manasika Japa refers to mental repetition, which is considered the most powerful and subtle form of Japa in yogic texts."
+      },
+      "Q0802": {
+        "question": "What is the etymological meaning of the word 'Mantra' in Sanskrit?",
+        "options": {
+          "A": "A song of praise",
+          "B": "A philosophical discourse",
+          "C": "That which protects or liberates the mind",
+          "D": "A magical spell"
+        },
+        "correct_answer": "C",
+        "explanation": "Derived from 'man' (mind) and 'tra' (to protect/liberate), a mantra is a sound vibration that frees the mind from mundane conditioning."
+      },
+      "Q0803": {
+        "question": "Which component of Mantra Shastra specifies the seer or sage who originally revealed the mantra?",
+        "options": {
+          "A": "Chhandas",
+          "B": "Devata",
+          "C": "Bija",
+          "D": "Rishi"
+        },
+        "correct_answer": "D",
+        "explanation": "In Mantra Shastra, the 'Rishi' is the sage who first realized or 'saw' the mantra in deep meditation."
+      },
+      "Q0804": {
+        "question": "What is 'Ajapa Japa'?",
+        "options": {
+          "A": "The spontaneous, continuous repetition of a mantra, often associated with breath (Soham)",
+          "B": "Chanting a mantra only once a year",
+          "C": "Forgetting the mantra during meditation",
+          "D": "Chanting without a mala"
+        },
+        "correct_answer": "A",
+        "explanation": "Ajapa Japa is the unceasing, natural repetition of a mantra, such as the sound of breath ('So' on inhalation, 'Ham' on exhalation)."
+      },
+      "Q0805": {
+        "question": "In the practice of 'Purashcharana', what is generally the rule for the number of japa repetitions?",
+        "options": {
+          "A": "One hundred thousand for each syllable of the mantra",
+          "B": "Exactly 108 times",
+          "C": "Ten thousand times total",
+          "D": "One million times regardless of the mantra"
+        },
+        "correct_answer": "A",
+        "explanation": "A traditional Purashcharana requires chanting the mantra 100,000 times for every syllable it contains, followed by specific rituals."
+      },
+      "Q0806": {
+        "question": "Which term refers to the ritual placement of mantras onto specific parts of the practitioner's body?",
+        "options": {
+          "A": "Mudras",
+          "B": "Nyasa",
+          "C": "Pranayama",
+          "D": "Asana"
+        },
+        "correct_answer": "B",
+        "explanation": "Nyasa involves placing the subtle energy of mantras into various parts of the physical body to purify and prepare it for worship."
+      },
+      "Q0807": {
+        "question": "What does 'Upanshu Japa' mean?",
+        "options": {
+          "A": "Writing the mantra continuously",
+          "B": "Chanting loudly with music",
+          "C": "Whispering the mantra so only the practitioner can hear it",
+          "D": "Mental repetition"
+        },
+        "correct_answer": "C",
+        "explanation": "Upanshu Japa is the whispering of a mantra with slight lip movement, audible only to the person chanting."
+      },
+      "Q0808": {
+        "question": "What are 'Bija' mantras?",
+        "options": {
+          "A": "Long poetic verses",
+          "B": "Translations of Vedic texts",
+          "C": "Mantras chanted only by the Kshatriya varna",
+          "D": "Seed syllables containing concentrated spiritual energy"
+        },
+        "correct_answer": "D",
+        "explanation": "Bija (seed) mantras are single-syllable sounds (like Hrim, Shrim, Klim) that carry potent spiritual vibrations."
+      },
+      "Q0809": {
+        "question": "Which of the following is NOT one of the five essential components (Angas) of Purashcharana?",
+        "options": {
+          "A": "Japa",
+          "B": "Homa",
+          "C": "Tarpana",
+          "D": "Kirtan"
+        },
+        "correct_answer": "D",
+        "explanation": "The five angas of Purashcharana are Japa, Homa (fire sacrifice), Tarpana (water offering), Marjana (sprinkling water), and Brahmana Bhojana (feeding the learned). Kirtan is not one of them."
+      },
+      "Q0810": {
+        "question": "In Mantra Shastra, what is 'Viniyoga'?",
+        "options": {
+          "A": "The statement of application or purpose of the mantra",
+          "B": "The concluding prayer",
+          "C": "The physical posture during chanting",
+          "D": "The melody used for chanting"
+        },
+        "correct_answer": "A",
+        "explanation": "Viniyoga is the preliminary recitation that outlines the Rishi, Chhandas, Devata, Bija, Shakti, and purpose (application) of the mantra."
+      }
+    }
+  },
+  "LEVEL082": {
+    "level_number": 82,
+    "title": "Science & Symbolism of the Mala",
+    "difficulty": "Scholar",
+    "questions": {
+      "Q0811": {
+        "question": "Astronomically, why is the number 108 considered highly significant in Sanatana Dharma?",
+        "options": {
+          "A": "It is the number of days in a lunar year",
+          "B": "The average distance of the Sun and Moon to Earth is roughly 108 times their respective diameters",
+          "C": "It represents the 108 visible planets",
+          "D": "It is the number of stars in the Big Dipper"
+        },
+        "correct_answer": "B",
+        "explanation": "Ancient Indian astronomy noted that the distance between the Earth and the Sun/Moon is approximately 108 times the diameter of the Sun/Moon, reflecting cosmic harmony."
+      },
+      "Q0812": {
+        "question": "What is the significance of the 109th bead on a mala, known as the 'Meru' or 'Guru' bead?",
+        "options": {
+          "A": "It is where the counting of 108 ends and reverses; one must not cross it",
+          "B": "It is used for counting the thousands",
+          "C": "It is meant to be physically broken after Japa",
+          "D": "It represents the practitioner's ego"
+        },
+        "correct_answer": "A",
+        "explanation": "The Meru bead represents the Guru or the Supreme. Practitioners do not cross it; upon reaching it, they flip the mala and chant in the reverse direction."
+      },
+      "Q0813": {
+        "question": "Which finger should explicitly be AVOIDED while moving the beads during Japa?",
+        "options": {
+          "A": "Thumb",
+          "B": "Middle finger",
+          "C": "Index finger (Tarjani)",
+          "D": "Ring finger"
+        },
+        "correct_answer": "C",
+        "explanation": "The index finger (Tarjani) is associated with the ego and is strictly avoided while counting beads; the thumb and middle/ring fingers are used instead."
+      },
+      "Q0814": {
+        "question": "What is the 'Brahmagranthi' in relation to a Japa Mala?",
+        "options": {
+          "A": "The knot tied between each bead",
+          "B": "The bag used to keep the mala",
+          "C": "The thread that breaks during Japa",
+          "D": "The specific mantra chanted before using the mala"
+        },
+        "correct_answer": "A",
+        "explanation": "Brahmagranthi refers to the specific knot tied between each bead on a mala, symbolizing the divine bond and providing space between beads."
+      },
+      "Q0815": {
+        "question": "What material is traditionally prescribed for chanting mantras of Lord Shiva?",
+        "options": {
+          "A": "Tulsi (Holy Basil)",
+          "B": "Rudraksha",
+          "C": "Kamal Gatta (Lotus seeds)",
+          "D": "Sandalwood"
+        },
+        "correct_answer": "B",
+        "explanation": "Rudraksha beads are intrinsically linked to Lord Shiva and are the primary material used for Shaiva mantras."
+      },
+      "Q0816": {
+        "question": "In the context of the 108 beads, how does it relate to Vedic astrology (Jyotisha)?",
+        "options": {
+          "A": "There are 12 Rashis (Zodiac signs) and 9 Navagrahas (Planets); 12 x 9 = 108",
+          "B": "There are 27 Nakshatras (Lunar mansions), each with 4 Padas (quarters); 27 x 4 = 108",
+          "C": "Both A and B",
+          "D": "None of the above"
+        },
+        "correct_answer": "C",
+        "explanation": "Both astrological calculations (12 signs * 9 planets and 27 Nakshatras * 4 Padas) perfectly equate to 108, representing the entirety of the cosmos."
+      },
+      "Q0817": {
+        "question": "What is the purpose of a 'Gomukhi' bag in Japa practice?",
+        "options": {
+          "A": "To offer grains to cows",
+          "B": "To hide the mala and keep it pure while chanting",
+          "C": "To store incense sticks during Puja",
+          "D": "A musical instrument played during Japa"
+        },
+        "correct_answer": "B",
+        "explanation": "The Gomukhi (cow's mouth) bag is used to hold the mala during Japa, keeping it hidden, clean, and preventing its energy from dissipating."
+      },
+      "Q0818": {
+        "question": "Which Upanishad lists exactly 108 major Upanishads?",
+        "options": {
+          "A": "Katha Upanishad",
+          "B": "Muktikopanishad",
+          "C": "Mandukya Upanishad",
+          "D": "Isha Upanishad"
+        },
+        "correct_answer": "B",
+        "explanation": "The Muktikopanishad contains a dialogue between Lord Rama and Hanuman, listing exactly 108 principal Upanishads."
+      },
+      "Q0819": {
+        "question": "If a practitioner wishes to chant mantras for Goddess Lakshmi to attain prosperity, which mala is highly recommended?",
+        "options": {
+          "A": "Tulsi",
+          "B": "Rudraksha",
+          "C": "Kamal Gatta (Lotus seeds)",
+          "D": "Bone beads"
+        },
+        "correct_answer": "C",
+        "explanation": "Kamal Gatta (dried lotus seeds) malas are specially used for chanting mantras dedicated to Goddess Lakshmi, who is deeply associated with the lotus."
+      },
+      "Q0820": {
+        "question": "According to Ayurveda and Yoga, why does the number 108 relate to the subtle body?",
+        "options": {
+          "A": "There are 108 primary nadis converging at the heart chakra",
+          "B": "There are 108 chakras in the physical body",
+          "C": "A human breathes exactly 108 times an hour",
+          "D": "There are 108 bones in a child's body"
+        },
+        "correct_answer": "A",
+        "explanation": "Yogic texts state there are 108 primary marmas (vital points) or nadis (energy channels) converging at the Anahata (heart) chakra."
+      }
+    }
+  },
+  "LEVEL083": {
+    "level_number": 83,
+    "title": "Esoteric Dimensions of Gayatri & Mrityunjaya",
+    "difficulty": "Scholar",
+    "questions": {
+      "Q0821": {
+        "question": "Who is the Rishi (sage) associated with the revelation of the Gayatri Mantra in the Rig Veda?",
+        "options": {
+          "A": "Vashistha",
+          "B": "Agastya",
+          "C": "Vishvamitra",
+          "D": "Bharadwaja"
+        },
+        "correct_answer": "C",
+        "explanation": "Sage Vishvamitra is credited with perceiving the Gayatri Mantra, as found in the third Mandala of the Rig Veda."
+      },
+      "Q0822": {
+        "question": "The Gayatri Mantra is composed in the Gayatri Chhandas (metre). How many syllables does this metre contain?",
+        "options": {
+          "A": "18",
+          "B": "24",
+          "C": "32",
+          "D": "48"
+        },
+        "correct_answer": "B",
+        "explanation": "The traditional Gayatri metre consists of 24 syllables, typically arranged in three lines of eight syllables each."
+      },
+      "Q0823": {
+        "question": "In the Gayatri Mantra, what do the words 'Bhur Bhuva Svah' represent?",
+        "options": {
+          "A": "The names of three ancient sages",
+          "B": "The Vyahritis, representing the physical, astral, and celestial realms",
+          "C": "The three modes of material nature (Gunas)",
+          "D": "The three principal deities (Brahma, Vishnu, Shiva)"
+        },
+        "correct_answer": "B",
+        "explanation": "Bhur, Bhuva, and Svah are the Maha Vyahritis, representing the earthly (physical), atmospheric (astral), and heavenly (celestial) planes of existence."
+      },
+      "Q0824": {
+        "question": "Which deity is explicitly invoked as 'Tryambaka' in the Maha Mrityunjaya Mantra?",
+        "options": {
+          "A": "Lord Vishnu",
+          "B": "Lord Ganesha",
+          "C": "Lord Shiva",
+          "D": "Surya"
+        },
+        "correct_answer": "C",
+        "explanation": "Tryambaka translates to the 'Three-Eyed One', a direct reference to Lord Shiva."
+      },
+      "Q0825": {
+        "question": "What is the profound metaphor used in the Maha Mrityunjaya Mantra for liberation from death?",
+        "options": {
+          "A": "A bird flying from a cage",
+          "B": "A cucumber detaching effortlessly from its vine",
+          "C": "A river merging into the ocean",
+          "D": "A lotus blooming in mud"
+        },
+        "correct_answer": "B",
+        "explanation": "'Urvarukamiva bandhanan' translates to 'like a cucumber from its bondage (vine)', symbolizing a natural, effortless liberation from the cycle of birth and death."
+      },
+      "Q0826": {
+        "question": "According to the Mandukya Upanishad, what do the syllables A-U-M in 'Om' represent?",
+        "options": {
+          "A": "The three Vedas (Rig, Yajur, Sama)",
+          "B": "Waking, dreaming, and deep sleep states of consciousness",
+          "C": "Past, present, and future time",
+          "D": "Creation, preservation, and destruction"
+        },
+        "correct_answer": "B",
+        "explanation": "The Mandukya Upanishad correlates A to the waking state (Jagrat), U to the dream state (Svapna), and M to deep sleep (Sushupti)."
+      },
+      "Q0827": {
+        "question": "What is the silence that follows the chanting of Om called in Vedantic philosophy?",
+        "options": {
+          "A": "Turiya",
+          "B": "Samadhi",
+          "C": "Sunyata",
+          "D": "Nidra"
+        },
+        "correct_answer": "A",
+        "explanation": "The silence following A-U-M represents 'Turiya', the fourth state, which is pure consciousness transcending the other three states."
+      },
+      "Q0828": {
+        "question": "Which aspect of the Divine is technically the 'Devata' (deity) of the Gayatri Mantra?",
+        "options": {
+          "A": "Agni",
+          "B": "Savitur (the Sun God as the ultimate source of light/creation)",
+          "C": "Indra",
+          "D": "Varuna"
+        },
+        "correct_answer": "B",
+        "explanation": "The mantra invokes 'Savitur', representing the vivifying, life-giving power of the Sun, symbolic of the Supreme Divine Light."
+      },
+      "Q0829": {
+        "question": "Who is the sage credited with receiving the Maha Mrityunjaya Mantra as part of the Sanjeevani Vidya?",
+        "options": {
+          "A": "Sage Markandeya",
+          "B": "Sage Vyasa",
+          "C": "Sage Valmiki",
+          "D": "Sage Kapila"
+        },
+        "correct_answer": "A",
+        "explanation": "Sage Markandeya is traditionally associated with popularizing the Maha Mrityunjaya Mantra, using it to conquer his destined early death."
+      },
+      "Q0830": {
+        "question": "What is the specific meaning of 'Dhiyo Yo Nah Prachodayat' in the Gayatri Mantra?",
+        "options": {
+          "A": "May we attain immense wealth",
+          "B": "May He illuminate our intellects/minds",
+          "C": "May our physical bodies remain healthy",
+          "D": "May we defeat our enemies"
+        },
+        "correct_answer": "B",
+        "explanation": "'Dhiyo' means intellects, 'Yo' means who, 'Nah' means our, and 'Prachodayat' means illuminate/inspire. It is a prayer for spiritual enlightenment."
+      }
+    }
+  },
+  "LEVEL084": {
+    "level_number": 84,
+    "title": "Puja, Aarti & Sankalpa",
+    "difficulty": "Scholar",
+    "questions": {
+      "Q0831": {
+        "question": "What is a 'Sankalpa' in the context of Hindu rituals?",
+        "options": {
+          "A": "The closing prayer",
+          "B": "The sacred ash applied on the forehead",
+          "C": "A formal, solemn vow or statement of intent before starting a ritual",
+          "D": "The bell rung during Aarti"
+        },
+        "correct_answer": "C",
+        "explanation": "Sankalpa is the specific resolve made at the beginning of a puja, stating the time, location, practitioner's identity, and the purpose of the ritual."
+      },
+      "Q0832": {
+        "question": "In standard traditional Puja, how many 'Upacharas' (articles/steps of offering) are there in a complete 'Shodashopachara' puja?",
+        "options": {
+          "A": "5",
+          "B": "9",
+          "C": "16",
+          "D": "108"
+        },
+        "correct_answer": "C",
+        "explanation": "'Shodasha' means sixteen. A Shodashopachara puja involves sixteen specific steps of honoring the deity as a revered guest."
+      },
+      "Q0833": {
+        "question": "Which of the following is typically the first step (Upachara) in formally welcoming a deity during a Puja?",
+        "options": {
+          "A": "Naivedya (Offering Food)",
+          "B": "Avahana (Invocation)",
+          "C": "Aarti (Lamp Offering)",
+          "D": "Visarjana (Farewell)"
+        },
+        "correct_answer": "B",
+        "explanation": "Avahana is the act of invoking or inviting the deity's presence into the murti (idol) or kalasha before offering other services."
+      },
+      "Q0834": {
+        "question": "What does 'Achamana' refer to in ritual purification?",
+        "options": {
+          "A": "Bathing the deity with milk",
+          "B": "Sipping water three times while reciting specific mantras to purify the body and mind",
+          "C": "Circumambulating the temple",
+          "D": "Offering a flower"
+        },
+        "correct_answer": "B",
+        "explanation": "Achamana involves sipping water from the right palm three times for internal purification before commencing a spiritual act."
+      },
+      "Q0835": {
+        "question": "What is the spiritual symbolism of burning Camphor (Kapur) during Aarti?",
+        "options": {
+          "A": "It smells pleasant to the deities",
+          "B": "It produces a lot of smoke to purify the air",
+          "C": "It burns completely without leaving a residue, symbolizing the total destruction of the ego",
+          "D": "It represents the fire element only"
+        },
+        "correct_answer": "C",
+        "explanation": "Camphor leaves no ash behind when it burns. This signifies that when the ego is illuminated by the fire of knowledge, it dissolves completely without a trace."
+      },
+      "Q0836": {
+        "question": "In a Shodashopachara Puja, what is 'Naivedya'?",
+        "options": {
+          "A": "The offering of garments",
+          "B": "The offering of sacred thread",
+          "C": "The offering of food items",
+          "D": "The offering of a seat"
+        },
+        "correct_answer": "C",
+        "explanation": "Naivedya is the ritual offering of pure, vegetarian food to the deity, which subsequently becomes 'Prasada' once blessed."
+      },
+      "Q0837": {
+        "question": "What is 'Pradakshina'?",
+        "options": {
+          "A": "The act of offering money",
+          "B": "Circumambulation (walking around) of the deity in a clockwise direction",
+          "C": "Singing hymns",
+          "D": "Fasting on specific days"
+        },
+        "correct_answer": "B",
+        "explanation": "Pradakshina (or Parikrama) is the reverential circumambulation of a sacred entity, always keeping the deity to one's right side."
+      },
+      "Q0838": {
+        "question": "What is the significance of ringing the Ghanta (bell) during Puja and Aarti?",
+        "options": {
+          "A": "To wake up the deity",
+          "B": "To produce an auspicious sound (Nada) that drowns out inauspicious noises and concentrates the mind",
+          "C": "To signal the end of the ritual",
+          "D": "To call the priest"
+        },
+        "correct_answer": "B",
+        "explanation": "The sound of the bell creates spiritual vibrations, dispels negative energies, and helps focus the practitioner's mind by cutting through mental chatter."
+      },
+      "Q0839": {
+        "question": "What is 'Visarjana' in the context of Puja?",
+        "options": {
+          "A": "Bathing the idol in honey",
+          "B": "Decorating the deity with ornaments",
+          "C": "The formal send-off or withdrawal of the invoked divine presence back to its cosmic state",
+          "D": "The reading of scriptures"
+        },
+        "correct_answer": "C",
+        "explanation": "Visarjana (or Udvasana) is the concluding ritual where the invoked deity is respectfully requested to return to their eternal abode, concluding the formal worship."
+      },
+      "Q0840": {
+        "question": "Which hand gestures are extensively used in Tantric and Vedic pujas to channel cosmic energies?",
+        "options": {
+          "A": "Asanas",
+          "B": "Mudras",
+          "C": "Bandhas",
+          "D": "Kriyas"
+        },
+        "correct_answer": "B",
+        "explanation": "Mudras are symbolic hand gestures that act as energetic seals, used extensively during invocation, offering, and meditation in puja."
+      }
+    }
+  },
+  "LEVEL085": {
+    "level_number": 85,
+    "title": "Advanced Meditation & Stotra Traditions",
+    "difficulty": "Scholar",
+    "questions": {
+      "Q0841": {
+        "question": "How does a 'Stotra' primarily differ from a 'Mantra'?",
+        "options": {
+          "A": "Stotras are strictly in prose, while Mantras are poetry",
+          "B": "Mantras have rigid rules of metre and intonation (Svara), while Stotras are devotional hymns that can be sung more freely",
+          "C": "Stotras are only dedicated to Shiva, Mantras to Vishnu",
+          "D": "Mantras are longer than Stotras"
+        },
+        "correct_answer": "B",
+        "explanation": "Mantras, especially Vedic ones, require exact pronunciation and pitch. Stotras are hymns of praise composed by sages that offer more melodic flexibility."
+      },
+      "Q0842": {
+        "question": "In Patanjali's Ashtanga Yoga, what is the 7th limb, defined as a continuous flow of cognition toward the object of meditation?",
+        "options": {
+          "A": "Pratyahara",
+          "B": "Dharana",
+          "C": "Dhyana",
+          "D": "Samadhi"
+        },
+        "correct_answer": "C",
+        "explanation": "Dhyana is the 7th limb, defined as the uninterrupted flow of awareness towards the chosen object of meditation."
+      },
+      "Q0843": {
+        "question": "In the context of Stotras, what is 'Phala Shruti'?",
+        "options": {
+          "A": "The opening invocation",
+          "B": "The offering of fruits during recitation",
+          "C": "The concluding verses describing the benefits or fruits of reciting the Stotra",
+          "D": "The musical instrument played alongside"
+        },
+        "correct_answer": "C",
+        "explanation": "Phala Shruti literally translates to 'listening to the fruits' and consists of verses at the end of a text detailing the spiritual and material benefits of its recitation."
+      },
+      "Q0844": {
+        "question": "The renowned 'Vishnu Sahasranama' (Thousand Names of Vishnu) is found in which major epic?",
+        "options": {
+          "A": "Ramayana",
+          "B": "Mahabharata (Anushasana Parva)",
+          "C": "Srimad Bhagavatam",
+          "D": "Harivamsa"
+        },
+        "correct_answer": "B",
+        "explanation": "The Vishnu Sahasranama was imparted by Bhishma to Yudhishthira on the battlefield of Kurukshetra, located in the Anushasana Parva of the Mahabharata."
+      },
+      "Q0845": {
+        "question": "What is 'Trataka'?",
+        "options": {
+          "A": "A meditation technique involving steady, unblinking gazing at an object, such as a candle flame",
+          "B": "A specific breathing exercise",
+          "C": "Chanting a mantra 10,000 times",
+          "D": "Fasting for a full lunar cycle"
+        },
+        "correct_answer": "A",
+        "explanation": "Trataka is a Shatkarma (cleansing practice) in Hatha Yoga that involves staring at a fixed point or flame to develop profound concentration and cleanse the eyes."
+      },
+      "Q0846": {
+        "question": "Who is the legendary author of the 'Soundarya Lahari', a famous Tantric stotra praising Goddess Tripura Sundari?",
+        "options": {
+          "A": "Ramanujacharya",
+          "B": "Madhvacharya",
+          "C": "Adi Shankaracharya",
+          "D": "Chaitanya Mahaprabhu"
+        },
+        "correct_answer": "C",
+        "explanation": "The Soundarya Lahari (Waves of Beauty) is a prominent literary and spiritual work attributed to the great Advaita philosopher Adi Shankaracharya."
+      },
+      "Q0847": {
+        "question": "What does 'Manasapuja' entail?",
+        "options": {
+          "A": "Worship performed exclusively by chanting",
+          "B": "Mentally performing all the steps of a complex puja through visualization, without physical items",
+          "C": "Worship performed in a large group",
+          "D": "Worshipping the mind itself"
+        },
+        "correct_answer": "B",
+        "explanation": "Manasapuja is internal, mental worship where the devotee vividly visualizes offering all physical items (water, flowers, food) to the deity."
+      },
+      "Q0848": {
+        "question": "What is the primary focus of 'Laya Yoga'?",
+        "options": {
+          "A": "Extreme physical postures",
+          "B": "Dissolution (Laya) of the mind and ego into the Supreme through absorption in the inner sound (Nada)",
+          "C": "Strict dietary control",
+          "D": "Debating scriptures"
+        },
+        "correct_answer": "B",
+        "explanation": "Laya means dissolution. Laya Yoga focuses on absorbing the mind into the subtle inner sounds (Nada) to achieve transcendental states."
+      },
+      "Q0849": {
+        "question": "What is 'Bhutasuddhi' in advanced meditative and ritual practice?",
+        "options": {
+          "A": "Exorcising ghosts",
+          "B": "Purification of the five fundamental elements (earth, water, fire, air, space) within the practitioner's body",
+          "C": "Cleaning the temple floor",
+          "D": "Donating to the poor"
+        },
+        "correct_answer": "B",
+        "explanation": "Bhutasuddhi is an esoteric practice aiming to purify the five elements (pancha bhutas) composing the human body, essential before performing higher rituals."
+      },
+      "Q0850": {
+        "question": "In Ashtanga Yoga, what precedes 'Dhyana' (Meditation)?",
+        "options": {
+          "A": "Samadhi",
+          "B": "Dharana (Concentration)",
+          "C": "Asana (Posture)",
+          "D": "Pranayama (Breath Control)"
+        },
+        "correct_answer": "B",
+        "explanation": "Dharana (single-pointed concentration) is the 6th limb, which naturally matures into Dhyana (continuous meditation), the 7th limb."
+      }
+    }
+  }
+}

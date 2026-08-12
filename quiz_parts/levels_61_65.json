@@ -1,0 +1,587 @@
+{
+  "LEVEL061": {
+    "level_number": 61,
+    "title": "Ashtanga Yoga: The Eight Limbs",
+    "difficulty": "Expert",
+    "questions": {
+      "Q0601": {
+        "question": "According to Patanjali's Yoga Sutras, which of the following is NOT one of the five Niyamas?",
+        "options": {
+          "A": "Shaucha",
+          "B": "Santosha",
+          "C": "Asteya",
+          "D": "Tapas"
+        },
+        "correct_answer": "C",
+        "explanation": "Asteya, or non-stealing, is one of the five Yamas (moral restraints), not a Niyama (personal observance)."
+      },
+      "Q0602": {
+        "question": "What is the result of firmly establishing oneself in Aparigraha (non-possessiveness) according to Patanjali?",
+        "options": {
+          "A": "Knowledge of past and future births",
+          "B": "Invincibility in battle",
+          "C": "Ability to read minds",
+          "D": "Physical immortality"
+        },
+        "correct_answer": "A",
+        "explanation": "Yoga Sutra 2.39 states that when one is steadfast in Aparigraha, the knowledge of the 'how' and 'wherefore' of past and future incarnations arises."
+      },
+      "Q0603": {
+        "question": "Which limb of Ashtanga Yoga forms the bridge between the external (Bahiranga) and internal (Antaranga) practices?",
+        "options": {
+          "A": "Asana",
+          "B": "Pranayama",
+          "C": "Pratyahara",
+          "D": "Dharana"
+        },
+        "correct_answer": "C",
+        "explanation": "Pratyahara (withdrawal of the senses) is the fifth limb, acting as a transition from the external practices to the internal practices of concentration and meditation."
+      },
+      "Q0604": {
+        "question": "How does Patanjali define 'Asana' in the Yoga Sutras?",
+        "options": {
+          "A": "Twisting the body into complex shapes",
+          "B": "Sthira sukham asanam",
+          "C": "Chitta vritti nirodhah",
+          "D": "Standing on one's head"
+        },
+        "correct_answer": "B",
+        "explanation": "In Sutra 2.46, Patanjali defines Asana simply as 'Sthira sukham asanam', meaning a posture that is steady (sthira) and comfortable (sukham)."
+      },
+      "Q0605": {
+        "question": "Which three limbs of Ashtanga Yoga are collectively referred to as 'Samyama' when practiced together on a single object?",
+        "options": {
+          "A": "Yama, Niyama, Asana",
+          "B": "Pranayama, Pratyahara, Dharana",
+          "C": "Dharana, Dhyana, Samadhi",
+          "D": "Asana, Pranayama, Samadhi"
+        },
+        "correct_answer": "C",
+        "explanation": "According to Yoga Sutra 3.4, the continuous practice of Dharana, Dhyana, and Samadhi upon a single object is called Samyama."
+      },
+      "Q0606": {
+        "question": "What does the Yama 'Brahmacharya' primarily refer to in the traditional yogic context?",
+        "options": {
+          "A": "Eating only vegetarian food",
+          "B": "Chanting the Vedas daily",
+          "C": "Continence and conservation of vital energy",
+          "D": "Worshipping Lord Brahma"
+        },
+        "correct_answer": "C",
+        "explanation": "Brahmacharya translates to 'behavior that leads to Brahman' and implies celibacy, continence, and the conservation and direction of one's vital energy toward spiritual growth."
+      },
+      "Q0607": {
+        "question": "According to the Yoga Sutras, what happens when Ahimsa (non-violence) is firmly established in a yogi?",
+        "options": {
+          "A": "They become invisible",
+          "B": "All hostility ceases in their presence",
+          "C": "They can heal any disease",
+          "D": "They conquer the need for sleep"
+        },
+        "correct_answer": "B",
+        "explanation": "Sutra 2.35 states that in the presence of one firmly established in Ahimsa, all hostilities and enmities are abandoned."
+      },
+      "Q0608": {
+        "question": "What is the technical definition of Dharana?",
+        "options": {
+          "A": "Total dissolution of the mind",
+          "B": "Binding the mind to a single place or object",
+          "C": "Regulating the breath in specific ratios",
+          "D": "Detachment from worldly possessions"
+        },
+        "correct_answer": "B",
+        "explanation": "Sutra 3.1 defines Dharana as 'Desha bandhah chittasya dharana', meaning the binding or fixing of the mind's attention to a single place, object, or idea."
+      },
+      "Q0609": {
+        "question": "Which of the following is considered an aspect of Ishvara Pranidhana?",
+        "options": {
+          "A": "Surrender of the fruits of actions to the Supreme Lord",
+          "B": "Studying one's own mind",
+          "C": "Purification of the physical body",
+          "D": "Practicing intense austerities"
+        },
+        "correct_answer": "A",
+        "explanation": "Ishvara Pranidhana means total surrender and devotion to God (Ishvara), including offering all actions and their fruits to the Divine."
+      },
+      "Q0610": {
+        "question": "What distinguishes Dhyana (meditation) from Dharana (concentration)?",
+        "options": {
+          "A": "Dhyana requires physical movement",
+          "B": "Dhyana is an unbroken flow of awareness toward the object",
+          "C": "Dharana leads to immediate liberation",
+          "D": "Dhyana uses a mantra while Dharana does not"
+        },
+        "correct_answer": "B",
+        "explanation": "Sutra 3.2 defines Dhyana as 'Tatra pratyaya ekatanata dhyanam'—an uninterrupted, continuous flow of cognition (awareness) toward the object of concentration."
+      }
+    }
+  },
+  "LEVEL062": {
+    "level_number": 62,
+    "title": "The Four Paths of Yoga",
+    "difficulty": "Expert",
+    "questions": {
+      "Q0611": {
+        "question": "In Advaita Vedanta's Jnana Yoga, what is 'Sadhana Chatushtaya'?",
+        "options": {
+          "A": "The four main asanas for meditation",
+          "B": "The fourfold qualifications of a seeker",
+          "C": "The four Vedas to be studied",
+          "D": "The four stages of life"
+        },
+        "correct_answer": "B",
+        "explanation": "Sadhana Chatushtaya refers to the fourfold qualities required for a Jnana Yogi: Viveka, Vairagya, Shat-sampat, and Mumukshutva."
+      },
+      "Q0612": {
+        "question": "Which quality in Sadhana Chatushtaya refers to the intense, burning desire for liberation?",
+        "options": {
+          "A": "Viveka",
+          "B": "Titiksha",
+          "C": "Mumukshutva",
+          "D": "Uparati"
+        },
+        "correct_answer": "C",
+        "explanation": "Mumukshutva is the fourth qualification, defined as an intense and single-minded yearning for Moksha (liberation)."
+      },
+      "Q0613": {
+        "question": "What is the core principle of Karma Yoga as expounded in the Bhagavad Gita?",
+        "options": {
+          "A": "Performing actions solely for accumulating wealth",
+          "B": "Renouncing all physical actions and retiring to a forest",
+          "C": "Performing duties without attachment to the fruits",
+          "D": "Engaging only in religious rituals"
+        },
+        "correct_answer": "C",
+        "explanation": "Nishkama Karma, or selfless action without attachment to the results or fruits of one's actions, is the foundational principle of Karma Yoga."
+      },
+      "Q0614": {
+        "question": "In Bhakti Yoga, 'Navadha Bhakti' refers to the nine modes of devotion. Which of the following is NOT one of them?",
+        "options": {
+          "A": "Shravanam",
+          "B": "Kirtanam",
+          "C": "Neti Neti",
+          "D": "Smaranam"
+        },
+        "correct_answer": "C",
+        "explanation": "'Neti Neti' (not this, not this) is an analytical method of Jnana Yoga. Shravanam (hearing), Kirtanam (singing), and Smaranam (remembering) are modes of Navadha Bhakti."
+      },
+      "Q0615": {
+        "question": "Who authored the foremost treatise on Bhakti Yoga known as the Bhakti Sutras?",
+        "options": {
+          "A": "Patanjali",
+          "B": "Narada",
+          "C": "Shankaracharya",
+          "D": "Kapila"
+        },
+        "correct_answer": "B",
+        "explanation": "Sage Narada authored the Narada Bhakti Sutras, one of the most authoritative texts on the philosophy and practice of Bhakti Yoga."
+      },
+      "Q0616": {
+        "question": "The term 'Viveka' in Jnana Yoga denotes what specific ability?",
+        "options": {
+          "A": "Holding the breath for long periods",
+          "B": "Discrimination between the real and the unreal",
+          "C": "Seeing physical auras",
+          "D": "Singing devotional hymns perfectly"
+        },
+        "correct_answer": "B",
+        "explanation": "Viveka is the intellectual ability to discriminate between the eternal (Sat) and the temporary/unreal (Asat), a vital step in Jnana Yoga."
+      },
+      "Q0617": {
+        "question": "Which of the six virtues (Shat-sampat) of Jnana Yoga relates to forbearance and endurance of dualities like heat and cold?",
+        "options": {
+          "A": "Shama",
+          "B": "Dama",
+          "C": "Titiksha",
+          "D": "Shraddha"
+        },
+        "correct_answer": "C",
+        "explanation": "Titiksha is the endurance of all afflictions and dualities without anxiety, lamentation, or seeking revenge."
+      },
+      "Q0618": {
+        "question": "According to Sri Krishna, what makes an action 'Karma Yoga' rather than just 'Karma'?",
+        "options": {
+          "A": "The physical difficulty of the task",
+          "B": "The attitude of surrender and detachment",
+          "C": "Performing it only during an eclipse",
+          "D": "Receiving a large payment for it"
+        },
+        "correct_answer": "B",
+        "explanation": "It is the inner attitude—offering the work to the Divine and letting go of egoistic attachment to the results—that transforms ordinary karma into Karma Yoga."
+      },
+      "Q0619": {
+        "question": "In Navadha Bhakti, what does 'Atmanivedanam' signify?",
+        "options": {
+          "A": "Washing the feet of the deity",
+          "B": "Offering prayers",
+          "C": "Total self-surrender to the Lord",
+          "D": "Listening to spiritual stories"
+        },
+        "correct_answer": "C",
+        "explanation": "Atmanivedanam is the ninth and ultimate step of Navadha Bhakti, representing complete and unconditional self-surrender to God."
+      },
+      "Q0620": {
+        "question": "Which path of Yoga specifically involves the intellectual method of 'Shravana, Manana, and Nididhyasana'?",
+        "options": {
+          "A": "Karma Yoga",
+          "B": "Jnana Yoga",
+          "C": "Hatha Yoga",
+          "D": "Bhakti Yoga"
+        },
+        "correct_answer": "B",
+        "explanation": "These are the three stages of Vedantic study in Jnana Yoga: Hearing the truth (Shravana), reflecting upon it (Manana), and deeply meditating upon it (Nididhyasana)."
+      }
+    }
+  },
+  "LEVEL063": {
+    "level_number": 63,
+    "title": "Advanced Pranayama and the Subtle Body",
+    "difficulty": "Expert",
+    "questions": {
+      "Q0621": {
+        "question": "In advanced Pranayama, what is 'Kevala Kumbhaka'?",
+        "options": {
+          "A": "Inhaling rapidly through the mouth",
+          "B": "Spontaneous retention of breath without effort",
+          "C": "Holding the breath after exhalation only",
+          "D": "Breathing through alternate nostrils"
+        },
+        "correct_answer": "B",
+        "explanation": "Kevala Kumbhaka is the spontaneous, effortless cessation of breath that occurs in deep states of meditation, independent of inhalation or exhalation."
+      },
+      "Q0622": {
+        "question": "Which major Nadi (energy channel) corresponds to the solar, masculine, and active energy in the body?",
+        "options": {
+          "A": "Ida",
+          "B": "Pingala",
+          "C": "Sushumna",
+          "D": "Chitra"
+        },
+        "correct_answer": "B",
+        "explanation": "Pingala Nadi, ending at the right nostril, carries Prana associated with the sun (Surya), heat, logic, and masculine energy."
+      },
+      "Q0623": {
+        "question": "What is the primary function of the 'Jalandhara Bandha' in Pranayama?",
+        "options": {
+          "A": "To pull the abdominal organs inward and upward",
+          "B": "To contract the perineal muscles",
+          "C": "To engage the throat lock and regulate energy flow to the head",
+          "D": "To cross the legs in Padmasana"
+        },
+        "correct_answer": "C",
+        "explanation": "Jalandhara Bandha (the throat lock) restricts the upward flow of energy (Prana) and prevents it from escaping, directing it downwards to merge with Apana."
+      },
+      "Q0624": {
+        "question": "Which specific Pranayama is known as the 'victorious breath' and produces a soft, ocean-like sound in the throat?",
+        "options": {
+          "A": "Bhastrika",
+          "B": "Kapalabhati",
+          "C": "Ujjayi",
+          "D": "Sitali"
+        },
+        "correct_answer": "C",
+        "explanation": "Ujjayi Pranayama involves slightly constricting the glottis during breathing, creating a resonant sound in the throat, and generating internal heat."
+      },
+      "Q0625": {
+        "question": "According to the Hatha Yoga Pradipika, what happens when Prana enters the central channel (Sushumna)?",
+        "options": {
+          "A": "The mind becomes perfectly steady (Manonmani state)",
+          "B": "The body immediately dies",
+          "C": "One loses the ability to speak",
+          "D": "Physical strength multiplies tenfold"
+        },
+        "correct_answer": "A",
+        "explanation": "When Prana flows through the Sushumna, the mind achieves a state of profound stillness and thoughtlessness known as Unmani or Manonmani."
+      },
+      "Q0626": {
+        "question": "What is the fundamental difference between Bhastrika and Kapalabhati?",
+        "options": {
+          "A": "Bhastrika involves forceful inhalation and exhalation, while Kapalabhati involves passive inhalation and forceful exhalation",
+          "B": "Bhastrika is done with water, Kapalabhati with air",
+          "C": "Bhastrika only uses the left nostril",
+          "D": "Kapalabhati requires chanting mantras loudly"
+        },
+        "correct_answer": "A",
+        "explanation": "In Bhastrika (bellows breath), both inhalation and exhalation are active and forceful. In Kapalabhati, the exhalation is forceful and active, but the inhalation is passive."
+      },
+      "Q0627": {
+        "question": "The Ida Nadi originates at the Muladhara chakra and terminates at which physical location?",
+        "options": {
+          "A": "The right nostril",
+          "B": "The crown of the head",
+          "C": "The left nostril",
+          "D": "The heart center"
+        },
+        "correct_answer": "C",
+        "explanation": "The Ida Nadi, representing lunar and cooling energy, terminates at the left nostril."
+      },
+      "Q0628": {
+        "question": "Which Bandha involves drawing the lower abdomen inward and upward toward the spine?",
+        "options": {
+          "A": "Mula Bandha",
+          "B": "Uddiyana Bandha",
+          "C": "Jalandhara Bandha",
+          "D": "Maha Bandha"
+        },
+        "correct_answer": "B",
+        "explanation": "Uddiyana Bandha (the abdominal lock) involves pulling the abdominal wall in and up after a complete exhalation, directing energy upward."
+      },
+      "Q0629": {
+        "question": "What is the primary benefit of practicing Nadi Shodhana (Alternate Nostril Breathing)?",
+        "options": {
+          "A": "Extreme weight loss",
+          "B": "Balancing the flow of energy between Ida and Pingala nadis",
+          "C": "Generating intense physical heat",
+          "D": "Developing the ability to fly"
+        },
+        "correct_answer": "B",
+        "explanation": "Nadi Shodhana purifies the subtle energy channels and balances the solar and lunar energies, calming the nervous system and preparing the mind for meditation."
+      },
+      "Q0630": {
+        "question": "In the context of the subtle body, what is 'Granthi'?",
+        "options": {
+          "A": "A specialized yoga mat",
+          "B": "A psychological and energetic knot or block along the Sushumna",
+          "C": "A type of Pranayama",
+          "D": "The final stage of Samadhi"
+        },
+        "correct_answer": "B",
+        "explanation": "Granthis are 'knots' or blockages of energy (Brahma, Vishnu, and Rudra granthis) that must be pierced by the awakened Kundalini for spiritual liberation."
+      }
+    }
+  },
+  "LEVEL064": {
+    "level_number": 64,
+    "title": "Yoga Sutras of Patanjali (In-Depth)",
+    "difficulty": "Expert",
+    "questions": {
+      "Q0631": {
+        "question": "Patanjali defines Yoga as 'Yogas chitta vritti nirodhah'. What does 'Chitta' encompass in this context?",
+        "options": {
+          "A": "Only the physical brain",
+          "B": "The mind, intellect, and ego combined",
+          "C": "The soul (Purusha)",
+          "D": "The physical body"
+        },
+        "correct_answer": "B",
+        "explanation": "Chitta refers to the entire mind-stuff or mental complex, encompassing Manas (sensory mind), Buddhi (intellect), and Ahamkara (ego)."
+      },
+      "Q0632": {
+        "question": "According to Patanjali, what are the 'Kleshas'?",
+        "options": {
+          "A": "The five Yamas",
+          "B": "The five root afflictions or causes of suffering",
+          "C": "The physical postures of Yoga",
+          "D": "The stages of enlightenment"
+        },
+        "correct_answer": "B",
+        "explanation": "The five Kleshas (Avidya, Asmita, Raga, Dvesha, Abhinivesha) are the fundamental afflictions that cause human suffering and bind one to the cycle of rebirth."
+      },
+      "Q0633": {
+        "question": "Which of the following is considered the root cause of all other Kleshas?",
+        "options": {
+          "A": "Raga (Attachment)",
+          "B": "Dvesha (Aversion)",
+          "C": "Avidya (Ignorance)",
+          "D": "Asmita (Egoism)"
+        },
+        "correct_answer": "C",
+        "explanation": "Sutra 2.4 states that Avidya (ignorance of one's true nature) is the breeding ground or root cause of all the other Kleshas."
+      },
+      "Q0634": {
+        "question": "In the Yoga Sutras, what components make up 'Kriya Yoga'?",
+        "options": {
+          "A": "Asana, Pranayama, and Dhyana",
+          "B": "Tapas, Svadhyaya, and Ishvara Pranidhana",
+          "C": "Yama, Niyama, and Asana",
+          "D": "Dharana, Dhyana, and Samadhi"
+        },
+        "correct_answer": "B",
+        "explanation": "Sutra 2.1 defines Kriya Yoga (the Yoga of Action) as consisting of Tapas (austerity), Svadhyaya (self-study), and Ishvara Pranidhana (surrender to God)."
+      },
+      "Q0635": {
+        "question": "What happens when the 'Chitta vrittis' are completely restrained, according to Sutra 1.3?",
+        "options": {
+          "A": "Tada drashtuh svarupe avasthanam",
+          "B": "One gains supernatural powers",
+          "C": "The physical body dissolves",
+          "D": "One becomes a God"
+        },
+        "correct_answer": "A",
+        "explanation": "'Tada drashtuh svarupe avasthanam' means 'Then the Seer (Purusha) rests in its own true nature.' This is the ultimate goal of Yoga."
+      },
+      "Q0636": {
+        "question": "Patanjali mentions five types of 'Vrittis' (mental modifications). Which of the following is one of them?",
+        "options": {
+          "A": "Asana",
+          "B": "Pramana (Right Knowledge)",
+          "C": "Samskara",
+          "D": "Prana"
+        },
+        "correct_answer": "B",
+        "explanation": "The five Vrittis are Pramana (right knowledge), Viparyaya (misconception), Vikalpa (imagination), Nidra (sleep), and Smriti (memory)."
+      },
+      "Q0637": {
+        "question": "What is the technique Patanjali suggests for overcoming negative or destructive thoughts (Vitarka)?",
+        "options": {
+          "A": "Pratipaksha Bhavanam",
+          "B": "Drinking herbal potions",
+          "C": "Sleeping for extended periods",
+          "D": "Engaging in intense debates"
+        },
+        "correct_answer": "A",
+        "explanation": "Sutra 2.33 introduces 'Pratipaksha Bhavanam', the practice of deliberately cultivating the opposite, positive thought when troubled by negative thoughts."
+      },
+      "Q0638": {
+        "question": "What is the name of the third chapter of the Yoga Sutras, which discusses extraordinary powers (Siddhis)?",
+        "options": {
+          "A": "Samadhi Pada",
+          "B": "Sadhana Pada",
+          "C": "Vibhuti Pada",
+          "D": "Kaivalya Pada"
+        },
+        "correct_answer": "C",
+        "explanation": "The Vibhuti Pada focuses on the internal limbs of Yoga (Samyama) and the various supernatural attainments or powers (Vibhutis/Siddhis) that arise from their mastery."
+      },
+      "Q0639": {
+        "question": "According to Sutra 1.12, what are the two core practices required to still the mind?",
+        "options": {
+          "A": "Asana and Pranayama",
+          "B": "Abhyasa and Vairagya",
+          "C": "Bhakti and Karma",
+          "D": "Yama and Niyama"
+        },
+        "correct_answer": "B",
+        "explanation": "'Abhyasa vairagyabhyam tat nirodhah.' The mental modifications are restrained through Abhyasa (constant practice) and Vairagya (non-attachment)."
+      },
+      "Q0640": {
+        "question": "What does the term 'Ritambhara Prajna' refer to in the Yoga Sutras?",
+        "options": {
+          "A": "A type of rhythmic breathing",
+          "B": "A state of truth-bearing, supreme wisdom",
+          "C": "A physical posture",
+          "D": "A ritual of worship"
+        },
+        "correct_answer": "B",
+        "explanation": "In Sutra 1.48, Ritambhara Prajna is described as the state of consciousness in deep Samadhi that is absolutely filled with supreme truth and free from error."
+      }
+    }
+  },
+  "LEVEL065": {
+    "level_number": 65,
+    "title": "Samadhi and States of Consciousness",
+    "difficulty": "Expert",
+    "questions": {
+      "Q0641": {
+        "question": "What is 'Samprajnata Samadhi'?",
+        "options": {
+          "A": "Samadhi that occurs only after physical death",
+          "B": "Samadhi accompanied by an object of concentration and cognitive functioning",
+          "C": "A fake or illusory state of meditation",
+          "D": "Samadhi attained through chemical substances"
+        },
+        "correct_answer": "B",
+        "explanation": "Samprajnata Samadhi is a state of deep absorption where the mind remains tethered to a specific object or support (bija), retaining cognitive features like inquiry and joy."
+      },
+      "Q0642": {
+        "question": "How does 'Asamprajnata Samadhi' differ from Samprajnata Samadhi?",
+        "options": {
+          "A": "It is accompanied by intense physical pain",
+          "B": "It relies on a physical idol for focus",
+          "C": "It is objectless, with all mental modifications ceased completely",
+          "D": "It can only be experienced by temple priests"
+        },
+        "correct_answer": "C",
+        "explanation": "In Asamprajnata (or Nirbija) Samadhi, there is no object of concentration. All mental modifications stop, leaving only latent impressions (samskaras)."
+      },
+      "Q0643": {
+        "question": "What is the defining characteristic of 'Nirbija Samadhi'?",
+        "options": {
+          "A": "It requires chanting a specific seed (bija) mantra",
+          "B": "It is 'seedless' and destroys even the latent impressions (samskaras) of the mind",
+          "C": "It only occurs while practicing the lotus posture",
+          "D": "It involves visualizing a growing plant"
+        },
+        "correct_answer": "B",
+        "explanation": "Nirbija means 'without seed'. In this supreme state of Samadhi, even the subliminal seeds (samskaras) that cause future rebirths and mental fluctuations are dissolved."
+      },
+      "Q0644": {
+        "question": "In the stages of Samprajnata Samadhi, what is 'Savitarka'?",
+        "options": {
+          "A": "Absorption upon the subtle elements (Tanmatras)",
+          "B": "Absorption accompanied by bliss (Ananda)",
+          "C": "Absorption upon a gross physical object with deliberation and thought",
+          "D": "Absorption characterized by pure 'I-am-ness' (Asmita)"
+        },
+        "correct_answer": "C",
+        "explanation": "Savitarka is the first level of Samadhi, where the mind focuses on a gross object and mixes the word, its meaning, and the knowledge of it with conceptual deliberation."
+      },
+      "Q0645": {
+        "question": "What does 'Dharma Megha Samadhi' translate to?",
+        "options": {
+          "A": "The Cloud of Virtue Samadhi",
+          "B": "The Ocean of Tears Samadhi",
+          "C": "The Mountain of Truth Samadhi",
+          "D": "The Fire of Knowledge Samadhi"
+        },
+        "correct_answer": "A",
+        "explanation": "Dharma Megha Samadhi means 'Cloud of Virtue' or 'Cloud of Dharma'. It is the highest state before liberation, where the yogi loses all desire even for omniscience, and showers infinite virtue."
+      },
+      "Q0646": {
+        "question": "What is the state of 'Kaivalya'?",
+        "options": {
+          "A": "A state of deep sleep",
+          "B": "Absolute independence or isolation of Purusha from Prakriti",
+          "C": "The ability to levitate",
+          "D": "Merging completely into a physical idol"
+        },
+        "correct_answer": "B",
+        "explanation": "Kaivalya is the ultimate goal of Patanjali's Yoga, where the pure consciousness (Purusha) is completely isolated and free from the entanglement of matter (Prakriti)."
+      },
+      "Q0647": {
+        "question": "In Mandukya Upanishad, the 'Turiya' state corresponds to what in the yogic context?",
+        "options": {
+          "A": "The waking state (Jagrat)",
+          "B": "The dream state ( स्वप्न)",
+          "C": "The deep sleep state (Sushupti)",
+          "D": "The fourth state, pure transcendental consciousness",
+        },
+        "correct_answer": "D",
+        "explanation": "Turiya is 'the fourth', representing the underlying state of pure consciousness that transcends and witnesses waking, dreaming, and deep sleep."
+      },
+      "Q0648": {
+        "question": "According to Vedanta, what is the equivalent of Patanjali's Asamprajnata Samadhi?",
+        "options": {
+          "A": "Savikalpa Samadhi",
+          "B": "Nirvikalpa Samadhi",
+          "C": "Bhakti Samadhi",
+          "D": "Karma Samadhi"
+        },
+        "correct_answer": "B",
+        "explanation": "Nirvikalpa Samadhi in Advaita Vedanta—where the distinction between the knower, the known, and knowledge dissolves—is equivalent to Patanjali's objectless Asamprajnata Samadhi."
+      },
+      "Q0649": {
+        "question": "What is a 'Samapatti' in the context of Patanjali's Yoga Sutras?",
+        "options": {
+          "A": "A type of diet for yogis",
+          "B": "The transformation of the mind taking the exact form of the object of concentration",
+          "C": "A breathing exercise",
+          "D": "The end of the world"
+        },
+        "correct_answer": "B",
+        "explanation": "Samapatti refers to the complete coalescence or fusion of the mind with its object, like a clear jewel taking on the color of whatever it rests upon."
+      },
+      "Q0650": {
+        "question": "Which of the following best describes the relationship between Purusha and Prakriti during the state of Kaivalya?",
+        "options": {
+          "A": "They merge into a single entity",
+          "B": "Prakriti dominates Purusha completely",
+          "C": "The gunas of Prakriti resolve back into their unmanifest state, leaving Purusha perfectly isolated",
+          "D": "They engage in a constant cosmic dance"
+        },
+        "correct_answer": "C",
+        "explanation": "In Kaivalya, the three gunas (qualities) of Prakriti cease their transformations for the yogi, returning to equilibrium, and the Purusha stands alone in its pristine, eternal nature."
+      }
+    }
+  }
+}

@@ -1,0 +1,587 @@
+{
+  "LEVEL026": {
+    "level_number": 26,
+    "title": "Krishna's Birth and Early Life in Gokul",
+    "difficulty": "Intermediate",
+    "questions": {
+      "Q0251": {
+        "question": "Who were Lord Krishna's biological parents?",
+        "options": {
+          "A": "Vasudeva and Devaki",
+          "B": "Nanda and Yashoda",
+          "C": "Dasharatha and Kausalya",
+          "D": "Vrishabhanu and Kirtida"
+        },
+        "correct_answer": "A",
+        "explanation": "Krishna was born to Vasudeva and Devaki in the prison of Mathura."
+      },
+      "Q0252": {
+        "question": "Which river parted to allow Vasudeva to carry baby Krishna to Gokul?",
+        "options": {
+          "A": "Ganga",
+          "B": "Yamuna",
+          "C": "Saraswati",
+          "D": "Godavari"
+        },
+        "correct_answer": "B",
+        "explanation": "The turbulent Yamuna river miraculously parted to provide a safe passage for Vasudeva carrying baby Krishna."
+      },
+      "Q0253": {
+        "question": "Who was the demoness sent by Kamsa to kill baby Krishna with poisoned breast milk?",
+        "options": {
+          "A": "Tataka",
+          "B": "Surpanakha",
+          "C": "Putana",
+          "D": "Hidimbi"
+        },
+        "correct_answer": "C",
+        "explanation": "Putana disguised herself as a beautiful woman to poison Krishna, but He sucked the life out of her, granting her liberation."
+      },
+      "Q0254": {
+        "question": "What was the name of Nanda Maharaja's wife, who raised Krishna in Gokul?",
+        "options": {
+          "A": "Devaki",
+          "B": "Rohini",
+          "C": "Kunti",
+          "D": "Yashoda"
+        },
+        "correct_answer": "D",
+        "explanation": "Mother Yashoda fostered Krishna and showered Him with immense maternal love in Gokul."
+      },
+      "Q0255": {
+        "question": "Under which Nakshatra (constellation) was Lord Krishna born?",
+        "options": {
+          "A": "Rohini",
+          "B": "Ashwini",
+          "C": "Pushya",
+          "D": "Krittika"
+        },
+        "correct_answer": "A",
+        "explanation": "Krishna was born on the eighth day (Ashtami) of the dark fortnight in the month of Bhadrapada under the Rohini Nakshatra."
+      },
+      "Q0256": {
+        "question": "What is the annual festival celebrating Lord Krishna's birth known as?",
+        "options": {
+          "A": "Rama Navami",
+          "B": "Janmashtami",
+          "C": "Maha Shivaratri",
+          "D": "Diwali"
+        },
+        "correct_answer": "B",
+        "explanation": "Krishna Janmashtami is the joyous festival marking the divine appearance of Lord Krishna."
+      },
+      "Q0257": {
+        "question": "Which demon took the form of a whirlwind to carry baby Krishna away into the sky?",
+        "options": {
+          "A": "Bakasura",
+          "B": "Aghasura",
+          "C": "Trinavarta",
+          "D": "Vatsasura"
+        },
+        "correct_answer": "C",
+        "explanation": "Trinavarta the whirlwind demon tried to fly away with Krishna, but Krishna became incredibly heavy and brought him crashing down."
+      },
+      "Q0258": {
+        "question": "What is the name of Krishna's elder brother, born to Mother Rohini?",
+        "options": {
+          "A": "Satyaki",
+          "B": "Uddhava",
+          "C": "Pradyumna",
+          "D": "Balarama"
+        },
+        "correct_answer": "D",
+        "explanation": "Balarama, the elder brother of Krishna, is considered an incarnation of the divine serpent Ananta Shesha."
+      },
+      "Q0259": {
+        "question": "Which great sage secretly performed the naming ceremony for Krishna and Balarama in a cowshed?",
+        "options": {
+          "A": "Gargamuni",
+          "B": "Vashistha",
+          "C": "Vishwamitra",
+          "D": "Sandipani"
+        },
+        "correct_answer": "A",
+        "explanation": "Gargamuni, the family priest of the Yadus, performed the ceremony secretly to avoid alerting Kamsa."
+      },
+      "Q0260": {
+        "question": "Which demon took the form of a calf to mingle with Krishna's herd and kill Him?",
+        "options": {
+          "A": "Dhenukasura",
+          "B": "Vatsasura",
+          "C": "Keshi",
+          "D": "Pralambasura"
+        },
+        "correct_answer": "B",
+        "explanation": "Vatsasura disguised himself as a calf, but Krishna recognized him, twirled him by the hind legs, and threw him into a tree."
+      }
+    }
+  },
+  "LEVEL027": {
+    "level_number": 27,
+    "title": "Childhood Pastimes and Vrindavan Lila",
+    "difficulty": "Intermediate",
+    "questions": {
+      "Q0261": {
+        "question": "Why did Krishna lift the Govardhan Hill?",
+        "options": {
+          "A": "To defeat the demon Kamsa",
+          "B": "To show off His physical strength",
+          "C": "To protect the villagers from Indra's torrential rain",
+          "D": "To build a new city for the Yadavas"
+        },
+        "correct_answer": "C",
+        "explanation": "Krishna lifted the hill like an umbrella to shield the people and animals of Vrindavan from the wrathful storms sent by Indra."
+      },
+      "Q0262": {
+        "question": "For how many continuous days and nights did Krishna hold up Govardhan Hill?",
+        "options": {
+          "A": "3 days",
+          "B": "5 days",
+          "C": "10 days",
+          "D": "7 days"
+        },
+        "correct_answer": "D",
+        "explanation": "Krishna balanced the massive hill on His little finger for seven days until Indra realized his mistake and surrendered."
+      },
+      "Q0263": {
+        "question": "What was the name of the multi-headed, poisonous serpent subdued by Krishna in the Yamuna River?",
+        "options": {
+          "A": "Kaliya",
+          "B": "Vasuki",
+          "C": "Takshaka",
+          "D": "Shesha"
+        },
+        "correct_answer": "A",
+        "explanation": "Kaliya was a venomous Naga whose poison was destroying the Yamuna. Krishna danced on his hoods and banished him to the ocean."
+      },
+      "Q0264": {
+        "question": "Which musical instrument is Lord Krishna most famously depicted playing?",
+        "options": {
+          "A": "Veena",
+          "B": "Flute (Bansuri)",
+          "C": "Mridangam",
+          "D": "Sitar"
+        },
+        "correct_answer": "B",
+        "explanation": "Krishna's divine flute music captivated all of Vrindavan, drawing the Gopis and even animals toward Him."
+      },
+      "Q0265": {
+        "question": "What did Mother Yashoda see when she ordered Krishna to open His mouth to check if He had eaten dirt?",
+        "options": {
+          "A": "A handful of gold coins",
+          "B": "Lotus flowers",
+          "C": "The entire cosmic universe",
+          "D": "Nothing at all"
+        },
+        "correct_answer": "C",
+        "explanation": "Krishna revealed the entire universe, including the sun, moon, stars, and even Yashoda herself, within His mouth."
+      },
+      "Q0266": {
+        "question": "What was the name of the crane demon who tried to swallow Krishna?",
+        "options": {
+          "A": "Aghasura",
+          "B": "Putana",
+          "C": "Dhenukasura",
+          "D": "Bakasura"
+        },
+        "correct_answer": "D",
+        "explanation": "Bakasura took the form of a giant crane and swallowed Krishna, but Krishna became burning hot, forcing the demon to spit Him out."
+      },
+      "Q0267": {
+        "question": "Which demon transformed into a massive python, attempting to swallow Krishna and His friends?",
+        "options": {
+          "A": "Aghasura",
+          "B": "Arishtasura",
+          "C": "Vyomasura",
+          "D": "Shankhachuda"
+        },
+        "correct_answer": "A",
+        "explanation": "Aghasura laid with his mouth open like a cave. Once Krishna and His friends entered, Krishna expanded His body, choking the demon."
+      },
+      "Q0268": {
+        "question": "What affectionate title is given to Krishna for His habit of stealing freshly churned butter?",
+        "options": {
+          "A": "Gopala",
+          "B": "Makhan Chor",
+          "C": "Ranchhod",
+          "D": "Giridhari"
+        },
+        "correct_answer": "B",
+        "explanation": "'Makhan Chor' literally translates to 'Butter Thief,' a loving name for Krishna who stole butter from the Gopis' homes."
+      },
+      "Q0269": {
+        "question": "Which sacred forest region is most prominently associated with Krishna's youthful pastimes?",
+        "options": {
+          "A": "Dandakaranya",
+          "B": "Naimisharanya",
+          "C": "Vrindavan",
+          "D": "Ashoka Vana"
+        },
+        "correct_answer": "C",
+        "explanation": "Vrindavan is the holy town in the Braj region where Krishna spent His childhood and performed many miraculous leelas."
+      },
+      "Q0270": {
+        "question": "Which demon assumed the form of a wild, terrifying horse to kill Krishna?",
+        "options": {
+          "A": "Kuvalayapida",
+          "B": "Vatsasura",
+          "C": "Pralambasura",
+          "D": "Keshi"
+        },
+        "correct_answer": "D",
+        "explanation": "Keshi the horse demon attacked Krishna, but Krishna thrust His arm into the demon's mouth, expanding it until the demon suffocated."
+      }
+    }
+  },
+  "LEVEL028": {
+    "level_number": 28,
+    "title": "Mathura, Dwarka, and Kurukshetra",
+    "difficulty": "Intermediate",
+    "questions": {
+      "Q0271": {
+        "question": "Who was the tyrannical King of Mathura and the maternal uncle of Krishna?",
+        "options": {
+          "A": "Kamsa",
+          "B": "Jarasandha",
+          "C": "Shishupala",
+          "D": "Duryodhana"
+        },
+        "correct_answer": "A",
+        "explanation": "Kamsa usurped the throne of Mathura and killed Devaki's earlier children out of fear of a prophecy that her eighth child would kill him."
+      },
+      "Q0272": {
+        "question": "Which massive wrestler did Krishna fight and defeat in Kamsa's wrestling arena?",
+        "options": {
+          "A": "Mushtika",
+          "B": "Chanura",
+          "C": "Jarasandha",
+          "D": "Bakasura"
+        },
+        "correct_answer": "B",
+        "explanation": "Chanura was Kamsa's champion wrestler. Krishna fought and killed him before proceeding to kill Kamsa."
+      },
+      "Q0273": {
+        "question": "Which impregnable island city did Krishna build to protect the Yadavas from constant attacks by Jarasandha?",
+        "options": {
+          "A": "Indraprastha",
+          "B": "Hastinapur",
+          "C": "Dwarka",
+          "D": "Ayodhya"
+        },
+        "correct_answer": "C",
+        "explanation": "Dwarka (the 'City of Gates') was built on the western coast by Vishwakarma at Krishna's behest for the safety of the Yadavas."
+      },
+      "Q0274": {
+        "question": "Who was Krishna's principal queen in Dwarka, an incarnation of Goddess Lakshmi?",
+        "options": {
+          "A": "Satyabhama",
+          "B": "Jambavati",
+          "C": "Kalindi",
+          "D": "Rukmini"
+        },
+        "correct_answer": "D",
+        "explanation": "Rukmini is the chief consort of Krishna in Dwarka. She sent a secret letter asking Krishna to kidnap her to prevent her forced marriage to Shishupala."
+      },
+      "Q0275": {
+        "question": "What is the name of Lord Krishna's divine conch shell?",
+        "options": {
+          "A": "Panchajanya",
+          "B": "Devadatta",
+          "C": "Paundra",
+          "D": "Anantavijaya"
+        },
+        "correct_answer": "A",
+        "explanation": "Krishna obtained the Panchajanya conch after defeating the demon Panchajana, who had swallowed His guru Sandipani's son."
+      },
+      "Q0276": {
+        "question": "What is Krishna's primary weapon, a spinning, serrated disc?",
+        "options": {
+          "A": "Kaumodaki",
+          "B": "Sudarshana Chakra",
+          "C": "Sharanga",
+          "D": "Nandaka"
+        },
+        "correct_answer": "B",
+        "explanation": "The Sudarshana Chakra is a powerful divine weapon that returns to Krishna's finger after destroying His enemies."
+      },
+      "Q0277": {
+        "question": "Who was Krishna's childhood friend from whom He lovingly accepted a humble offering of flattened rice (poha)?",
+        "options": {
+          "A": "Satyaki",
+          "B": "Uddhava",
+          "C": "Sudama",
+          "D": "Akrura"
+        },
+        "correct_answer": "C",
+        "explanation": "Sudama, an impoverished Brahmin, brought flattened rice for Krishna. Krishna accepted it with great joy and blessed him with unimaginable wealth."
+      },
+      "Q0278": {
+        "question": "During the great Kurukshetra war, whose charioteer did Krishna agree to be?",
+        "options": {
+          "A": "Yudhishthira",
+          "B": "Bhima",
+          "C": "Karna",
+          "D": "Arjuna"
+        },
+        "correct_answer": "D",
+        "explanation": "Krishna promised not to fight with weapons but agreed to serve as the charioteer and guide for His dear friend, Arjuna."
+      },
+      "Q0279": {
+        "question": "Which profoundly spiritual and philosophical discourse did Krishna deliver on the battlefield?",
+        "options": {
+          "A": "Bhagavad Gita",
+          "B": "Uddhava Gita",
+          "C": "Anu Gita",
+          "D": "Ashtavakra Gita"
+        },
+        "correct_answer": "A",
+        "explanation": "The Bhagavad Gita is the 700-verse dialogue where Krishna dispels Arjuna's doubts and explains duty, righteousness, and liberation."
+      },
+      "Q0280": {
+        "question": "Who was the mother of Krishna's valiant son, Pradyumna?",
+        "options": {
+          "A": "Satyabhama",
+          "B": "Rukmini",
+          "C": "Jambavati",
+          "D": "Mitravinda"
+        },
+        "correct_answer": "B",
+        "explanation": "Pradyumna, considered an incarnation of Kamadeva (the god of love), was the eldest son of Krishna and Queen Rukmini."
+      }
+    }
+  },
+  "LEVEL029": {
+    "level_number": 29,
+    "title": "Radha, Gopis, and Divine Love",
+    "difficulty": "Intermediate",
+    "questions": {
+      "Q0281": {
+        "question": "Who is considered the supreme devotee and eternal divine consort of Lord Krishna in Vrindavan?",
+        "options": {
+          "A": "Lalita",
+          "B": "Vishakha",
+          "C": "Radha",
+          "D": "Chandravali"
+        },
+        "correct_answer": "C",
+        "explanation": "Radha is the embodiment of Hladini Shakti (Krishna's spiritual bliss) and represents the pinnacle of selfless devotion."
+      },
+      "Q0282": {
+        "question": "The divine, esoteric dance performed by Krishna and the Gopis in the forests of Vrindavan is known as?",
+        "options": {
+          "A": "Tandava",
+          "B": "Lasya",
+          "C": "Garba",
+          "D": "Rasa Lila"
+        },
+        "correct_answer": "D",
+        "explanation": "The Rasa Lila is a highly mystical pastime where Krishna expanded Himself to dance simultaneously with each Gopi."
+      },
+      "Q0283": {
+        "question": "What season is most deeply associated with the performance of the Rasa Lila?",
+        "options": {
+          "A": "Sharad (Autumn)",
+          "B": "Vasant (Spring)",
+          "C": "Grishma (Summer)",
+          "D": "Varsha (Monsoon)"
+        },
+        "correct_answer": "A",
+        "explanation": "The Rasa Lila took place on the night of Sharad Purnima (the full moon of autumn), a night described as unimaginably beautiful."
+      },
+      "Q0284": {
+        "question": "Which classical text beautifully and poetically describes the intimate pastimes of Radha and Krishna?",
+        "options": {
+          "A": "Ramcharitmanas",
+          "B": "Gita Govinda",
+          "C": "Shiva Purana",
+          "D": "Devi Mahatmyam"
+        },
+        "correct_answer": "B",
+        "explanation": "The Gita Govinda is a lyrical poem detailing the love, separation, and reunion of Radha and Krishna."
+      },
+      "Q0285": {
+        "question": "Who authored the famous 12th-century text 'Gita Govinda'?",
+        "options": {
+          "A": "Kalidasa",
+          "B": "Tulsidas",
+          "C": "Jayadeva",
+          "D": "Vidyapati"
+        },
+        "correct_answer": "C",
+        "explanation": "Jayadeva, an Odia poet, composed the Gita Govinda, which heavily influenced the Bhakti movement and classical Indian arts."
+      },
+      "Q0286": {
+        "question": "In which village did Sri Radha primarily reside during her earthly pastimes?",
+        "options": {
+          "A": "Nandgaon",
+          "B": "Gokul",
+          "C": "Mathura",
+          "D": "Barsana"
+        },
+        "correct_answer": "D",
+        "explanation": "Barsana is the hometown of Radha, located near Mathura. It is famous for its unique Lathmar Holi celebrations."
+      },
+      "Q0287": {
+        "question": "The deep, selfless, and ecstatic love of the Gopis for Krishna is technically referred to in Bhakti theology as?",
+        "options": {
+          "A": "Prema Bhakti",
+          "B": "Vaidhi Bhakti",
+          "C": "Karma Yoga",
+          "D": "Jnana Yoga"
+        },
+        "correct_answer": "A",
+        "explanation": "Prema Bhakti is the highest platform of spontaneous, unconditional love for God, perfectly exemplified by the Gopis."
+      },
+      "Q0288": {
+        "question": "Which learned friend of Krishna was sent to Vrindavan to deliver a message and ended up being taught about love by the Gopis?",
+        "options": {
+          "A": "Akrura",
+          "B": "Uddhava",
+          "C": "Satyaki",
+          "D": "Kritavarma"
+        },
+        "correct_answer": "B",
+        "explanation": "Uddhava, a master of intellect and yoga, was sent by Krishna to console the Gopis. Their pure devotion profoundly humbled him."
+      },
+      "Q0289": {
+        "question": "The vibrant festival of Holi is intimately connected with Krishna's playful pastimes in which specific region?",
+        "options": {
+          "A": "Mithila",
+          "B": "Awadh",
+          "C": "Braj",
+          "D": "Kalinga"
+        },
+        "correct_answer": "C",
+        "explanation": "The Braj region (including Vrindavan, Mathura, and Barsana) is famous for 'Braj ki Holi,' re-enacting Krishna's playful coloring of the Gopis."
+      },
+      "Q0290": {
+        "question": "The term 'Ashtasakhi' refers to how many principal Gopis who constantly serve Sri Radha?",
+        "options": {
+          "A": "Four",
+          "B": "Six",
+          "C": "Ten",
+          "D": "Eight"
+        },
+        "correct_answer": "D",
+        "explanation": "'Ashta' means eight. The Ashtasakhis (like Lalita, Vishakha, etc.) are the eight foremost friends and servitors of Radha."
+      }
+    }
+  },
+  "LEVEL030": {
+    "level_number": 30,
+    "title": "Krishna Bhakti and Traditions",
+    "difficulty": "Intermediate",
+    "questions": {
+      "Q0291": {
+        "question": "Which 16th-century saint-poetess from Rajasthan is renowned for her unwavering, fearless devotion to Krishna?",
+        "options": {
+          "A": "Mirabai",
+          "B": "Andal",
+          "C": "Akka Mahadevi",
+          "D": "Lalleshwari"
+        },
+        "correct_answer": "A",
+        "explanation": "Mirabai abandoned her royal life and composed hundreds of passionate bhajans expressing her divine marriage to Lord Krishna (Giridhari)."
+      },
+      "Q0292": {
+        "question": "The philosophy of 'Achintya Bheda Abheda' (inconceivable oneness and difference), centered on Krishna, was propagated by?",
+        "options": {
+          "A": "Ramanujacharya",
+          "B": "Chaitanya Mahaprabhu",
+          "C": "Madhvacharya",
+          "D": "Adi Shankaracharya"
+        },
+        "correct_answer": "B",
+        "explanation": "Sri Chaitanya Mahaprabhu, revered as a combined avatar of Radha and Krishna, founded Gaudiya Vaishnavism and this philosophy."
+      },
+      "Q0293": {
+        "question": "Which famous temple in Puri (Odisha) is dedicated to Krishna, His brother Balarama, and sister Subhadra?",
+        "options": {
+          "A": "Lingaraj Temple",
+          "B": "Konark Sun Temple",
+          "C": "Jagannath Temple",
+          "D": "Mukteshvara Temple"
+        },
+        "correct_answer": "C",
+        "explanation": "The Jagannath Temple features unique wooden deities of Krishna (Jagannath), Balarama (Balabhadra), and Subhadra."
+      },
+      "Q0294": {
+        "question": "Surdas, the blind saint-poet, primarily composed devotional songs focusing on which phase of Krishna's life?",
+        "options": {
+          "A": "Kurukshetra War",
+          "B": "King of Dwarka",
+          "C": "Slaying of Kamsa",
+          "D": "Childhood (Bala Lila)"
+        },
+        "correct_answer": "D",
+        "explanation": "Surdas beautifully visualized and sang about the endearing childhood pastimes (Bala Lila) of Krishna in his magnum opus, Sur Sagar."
+      },
+      "Q0295": {
+        "question": "The ISKCON movement, which significantly spread Krishna Bhakti worldwide, was founded by?",
+        "options": {
+          "A": "A.C. Bhaktivedanta Swami Prabhupada",
+          "B": "Bhaktisiddhanta Sarasvati",
+          "C": "Swami Vivekananda",
+          "D": "Paramahansa Yogananda"
+        },
+        "correct_answer": "A",
+        "explanation": "Srila Prabhupada traveled to the West in 1965 and founded the International Society for Krishna Consciousness (ISKCON)."
+      },
+      "Q0296": {
+        "question": "Which classical dance form from Northeast India is deeply focused on the Rasa Lila of Radha and Krishna?",
+        "options": {
+          "A": "Kathak",
+          "B": "Manipuri",
+          "C": "Odissi",
+          "D": "Bharatanatyam"
+        },
+        "correct_answer": "B",
+        "explanation": "Manipuri dance is renowned for its gentle, graceful movements specifically depicting the Raas Leela of Radha-Krishna."
+      },
+      "Q0297": {
+        "question": "In the Pushtimarg tradition founded by Vallabhacharya, Krishna is primarily worshipped in which form?",
+        "options": {
+          "A": "Parthasarathi",
+          "B": "Venkateshwara",
+          "C": "Shrinathji",
+          "D": "Vithoba"
+        },
+        "correct_answer": "C",
+        "explanation": "Shrinathji represents the child Krishna lifting Govardhan Hill. The principal shrine is located in Nathdwara, Rajasthan."
+      },
+      "Q0298": {
+        "question": "Which great epic contains the 'Harivamsa', considered an appendix detailing Krishna's ancestry and life?",
+        "options": {
+          "A": "Ramayana",
+          "B": "Shiva Purana",
+          "C": "Skanda Purana",
+          "D": "Mahabharata"
+        },
+        "correct_answer": "D",
+        "explanation": "The Harivamsa acts as a supplement to the Mahabharata, elaborating on the lineage and pastimes of Lord Krishna (Hari)."
+      },
+      "Q0299": {
+        "question": "Which Purana is considered the most authoritative and comprehensive text on the life of Lord Krishna?",
+        "options": {
+          "A": "Bhagavata Purana (Srimad Bhagavatam)",
+          "B": "Vishnu Purana",
+          "C": "Garuda Purana",
+          "D": "Matsya Purana"
+        },
+        "correct_answer": "A",
+        "explanation": "The 10th Canto of the Srimad Bhagavatam exclusively and extensively describes the complete life and pastimes of Lord Krishna."
+      },
+      "Q0300": {
+        "question": "In South India, the 12 Tamil poet-saints who sang the glories of Vishnu and Krishna were known as?",
+        "options": {
+          "A": "Nayanars",
+          "B": "Alvars",
+          "C": "Varkaris",
+          "D": "Dasa Kutas"
+        },
+        "correct_answer": "B",
+        "explanation": "The Alvars were Vaishnava saints whose ecstatic hymns (the Divya Prabandham) immensely popularized devotion to Vishnu/Krishna in the South."
+      }
+    }
+  }
+}

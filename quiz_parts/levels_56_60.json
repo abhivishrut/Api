@@ -1,0 +1,587 @@
+{
+  "LEVEL056": {
+    "level_number": 56,
+    "title": "Advaita Vedanta Profundities",
+    "difficulty": "Advanced+",
+    "questions": {
+      "Q0551": {
+        "question": "In Advaita Vedanta, what is the term used for the illusory power of Brahman that causes the world to appear?",
+        "options": {
+          "A": "Maya",
+          "B": "Prakriti",
+          "C": "Avidya",
+          "D": "Vikshepa"
+        },
+        "correct_answer": "A",
+        "explanation": "Maya is the inexplicable power (Shakti) of Brahman that creates the illusion of the phenomenal world (Jagat)."
+      },
+      "Q0552": {
+        "question": "Which text is considered one of the 'Prasthana Trayi' upon which Shankara based his Advaita philosophy?",
+        "options": {
+          "A": "The Puranas",
+          "B": "The Brahma Sutras",
+          "C": "The Agamas",
+          "D": "The Manu Smriti"
+        },
+        "correct_answer": "B",
+        "explanation": "The Prasthana Trayi consists of the Upanishads (Shruti), the Brahma Sutras (Nyaya), and the Bhagavad Gita (Smriti)."
+      },
+      "Q0553": {
+        "question": "According to Advaita Vedanta, what is the fundamental cause of bondage?",
+        "options": {
+          "A": "Karma",
+          "B": "Desire (Kama)",
+          "C": "Avidya (Ignorance)",
+          "D": "Attachment (Moha)"
+        },
+        "correct_answer": "C",
+        "explanation": "Avidya or ignorance of one's true nature as Brahman is the root cause of all bondage and worldly existence."
+      },
+      "Q0554": {
+        "question": "What are the two powers of Avidya described in Advaita Vedanta?",
+        "options": {
+          "A": "Avarana and Vikshepa",
+          "B": "Srishti and Pralaya",
+          "C": "Jnana and Vijnana",
+          "D": "Vidya and Avidya"
+        },
+        "correct_answer": "A",
+        "explanation": "Avidya has two powers: Avarana (the power to veil the truth) and Vikshepa (the power to project the false appearance)."
+      },
+      "Q0555": {
+        "question": "Which philosophical concept asserts that the world is an apparent manifestation (vivarta) of Brahman, rather than a real transformation (parinama)?",
+        "options": {
+          "A": "Parinamavada",
+          "B": "Vivartavada",
+          "C": "Arambhavada",
+          "D": "Satkaryavada"
+        },
+        "correct_answer": "B",
+        "explanation": "Vivartavada is the Advaitic theory of causation where the cause (Brahman) remains unchanged while appearing as the effect (the world)."
+      },
+      "Q0556": {
+        "question": "What is 'Jivanmukti' in the context of Advaita Vedanta?",
+        "options": {
+          "A": "Liberation after death",
+          "B": "Liberation while living",
+          "C": "Rebirth in a higher realm",
+          "D": "Merging into a deity"
+        },
+        "correct_answer": "B",
+        "explanation": "Jivanmukti refers to the state of liberation achieved while still living in the physical body, having realized oneness with Brahman."
+      },
+      "Q0557": {
+        "question": "In Shankara's philosophy, what are the three levels of reality?",
+        "options": {
+          "A": "Jagrat, Svapna, Sushupti",
+          "B": "Paramarthika, Vyavaharika, Pratibhasika",
+          "C": "Sattva, Rajas, Tamas",
+          "D": "Srishti, Sthiti, Laya"
+        },
+        "correct_answer": "B",
+        "explanation": "The three levels are Paramarthika (absolute reality), Vyavaharika (empirical reality), and Pratibhasika (illusory reality, like a dream)."
+      },
+      "Q0558": {
+        "question": "Which mahavakya (great saying) from the Chandogya Upanishad forms a core tenet of Advaita Vedanta?",
+        "options": {
+          "A": "Aham Brahmasmi",
+          "B": "Tat Tvam Asi",
+          "C": "Prajnanam Brahma",
+          "D": "Ayam Atma Brahma"
+        },
+        "correct_answer": "B",
+        "explanation": "'Tat Tvam Asi' (Thou Art That) is the Mahavakya from the Chandogya Upanishad, teaching the identity of the individual soul and Brahman."
+      },
+      "Q0559": {
+        "question": "According to Advaita, how does a Jiva differ from Brahman?",
+        "options": {
+          "A": "Jiva is completely separate from Brahman",
+          "B": "Jiva is a part of Brahman",
+          "C": "Jiva is Brahman associated with Upadhis (limiting adjuncts)",
+          "D": "Jiva is created by Brahman"
+        },
+        "correct_answer": "C",
+        "explanation": "The Jiva is essentially Brahman but appears different due to the association with Upadhis like the body, mind, and intellect caused by ignorance."
+      },
+      "Q0560": {
+        "question": "What is 'Nirguna Brahman' in Advaita philosophy?",
+        "options": {
+          "A": "Brahman with qualities and form",
+          "B": "Brahman as the creator of the universe",
+          "C": "Brahman without attributes or qualities",
+          "D": "Brahman incarnated as an Avatar"
+        },
+        "correct_answer": "C",
+        "explanation": "Nirguna Brahman is the Absolute Reality without any attributes, qualities, or forms, which is the ultimate truth in Advaita."
+      }
+    }
+  },
+  "LEVEL057": {
+    "level_number": 57,
+    "title": "Vishishtadvaita and Dvaita Vedanta",
+    "difficulty": "Advanced+",
+    "questions": {
+      "Q0561": {
+        "question": "Who is the principal exponent of Vishishtadvaita Vedanta?",
+        "options": {
+          "A": "Shankaracharya",
+          "B": "Ramanujacharya",
+          "C": "Madhvacharya",
+          "D": "Nimbarkacharya"
+        },
+        "correct_answer": "B",
+        "explanation": "Ramanujacharya is the chief proponent of Vishishtadvaita (qualified non-dualism)."
+      },
+      "Q0562": {
+        "question": "In Vishishtadvaita, what constitutes the 'body' (Sharira) of the Supreme Lord (Brahman)?",
+        "options": {
+          "A": "Only the physical universe",
+          "B": "The individual souls (Chit) and matter (Achit)",
+          "C": "The Devas and Asuras",
+          "D": "Only the liberated souls"
+        },
+        "correct_answer": "B",
+        "explanation": "According to Ramanuja, Brahman is the soul (Shariri) and both sentient souls (Chit) and insentient matter (Achit) form His body (Sharira)."
+      },
+      "Q0563": {
+        "question": "What is the primary path to liberation (Moksha) emphasized in Vishishtadvaita?",
+        "options": {
+          "A": "Jnana (Knowledge) alone",
+          "B": "Karma (Action) alone",
+          "C": "Bhakti (Devotion) and Prapatti (Surrender)",
+          "D": "Hatha Yoga"
+        },
+        "correct_answer": "C",
+        "explanation": "Vishishtadvaita emphasizes Bhakti (devotion) and Prapatti (total surrender to God) as the supreme means to attain Moksha."
+      },
+      "Q0564": {
+        "question": "Who founded the Dvaita Vedanta school of philosophy?",
+        "options": {
+          "A": "Ramanujacharya",
+          "B": "Madhvacharya",
+          "C": "Vallabhacharya",
+          "D": "Chaitanya Mahaprabhu"
+        },
+        "correct_answer": "B",
+        "explanation": "Madhvacharya is the founder of Dvaita Vedanta, which posits a strict dualism between God and individual souls."
+      },
+      "Q0565": {
+        "question": "According to Dvaita Vedanta, how many foundational differences (Bhedas) exist eternally?",
+        "options": {
+          "A": "Three",
+          "B": "Four",
+          "C": "Five",
+          "D": "Seven"
+        },
+        "correct_answer": "C",
+        "explanation": "Madhvacharya proposed the Pancha Bheda (five absolute differences): between God and soul, God and matter, soul and soul, soul and matter, and matter and matter."
+      },
+      "Q0566": {
+        "question": "In Dvaita philosophy, what is the nature of the relationship between God (Vishnu) and the Jiva (soul)?",
+        "options": {
+          "A": "They are completely identical",
+          "B": "They are master and servant",
+          "C": "The soul merges into God upon liberation",
+          "D": "God is an illusion of the soul"
+        },
+        "correct_answer": "B",
+        "explanation": "In Dvaita, God is the eternal master (Bimba) and the soul is the eternal servant (Pratibimba); they never become completely one."
+      },
+      "Q0567": {
+        "question": "How does Vishishtadvaita interpret 'Tat Tvam Asi'?",
+        "options": {
+          "A": "Absolute identity between the individual soul and God",
+          "B": "God is the indwelling self (Antaryamin) of the individual soul",
+          "C": "The individual soul is an illusion",
+          "D": "God and soul are completely distinct with no relation"
+        },
+        "correct_answer": "B",
+        "explanation": "Ramanuja interprets 'Tat Tvam Asi' to mean that Brahman (Tat), who is the cause of the universe, is the indwelling self of the individual soul (Tvam)."
+      },
+      "Q0568": {
+        "question": "What is the concept of 'Aprithaksiddhi' in Vishishtadvaita?",
+        "options": {
+          "A": "Inseparable relationship",
+          "B": "Absolute illusion",
+          "C": "Complete dualism",
+          "D": "Spiritual liberation"
+        },
+        "correct_answer": "A",
+        "explanation": "Aprithaksiddhi is the inseparable relationship between substance and attribute, or Brahman and the world/souls, where they cannot exist independently."
+      },
+      "Q0569": {
+        "question": "According to Madhvacharya, which text is considered the ultimate authority?",
+        "options": {
+          "A": "Only the Vedas",
+          "B": "Only the Puranas",
+          "C": "Vedas, Pancharatras, Mahabharata, and original Ramayana",
+          "D": "Only the Upanishads"
+        },
+        "correct_answer": "C",
+        "explanation": "Madhva accepted a broader canon of Shruti including the Vedas, Mula Ramayana, Mahabharata, and Pancharatra Agamas as absolute authority."
+      },
+      "Q0570": {
+        "question": "In the context of Moksha, what is the Dvaita view on the state of liberated souls?",
+        "options": {
+          "A": "All souls experience the exact same level of bliss",
+          "B": "Souls lose their individuality and merge with Brahman",
+          "C": "Souls retain their individuality and experience varying degrees of bliss (Ananda Taratamya)",
+          "D": "Souls become identical to God in power"
+        },
+        "correct_answer": "C",
+        "explanation": "Dvaita propounds 'Ananda Taratamya', meaning that even in Moksha, liberated souls experience different gradations of bliss based on their intrinsic nature."
+      }
+    }
+  },
+  "LEVEL058": {
+    "level_number": 58,
+    "title": "Sankhya and Yoga Philosophies",
+    "difficulty": "Advanced+",
+    "questions": {
+      "Q0571": {
+        "question": "Who is traditionally considered the founder of the Sankhya philosophy?",
+        "options": {
+          "A": "Patanjali",
+          "B": "Kapila",
+          "C": "Gautama",
+          "D": "Kanada"
+        },
+        "correct_answer": "B",
+        "explanation": "Sage Kapila is traditionally credited as the founder of the Sankhya school of philosophy."
+      },
+      "Q0572": {
+        "question": "What are the two fundamental, eternal realities in Sankhya philosophy?",
+        "options": {
+          "A": "Brahman and Maya",
+          "B": "Purusha and Prakriti",
+          "C": "Jiva and Ishvara",
+          "D": "Shiva and Shakti"
+        },
+        "correct_answer": "B",
+        "explanation": "Sankhya is dualistic, positing two eternal realities: Purusha (pure consciousness) and Prakriti (matter or nature)."
+      },
+      "Q0573": {
+        "question": "In Sankhya, what are the three Gunas that constitute Prakriti?",
+        "options": {
+          "A": "Brahma, Vishnu, Shiva",
+          "B": "Sattva, Rajas, Tamas",
+          "C": "Dharma, Artha, Kama",
+          "D": "Prana, Tejas, Ojas"
+        },
+        "correct_answer": "B",
+        "explanation": "Prakriti is composed of three Gunas (qualities): Sattva (purity/light), Rajas (activity/passion), and Tamas (inertia/darkness)."
+      },
+      "Q0574": {
+        "question": "According to Sankhya, how does the universe evolve?",
+        "options": {
+          "A": "By the command of a Supreme God",
+          "B": "Through the illusion of Maya",
+          "C": "Due to the proximity and influence of Purusha on Prakriti",
+          "D": "Out of nothingness (Sunyata)"
+        },
+        "correct_answer": "C",
+        "explanation": "The evolution of the universe occurs when the equilibrium of the three Gunas in Prakriti is disturbed by the mere presence or proximity of Purusha."
+      },
+      "Q0575": {
+        "question": "What is the first evolute of Prakriti in the Sankhya system?",
+        "options": {
+          "A": "Ahamkara (Ego)",
+          "B": "Manas (Mind)",
+          "C": "Mahat or Buddhi (Intellect)",
+          "D": "Pancha Mahabhutas (Five Elements)"
+        },
+        "correct_answer": "C",
+        "explanation": "Mahat, the cosmic intellect (which in individuals is Buddhi), is the first principle to evolve from unmanifested Prakriti."
+      },
+      "Q0576": {
+        "question": "How is Patanjali's Yoga philosophy related to Sankhya?",
+        "options": {
+          "A": "Yoga completely rejects Sankhya metaphysics",
+          "B": "Yoga adopts Sankhya metaphysics but adds the concept of Ishvara (God)",
+          "C": "Yoga and Sankhya are entirely identical with no differences",
+          "D": "Yoga views Prakriti as an illusion, unlike Sankhya"
+        },
+        "correct_answer": "B",
+        "explanation": "Yoga philosophy accepts the epistemology and metaphysics of Sankhya but introduces Ishvara as a special Purusha, making it a theistic counterpart."
+      },
+      "Q0577": {
+        "question": "What is the primary definition of Yoga according to Patanjali's Yoga Sutras?",
+        "options": {
+          "A": "Union with God",
+          "B": "Physical flexibility and health",
+          "C": "Chitta vritti nirodhah (cessation of the modifications of the mind)",
+          "D": "Awakening of Kundalini"
+        },
+        "correct_answer": "C",
+        "explanation": "In the second sutra, Patanjali defines Yoga as 'Yogas chitta vritti nirodhah'—the stilling of the fluctuations of the mind."
+      },
+      "Q0578": {
+        "question": "Which of the following is NOT one of the eight limbs (Ashtanga) of Patanjali's Yoga?",
+        "options": {
+          "A": "Yama",
+          "B": "Niyama",
+          "C": "Tapas",
+          "D": "Pratyahara"
+        },
+        "correct_answer": "C",
+        "explanation": "Tapas is a part of Niyama, not a separate limb. The eight limbs are Yama, Niyama, Asana, Pranayama, Pratyahara, Dharana, Dhyana, and Samadhi."
+      },
+      "Q0579": {
+        "question": "In Sankhya philosophy, how many Tattvas (principles) are there in total?",
+        "options": {
+          "A": "24",
+          "B": "25",
+          "C": "36",
+          "D": "108"
+        },
+        "correct_answer": "B",
+        "explanation": "Sankhya enumerates 25 Tattvas: Purusha, Prakriti, and the 23 evolutes of Prakriti (Mahat, Ahamkara, mind, 10 organs, 5 subtle elements, 5 gross elements)."
+      },
+      "Q0580": {
+        "question": "What is the ultimate goal of Purusha in Sankhya and Yoga?",
+        "options": {
+          "A": "To merge with Prakriti",
+          "B": "To become the ruler of the universe",
+          "C": "Kaivalya (isolation or absolute liberation)",
+          "D": "Attainment of Swarga (heaven)"
+        },
+        "correct_answer": "C",
+        "explanation": "The ultimate goal is Kaivalya, where Purusha realizes its absolute distinction from Prakriti and remains in its pure, isolated state of consciousness."
+      }
+    }
+  },
+  "LEVEL059": {
+    "level_number": 59,
+    "title": "Atman, Brahman, Maya, and Moksha",
+    "difficulty": "Advanced+",
+    "questions": {
+      "Q0581": {
+        "question": "What is the defining characteristic of Atman in Vedantic philosophy?",
+        "options": {
+          "A": "It is subject to birth and death",
+          "B": "It is composed of the five elements",
+          "C": "It is pure consciousness, eternal and unchanging",
+          "D": "It is a creation of the mind"
+        },
+        "correct_answer": "C",
+        "explanation": "Atman is the true Self, beyond body and mind, characterized as eternal, unchanging, pure consciousness."
+      },
+      "Q0582": {
+        "question": "In the concept of 'Saguna Brahman', what does 'Saguna' refer to?",
+        "options": {
+          "A": "Without qualities",
+          "B": "With qualities and attributes",
+          "C": "Beyond all comprehension",
+          "D": "The illusory aspect of the world"
+        },
+        "correct_answer": "B",
+        "explanation": "Saguna means 'with qualities'. Saguna Brahman is the Supreme Reality conceived with attributes like omniscience, omnipotence, and compassion (Ishvara)."
+      },
+      "Q0583": {
+        "question": "According to the Upanishads, what covers the Atman, hiding its true nature?",
+        "options": {
+          "A": "The Pancha Koshas (Five Sheaths)",
+          "B": "The Three Gunas",
+          "C": "The Four Yugas",
+          "D": "The Ten Indriyas"
+        },
+        "correct_answer": "A",
+        "explanation": "The Atman is said to be veiled by the Pancha Koshas: Annamaya, Pranamaya, Manomaya, Vijnanamaya, and Anandamaya koshas."
+      },
+      "Q0584": {
+        "question": "What is the relationship between Atman and Brahman in Advaita Vedanta?",
+        "options": {
+          "A": "They are fundamentally different",
+          "B": "Atman is a part of Brahman",
+          "C": "They are absolutely identical",
+          "D": "Atman is created by Brahman"
+        },
+        "correct_answer": "C",
+        "explanation": "Advaita Vedanta asserts absolute non-dualism; the individual Self (Atman) is entirely identical to the universal reality (Brahman)."
+      },
+      "Q0585": {
+        "question": "How does Sri Aurobindo's 'Integral Yoga' view Maya differently from classical Advaita?",
+        "options": {
+          "A": "Maya is completely rejected as a concept",
+          "B": "Maya is viewed as the real, creative power of the Divine, not just an illusion",
+          "C": "Maya is considered the ultimate truth",
+          "D": "Maya is equated with the physical body"
+        },
+        "correct_answer": "B",
+        "explanation": "Sri Aurobindo viewed Maya not merely as an illusion (as in classical Advaita) but as the real, dynamic, creative power (Shakti) of the Divine Reality."
+      },
+      "Q0586": {
+        "question": "What is 'Videhamukti'?",
+        "options": {
+          "A": "Liberation attained through physical exercises",
+          "B": "Liberation while living in the body",
+          "C": "Liberation attained upon the death of the physical body",
+          "D": "A temporary state of bliss"
+        },
+        "correct_answer": "C",
+        "explanation": "Videhamukti means 'liberation without the body', referring to final emancipation attained at the time of death when the physical body falls away."
+      },
+      "Q0587": {
+        "question": "In Vedantic epistemology, what removes the 'Avarana' (veiling power) of Maya?",
+        "options": {
+          "A": "Karma (Action)",
+          "B": "Upasana (Meditation)",
+          "C": "Jnana (Knowledge of the Self)",
+          "D": "Dana (Charity)"
+        },
+        "correct_answer": "C",
+        "explanation": "Only direct spiritual knowledge (Jnana/Aparokshanubhuti) of the Self can destroy ignorance (Avidya) and remove the veil of Maya."
+      },
+      "Q0588": {
+        "question": "Which of these analogies is classically used in Advaita to explain Maya and the appearance of the world?",
+        "options": {
+          "A": "The seed and the tree",
+          "B": "The ocean and the waves",
+          "C": "The rope and the snake",
+          "D": "The potter and the clay"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'rope mistaken for a snake' (Rajju-Sarpa Nyaya) is the classic analogy showing how the world is superimposed upon Brahman due to ignorance."
+      },
+      "Q0589": {
+        "question": "What is 'Salokya Mukti' in the context of Vaishnava philosophy?",
+        "options": {
+          "A": "Becoming completely one with God",
+          "B": "Residing in the same abode or planetary system as the Supreme Lord",
+          "C": "Gaining the same bodily features as the Lord",
+          "D": "Attaining the same opulences as the Lord"
+        },
+        "correct_answer": "B",
+        "explanation": "Salokya refers to the liberation where the soul resides in the same spiritual planet (Loka) as the Lord (e.g., Vaikuntha)."
+      },
+      "Q0590": {
+        "question": "In the concept of 'Sat-Chit-Ananda', what does 'Chit' mean?",
+        "options": {
+          "A": "Existence",
+          "B": "Bliss",
+          "C": "Consciousness",
+          "D": "Eternity"
+        },
+        "correct_answer": "C",
+        "explanation": "Sat-Chit-Ananda translates to Existence (Sat), Consciousness (Chit), and Bliss (Ananda)—the essential nature of Brahman."
+      }
+    }
+  },
+  "LEVEL060": {
+    "level_number": 60,
+    "title": "Integrative Concepts and Philosophers",
+    "difficulty": "Advanced+",
+    "questions": {
+      "Q0591": {
+        "question": "Which philosopher propounded 'Bhedabheda' or 'Dvaitadvaita' (Dualistic Non-dualism)?",
+        "options": {
+          "A": "Vallabhacharya",
+          "B": "Nimbarkacharya",
+          "C": "Madhvacharya",
+          "D": "Shankaracharya"
+        },
+        "correct_answer": "B",
+        "explanation": "Nimbarkacharya taught Dvaitadvaita, which states that the soul and world are both distinct from and identical to Brahman, like rays of the sun."
+      },
+      "Q0592": {
+        "question": "What is 'Shuddhavaita' (Pure Non-dualism) and who founded it?",
+        "options": {
+          "A": "Vallabhacharya; it accepts Brahman as pure without the concept of Maya",
+          "B": "Ramanujacharya; it relies strictly on Vishnu worship",
+          "C": "Chaitanya; it focuses on ecstatic chanting",
+          "D": "Shankara; it emphasizes severe asceticism"
+        },
+        "correct_answer": "A",
+        "explanation": "Vallabhacharya founded Shuddhadvaita, arguing that Brahman is pure (Shuddha) and the world is a real manifestation of Brahman, devoid of the illusion of Maya."
+      },
+      "Q0593": {
+        "question": "In Gaudiya Vaishnavism (Chaitanya Mahaprabhu), what is the philosophical doctrine called?",
+        "options": {
+          "A": "Vishishtadvaita",
+          "B": "Dvaita",
+          "C": "Achintya Bheda Abheda",
+          "D": "Kevaladvaita"
+        },
+        "correct_answer": "C",
+        "explanation": "The doctrine is 'Achintya Bheda Abheda'—inconceivable simultaneous oneness and difference between God and the soul."
+      },
+      "Q0594": {
+        "question": "What is the meaning of 'Prasthanatrayi' in Hindu philosophy?",
+        "options": {
+          "A": "The three stages of life",
+          "B": "The three forms of God",
+          "C": "The three sources of authority (Upanishads, Brahma Sutras, Bhagavad Gita)",
+          "D": "The three paths to liberation (Karma, Jnana, Bhakti)"
+        },
+        "correct_answer": "C",
+        "explanation": "Prasthanatrayi refers to the three foundational texts of Vedanta: the Upanishads (Shruti), Brahma Sutras (Nyaya), and Bhagavad Gita (Smriti)."
+      },
+      "Q0595": {
+        "question": "According to the Nyaya philosophy, what is the primary means of obtaining valid knowledge (Pramana)?",
+        "options": {
+          "A": "Perception (Pratyaksha)",
+          "B": "Inference (Anumana)",
+          "C": "Verbal testimony (Shabda)",
+          "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "explanation": "Nyaya accepts four Pramanas: Perception (Pratyaksha), Inference (Anumana), Comparison (Upamana), and Verbal Testimony (Shabda)."
+      },
+      "Q0596": {
+        "question": "Which school of thought is primarily concerned with the hermeneutics and rituals of the Vedas?",
+        "options": {
+          "A": "Purva Mimamsa",
+          "B": "Uttara Mimamsa",
+          "C": "Vaisheshika",
+          "D": "Sankhya"
+        },
+        "correct_answer": "A",
+        "explanation": "Purva Mimamsa focuses on the exegesis of the Karma Kanda (ritual portion) of the Vedas and emphasizes dharma through Vedic rituals."
+      },
+      "Q0597": {
+        "question": "Which philosopher wrote the famous commentary 'Sri Bhashya' on the Brahma Sutras?",
+        "options": {
+          "A": "Shankaracharya",
+          "B": "Ramanujacharya",
+          "C": "Madhvacharya",
+          "D": "Vidyaranya"
+        },
+        "correct_answer": "B",
+        "explanation": "Ramanujacharya wrote the 'Sri Bhashya', establishing the Vishishtadvaita interpretation of the Brahma Sutras."
+      },
+      "Q0598": {
+        "question": "In Vaisheshika philosophy, how many categories (Padarthas) of reality are recognized?",
+        "options": {
+          "A": "Three",
+          "B": "Five",
+          "C": "Seven",
+          "D": "Nine"
+        },
+        "correct_answer": "C",
+        "explanation": "Vaisheshika categorizes all objects of experience into seven Padarthas: Dravya, Guna, Karma, Samanya, Vishesha, Samavaya, and Abhava."
+      },
+      "Q0599": {
+        "question": "What is the concept of 'Anekantavada'?",
+        "options": {
+          "A": "The Vedantic concept of one truth",
+          "B": "The Jain philosophical doctrine of many-sidedness of reality",
+          "C": "The Buddhist doctrine of no-self",
+          "D": "The Mimamsa rule of sacrifice"
+        },
+        "correct_answer": "B",
+        "explanation": "Anekantavada is a core Jain philosophy stating that truth and reality are complex and have multiple aspects, contrasting with singular absolute assertions."
+      },
+      "Q0600": {
+        "question": "What is the ultimate state of consciousness in Mandukya Upanishad, beyond waking, dreaming, and deep sleep?",
+        "options": {
+          "A": "Prajna",
+          "B": "Taijasa",
+          "C": "Turiya",
+          "D": "Vishva"
+        },
+        "correct_answer": "C",
+        "explanation": "Turiya (the 'fourth') is the state of pure consciousness that underlies and transcends the three states of waking (Vishva), dreaming (Taijasa), and deep sleep (Prajna)."
+      }
+    }
+  }
+}

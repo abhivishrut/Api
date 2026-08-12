@@ -1,0 +1,587 @@
+{
+  "LEVEL011": {
+    "level_number": 11,
+    "title": "The Setting and the Speakers",
+    "difficulty": "Beginner+",
+    "questions": {
+      "Q0101": {
+        "question": "Where does the dialogue of the Bhagavad Gita take place?",
+        "options": {
+          "A": "Ayodhya",
+          "B": "Kurukshetra",
+          "C": "Mathura",
+          "D": "Hastinapura"
+        },
+        "correct_answer": "B",
+        "explanation": "The Bhagavad Gita is spoken on the battlefield of Kurukshetra right before the start of the great Mahabharata war. It is often referred to as Dharmakshetra, the field of righteousness."
+      },
+      "Q0102": {
+        "question": "Who is reciting the events of the battlefield to the blind King Dhritarashtra?",
+        "options": {
+          "A": "Sanjaya",
+          "B": "Vidura",
+          "C": "Vyasa",
+          "D": "Bhishma"
+        },
+        "correct_answer": "A",
+        "explanation": "Sanjaya, the visionary charioteer and advisor to Dhritarashtra, was granted divine vision by Sage Vyasa to see and narrate the events of the war."
+      },
+      "Q0103": {
+        "question": "Which Pandava brother is experiencing a moral crisis at the beginning of the Gita?",
+        "options": {
+          "A": "Yudhishthira",
+          "B": "Bhima",
+          "C": "Nakula",
+          "D": "Arjuna"
+        },
+        "correct_answer": "D",
+        "explanation": "Arjuna is overwhelmed with compassion and grief upon seeing his relatives and teachers in the opposing army, leading to his moral crisis."
+      },
+      "Q0104": {
+        "question": "Who serves as Arjuna's charioteer during the Kurukshetra war?",
+        "options": {
+          "A": "Drona",
+          "B": "Krishna",
+          "C": "Karna",
+          "D": "Balarama"
+        },
+        "correct_answer": "B",
+        "explanation": "Lord Krishna, while vowing not to take up arms, chose to serve as the charioteer for Arjuna, guiding him both physically and spiritually."
+      },
+      "Q0105": {
+        "question": "How many chapters are there in the Bhagavad Gita?",
+        "options": {
+          "A": "12",
+          "B": "15",
+          "C": "18",
+          "D": "24"
+        },
+        "correct_answer": "C",
+        "explanation": "The Bhagavad Gita comprises exactly 18 chapters and 700 verses, systematically dealing with different paths of yoga and ultimate truth."
+      },
+      "Q0106": {
+        "question": "The Bhagavad Gita is a part of which larger epic?",
+        "options": {
+          "A": "Ramayana",
+          "B": "Bhagavata Purana",
+          "C": "Shiva Purana",
+          "D": "Mahabharata"
+        },
+        "correct_answer": "D",
+        "explanation": "The Gita is a philosophical and spiritual episode embedded in the great Indian epic, the Mahabharata."
+      },
+      "Q0107": {
+        "question": "Which parva (book) of the Mahabharata contains the Bhagavad Gita?",
+        "options": {
+          "A": "Bhishma Parva",
+          "B": "Vana Parva",
+          "C": "Adi Parva",
+          "D": "Shanti Parva"
+        },
+        "correct_answer": "A",
+        "explanation": "The Bhagavad Gita forms chapters 23 to 40 of the Bhishma Parva, the sixth book of the Mahabharata."
+      },
+      "Q0108": {
+        "question": "What is the primary cause of Arjuna's sorrow in the first chapter?",
+        "options": {
+          "A": "Fear of death",
+          "B": "Fighting his own relatives and teachers",
+          "C": "Loss of his kingdom",
+          "D": "Being outnumbered"
+        },
+        "correct_answer": "B",
+        "explanation": "Arjuna loses the will to fight because he sees his beloved grandfather Bhishma, his guru Drona, and other relatives on the opposing side, making him question the value of victory at such a cost."
+      },
+      "Q0109": {
+        "question": "What is the symbol on Arjuna's chariot flag?",
+        "options": {
+          "A": "Lion",
+          "B": "Garuda",
+          "C": "Sun",
+          "D": "Hanuman"
+        },
+        "correct_answer": "D",
+        "explanation": "Arjuna's chariot features a flag bearing the emblem of Hanuman (Kapidhvaja), signifying devotion and invincibility."
+      },
+      "Q0110": {
+        "question": "Who composed the Mahabharata, including the Bhagavad Gita?",
+        "options": {
+          "A": "Valmiki",
+          "B": "Tulsidas",
+          "C": "Veda Vyasa",
+          "D": "Kalidasa"
+        },
+        "correct_answer": "C",
+        "explanation": "The sage Veda Vyasa is traditionally recognized as the author and compiler of the Mahabharata, which contains the Bhagavad Gita."
+      }
+    }
+  },
+  "LEVEL012": {
+    "level_number": 12,
+    "title": "The Atman (Soul) and Reincarnation",
+    "difficulty": "Beginner+",
+    "questions": {
+      "Q0111": {
+        "question": "According to the Gita, what is the true nature of the Atman (soul)?",
+        "options": {
+          "A": "Eternal and indestructible",
+          "B": "Mortal and dies with the body",
+          "C": "Created at the time of birth",
+          "D": "Capable of feeling physical pain"
+        },
+        "correct_answer": "A",
+        "explanation": "Krishna teaches that the Atman is unborn, eternal, ever-existing, and primeval. It is not slain when the body is slain."
+      },
+      "Q0112": {
+        "question": "To what does Krishna compare the changing of bodies at death?",
+        "options": {
+          "A": "A river flowing into the ocean",
+          "B": "A bird flying away from a tree",
+          "C": "Changing old clothes for new ones",
+          "D": "A fire burning to ashes"
+        },
+        "correct_answer": "C",
+        "explanation": "In Chapter 2, Krishna beautifully explains that just as a person discards old clothes and puts on new ones, the soul discards old bodies and takes on new ones."
+      },
+      "Q0113": {
+        "question": "Which of the following cannot destroy the soul according to Chapter 2?",
+        "options": {
+          "A": "Weapons",
+          "B": "Fire",
+          "C": "Water",
+          "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "explanation": "The Gita states, 'Weapons cannot cut it, fire cannot burn it, water cannot wet it, and wind cannot dry it.' The soul is immune to physical elements."
+      },
+      "Q0114": {
+        "question": "What is the Sanskrit term for the continuous cycle of birth and death?",
+        "options": {
+          "A": "Moksha",
+          "B": "Samsara",
+          "C": "Dharma",
+          "D": "Karma"
+        },
+        "correct_answer": "B",
+        "explanation": "Samsara refers to the continuous cycle of birth, death, and rebirth, driven by one's karma and desires."
+      },
+      "Q0115": {
+        "question": "What determines the kind of body a soul attains in its next life?",
+        "options": {
+          "A": "Accumulated material wealth",
+          "B": "Physical strength in the current life",
+          "C": "Karma and state of mind at death",
+          "D": "Pure random chance"
+        },
+        "correct_answer": "C",
+        "explanation": "Krishna explains that whatever state of being one remembers when leaving the body at death, that state one will attain in the next life, guided by past karma."
+      },
+      "Q0116": {
+        "question": "The Bhagavad Gita states that whatever is born is certain to ___.",
+        "options": {
+          "A": "Suffer eternally",
+          "B": "Accumulate wealth",
+          "C": "Be liberated immediately",
+          "D": "Die"
+        },
+        "correct_answer": "D",
+        "explanation": "Krishna reminds Arjuna that death is certain for one who has been born, and rebirth is certain for one who has died. Therefore, one should not lament over the inevitable."
+      },
+      "Q0117": {
+        "question": "According to Krishna, mourning the death of the physical body is ___.",
+        "options": {
+          "A": "Unwise for the wise",
+          "B": "Necessary for the soul's peace",
+          "C": "The highest dharma",
+          "D": "Only meant for the weak"
+        },
+        "correct_answer": "A",
+        "explanation": "Krishna states that the truly wise grieve neither for the living nor for the dead, because they understand the eternal nature of the soul."
+      },
+      "Q0118": {
+        "question": "What exists within all living beings, connecting them to the Divine?",
+        "options": {
+          "A": "Ahamkara (Ego)",
+          "B": "Atman (Soul)",
+          "C": "Manas (Mind)",
+          "D": "Buddhi (Intellect)"
+        },
+        "correct_answer": "B",
+        "explanation": "The Atman is the divine spark, the true self present in every living being, making them fundamentally a part of the Supreme."
+      },
+      "Q0119": {
+        "question": "What illusion prevents a person from realizing their true eternal nature?",
+        "options": {
+          "A": "Satya (Truth)",
+          "B": "Prema (Love)",
+          "C": "Maya (Illusion)",
+          "D": "Shanti (Peace)"
+        },
+        "correct_answer": "C",
+        "explanation": "Maya is the divine illusory energy that makes individuals identify with their temporary physical bodies and the material world instead of their eternal soul."
+      },
+      "Q0120": {
+        "question": "In the Gita, realizing that one is the eternal soul and not the body leads to ___.",
+        "options": {
+          "A": "Immortality of the physical body",
+          "B": "Unlimited material wealth",
+          "C": "Magical powers",
+          "D": "Fearlessness and supreme peace"
+        },
+        "correct_answer": "D",
+        "explanation": "Self-realization dispels the fear of death and the anxieties of material life, bringing profound inner peace and fearlessness."
+      }
+    }
+  },
+  "LEVEL013": {
+    "level_number": 13,
+    "title": "Karma Yoga: The Path of Action",
+    "difficulty": "Beginner+",
+    "questions": {
+      "Q0121": {
+        "question": "What is the central message of Karma Yoga?",
+        "options": {
+          "A": "Perform duty without attachment to the results",
+          "B": "Renounce all physical action",
+          "C": "Perform action solely for personal gain",
+          "D": "Focus only on ritualistic worship"
+        },
+        "correct_answer": "A",
+        "explanation": "Karma Yoga teaches the philosophy of selfless action, executing one's duties diligently without being emotionally attached to success or failure."
+      },
+      "Q0122": {
+        "question": "Krishna advises Arjuna that he has the right to perform his duty, but not the right to ___.",
+        "options": {
+          "A": "Choose his specific duty",
+          "B": "Rest during the action",
+          "C": "Speak to his superiors",
+          "D": "The fruits of his actions"
+        },
+        "correct_answer": "D",
+        "explanation": "This is one of the most famous verses of the Gita (Karmanye Vadhikaraste): 'You have a right to perform your prescribed duty, but you are not entitled to the fruits of action.'"
+      },
+      "Q0123": {
+        "question": "What does the term 'Nishkama Karma' signify?",
+        "options": {
+          "A": "Action driven by strong desire",
+          "B": "Action performed without selfish desire",
+          "C": "Complete physical inaction",
+          "D": "Action that incurs bad karma"
+        },
+        "correct_answer": "B",
+        "explanation": "Nishkama Karma translates to desire-less action. It is doing the right thing simply because it is the right thing to do, free from selfish motives."
+      },
+      "Q0124": {
+        "question": "Why does Krishna explicitly tell Arjuna he must fight the war?",
+        "options": {
+          "A": "To get revenge for past insults",
+          "B": "To win wealth and kingdom",
+          "C": "Because it is his Kshatriya Dharma (warrior duty)",
+          "D": "Because the enemies are extremely weak"
+        },
+        "correct_answer": "C",
+        "explanation": "Arjuna is a Kshatriya (warrior class). His righteous duty (Dharma) is to protect righteousness and fight injustice, making participating in this just war his sacred obligation."
+      },
+      "Q0125": {
+        "question": "According to Karma Yoga, how should one treat success and failure?",
+        "options": {
+          "A": "With equanimity (evenness of mind)",
+          "B": "Celebrate success loudly and mourn failure deeply",
+          "C": "Ignore success but focus on failure",
+          "D": "Blame others immediately for any failure"
+        },
+        "correct_answer": "A",
+        "explanation": "Yoga is defined in the Gita as equanimity (Samatvam Yoga Uchyate). A Karma Yogi remains balanced and unaffected whether facing victory or defeat."
+      },
+      "Q0126": {
+        "question": "Inaction, according to the Gita, is ___.",
+        "options": {
+          "A": "The highest spiritual path",
+          "B": "Better than making a mistake",
+          "C": "The primary goal of Karma Yoga",
+          "D": "Impossible, as nature forces everyone to act"
+        },
+        "correct_answer": "D",
+        "explanation": "Krishna states that no one can remain completely inactive even for a moment, as the qualities of material nature (Gunas) continuously force living beings into action."
+      },
+      "Q0127": {
+        "question": "Who is considered a true 'Sannyasi' (renunciate) in the context of Karma Yoga?",
+        "options": {
+          "A": "One who abandons society to live in a forest",
+          "B": "One who performs duty without expecting reward",
+          "C": "One who survives by begging for food",
+          "D": "One who gives up breathing and moving"
+        },
+        "correct_answer": "B",
+        "explanation": "True renunciation is internal. A person who does their obligatory duties without depending on the fruits of action is considered a true renunciate (Sannyasi) and a true yogi."
+      },
+      "Q0128": {
+        "question": "What is 'Svadharma' in the context of the Gita?",
+        "options": {
+          "A": "One's own prescribed natural duty",
+          "B": "The religion practiced by others",
+          "C": "A feeling of universal love",
+          "D": "A specific set of temple rituals"
+        },
+        "correct_answer": "A",
+        "explanation": "Svadharma refers to the unique, prescribed duties and responsibilities of an individual, based on their nature, stage of life, and societal role."
+      },
+      "Q0129": {
+        "question": "Krishna states that it is better to perform one's own duty imperfectly than to ___.",
+        "options": {
+          "A": "Not perform any duty at all",
+          "B": "Perform it only for financial gain",
+          "C": "Perform another's duty perfectly",
+          "D": "Perform it for social fame"
+        },
+        "correct_answer": "C",
+        "explanation": "The Gita warns against imitating others. Fulfilling one's own Dharma, even with faults, brings spiritual progress, while taking on another's path is fraught with danger."
+      },
+      "Q0130": {
+        "question": "Offering the results of all actions to the Divine is a practice that strongly bridges Karma Yoga and ___.",
+        "options": {
+          "A": "Hatha Yoga",
+          "B": "Raja Yoga",
+          "C": "Kundalini Yoga",
+          "D": "Bhakti Yoga"
+        },
+        "correct_answer": "D",
+        "explanation": "Dedicating all actions and their fruits to God blends Karma Yoga (action) with Bhakti Yoga (devotion), turning daily work into an act of worship."
+      }
+    }
+  },
+  "LEVEL014": {
+    "level_number": 14,
+    "title": "Bhakti Yoga and Jnana Yoga",
+    "difficulty": "Beginner+",
+    "questions": {
+      "Q0131": {
+        "question": "What does 'Bhakti Yoga' primarily entail?",
+        "options": {
+          "A": "A rigorous path of physical exercises",
+          "B": "A path of deep intellectual analysis",
+          "C": "The path of pure, loving devotion to God",
+          "D": "A path requiring silent meditation only"
+        },
+        "correct_answer": "C",
+        "explanation": "Bhakti Yoga focuses on cultivating an intense, selfless love and devotion to the Supreme Being, making it an accessible and direct path to liberation."
+      },
+      "Q0132": {
+        "question": "What does Krishna say he lovingly accepts from a devotee?",
+        "options": {
+          "A": "A leaf, a flower, a fruit, or even water",
+          "B": "Only pure gold and silver",
+          "C": "Only massive fire sacrifices",
+          "D": "Entire earthly kingdoms"
+        },
+        "correct_answer": "A",
+        "explanation": "In Chapter 9, Krishna explains that the purity of devotion matters, not the material value. Even the simplest offerings, given with love, are joyfully accepted."
+      },
+      "Q0133": {
+        "question": "In Bhakti Yoga, what is considered the most important qualification for the devotee?",
+        "options": {
+          "A": "Having a high birth or caste",
+          "B": "Possessing great wealth",
+          "C": "A highly sharpened intellect",
+          "D": "Pure love and sincere surrender"
+        },
+        "correct_answer": "D",
+        "explanation": "Bhakti transcends all material qualifications like wealth, education, or social status. Pure intent, love, and surrender are all that matter."
+      },
+      "Q0134": {
+        "question": "What is 'Jnana Yoga' as described in the Gita?",
+        "options": {
+          "A": "The path of knowledge, wisdom, and self-analysis",
+          "B": "The strict adherence to ancient rituals",
+          "C": "The path of emotional devotion",
+          "D": "The path of relentless physical action"
+        },
+        "correct_answer": "A",
+        "explanation": "Jnana Yoga is the path of true knowledge, where one uses intellect and spiritual wisdom to distinguish the eternal soul from the temporary material body."
+      },
+      "Q0135": {
+        "question": "How does a practitioner of Jnana Yoga approach the ultimate truth?",
+        "options": {
+          "A": "Through continuous musical chanting",
+          "B": "By distinguishing between the real and the unreal (discrimination)",
+          "C": "Through performing physical community service",
+          "D": "Through strict dietary fasting alone"
+        },
+        "correct_answer": "B",
+        "explanation": "Jnana Yogis practice 'Viveka' (discrimination) to constantly separate truth from illusion, realizing the underlying spiritual reality behind the material facade."
+      },
+      "Q0136": {
+        "question": "What wondrous form does Krishna reveal to Arjuna in Chapter 11?",
+        "options": {
+          "A": "His innocent childhood form in Vrindavan",
+          "B": "A majestic four-armed form holding weapons",
+          "C": "His Vishvarupa (Universal, Cosmic Form)",
+          "D": "A completely invisible, formless state"
+        },
+        "correct_answer": "C",
+        "explanation": "In a climactic moment, Krishna grants Arjuna the vision of His Vishvarupa, the Universal Form encompassing the entire cosmos, time, and all beings."
+      },
+      "Q0137": {
+        "question": "Who gives Arjuna the divine vision (Divya Drishti) necessary to see the Universal Form?",
+        "options": {
+          "A": "Lord Shiva",
+          "B": "Sage Vyasa",
+          "C": "Lord Brahma",
+          "D": "Lord Krishna"
+        },
+        "correct_answer": "D",
+        "explanation": "Because mortal eyes cannot behold the Supreme cosmic form, Krishna bestows divine eyes upon Arjuna so he can witness the overwhelming revelation."
+      },
+      "Q0138": {
+        "question": "The Gita explains that true spiritual knowledge (Jnana) acts like fire to destroy ___.",
+        "options": {
+          "A": "Ignorance and the reactions of Karma",
+          "B": "A person's material wealth",
+          "C": "Loving family ties",
+          "D": "The capacity for devotion"
+        },
+        "correct_answer": "A",
+        "explanation": "Krishna says that just as a blazing fire turns firewood to ashes, the fire of true knowledge burns all karmic reactions to ashes, liberating the soul."
+      },
+      "Q0139": {
+        "question": "In Chapter 9, Krishna calls the knowledge of the Gita the 'Rajavidya'. What does this mean?",
+        "options": {
+          "A": "Secret ancient rituals",
+          "B": "The King of Knowledge",
+          "C": "The Science of Politics",
+          "D": "The systematic path to wealth"
+        },
+        "correct_answer": "B",
+        "explanation": "Rajavidya means 'The King of Education' or 'The King of Knowledge'. It is described as the most secret, purest, and supreme knowledge."
+      },
+      "Q0140": {
+        "question": "Which crucial element is common and essential to both Karma Yoga and Bhakti Yoga?",
+        "options": {
+          "A": "Physically giving up the material world",
+          "B": "Undergoing extreme physical fasting",
+          "C": "Leaving one's family and home entirely",
+          "D": "Surrendering the ego and personal desires to the Divine"
+        },
+        "correct_answer": "D",
+        "explanation": "Whether through selfless action or pure devotion, both paths require subduing the ego and offering one's life and will to the Supreme."
+      }
+    }
+  },
+  "LEVEL015": {
+    "level_number": 15,
+    "title": "Dharma, Gunas, and Moksha",
+    "difficulty": "Beginner+",
+    "questions": {
+      "Q0141": {
+        "question": "What are the three Gunas (modes of material nature) extensively described in the Gita?",
+        "options": {
+          "A": "Sattva, Rajas, and Tamas",
+          "B": "Vata, Pitta, and Kapha",
+          "C": "Brahma, Vishnu, and Shiva",
+          "D": "Dharma, Artha, and Kama"
+        },
+        "correct_answer": "A",
+        "explanation": "The Gita explains that the entire material creation is influenced by three Gunas: Sattva (goodness), Rajas (passion), and Tamas (ignorance)."
+      },
+      "Q0142": {
+        "question": "Which of the three Gunas is characterized by goodness, purity, harmony, and wisdom?",
+        "options": {
+          "A": "Rajas",
+          "B": "Sattva",
+          "C": "Tamas",
+          "D": "Prana"
+        },
+        "correct_answer": "B",
+        "explanation": "Sattva is the mode of goodness. It brings illumination, joy, and spiritual wisdom, keeping a person peaceful and steady."
+      },
+      "Q0143": {
+        "question": "The mode of Rajas is predominantly associated with ___.",
+        "options": {
+          "A": "Extreme laziness and sleep",
+          "B": "Inner peace and divine light",
+          "C": "Passion, desires, and restless action",
+          "D": "Deep meditative trance"
+        },
+        "correct_answer": "C",
+        "explanation": "Rajas binds the soul through attachment to fruitive actions, intense worldly desires, greed, and a restless drive to achieve material success."
+      },
+      "Q0144": {
+        "question": "Laziness, ignorance, delusion, and negligence are symptoms of which Guna?",
+        "options": {
+          "A": "Sattva",
+          "B": "Rajas",
+          "C": "Ojas",
+          "D": "Tamas"
+        },
+        "correct_answer": "D",
+        "explanation": "Tamas is the mode of darkness and ignorance. It drags a person down into delusion, indolence, and a lack of awareness of right and wrong."
+      },
+      "Q0145": {
+        "question": "What is the ultimate, supreme goal of following the teachings of the Bhagavad Gita?",
+        "options": {
+          "A": "Moksha (Liberation)",
+          "B": "Svarga (Heaven for a temporary time)",
+          "C": "Becoming a powerful king on earth",
+          "D": "Acquiring supernatural magical powers"
+        },
+        "correct_answer": "A",
+        "explanation": "While heavenly planets offer temporary pleasure, the ultimate goal is Moksha: permanent liberation and union with the Supreme, never to return to the mortal world."
+      },
+      "Q0146": {
+        "question": "What does 'Moksha' practically mean for the individual soul in the context of the Gita?",
+        "options": {
+          "A": "Fulfilling every single worldly desire",
+          "B": "Moving geographically to another peaceful planet",
+          "C": "Complete freedom from the painful cycle of birth and death",
+          "D": "Being reborn immediately as an immortal demigod"
+        },
+        "correct_answer": "C",
+        "explanation": "Moksha represents the end of Samsara. The soul realizes its true nature and achieves eternal spiritual existence, free from material rebirth and suffering."
+      },
+      "Q0147": {
+        "question": "In the final chapter, what is Krishna's ultimate and most confidential instruction to Arjuna?",
+        "options": {
+          "A": "Go strictly to the forest and meditate silently forever",
+          "B": "Perform massive animal sacrifices to appease the gods",
+          "C": "Forgive the Kauravas completely and refuse to fight",
+          "D": "Abandon all varieties of religion and just surrender unto Him"
+        },
+        "correct_answer": "D",
+        "explanation": "In verse 18.66, Krishna offers the supreme conclusion: 'Abandon all varieties of religion and just surrender unto Me. I shall deliver you from all sinful reactions.'"
+      },
+      "Q0148": {
+        "question": "What does Krishna promise to the one who surrenders completely to Him?",
+        "options": {
+          "A": "Unlimited material wealth and fame",
+          "B": "Deliverance from all sins and fear",
+          "C": "Guaranteed political victory without having to fight",
+          "D": "Physical immortality in their current body"
+        },
+        "correct_answer": "B",
+        "explanation": "Following His call for complete surrender, Krishna assures Arjuna, 'Do not fear. I will deliver you from all sinful reactions.' It is a promise of ultimate spiritual safety."
+      },
+      "Q0149": {
+        "question": "The Bhagavad Gita is essentially a profound dialogue about successfully reconciling ___.",
+        "options": {
+          "A": "Modern science and ancient magic",
+          "B": "Different warring political systems",
+          "C": "Worldly duty (Dharma) and spiritual liberation (Moksha)",
+          "D": "The various regional languages of ancient India"
+        },
+        "correct_answer": "C",
+        "explanation": "The Gita resolves the apparent conflict between living actively in the world fulfilling one's societal duties, and the pursuit of ultimate spiritual renunciation and freedom."
+      },
+      "Q0150": {
+        "question": "What is Arjuna's state of mind at the very end of the Bhagavad Gita?",
+        "options": {
+          "A": "He is still confused, doubtful, and grieving",
+          "B": "His illusion is completely dispelled, and he is ready to act firmly",
+          "C": "He is angry at Krishna for forcing him into battle",
+          "D": "He decides to drop his weapons and run away"
+        },
+        "correct_answer": "B",
+        "explanation": "Arjuna declares, 'My illusion is gone. I have regained my memory by Your mercy. I am now firm and free from doubt and am prepared to act according to Your instructions.'"
+      }
+    }
+  }
+}

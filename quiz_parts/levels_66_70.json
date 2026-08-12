@@ -1,0 +1,587 @@
+{
+  "LEVEL066": {
+    "level_number": 66,
+    "title": "The Mechanism of Karma",
+    "difficulty": "Expert",
+    "questions": {
+      "Q0651": {
+        "question": "Which of the following categories of Karma refers to the portion of past actions currently bearing fruit in this present lifetime?",
+        "options": {
+          "A": "Sanchita Karma",
+          "B": "Prarabdha Karma",
+          "C": "Agami Karma",
+          "D": "Kriyamana Karma"
+        },
+        "correct_answer": "B",
+        "explanation": "Prarabdha Karma is the specific portion of accumulated karma (Sanchita) that has ripened and is responsible for the present body and lifetime experiences."
+      },
+      "Q0652": {
+        "question": "In the Bhagavad Gita, Krishna speaks of 'Akarma'. What does this term denote in the context of spiritual action?",
+        "options": {
+          "A": "Inaction out of laziness or ignorance",
+          "B": "Sinful actions that incur negative karma",
+          "C": "Action performed without attachment to the results",
+          "D": "Rituals performed for worldly benefits"
+        },
+        "correct_answer": "C",
+        "explanation": "Akarma refers to action performed without any egocentric desire or attachment to the fruits, thus binding the doer with no karmic consequence."
+      },
+      "Q0653": {
+        "question": "According to Patanjali's Yoga Sutras, what is the term used for the latent karmic impressions stored in the subconscious mind?",
+        "options": {
+          "A": "Vrittis",
+          "B": "Samskaras",
+          "C": "Kleshas",
+          "D": "Gunas"
+        },
+        "correct_answer": "B",
+        "explanation": "Samskaras are the deep mental impressions or psychological imprints created by actions and thoughts, shaping future karma and behavioral tendencies."
+      },
+      "Q0654": {
+        "question": "The concept of 'Nishkama Karma' primarily aims at purifying the mind. Which scripture is most renowned for expounding this philosophy?",
+        "options": {
+          "A": "Upanishads",
+          "B": "Bhagavad Gita",
+          "C": "Rig Veda",
+          "D": "Brahma Sutras"
+        },
+        "correct_answer": "B",
+        "explanation": "The Bhagavad Gita is fundamentally famous for its detailed exposition of Nishkama Karma Yoga—acting without desire for the fruits of action."
+      },
+      "Q0655": {
+        "question": "How does the law of Karma explain the apparent inequalities in birth and fortune among living beings?",
+        "options": {
+          "A": "As the random play of nature (Prakriti)",
+          "B": "As the absolute will of a capricious deity",
+          "C": "As the direct result of actions performed in previous lives",
+          "D": "As an illusion with no actual cause"
+        },
+        "correct_answer": "C",
+        "explanation": "Karma posits that present circumstances are the fruition of an individual's own past actions from previous incarnations, ensuring cosmic justice."
+      },
+      "Q0656": {
+        "question": "In Vedanta, when an individual attains Jivanmukti (liberation while living), what happens to their Agami Karma?",
+        "options": {
+          "A": "It is transferred to their disciples",
+          "B": "It ceases to be generated",
+          "C": "It is stored for the next life",
+          "D": "It must be exhausted through suffering"
+        },
+        "correct_answer": "B",
+        "explanation": "For a Jivanmukta, Agami Karma (future karma) ceases to accumulate because they act without ego or sense of doership."
+      },
+      "Q0657": {
+        "question": "Which ancient text provides extensive sociological guidelines on the varied Dharmas according to one's Varna and Ashrama?",
+        "options": {
+          "A": "Yoga Vasistha",
+          "B": "Manusmriti",
+          "C": "Ashtavakra Gita",
+          "D": "Vivekachudamani"
+        },
+        "correct_answer": "B",
+        "explanation": "The Manusmriti (Laws of Manu) is a prominent Dharma Shastra detailing duties, laws, and ethical guidelines specific to different classes and stages of life."
+      },
+      "Q0658": {
+        "question": "What is the relationship between 'Rta' in the Vedas and the later concept of 'Dharma'?",
+        "options": {
+          "A": "Rta is exclusively physical, while Dharma is spiritual",
+          "B": "Dharma evolved from Rta, which means the cosmic order and truth",
+          "C": "They are completely unrelated concepts from different eras",
+          "D": "Rta means illusion, opposing the reality of Dharma"
+        },
+        "correct_answer": "B",
+        "explanation": "Rta is the Vedic principle of natural order which regulates and coordinates the operation of the universe and everything within it, evolving into the broader concept of Dharma."
+      },
+      "Q0659": {
+        "question": "The story of King Janaka is often cited as the perfect example of which path?",
+        "options": {
+          "A": "Karma Sannyasa",
+          "B": "Karma Yoga",
+          "C": "Hatha Yoga",
+          "D": "Bhakti Yoga"
+        },
+        "correct_answer": "B",
+        "explanation": "King Janaka ruled a kingdom flawlessly while remaining unattached, epitomizing Karma Yoga and living as a Jivanmukta (liberated soul)."
+      },
+      "Q0660": {
+        "question": "According to Mimamsa philosophy, what is the primary purpose of performing Vedic rituals (Karma)?",
+        "options": {
+          "A": "To attain Moksha directly",
+          "B": "To acquire merit (Apurva) for heavenly realms",
+          "C": "To awaken the Kundalini energy",
+          "D": "To realize the illusion of the world"
+        },
+        "correct_answer": "B",
+        "explanation": "Purva Mimamsa emphasizes performing Dharma (rituals) to generate 'Apurva' (unseen merit), leading to heavenly rewards (Svarga) rather than absolute liberation."
+      }
+    }
+  },
+  "LEVEL067": {
+    "level_number": 67,
+    "title": "Samsara and Rebirth",
+    "difficulty": "Expert",
+    "questions": {
+      "Q0661": {
+        "question": "What is the primary vehicle that carries the Jiva (soul) along with its karmic impressions from one body to the next at death?",
+        "options": {
+          "A": "Sthula Sharira (Gross Body)",
+          "B": "Sukshma Sharira (Subtle Body)",
+          "C": "Atman (Pure Self)",
+          "D": "Annamaya Kosha"
+        },
+        "correct_answer": "B",
+        "explanation": "The Sukshma Sharira or subtle body, consisting of the mind, intellect, and vital energies, carries the karmic seeds and transmigrates to a new gross body."
+      },
+      "Q0662": {
+        "question": "According to the Brihadaranyaka Upanishad, what fundamentally determines a person's future birth and becoming?",
+        "options": {
+          "A": "Their deep-seated desires (Kama)",
+          "B": "The rites performed at their funeral",
+          "C": "The blessings of their ancestors",
+          "D": "Random chance"
+        },
+        "correct_answer": "A",
+        "explanation": "The Upanishad states, 'As a person's desire is, so is his destiny. For as his desire is, so is his will; and as his will is, so is his deed; and whatever deed he does, that he will reap.'"
+      },
+      "Q0663": {
+        "question": "Which path after death leads the soul to the realm of the ancestors (Pitr-Loka) and necessitates return to Samsara?",
+        "options": {
+          "A": "Deva-yana",
+          "B": "Pitr-yana",
+          "C": "Brahma-yana",
+          "D": "Sushumna-yana"
+        },
+        "correct_answer": "B",
+        "explanation": "Pitr-yana is the Path of the Ancestors, achieved through pious acts and rituals, leading to temporary heavenly enjoyment followed by rebirth."
+      },
+      "Q0664": {
+        "question": "What is 'Deva-yana' in the context of eschatology in the Upanishads?",
+        "options": {
+          "A": "The path to the underworld",
+          "B": "The cycle of reincarnation in animal forms",
+          "C": "The Path of the Gods leading to Brahmaloka and eventual liberation",
+          "D": "The path taken by demons"
+        },
+        "correct_answer": "C",
+        "explanation": "Deva-yana (Path of the Gods) is the route taken by those dedicated to knowledge and meditation, leading to Krama Mukti (gradual liberation) from Brahmaloka without returning to earth."
+      },
+      "Q0665": {
+        "question": "In the process of reincarnation, what is the role of 'Antahkarana'?",
+        "options": {
+          "A": "It is the physical heart that stops beating",
+          "B": "It is the inner instrument (mind, intellect, ego) that holds Vasanas",
+          "C": "It is the divine grace bestowed upon the soul",
+          "D": "It is the ritual fire used in cremation"
+        },
+        "correct_answer": "B",
+        "explanation": "The Antahkarana comprises the Manas, Buddhi, Chitta, and Ahamkara, acting as the repository of Vasanas (tendencies) that dictates the nature of the next birth."
+      },
+      "Q0666": {
+        "question": "Which realm is considered a temporary state for the soul immediately following physical death, often characterized by a ghost-like existence if attachments remain?",
+        "options": {
+          "A": "Vaikuntha",
+          "B": "Preta-Loka",
+          "C": "Satya-Loka",
+          "D": "Kailash"
+        },
+        "correct_answer": "B",
+        "explanation": "Preta-Loka is the realm of hungry ghosts or spirits, where a soul may temporarily reside if bound by intense worldly attachments before progressing."
+      },
+      "Q0667": {
+        "question": "According to Hindu philosophy, the cycle of Samsara is beginningless (Anadi). Can it have an end?",
+        "options": {
+          "A": "No, it is endless for everyone",
+          "B": "Yes, it ends automatically after a fixed number of births",
+          "C": "Yes, it ends for an individual upon the attainment of Moksha",
+          "D": "Yes, it ends when the physical universe is destroyed"
+        },
+        "correct_answer": "C",
+        "explanation": "While Samsara has no traceable beginning, it comes to a definitive end for a Jiva the moment Self-realization (Moksha) is achieved."
+      },
+      "Q0668": {
+        "question": "In the context of rebirth, what does 'Vasanas' refer to?",
+        "options": {
+          "A": "Physical garments worn by priests",
+          "B": "Sacred chants for the dead",
+          "C": "Inherent tendencies or subtle desires driving actions",
+          "D": "The heavenly bodies"
+        },
+        "correct_answer": "C",
+        "explanation": "Vasanas are the subtle, ingrained tendencies or behavioral inclinations formed by past actions that compel a person to act in specific ways, driving the cycle of rebirth."
+      },
+      "Q0669": {
+        "question": "What specifically gets destroyed during 'Mahapralaya' (great dissolution) according to Puranic cosmology?",
+        "options": {
+          "A": "Only the physical Earth",
+          "B": "The entirety of the physical and subtle universes, except for Brahman",
+          "C": "The accumulated Karma of all beings",
+          "D": "The souls of liberated beings"
+        },
+        "correct_answer": "B",
+        "explanation": "During Mahapralaya, the entire cosmic manifestation—gross and subtle—merges back into the unmanifest state of Prakriti or Brahman; however, the unliberated souls retain their dormant karmic seeds."
+      },
+      "Q0670": {
+        "question": "Which of these is the most accurate description of 'Samsara'?",
+        "options": {
+          "A": "A state of eternal damnation",
+          "B": "The continuous, cyclic process of birth, life, death, and rebirth",
+          "C": "A heavenly realm for virtuous warriors",
+          "D": "The ultimate realization of truth"
+        },
+        "correct_answer": "B",
+        "explanation": "Samsara refers to the mundane, cyclic existence characterized by continuous rebirths and the suffering inherent in worldly life."
+      }
+    }
+  },
+  "LEVEL068": {
+    "level_number": 68,
+    "title": "Moksha and Ultimate Liberation",
+    "difficulty": "Expert",
+    "questions": {
+      "Q0671": {
+        "question": "In Advaita Vedanta, Moksha is characterized not as something to be acquired, but rather as what?",
+        "options": {
+          "A": "A journey to a higher dimension",
+          "B": "The removal of ignorance revealing the ever-present nature of the Self",
+          "C": "An evolutionary upgrade of the physical body",
+          "D": "The merging of the soul with a personal deity"
+        },
+        "correct_answer": "B",
+        "explanation": "Advaita Vedanta teaches that Moksha is 'Nitya Mukta' (ever-liberated); it is merely the removal of Avidya (ignorance) that obscures the true, already liberated Self."
+      },
+      "Q0672": {
+        "question": "In Vaishnava theology, which of the following is NOT one of the four types of Mukti (liberation) commonly sought by devotees?",
+        "options": {
+          "A": "Salokya (residing in the same realm as the Lord)",
+          "B": "Sarupya (attaining the same form as the Lord)",
+          "C": "Sayujya (merging completely into the Lord)",
+          "D": "Sanyasa (renouncing all worldly ties)"
+        },
+        "correct_answer": "D",
+        "explanation": "Sanyasa is a stage of life (Ashrama), not a type of liberation. The four types are Salokya, Samipya, Sarupya, and Sayujya."
+      },
+      "Q0673": {
+        "question": "What is the primary distinction between 'Jivanmukti' and 'Videhamukti'?",
+        "options": {
+          "A": "Jivanmukti is attained in deep sleep; Videhamukti in waking state",
+          "B": "Jivanmukti is liberation while living in the body; Videhamukti is liberation upon physical death",
+          "C": "Jivanmukti is for ascetics; Videhamukti is for householders",
+          "D": "Jivanmukti is temporary; Videhamukti is permanent"
+        },
+        "correct_answer": "B",
+        "explanation": "A Jivanmukta attains liberation while still alive and continues to live until Prarabdha Karma is exhausted, at which point Videhamukti (disembodied liberation) occurs."
+      },
+      "Q0674": {
+        "question": "In the Yoga Sutras of Patanjali, what is the term used to describe the ultimate state of liberation where the Purusha rests in its true nature?",
+        "options": {
+          "A": "Nirvana",
+          "B": "Kaivalya",
+          "C": "Samadhi",
+          "D": "Bhava"
+        },
+        "correct_answer": "B",
+        "explanation": "Kaivalya means 'aloneness' or 'isolation', denoting the absolute separation of Purusha (pure consciousness) from Prakriti (matter), resulting in ultimate freedom."
+      },
+      "Q0675": {
+        "question": "According to Vishishtadvaita Vedanta of Ramanujacharya, what happens to the individual soul (Jiva) after attaining Moksha?",
+        "options": {
+          "A": "It loses its individuality entirely and dissolves into Brahman",
+          "B": "It retains its individuality and eternally serves the Supreme Lord (Narayana)",
+          "C": "It becomes equal to Brahman in power, including the ability to create universes",
+          "D": "It returns to Earth as an Avatar"
+        },
+        "correct_answer": "B",
+        "explanation": "In Vishishtadvaita, the liberated soul enjoys infinite bliss and communion with God but retains its distinct identity; it shares all attributes of God except the power of cosmic creation."
+      },
+      "Q0676": {
+        "question": "The concept of 'Prapatti' is considered the easiest path to Moksha in Sri Vaishnavism. What does Prapatti signify?",
+        "options": {
+          "A": "Intense intellectual inquiry into scripture",
+          "B": "Absolute, unconditional surrender to the grace of God",
+          "C": "Performing severe physical austerities",
+          "D": "Strict adherence to complex rituals"
+        },
+        "correct_answer": "B",
+        "explanation": "Prapatti or Saranagati is total surrender to God, relying solely on Divine Grace for liberation rather than one's own efforts."
+      },
+      "Q0677": {
+        "question": "What is the role of 'Maya' in the context of achieving Moksha in Advaita philosophy?",
+        "options": {
+          "A": "Maya is a goddess who grants Moksha",
+          "B": "Maya is the cosmic illusion that binds the soul; overcoming it is essential for Moksha",
+          "C": "Maya is the physical method of meditation",
+          "D": "Maya is the ultimate goal of the spiritual seeker"
+        },
+        "correct_answer": "B",
+        "explanation": "Maya is the illusory power of Brahman that projects the universe and conceals the Truth. Realizing Brahman requires transcending Maya through Jnana."
+      },
+      "Q0678": {
+        "question": "In Kashmir Shaivism, what is the term for the spontaneous realization of one's identity with Shiva, leading to liberation?",
+        "options": {
+          "A": "Pratyabhijna",
+          "B": "Apavarga",
+          "C": "Ananda",
+          "D": "Tapas"
+        },
+        "correct_answer": "A",
+        "explanation": "Pratyabhijna means 'recognition'. It is the direct, spontaneous recognition of oneself as non-different from Lord Shiva (Universal Consciousness)."
+      },
+      "Q0679": {
+        "question": "According to the Dvaita philosophy of Madhvacharya, how is the relationship between the liberated soul and God described?",
+        "options": {
+          "A": "Absolute oneness with no distinction",
+          "B": "The soul is identical to God, but trapped in an illusion",
+          "C": "The soul is eternally different from and subservient to God",
+          "D": "God is merely a projection of the soul's mind"
+        },
+        "correct_answer": "C",
+        "explanation": "Dvaita insists on an eternal distinction (Bheda) between God and the individual soul, even in the state of liberation where the soul exists in bliss serving Vishnu."
+      },
+      "Q0680": {
+        "question": "The Mahavakya 'Aham Brahmasmi' (I am Brahman) originates from which Upanishad, serving as a key declaration for Moksha?",
+        "options": {
+          "A": "Katha Upanishad",
+          "B": "Brihadaranyaka Upanishad",
+          "C": "Isha Upanishad",
+          "D": "Kena Upanishad"
+        },
+        "correct_answer": "B",
+        "explanation": "'Aham Brahmasmi' is found in the Brihadaranyaka Upanishad, representing the profound realization of unity between the individual Self and the Supreme Reality."
+      }
+    }
+  },
+  "LEVEL069": {
+    "level_number": 69,
+    "title": "Atman and Self-Realization",
+    "difficulty": "Expert",
+    "questions": {
+      "Q0681": {
+        "question": "Which trio of Sanskrit words is commonly used to describe the essential nature of the Atman (Self)?",
+        "options": {
+          "A": "Sat-Chit-Ananda",
+          "B": "Srishti-Sthiti-Laya",
+          "C": "Brahma-Vishnu-Shiva",
+          "D": "Sattva-Rajas-Tamas"
+        },
+        "correct_answer": "A",
+        "explanation": "The Atman is described as Sat (Absolute Existence), Chit (Absolute Consciousness), and Ananda (Absolute Bliss)."
+      },
+      "Q0682": {
+        "question": "In the Taittiriya Upanishad, the Self is described as being veiled by five layers. What are these layers called?",
+        "options": {
+          "A": "Chakras",
+          "B": "Koshas",
+          "C": "Gunas",
+          "D": "Vrittis"
+        },
+        "correct_answer": "B",
+        "explanation": "The five sheaths or Koshas (Annamaya, Pranamaya, Manomaya, Vijnanamaya, Anandamaya) cover the true nature of the Atman."
+      },
+      "Q0683": {
+        "question": "The Mandukya Upanishad analyzes the states of consciousness to reveal the Self. What is the fourth state, representing the pure Atman, called?",
+        "options": {
+          "A": "Jagrat",
+          "B": "Svapna",
+          "C": "Sushupti",
+          "D": "Turiya"
+        },
+        "correct_answer": "D",
+        "explanation": "Turiya is 'the fourth' state—the background of pure consciousness that underlies waking (Jagrat), dreaming (Svapna), and deep sleep (Sushupti)."
+      },
+      "Q0684": {
+        "question": "What is the primary method of Self-inquiry championed by Sage Ramana Maharshi to realize the Atman?",
+        "options": {
+          "A": "Chanting mantras 10,000 times a day",
+          "B": "Asking the question 'Who am I?' (Nan Yar)",
+          "C": "Performing complex fire sacrifices",
+          "D": "Practicing intense physical yoga postures"
+        },
+        "correct_answer": "B",
+        "explanation": "Ramana Maharshi taught Vichara (Self-inquiry) through the question 'Who am I?' to trace the ego back to its source, the true Self."
+      },
+      "Q0685": {
+        "question": "In Vedanta, the process of 'Neti, Neti' is used to realize the Atman. What does 'Neti, Neti' mean?",
+        "options": {
+          "A": "Everything is God",
+          "B": "Not this, not this",
+          "C": "I am that",
+          "D": "Truth is one"
+        },
+        "correct_answer": "B",
+        "explanation": "'Neti, Neti' is an analytical process of negation, discarding all objects, thoughts, and identifications that are not the eternal Self."
+      },
+      "Q0686": {
+        "question": "The Katha Upanishad uses the metaphor of a chariot to explain the human condition. In this metaphor, what does the 'Master of the chariot' represent?",
+        "options": {
+          "A": "The Mind (Manas)",
+          "B": "The Intellect (Buddhi)",
+          "C": "The Atman (Self)",
+          "D": "The Senses (Indriyas)"
+        },
+        "correct_answer": "C",
+        "explanation": "In the chariot metaphor, the Atman is the master/passenger, the body is the chariot, the intellect is the charioteer, the mind is the reins, and the senses are the horses."
+      },
+      "Q0687": {
+        "question": "What is the concept of 'Sakshi Bhava' in relation to Self-Realization?",
+        "options": {
+          "A": "Developing a deep emotional attachment to God",
+          "B": "Cultivating the attitude of a detached witness to one's thoughts and actions",
+          "C": "Performing charity to gain social recognition",
+          "D": "Forcing the mind to stop thinking completely"
+        },
+        "correct_answer": "B",
+        "explanation": "Sakshi Bhava is the state of being the silent, detached witness (Sakshi) to the activities of the mind and body, recognizing oneself as separate from them."
+      },
+      "Q0688": {
+        "question": "How does the Bhagavad Gita describe the Atman regarding action and agency?",
+        "options": {
+          "A": "The Atman is the ultimate doer of all actions",
+          "B": "The Atman acts only when performing virtuous deeds",
+          "C": "The Atman is an eternal non-doer (Akarta), while nature (Prakriti) performs all actions",
+          "D": "The Atman shares action equally with the mind"
+        },
+        "correct_answer": "C",
+        "explanation": "The Gita emphasizes that the Self is Akarta (non-doer); it is the Gunas of Prakriti that engage in action, though the ignorant ego claims doership."
+      },
+      "Q0689": {
+        "question": "What distinguishes 'Jiva' from 'Atman' in Vedantic philosophy?",
+        "options": {
+          "A": "They are identical in all philosophical schools",
+          "B": "Jiva is the universal soul; Atman is the individual body",
+          "C": "Jiva is the Atman identified with the mind and body (ego); Atman is pure, unconditioned consciousness",
+          "D": "Jiva is eternal, while Atman is temporary"
+        },
+        "correct_answer": "C",
+        "explanation": "Jiva (the empirical self) is consciousness reflected in the mind/intellect, bound by Karma, whereas Atman is the pure, unbound, universal Self."
+      },
+      "Q0690": {
+        "question": "The Gita declares the Atman as 'Achhedya' and 'Adahya'. What do these terms signify?",
+        "options": {
+          "A": "Invisible and silent",
+          "B": "Uncleavable (cannot be cut) and incombustible (cannot be burned)",
+          "C": "All-knowing and all-powerful",
+          "D": "Sinful and impure"
+        },
+        "correct_answer": "B",
+        "explanation": "Krishna explains that weapons cannot cut it (Achhedya), nor fire burn it (Adahya), illustrating the indestructible and immutable nature of the Atman."
+      }
+    }
+  },
+  "LEVEL070": {
+    "level_number": 70,
+    "title": "Spiritual Ethics: Seva, Ahimsa, and Dharma",
+    "difficulty": "Expert",
+    "questions": {
+      "Q0691": {
+        "question": "In Patanjali's Ashtanga Yoga, 'Ahimsa' (non-violence) belongs to which of the eight limbs?",
+        "options": {
+          "A": "Niyamas",
+          "B": "Asanas",
+          "C": "Yamas",
+          "D": "Pratyahara"
+        },
+        "correct_answer": "C",
+        "explanation": "Ahimsa is the first and foundational principle of the Yamas (moral restraints), forming the bedrock of all ethical practices in Yoga."
+      },
+      "Q0692": {
+        "question": "What is the fundamental spiritual purpose of 'Seva' (selfless service) in the path of Karma Yoga?",
+        "options": {
+          "A": "To gain fame and societal respect",
+          "B": "To achieve Chitta Shuddhi (purification of the mind/heart)",
+          "C": "To forcefully convert others to one's faith",
+          "D": "To avoid paying taxes"
+        },
+        "correct_answer": "B",
+        "explanation": "Seva performed without attachment purifies the mind of ego, greed, and selfishness, which is a prerequisite (Chitta Shuddhi) for higher spiritual realization."
+      },
+      "Q0693": {
+        "question": "According to the Mahabharata, when does 'Satya' (truthfulness) become contrary to Dharma?",
+        "options": {
+          "A": "When it fails to benefit the speaker",
+          "B": "When it causes harm to an innocent being (violating Ahimsa)",
+          "C": "When it is spoken to someone of a lower class",
+          "D": "Satya is absolute and never contrary to Dharma"
+        },
+        "correct_answer": "B",
+        "explanation": "In complex ethical dilemmas, Ahimsa supersedes literal truth. Speaking a truth that leads directly to the unjust harm or death of an innocent is considered Adharma."
+      },
+      "Q0694": {
+        "question": "What does the yogic principle of 'Aparigraha' advocate?",
+        "options": {
+          "A": "Total celibacy",
+          "B": "Non-possessiveness and non-greediness",
+          "C": "Eating only raw food",
+          "D": "Worshipping many deities"
+        },
+        "correct_answer": "B",
+        "explanation": "Aparigraha means non-hoarding or non-possessiveness, encouraging one to take only what is necessary and let go of material greed."
+      },
+      "Q0695": {
+        "question": "In its deepest spiritual sense, what does 'Brahmacharya' mean?",
+        "options": {
+          "A": "Hating the opposite sex",
+          "B": "Living in the forest",
+          "C": "Dwelling or moving in Brahman (God-consciousness)",
+          "D": "Studying scriptures continuously without sleep"
+        },
+        "correct_answer": "C",
+        "explanation": "While often translated as celibacy, the root meaning of Brahmacharya is 'conduct that leads to Brahman' or keeping the mind constantly fixed on the Supreme Reality."
+      },
+      "Q0696": {
+        "question": "In Chapter 16 of the Bhagavad Gita, Krishna details 'Daivi Sampad'. What does this translate to?",
+        "options": {
+          "A": "Demoniac tendencies",
+          "B": "Divine qualities or wealth",
+          "C": "Ritualistic sacrifices",
+          "D": "Martial arts skills"
+        },
+        "correct_answer": "B",
+        "explanation": "Daivi Sampad refers to divine qualities (such as fearlessness, purity of heart, compassion, and truthfulness) that lead to liberation."
+      },
+      "Q0697": {
+        "question": "Which quality is recognized as 'Karuna' in spiritual ethics?",
+        "options": {
+          "A": "Courage",
+          "B": "Compassion",
+          "C": "Discipline",
+          "D": "Knowledge"
+        },
+        "correct_answer": "B",
+        "explanation": "Karuna is deep compassion and empathy for all living beings, central to the practice of non-violence and universal love."
+      },
+      "Q0698": {
+        "question": "According to the Bhagavad Gita, what characterizes 'Satvik Dana' (charity in the mode of goodness)?",
+        "options": {
+          "A": "Given with the expectation of receiving something in return",
+          "B": "Given to an unworthy person at the wrong time",
+          "C": "Given out of duty, without expectation of return, to a worthy recipient at the proper time and place",
+          "D": "Given grudgingly under pressure"
+        },
+        "correct_answer": "C",
+        "explanation": "Satvik charity is performed purely as a sense of duty, without ego or expectation, ensuring the recipient and context are appropriate."
+      },
+      "Q0699": {
+        "question": "Which of the following is considered the 'Tapas' (austerity) of speech according to Gita Chapter 17?",
+        "options": {
+          "A": "Taking a vow of eternal silence (Mouna)",
+          "B": "Speaking words that are truthful, pleasing, beneficial, and not agitating to others",
+          "C": "Chanting loudly to disturb others",
+          "D": "Debating fiercely to prove one's intellectual superiority"
+        },
+        "correct_answer": "B",
+        "explanation": "Tapas of speech involves speaking truthfully, beneficially, and sweetly without causing agitation, along with the recitation of scripture."
+      },
+      "Q0700": {
+        "question": "The phrase 'Vasudhaiva Kutumbakam' encapsulates the pinnacle of spiritual ethics. Which ancient text is this famously found in, and what does it mean?",
+        "options": {
+          "A": "Rig Veda; 'God is one'",
+          "B": "Maha Upanishad; 'The world is one family'",
+          "C": "Manusmriti; 'Duty is supreme'",
+          "D": "Yoga Sutras; 'Mind is the enemy'"
+        },
+        "correct_answer": "B",
+        "explanation": "'Vasudhaiva Kutumbakam' (The world is one family) appears in the Maha Upanishad, reflecting the ultimate realization of oneness and universal brotherhood."
+      }
+    }
+  }
+}
