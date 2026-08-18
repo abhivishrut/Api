@@ -1,7 +1,7 @@
 {
     "developer_information": {
         "name": "Abhivishrut Bishnoi",
-        "title": "Founder of Codewati & An Application Developer",
+        "title": "Founder of Codewati & Application Developer",
         "bio": "Building bridges between technology and tranquility. I design digital experiences that bring peace to your daily routine, one chant at a time.",
         "profile_image_url": "https://abhivishrut.github.io/Api/img/profile.jpeg",
         "cover_image_url": "https://abhivishrut.github.io/Api/img/cover.png",
@@ -13,6 +13,11 @@
         "website_url": "https://abhivishrut.github.io/codewati/"
     },
     "social_links": [
+        {
+            "platform": "Codewati",
+            "url": "https://abhivishrut.github.io/codewati/",
+            "thumbnail": "https://abhivishrut.github.io/codewati/img/codewatilogo.png"
+        },
         {
             "platform": "LinkedIn",
             "url": "https://in.linkedin.com/in/abhivishrut-vishnoi-2279371ab",
@@ -53,6 +58,6 @@
     },
     "app_information": {
         "app_name": "HARINAAM",
-        "version": "1.0.0"
+        "version": ""
     }
 }
