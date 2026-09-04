@@ -2,11 +2,11 @@
     "banners": [
         {
             "id": "1",
-            "imageUrl": "https://abhivishrut.github.io/Api/img/4.png"
+            "imageUrl": "https://abhivishrut.github.io/Api/img/1.png"
         },
         {
             "id": "2",
-            "imageUrl": "https://abhivishrut.github.io/Api/img/5.png"
+            "imageUrl": "https://abhivishrut.github.io/Api/img/2.png"
         },
         {
             "id": "3",
@@ -14,11 +14,15 @@
         },
         {
             "id": "4",
-            "imageUrl": "https://abhivishrut.github.io/Api/img/2.png"
+            "imageUrl": "https://abhivishrut.github.io/Api/img/4.png"
         },
         {
             "id": "5",
-            "imageUrl": "https://abhivishrut.github.io/Api/img/1.png"
+            "imageUrl": "https://abhivishrut.github.io/Api/img/5.png"
+        },
+        {
+            "id": "6",
+            "imageUrl": "https://abhivishrut.github.io/Api/img/6.png"
         }
     ],
     "meta": {
