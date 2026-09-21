@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "category": "Shri Hanuman",
         "category_image_url": "https://abhivishrut.github.io/Data1/HariNaam/Image/PlaylistThumbnail/hanuman_ji.jpeg",
@@ -1029,7 +1029,7 @@
                 "id": 102,
                 "title": "Ram Ji Ki Nikli Sawari",
                 "file_name": "Ram Ji Ki Nikli Sawari.mp3",
-                "singer": "Mohammed Rafi, Laxmikantâ€“Pyarelal",
+                "singer": "Mohammed Rafi, LaxmikantÃ¢â‚¬â€œPyarelal",
                 "duration": "05:21",
                 "audio_url": "https://abhivishrut.github.io/Data1/HariNaam/Bhajans/LordRam/Ram%20Ji%20Ki%20Nikli%20Sawari.mp3",
                 "size": "6.33 MB",
@@ -1703,8 +1703,8 @@
             },
             {
                 "id": 169,
-                "title": "Om Namachivaya Om - Lord Shiva - From \"Ghibran's Spiritual Series\"",
-                "file_name": "Om Namachivaya Om - Lord Shiva - From _Ghibran's Spiritual Series_.mp3",
+                "title": "Om Namachivaya Om - Lord Shiva - From \"Ghibran\u0027s Spiritual Series\"",
+                "file_name": "Om Namachivaya Om - Lord Shiva - From _Ghibran\u0027s Spiritual Series_.mp3",
                 "singer": "Ghibran, Gold Devaraj",
                 "duration": "14:19",
                 "audio_url": "https://abhivishrut.github.io/Data1/HariNaam/Bhajans/LordShiva/Om%20Namachivaya%20Om%20-%20Lord%20Shiva%20-%20From%20_Ghibran%27s%20Spiritual%20Series_.mp3",
@@ -2542,6 +2542,302 @@
                 "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Tthumak%20Tthumak%20Aave.mp3",
                 "size": "3.79 MB",
                 "thumb_url": "https://i.pinimg.com/736x/72/75/55/727555286ee5afa4f631966067e94c2d.jpg"
+            },
+            {
+                "id": 252,
+                "title": "Aarti Dev Samrathal Ki - Sant Rajuram Ji",
+                "file_name": "Aarti Dev Samrathal Ki - Sant Rajuram Ji.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Aarti%20Dev%20Samrathal%20Ki%20-%20Sant%20Rajuram%20Ji.m4a",
+                "size": "15.59 MB",
+                "thumb_url": "https://i.pinimg.com/736x/72/75/55/727555286ee5afa4f631966067e94c2d.jpg"
+            },
+            {
+                "id": 253,
+                "title": "Aarti Ho Dev Jambheshwar Dev - Sameer Bishnoi ft. Lovely Solanki",
+                "file_name": "Aarti Ho Dev Jambheshwar Dev - Sameer Bishnoi ft. Lovely Solanki.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Aarti%20Ho%20Dev%20Jambheshwar%20Dev%20-%20Sameer%20Bishnoi%20ft.%20Lovely%20Solanki.m4a",
+                "size": "27.95 MB",
+                "thumb_url": "https://i.pinimg.com/736x/72/75/55/727555286ee5afa4f631966067e94c2d.jpg"
+            },
+            {
+                "id": 254,
+                "title": "Aarti Jai Jambheshwar Ki - Sant Rajuram Ji",
+                "file_name": "Aarti Jai Jambheshwar Ki - Sant Rajuram Ji.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Aarti%20Jai%20Jambheshwar%20Ki%20-%20Sant%20Rajuram%20Ji.m4a",
+                "size": "15.12 MB",
+                "thumb_url": "https://i.pinimg.com/736x/72/75/55/727555286ee5afa4f631966067e94c2d.jpg"
+            },
+            {
+                "id": 255,
+                "title": "Aarti Kije Shree Jambh Guru Deva - Sant Rajuram Ji",
+                "file_name": "Aarti Kije Shree Jambh Guru Deva - Sant Rajuram Ji.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Aarti%20Kije%20Shree%20Jambh%20Guru%20Deva%20-%20Sant%20Rajuram%20Ji.m4a",
+                "size": "15.02 MB",
+                "thumb_url": "https://i.pinimg.com/736x/72/75/55/727555286ee5afa4f631966067e94c2d.jpg"
+            },
+            {
+                "id": 256,
+                "title": "Aarti Kije Shree Mahavishnu Deva - Sant Rajuram Ji",
+                "file_name": "Aarti Kije Shree Mahavishnu Deva - Sant Rajuram Ji.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Aarti%20Kije%20Shree%20Mahavishnu%20Deva%20-%20Sant%20Rajuram%20Ji.m4a",
+                "size": "15.35 MB",
+                "thumb_url": "https://i.pinimg.com/736x/72/75/55/727555286ee5afa4f631966067e94c2d.jpg"
+            },
+            {
+                "id": 257,
+                "title": "Aarti Shree Jambh Tumari Jambheshwar Bhajan - Sant Rajuram Ji",
+                "file_name": "Aarti Shree Jambh Tumari Jambheshwar Bhajan - Sant Rajuram Ji.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Aarti%20Shree%20Jambh%20Tumari%20Jambheshwar%20Bhajan%20-%20Sant%20Rajuram%20Ji.m4a",
+                "size": "12.01 MB",
+                "thumb_url": "https://i.pinimg.com/736x/72/75/55/727555286ee5afa4f631966067e94c2d.jpg"
+            },
+            {
+                "id": 258,
+                "title": "Bishnoi Anthem - Sumsa Supari, Anil Rao",
+                "file_name": "Bishnoi Anthem - Sumsa Supari, Anil Rao.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Bishnoi%20Anthem%20-%20Sumsa%20Supari,%20Anil%20Rao.m4a",
+                "size": "11.43 MB",
+                "thumb_url": "https://i.pinimg.com/736x/72/75/55/727555286ee5afa4f631966067e94c2d.jpg"
+            },
+            {
+                "id": 259,
+                "title": "Bishnoi Panth Pahchan - Aatmaram Gayna",
+                "file_name": "Bishnoi Panth Pahchan - Aatmaram Gayna.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Bishnoi%20Panth%20Pahchan%20-%20Aatmaram%20Gayna.m4a",
+                "size": "15.86 MB",
+                "thumb_url": "https://i.pinimg.com/736x/72/75/55/727555286ee5afa4f631966067e94c2d.jpg"
+            },
+            {
+                "id": 260,
+                "title": "Chalo Ni Chala Aapa Aarti Jambheshwar Bhagwan - Sant Rajuram Ji",
+                "file_name": "Chalo Ni Chala Aapa Aarti Jambheshwar Bhagwan - Sant Rajuram Ji.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Chalo%20Ni%20Chala%20Aapa%20Aarti%20Jambheshwar%20Bhagwan%20-%20Sant%20Rajuram%20Ji.m4a",
+                "size": "23.02 MB",
+                "thumb_url": "https://i.pinimg.com/736x/72/75/55/727555286ee5afa4f631966067e94c2d.jpg"
+            },
+            {
+                "id": 261,
+                "title": "Gao Gao Saiyan Mari Geet Jambho Ji Ki Aarti - Sant Rajuram Ji",
+                "file_name": "Gao Gao Saiyan Mari Geet Jambho Ji Ki Aarti - Sant Rajuram Ji.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Gao%20Gao%20Saiyan%20Mari%20Geet%20Jambho%20Ji%20Ki%20Aarti%20-%20Sant%20Rajuram%20Ji.m4a",
+                "size": "22.61 MB",
+                "thumb_url": "https://i.pinimg.com/736x/72/75/55/727555286ee5afa4f631966067e94c2d.jpg"
+            },
+            {
+                "id": 262,
+                "title": "Jai Guru Deva Dayanidhi - Sant Rajuram Ji",
+                "file_name": "Jai Guru Deva Dayanidhi - Sant Rajuram Ji.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Jai%20Guru%20Deva%20Dayanidhi%20-%20Sant%20Rajuram%20Ji.m4a",
+                "size": "22.10 MB",
+                "thumb_url": "https://i.pinimg.com/736x/72/75/55/727555286ee5afa4f631966067e94c2d.jpg"
+            },
+            {
+                "id": 263,
+                "title": "Jambho Ji Ra Darshan - Sant Rajuram Ji",
+                "file_name": "Jambho Ji Ra Darshan - Sant Rajuram Ji.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Jambho%20Ji%20Ra%20Darshan%20-%20Sant%20Rajuram%20Ji.m4a",
+                "size": "25.71 MB",
+                "thumb_url": "https://i.pinimg.com/736x/72/75/55/727555286ee5afa4f631966067e94c2d.jpg"
+            },
+            {
+                "id": 264,
+                "title": "Kum Kum Kera Charan Pacharo Guru Jambh Dev Bhajan - Sant Rajuram Ji",
+                "file_name": "Kum Kum Kera Charan Pacharo Guru Jambh Dev Bhajan - Sant Rajuram Ji.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Kum%20Kum%20Kera%20Charan%20Pacharo%20Guru%20Jambh%20Dev%20Bhajan%20-%20Sant%20Rajuram%20Ji.m4a",
+                "size": "20.29 MB",
+                "thumb_url": "https://i.pinimg.com/736x/72/75/55/727555286ee5afa4f631966067e94c2d.jpg"
+            },
+            {
+                "id": 265,
+                "title": "Maane Guru Ji Diyo Updesh Jambheshwar Bhajan - Sant Rajuram Ji",
+                "file_name": "Maane Guru Ji Diyo Updesh Jambheshwar Bhajan - Sant Rajuram Ji.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Maane%20Guru%20Ji%20Diyo%20Updesh%20Jambheshwar%20Bhajan%20-%20Sant%20Rajuram%20Ji.m4a",
+                "size": "19.91 MB",
+                "thumb_url": "https://i.pinimg.com/736x/72/75/55/727555286ee5afa4f631966067e94c2d.jpg"
+            },
+            {
+                "id": 266,
+                "title": "Shabad Soham Dhyave - Sant Rajuram Ji",
+                "file_name": "Shabad Soham Dhyave - Sant Rajuram Ji.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Shabad%20Soham%20Dhyave%20-%20Sant%20Rajuram%20Ji.m4a",
+                "size": "10.70 MB",
+                "thumb_url": "https://i.pinimg.com/736x/72/75/55/727555286ee5afa4f631966067e94c2d.jpg"
+            },
+            {
+                "id": 267,
+                "title": "Sun Lo Chatur Sujan Jambho Ji Ka Bhajan - Sant Rajuram Ji",
+                "file_name": "Sun Lo Chatur Sujan Jambho Ji Ka Bhajan - Sant Rajuram Ji.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Sun%20Lo%20Chatur%20Sujan%20Jambho%20Ji%20Ka%20Bhajan%20-%20Sant%20Rajuram%20Ji.m4a",
+                "size": "14.54 MB",
+                "thumb_url": "https://i.pinimg.com/736x/72/75/55/727555286ee5afa4f631966067e94c2d.jpg"
+            },
+            {
+                "id": 268,
+                "title": "Uma Kaive Ek Aasaro Jambheshwar Aarti - Sant Rajuram Ji",
+                "file_name": "Uma Kaive Ek Aasaro Jambheshwar Aarti - Sant Rajuram Ji.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/Uma%20Kaive%20Ek%20Aasaro%20Jambheshwar%20Aarti%20-%20Sant%20Rajuram%20Ji.m4a",
+                "size": "24.51 MB",
+                "thumb_url": "https://i.pinimg.com/736x/72/75/55/727555286ee5afa4f631966067e94c2d.jpg"
+            },
+            {
+                "id": 269,
+                "title": "जंभ गुरू थानै लाखबार प्रणाम ॥ Simran Bishnoi॥ - simran bishnoi",
+                "file_name": "जंभ गुरू थानै लाखबार प्रणाम ॥ Simran Bishnoi॥ - simran bishnoi.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Bishnoism/%E0%A4%9C%E0%A4%82%E0%A4%AD%20%E0%A4%97%E0%A5%81%E0%A4%B0%E0%A5%82%20%E0%A4%A5%E0%A4%BE%E0%A4%A8%E0%A5%88%20%E0%A4%B2%E0%A4%BE%E0%A4%96%E0%A4%AC%E0%A4%BE%E0%A4%B0%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A3%E0%A4%BE%E0%A4%AE%20%E0%A5%A5%20Simran%20Bishnoi%E0%A5%A5%20-%20simran%20bishnoi.m4a",
+                "size": "10.36 MB",
+                "thumb_url": "https://i.pinimg.com/736x/72/75/55/727555286ee5afa4f631966067e94c2d.jpg"
+            }
+        ]
+    },
+    {
+        "category": "Hanuman Ansh",
+        "category_image_url": "https://abhivishrut.github.io/Data1/HariNaam/Image/PlaylistThumbnail/hanuman_ansh.jpg",
+        "bhajans": [
+            {
+                "id": 270,
+                "title": "Aavagaman - Sadhu Tiwari",
+                "file_name": "Aavagaman - Sadhu Tiwari.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Hanuman%20Ansh/Aavagaman%20-%20Sadhu%20Tiwari.m4a",
+                "size": "8.96 MB",
+                "thumb_url": "https://abhivishrut.github.io/Data1/HariNaam/Bhajans/LordHanuman/Aaj%20Mangalvar%20Hai%20Mahaveer%20Ka%20_thumb.jpg"
+            },
+            {
+                "id": 271,
+                "title": "Bajrang Baanka - Sadhu Tiwari",
+                "file_name": "Bajrang Baanka - Sadhu Tiwari.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Hanuman%20Ansh/Bajrang%20Baanka%20-%20Sadhu%20Tiwari.m4a",
+                "size": "9.37 MB",
+                "thumb_url": "https://abhivishrut.github.io/Data1/HariNaam/Bhajans/LordHanuman/Aaj%20Mangalvar%20Hai%20Mahaveer%20Ka%20_thumb.jpg"
+            },
+            {
+                "id": 272,
+                "title": "Hey Kharari - Sadhu Tiwari",
+                "file_name": "Hey Kharari - Sadhu Tiwari.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Hanuman%20Ansh/Hey%20Kharari%20-%20Sadhu%20Tiwari.m4a",
+                "size": "6.49 MB",
+                "thumb_url": "https://abhivishrut.github.io/Data1/HariNaam/Bhajans/LordHanuman/Aaj%20Mangalvar%20Hai%20Mahaveer%20Ka%20_thumb.jpg"
+            },
+            {
+                "id": 273,
+                "title": "Hriday Mein Jinke Sitaram - Vishal Chaturvedi",
+                "file_name": "Hriday Mein Jinke Sitaram - Vishal Chaturvedi.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Hanuman%20Ansh/Hriday%20Mein%20Jinke%20Sitaram%20-%20Vishal%20Chaturvedi.m4a",
+                "size": "3.91 MB",
+                "thumb_url": "https://abhivishrut.github.io/Data1/HariNaam/Bhajans/LordHanuman/Aaj%20Mangalvar%20Hai%20Mahaveer%20Ka%20_thumb.jpg"
+            },
+            {
+                "id": 274,
+                "title": "Jai Hanuman - Shreyas Dharmadhikari, Rishi Pathak",
+                "file_name": "Jai Hanuman - Shreyas Dharmadhikari, Rishi Pathak.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Hanuman%20Ansh/Jai%20Hanuman%20-%20Shreyas%20Dharmadhikari,%20Rishi%20Pathak.m4a",
+                "size": "9.56 MB",
+                "thumb_url": "https://abhivishrut.github.io/Data1/HariNaam/Bhajans/LordHanuman/Aaj%20Mangalvar%20Hai%20Mahaveer%20Ka%20_thumb.jpg"
+            },
+            {
+                "id": 275,
+                "title": "Maine Tere Hi Bharose - Suneel Lodhi",
+                "file_name": "Maine Tere Hi Bharose - Suneel Lodhi.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Hanuman%20Ansh/Maine%20Tere%20Hi%20Bharose%20-%20Suneel%20Lodhi.m4a",
+                "size": "6.88 MB",
+                "thumb_url": "https://abhivishrut.github.io/Data1/HariNaam/Bhajans/LordHanuman/Aaj%20Mangalvar%20Hai%20Mahaveer%20Ka%20_thumb.jpg"
+            },
+            {
+                "id": 276,
+                "title": "Parvati - Sadhu Tiwari",
+                "file_name": "Parvati - Sadhu Tiwari.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Hanuman%20Ansh/Parvati%20-%20Sadhu%20Tiwari.m4a",
+                "size": "11.40 MB",
+                "thumb_url": "https://abhivishrut.github.io/Data1/HariNaam/Bhajans/LordHanuman/Aaj%20Mangalvar%20Hai%20Mahaveer%20Ka%20_thumb.jpg"
+            },
+            {
+                "id": 277,
+                "title": "Raam Bhajan Ki Or - Nivedita Padmanabhan, Rishi Pathak",
+                "file_name": "Raam Bhajan Ki Or - Nivedita Padmanabhan, Rishi Pathak.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Hanuman%20Ansh/Raam%20Bhajan%20Ki%20Or%20-%20Nivedita%20Padmanabhan,%20Rishi%20Pathak.m4a",
+                "size": "8.56 MB",
+                "thumb_url": "https://abhivishrut.github.io/Data1/HariNaam/Bhajans/LordHanuman/Aaj%20Mangalvar%20Hai%20Mahaveer%20Ka%20_thumb.jpg"
+            },
+            {
+                "id": 278,
+                "title": "Saasa Haale - Sadhu Tiwari, Guru Goraksh Nath",
+                "file_name": "Saasa Haale - Sadhu Tiwari, Guru Goraksh Nath.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Hanuman%20Ansh/Saasa%20Haale%20-%20Sadhu%20Tiwari,%20Guru%20Goraksh%20Nath.m4a",
+                "size": "6.79 MB",
+                "thumb_url": "https://abhivishrut.github.io/Data1/HariNaam/Bhajans/LordHanuman/Aaj%20Mangalvar%20Hai%20Mahaveer%20Ka%20_thumb.jpg"
+            },
+            {
+                "id": 279,
+                "title": "Siyavar Ramchandra Ki Jai - Shantanu Sudame, Dhirendra Mulkalwar",
+                "file_name": "Siyavar Ramchandra Ki Jai - Shantanu Sudame, Dhirendra Mulkalwar.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Hanuman%20Ansh/Siyavar%20Ramchandra%20Ki%20Jai%20-%20Shantanu%20Sudame,%20Dhirendra%20Mulkalwar.m4a",
+                "size": "6.26 MB",
+                "thumb_url": "https://abhivishrut.github.io/Data1/HariNaam/Bhajans/LordHanuman/Aaj%20Mangalvar%20Hai%20Mahaveer%20Ka%20_thumb.jpg"
+            },
+            {
+                "id": 280,
+                "title": "Vaishnav Jan To - Rishi Pathak",
+                "file_name": "Vaishnav Jan To - Rishi Pathak.m4a",
+                "singer": "Unknown",
+                "duration": "00:00",
+                "audio_url": "https://abhivishrut.github.io/Data2/Hanuman%20Ansh/Vaishnav%20Jan%20To%20-%20Rishi%20Pathak.m4a",
+                "size": "7.50 MB",
+                "thumb_url": "https://abhivishrut.github.io/Data1/HariNaam/Bhajans/LordHanuman/Aaj%20Mangalvar%20Hai%20Mahaveer%20Ka%20_thumb.jpg"
             }
         ]
     }
