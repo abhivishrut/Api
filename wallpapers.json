@@ -1,502 +1,606 @@
-﻿{
+{
     "categories": [
         {
             "wallpapers": [
                 {
-                    "name": "1.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/1.jpg"
+                    "name": "150.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/150.jpg"
                 },
                 {
-                    "name": "10.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/10.jpg"
+                    "name": "149.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/149.jpg"
                 },
                 {
-                    "name": "11.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/11.jpg"
+                    "name": "148.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/148.jpg"
                 },
                 {
-                    "name": "12.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/12.jpg"
+                    "name": "147.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/147.jpg"
                 },
                 {
-                    "name": "13.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/13.jpg"
+                    "name": "146.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/146.jpg"
                 },
                 {
-                    "name": "14.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/14.jpg"
+                    "name": "145.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/145.jpg"
                 },
                 {
-                    "name": "15.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/15.jpg"
+                    "name": "144.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/144.jpg"
                 },
                 {
-                    "name": "16.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/16.jpg"
+                    "name": "143.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/143.jpg"
                 },
                 {
-                    "name": "17.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/17.jpg"
+                    "name": "142.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/142.jpg"
                 },
                 {
-                    "name": "18.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/18.jpg"
+                    "name": "141.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/141.jpg"
                 },
                 {
-                    "name": "19.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/19.jpg"
+                    "name": "140.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/140.jpg"
                 },
                 {
-                    "name": "2.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/2.jpg"
+                    "name": "139.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/139.jpg"
                 },
                 {
-                    "name": "20.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/20.jpg"
+                    "name": "138.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/138.jpg"
                 },
                 {
-                    "name": "21.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/21.jpg"
+                    "name": "137.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/137.jpg"
                 },
                 {
-                    "name": "22.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/22.jpg"
+                    "name": "136.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/136.jpg"
                 },
                 {
-                    "name": "23.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/23.jpg"
+                    "name": "135.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/135.jpg"
                 },
                 {
-                    "name": "24.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/24.jpg"
+                    "name": "134.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/134.jpg"
                 },
                 {
-                    "name": "25.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/25.jpg"
+                    "name": "133.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/133.jpg"
                 },
                 {
-                    "name": "26.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/26.jpg"
+                    "name": "132.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/132.jpg"
                 },
                 {
-                    "name": "27.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/27.jpg"
+                    "name": "131.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/131.jpg"
                 },
                 {
-                    "name": "28.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/28.jpg"
+                    "name": "130.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/130.jpg"
                 },
                 {
-                    "name": "29.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/29.jpg"
+                    "name": "129.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/129.jpg"
                 },
                 {
-                    "name": "3.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/3.jpg"
+                    "name": "128.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/128.jpg"
                 },
                 {
-                    "name": "30.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/30.jpg"
+                    "name": "127.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/127.jpg"
                 },
                 {
-                    "name": "31.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/31.jpg"
+                    "name": "126.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/126.jpg"
                 },
                 {
-                    "name": "32.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/32.jpg"
-                },
-                {
-                    "name": "33.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/33.jpg"
-                },
-                {
-                    "name": "34.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/34.jpg"
-                },
-                {
-                    "name": "35.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/35.jpg"
-                },
-                {
-                    "name": "36.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/36.jpg"
-                },
-                {
-                    "name": "37.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/37.jpg"
-                },
-                {
-                    "name": "38.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/38.jpg"
-                },
-                {
-                    "name": "39.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/39.jpg"
-                },
-                {
-                    "name": "4.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/4.jpg"
-                },
-                {
-                    "name": "40.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/40.jpg"
-                },
-                {
-                    "name": "41.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/41.jpg"
-                },
-                {
-                    "name": "42.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/42.jpg"
-                },
-                {
-                    "name": "43.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/43.jpg"
-                },
-                {
-                    "name": "44.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/44.jpg"
-                },
-                {
-                    "name": "45.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/45.jpg"
-                },
-                {
-                    "name": "46.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/46.jpg"
-                },
-                {
-                    "name": "47.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/47.jpg"
-                },
-                {
-                    "name": "48.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/48.jpg"
-                },
-                {
-                    "name": "49.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/49.jpg"
-                },
-                {
-                    "name": "5.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/5.jpg"
-                },
-                {
-                    "name": "50.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/50.jpg"
-                },
-                {
-                    "name": "51.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/51.jpg"
-                },
-                {
-                    "name": "52.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/52.jpg"
-                },
-                {
-                    "name": "53.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/53.jpg"
-                },
-                {
-                    "name": "54.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/54.jpg"
-                },
-                {
-                    "name": "55.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/55.jpg"
-                },
-                {
-                    "name": "56.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/56.jpg"
-                },
-                {
-                    "name": "57.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/57.jpg"
-                },
-                {
-                    "name": "58.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/58.jpg"
-                },
-                {
-                    "name": "59.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/59.jpg"
-                },
-                {
-                    "name": "6.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/6.jpg"
-                },
-                {
-                    "name": "60.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/60.jpg"
-                },
-                {
-                    "name": "61.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/61.jpg"
-                },
-                {
-                    "name": "62.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/62.jpg"
-                },
-                {
-                    "name": "63.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/63.jpg"
-                },
-                {
-                    "name": "64.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/64.jpg"
-                },
-                {
-                    "name": "65.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/65.jpg"
-                },
-                {
-                    "name": "66.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/66.jpg"
-                },
-                {
-                    "name": "67.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/67.jpg"
-                },
-                {
-                    "name": "68.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/68.jpg"
-                },
-                {
-                    "name": "69.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/69.jpg"
-                },
-                {
-                    "name": "7.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/7.jpg"
-                },
-                {
-                    "name": "70.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/70.jpg"
-                },
-                {
-                    "name": "71.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/71.jpg"
-                },
-                {
-                    "name": "8.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/8.jpg"
-                },
-                {
-                    "name": "9.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/9.jpg"
-                },
-                {
-                    "name": "100.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/100.jpg"
-                },
-                {
-                    "name": "101.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/101.jpg"
-                },
-                {
-                    "name": "102.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/102.jpg"
-                },
-                {
-                    "name": "103.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/103.jpg"
-                },
-                {
-                    "name": "104.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/104.jpg"
-                },
-                {
-                    "name": "105.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/105.jpg"
-                },
-                {
-                    "name": "106.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/106.jpg"
-                },
-                {
-                    "name": "107.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/107.jpg"
-                },
-                {
-                    "name": "108.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/108.jpg"
-                },
-                {
-                    "name": "109.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/109.jpg"
-                },
-                {
-                    "name": "110.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/110.jpg"
-                },
-                {
-                    "name": "111.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/111.jpg"
-                },
-                {
-                    "name": "112.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/112.jpg"
-                },
-                {
-                    "name": "113.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/113.jpg"
-                },
-                {
-                    "name": "114.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/114.jpg"
-                },
-                {
-                    "name": "115.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/115.jpg"
-                },
-                {
-                    "name": "116.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/116.jpg"
-                },
-                {
-                    "name": "117.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/117.jpg"
-                },
-                {
-                    "name": "118.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/118.jpg"
-                },
-                {
-                    "name": "119.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/119.jpg"
-                },
-                {
-                    "name": "120.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/120.jpg"
-                },
-                {
-                    "name": "121.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/121.jpg"
-                },
-                {
-                    "name": "122.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/122.jpg"
-                },
-                {
-                    "name": "123.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/123.jpg"
+                    "name": "125.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/125.jpg"
                 },
                 {
                     "name": "124.jpg",
                     "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/124.jpg"
                 },
                 {
-                    "name": "72.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/72.jpg"
+                    "name": "123.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/123.jpg"
                 },
                 {
-                    "name": "73.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/73.jpg"
+                    "name": "122.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/122.jpg"
                 },
                 {
-                    "name": "74.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/74.jpg"
+                    "name": "121.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/121.jpg"
                 },
                 {
-                    "name": "75.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/75.jpg"
+                    "name": "120.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/120.jpg"
                 },
                 {
-                    "name": "76.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/76.jpg"
+                    "name": "119.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/119.jpg"
                 },
                 {
-                    "name": "77.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/77.jpg"
+                    "name": "118.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/118.jpg"
                 },
                 {
-                    "name": "78.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/78.jpg"
+                    "name": "117.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/117.jpg"
                 },
                 {
-                    "name": "79.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/79.jpg"
+                    "name": "116.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/116.jpg"
                 },
                 {
-                    "name": "80.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/80.jpg"
+                    "name": "115.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/115.jpg"
                 },
                 {
-                    "name": "81.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/81.jpg"
+                    "name": "114.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/114.jpg"
                 },
                 {
-                    "name": "82.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/82.jpg"
+                    "name": "113.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/113.jpg"
                 },
                 {
-                    "name": "83.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/83.jpg"
+                    "name": "112.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/112.jpg"
                 },
                 {
-                    "name": "84.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/84.jpg"
+                    "name": "111.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/111.jpg"
                 },
                 {
-                    "name": "85.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/85.jpg"
+                    "name": "110.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/110.jpg"
                 },
                 {
-                    "name": "86.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/86.jpg"
+                    "name": "109.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/109.jpg"
                 },
                 {
-                    "name": "87.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/87.jpg"
+                    "name": "108.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/108.jpg"
                 },
                 {
-                    "name": "88.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/88.jpg"
+                    "name": "107.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/107.jpg"
                 },
                 {
-                    "name": "89.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/89.jpg"
+                    "name": "106.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/106.jpg"
                 },
                 {
-                    "name": "90.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/90.jpg"
+                    "name": "105.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/105.jpg"
                 },
                 {
-                    "name": "91.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/91.jpg"
+                    "name": "104.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/104.jpg"
                 },
                 {
-                    "name": "92.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/92.jpg"
+                    "name": "103.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/103.jpg"
                 },
                 {
-                    "name": "93.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/93.jpg"
+                    "name": "102.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/102.jpg"
                 },
                 {
-                    "name": "94.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/94.jpg"
+                    "name": "101.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/101.jpg"
                 },
                 {
-                    "name": "95.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/95.jpg"
+                    "name": "100.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/100.jpg"
                 },
                 {
-                    "name": "96.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/96.jpg"
-                },
-                {
-                    "name": "97.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/97.jpg"
+                    "name": "99.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/99.jpg"
                 },
                 {
                     "name": "98.jpg",
                     "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/98.jpg"
                 },
                 {
-                    "name": "99.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/99.jpg"
+                    "name": "97.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/97.jpg"
+                },
+                {
+                    "name": "96.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/96.jpg"
+                },
+                {
+                    "name": "95.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/95.jpg"
+                },
+                {
+                    "name": "94.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/94.jpg"
+                },
+                {
+                    "name": "93.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/93.jpg"
+                },
+                {
+                    "name": "92.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/92.jpg"
+                },
+                {
+                    "name": "91.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/91.jpg"
+                },
+                {
+                    "name": "90.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/90.jpg"
+                },
+                {
+                    "name": "89.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/89.jpg"
+                },
+                {
+                    "name": "88.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/88.jpg"
+                },
+                {
+                    "name": "87.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/87.jpg"
+                },
+                {
+                    "name": "86.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/86.jpg"
+                },
+                {
+                    "name": "85.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/85.jpg"
+                },
+                {
+                    "name": "84.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/84.jpg"
+                },
+                {
+                    "name": "83.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/83.jpg"
+                },
+                {
+                    "name": "82.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/82.jpg"
+                },
+                {
+                    "name": "81.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/81.jpg"
+                },
+                {
+                    "name": "80.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/80.jpg"
+                },
+                {
+                    "name": "79.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/79.jpg"
+                },
+                {
+                    "name": "78.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/78.jpg"
+                },
+                {
+                    "name": "77.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/77.jpg"
+                },
+                {
+                    "name": "76.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/76.jpg"
+                },
+                {
+                    "name": "75.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/75.jpg"
+                },
+                {
+                    "name": "74.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/74.jpg"
+                },
+                {
+                    "name": "73.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/73.jpg"
+                },
+                {
+                    "name": "72.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/72.jpg"
+                },
+                {
+                    "name": "71.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/71.jpg"
+                },
+                {
+                    "name": "70.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/70.jpg"
+                },
+                {
+                    "name": "69.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/69.jpg"
+                },
+                {
+                    "name": "68.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/68.jpg"
+                },
+                {
+                    "name": "67.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/67.jpg"
+                },
+                {
+                    "name": "66.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/66.jpg"
+                },
+                {
+                    "name": "65.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/65.jpg"
+                },
+                {
+                    "name": "64.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/64.jpg"
+                },
+                {
+                    "name": "63.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/63.jpg"
+                },
+                {
+                    "name": "62.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/62.jpg"
+                },
+                {
+                    "name": "61.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/61.jpg"
+                },
+                {
+                    "name": "60.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/60.jpg"
+                },
+                {
+                    "name": "59.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/59.jpg"
+                },
+                {
+                    "name": "58.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/58.jpg"
+                },
+                {
+                    "name": "57.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/57.jpg"
+                },
+                {
+                    "name": "56.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/56.jpg"
+                },
+                {
+                    "name": "55.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/55.jpg"
+                },
+                {
+                    "name": "54.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/54.jpg"
+                },
+                {
+                    "name": "53.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/53.jpg"
+                },
+                {
+                    "name": "52.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/52.jpg"
+                },
+                {
+                    "name": "51.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/51.jpg"
+                },
+                {
+                    "name": "50.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/50.jpg"
+                },
+                {
+                    "name": "49.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/49.jpg"
+                },
+                {
+                    "name": "48.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/48.jpg"
+                },
+                {
+                    "name": "47.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/47.jpg"
+                },
+                {
+                    "name": "46.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/46.jpg"
+                },
+                {
+                    "name": "45.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/45.jpg"
+                },
+                {
+                    "name": "44.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/44.jpg"
+                },
+                {
+                    "name": "43.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/43.jpg"
+                },
+                {
+                    "name": "42.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/42.jpg"
+                },
+                {
+                    "name": "41.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/41.jpg"
+                },
+                {
+                    "name": "40.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/40.jpg"
+                },
+                {
+                    "name": "39.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/39.jpg"
+                },
+                {
+                    "name": "38.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/38.jpg"
+                },
+                {
+                    "name": "37.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/37.jpg"
+                },
+                {
+                    "name": "36.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/36.jpg"
+                },
+                {
+                    "name": "35.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/35.jpg"
+                },
+                {
+                    "name": "34.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/34.jpg"
+                },
+                {
+                    "name": "33.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/33.jpg"
+                },
+                {
+                    "name": "32.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/32.jpg"
+                },
+                {
+                    "name": "31.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/31.jpg"
+                },
+                {
+                    "name": "30.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/30.jpg"
+                },
+                {
+                    "name": "29.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/29.jpg"
+                },
+                {
+                    "name": "28.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/28.jpg"
+                },
+                {
+                    "name": "27.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/27.jpg"
+                },
+                {
+                    "name": "26.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/26.jpg"
+                },
+                {
+                    "name": "25.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/25.jpg"
+                },
+                {
+                    "name": "24.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/24.jpg"
+                },
+                {
+                    "name": "23.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/23.jpg"
+                },
+                {
+                    "name": "22.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/22.jpg"
+                },
+                {
+                    "name": "21.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/21.jpg"
+                },
+                {
+                    "name": "20.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/20.jpg"
+                },
+                {
+                    "name": "19.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/19.jpg"
+                },
+                {
+                    "name": "18.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/18.jpg"
+                },
+                {
+                    "name": "17.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/17.jpg"
+                },
+                {
+                    "name": "16.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/16.jpg"
+                },
+                {
+                    "name": "15.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/15.jpg"
+                },
+                {
+                    "name": "14.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/14.jpg"
+                },
+                {
+                    "name": "13.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/13.jpg"
+                },
+                {
+                    "name": "12.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/12.jpg"
+                },
+                {
+                    "name": "11.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/11.jpg"
+                },
+                {
+                    "name": "10.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/10.jpg"
+                },
+                {
+                    "name": "9.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/9.jpg"
+                },
+                {
+                    "name": "8.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/8.jpg"
+                },
+                {
+                    "name": "7.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/7.jpg"
+                },
+                {
+                    "name": "6.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/6.jpg"
+                },
+                {
+                    "name": "5.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/5.jpg"
+                },
+                {
+                    "name": "4.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/4.jpg"
+                },
+                {
+                    "name": "3.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/3.jpg"
+                },
+                {
+                    "name": "2.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/2.jpg"
+                },
+                {
+                    "name": "1.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/HanumanJi/1.jpg"
                 }
             ],
             "name": "Hanuman Ji",
@@ -505,284 +609,448 @@
         {
             "wallpapers": [
                 {
-                    "name": "1.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/1.jpg"
+                    "name": "111.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/111.jpg"
                 },
                 {
-                    "name": "10.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/10.jpg"
+                    "name": "110.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/110.jpg"
                 },
                 {
-                    "name": "11.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/11.jpg"
+                    "name": "109.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/109.jpg"
                 },
                 {
-                    "name": "12.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/12.jpg"
+                    "name": "108.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/108.jpg"
                 },
                 {
-                    "name": "13.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/13.jpg"
+                    "name": "107.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/107.jpg"
                 },
                 {
-                    "name": "14.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/14.jpg"
+                    "name": "106.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/106.jpg"
                 },
                 {
-                    "name": "15.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/15.jpg"
+                    "name": "105.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/105.jpg"
                 },
                 {
-                    "name": "16.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/16.jpg"
+                    "name": "104.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/104.jpg"
                 },
                 {
-                    "name": "17.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/17.jpg"
+                    "name": "103.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/103.jpg"
                 },
                 {
-                    "name": "18.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/18.jpg"
+                    "name": "102.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/102.jpg"
                 },
                 {
-                    "name": "19.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/19.jpg"
+                    "name": "101.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/101.jpg"
                 },
                 {
-                    "name": "2.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/2.jpg"
+                    "name": "100.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/100.jpg"
                 },
                 {
-                    "name": "20.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/20.jpg"
+                    "name": "99.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/99.jpg"
                 },
                 {
-                    "name": "21.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/21.jpg"
+                    "name": "98.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/98.jpg"
                 },
                 {
-                    "name": "22.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/22.jpg"
+                    "name": "97.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/97.jpg"
                 },
                 {
-                    "name": "23.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/23.jpg"
+                    "name": "96.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/96.jpg"
                 },
                 {
-                    "name": "24.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/24.jpg"
+                    "name": "95.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/95.jpg"
                 },
                 {
-                    "name": "25.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/25.jpg"
+                    "name": "94.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/94.jpg"
                 },
                 {
-                    "name": "26.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/26.jpg"
+                    "name": "93.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/93.jpg"
                 },
                 {
-                    "name": "27.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/27.jpg"
+                    "name": "92.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/92.jpg"
                 },
                 {
-                    "name": "28.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/28.jpg"
+                    "name": "91.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/91.jpg"
                 },
                 {
-                    "name": "29.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/29.jpg"
+                    "name": "90.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/90.jpg"
                 },
                 {
-                    "name": "3.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/3.jpg"
+                    "name": "89.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/89.jpg"
                 },
                 {
-                    "name": "30.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/30.jpg"
+                    "name": "88.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/88.jpg"
                 },
                 {
-                    "name": "31.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/31.jpg"
+                    "name": "87.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/87.jpg"
                 },
                 {
-                    "name": "32.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/32.jpg"
+                    "name": "86.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/86.jpg"
                 },
                 {
-                    "name": "33.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/33.jpg"
+                    "name": "85.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/85.jpg"
                 },
                 {
-                    "name": "34.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/34.jpg"
+                    "name": "84.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/84.jpg"
                 },
                 {
-                    "name": "35.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/35.jpg"
+                    "name": "83.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/83.jpg"
                 },
                 {
-                    "name": "36.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/36.jpg"
+                    "name": "82.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/82.jpg"
                 },
                 {
-                    "name": "37.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/37.jpg"
+                    "name": "81.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/81.jpg"
                 },
                 {
-                    "name": "38.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/38.jpg"
+                    "name": "80.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/80.jpg"
                 },
                 {
-                    "name": "39.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/39.jpg"
+                    "name": "79.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/79.jpg"
                 },
                 {
-                    "name": "4.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/4.jpg"
+                    "name": "78.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/78.jpg"
                 },
                 {
-                    "name": "40.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/40.jpg"
+                    "name": "77.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/77.jpg"
                 },
                 {
-                    "name": "41.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/41.jpg"
+                    "name": "76.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/76.jpg"
                 },
                 {
-                    "name": "42.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/42.jpg"
+                    "name": "75.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/75.jpg"
                 },
                 {
-                    "name": "43.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/43.jpg"
+                    "name": "74.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/74.jpg"
                 },
                 {
-                    "name": "44.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/44.jpg"
+                    "name": "73.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/73.jpg"
                 },
                 {
-                    "name": "45.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/45.jpg"
+                    "name": "72.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/72.jpg"
                 },
                 {
-                    "name": "46.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/46.jpg"
+                    "name": "71.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/71.jpg"
                 },
                 {
-                    "name": "47.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/47.jpg"
-                },
-                {
-                    "name": "48.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/48.jpg"
-                },
-                {
-                    "name": "49.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/49.jpg"
-                },
-                {
-                    "name": "5.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/5.jpg"
-                },
-                {
-                    "name": "50.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/50.jpg"
-                },
-                {
-                    "name": "51.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/51.jpg"
-                },
-                {
-                    "name": "6.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/6.jpg"
-                },
-                {
-                    "name": "7.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/7.jpg"
-                },
-                {
-                    "name": "8.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/8.jpg"
-                },
-                {
-                    "name": "9.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/9.jpg"
-                },
-                {
-                    "name": "52.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/52.jpg"
-                },
-                {
-                    "name": "53.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/53.jpg"
-                },
-                {
-                    "name": "54.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/54.jpg"
-                },
-                {
-                    "name": "55.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/55.jpg"
-                },
-                {
-                    "name": "56.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/56.jpg"
-                },
-                {
-                    "name": "57.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/57.jpg"
-                },
-                {
-                    "name": "58.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/58.jpg"
-                },
-                {
-                    "name": "59.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/59.jpg"
-                },
-                {
-                    "name": "60.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/60.jpg"
-                },
-                {
-                    "name": "61.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/61.jpg"
-                },
-                {
-                    "name": "62.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/62.jpg"
-                },
-                {
-                    "name": "63.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/63.jpg"
-                },
-                {
-                    "name": "64.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/64.jpg"
-                },
-                {
-                    "name": "65.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/65.jpg"
-                },
-                {
-                    "name": "66.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/66.jpg"
-                },
-                {
-                    "name": "67.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/67.jpg"
-                },
-                {
-                    "name": "68.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/68.jpg"
+                    "name": "70.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/70.jpg"
                 },
                 {
                     "name": "69.jpg",
                     "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/69.jpg"
                 },
                 {
-                    "name": "70.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/70.jpg"
+                    "name": "68.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/68.jpg"
+                },
+                {
+                    "name": "67.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/67.jpg"
+                },
+                {
+                    "name": "66.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/66.jpg"
+                },
+                {
+                    "name": "65.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/65.jpg"
+                },
+                {
+                    "name": "64.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/64.jpg"
+                },
+                {
+                    "name": "63.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/63.jpg"
+                },
+                {
+                    "name": "62.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/62.jpg"
+                },
+                {
+                    "name": "61.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/61.jpg"
+                },
+                {
+                    "name": "60.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/60.jpg"
+                },
+                {
+                    "name": "59.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/59.jpg"
+                },
+                {
+                    "name": "58.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/58.jpg"
+                },
+                {
+                    "name": "57.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/57.jpg"
+                },
+                {
+                    "name": "56.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/56.jpg"
+                },
+                {
+                    "name": "55.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/55.jpg"
+                },
+                {
+                    "name": "54.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/54.jpg"
+                },
+                {
+                    "name": "53.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/53.jpg"
+                },
+                {
+                    "name": "52.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/52.jpg"
+                },
+                {
+                    "name": "51.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/51.jpg"
+                },
+                {
+                    "name": "50.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/50.jpg"
+                },
+                {
+                    "name": "49.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/49.jpg"
+                },
+                {
+                    "name": "48.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/48.jpg"
+                },
+                {
+                    "name": "47.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/47.jpg"
+                },
+                {
+                    "name": "46.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/46.jpg"
+                },
+                {
+                    "name": "45.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/45.jpg"
+                },
+                {
+                    "name": "44.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/44.jpg"
+                },
+                {
+                    "name": "43.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/43.jpg"
+                },
+                {
+                    "name": "42.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/42.jpg"
+                },
+                {
+                    "name": "41.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/41.jpg"
+                },
+                {
+                    "name": "40.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/40.jpg"
+                },
+                {
+                    "name": "39.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/39.jpg"
+                },
+                {
+                    "name": "38.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/38.jpg"
+                },
+                {
+                    "name": "37.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/37.jpg"
+                },
+                {
+                    "name": "36.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/36.jpg"
+                },
+                {
+                    "name": "35.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/35.jpg"
+                },
+                {
+                    "name": "34.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/34.jpg"
+                },
+                {
+                    "name": "33.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/33.jpg"
+                },
+                {
+                    "name": "32.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/32.jpg"
+                },
+                {
+                    "name": "31.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/31.jpg"
+                },
+                {
+                    "name": "30.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/30.jpg"
+                },
+                {
+                    "name": "29.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/29.jpg"
+                },
+                {
+                    "name": "28.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/28.jpg"
+                },
+                {
+                    "name": "27.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/27.jpg"
+                },
+                {
+                    "name": "26.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/26.jpg"
+                },
+                {
+                    "name": "25.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/25.jpg"
+                },
+                {
+                    "name": "24.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/24.jpg"
+                },
+                {
+                    "name": "23.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/23.jpg"
+                },
+                {
+                    "name": "22.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/22.jpg"
+                },
+                {
+                    "name": "21.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/21.jpg"
+                },
+                {
+                    "name": "20.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/20.jpg"
+                },
+                {
+                    "name": "19.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/19.jpg"
+                },
+                {
+                    "name": "18.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/18.jpg"
+                },
+                {
+                    "name": "17.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/17.jpg"
+                },
+                {
+                    "name": "16.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/16.jpg"
+                },
+                {
+                    "name": "15.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/15.jpg"
+                },
+                {
+                    "name": "14.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/14.jpg"
+                },
+                {
+                    "name": "13.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/13.jpg"
+                },
+                {
+                    "name": "12.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/12.jpg"
+                },
+                {
+                    "name": "11.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/11.jpg"
+                },
+                {
+                    "name": "10.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/10.jpg"
+                },
+                {
+                    "name": "9.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/9.jpg"
+                },
+                {
+                    "name": "8.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/8.jpg"
+                },
+                {
+                    "name": "7.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/7.jpg"
+                },
+                {
+                    "name": "6.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/6.jpg"
+                },
+                {
+                    "name": "5.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/5.jpg"
+                },
+                {
+                    "name": "4.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/4.jpg"
+                },
+                {
+                    "name": "3.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/3.jpg"
+                },
+                {
+                    "name": "2.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/2.jpg"
+                },
+                {
+                    "name": "1.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Shiva/1.jpg"
                 }
             ],
             "name": "Shiv Ji",
@@ -791,148 +1059,148 @@
         {
             "wallpapers": [
                 {
-                    "name": "1.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/1.jpg"
-                },
-                {
-                    "name": "10.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/10.jpg"
-                },
-                {
-                    "name": "11.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/11.jpg"
-                },
-                {
-                    "name": "12.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/12.jpg"
-                },
-                {
-                    "name": "13.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/13.jpg"
-                },
-                {
-                    "name": "14.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/14.jpg"
-                },
-                {
-                    "name": "15.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/15.jpg"
-                },
-                {
-                    "name": "16.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/16.jpg"
-                },
-                {
-                    "name": "17.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/17.jpg"
-                },
-                {
-                    "name": "18.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/18.jpg"
-                },
-                {
-                    "name": "19.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/19.jpg"
-                },
-                {
-                    "name": "2.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/2.jpg"
-                },
-                {
-                    "name": "20.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/20.jpg"
-                },
-                {
-                    "name": "21.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/21.jpg"
-                },
-                {
-                    "name": "22.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/22.jpg"
-                },
-                {
-                    "name": "23.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/23.jpg"
-                },
-                {
-                    "name": "24.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/24.jpg"
-                },
-                {
-                    "name": "25.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/25.jpg"
-                },
-                {
-                    "name": "26.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/26.jpg"
-                },
-                {
-                    "name": "27.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/27.jpg"
-                },
-                {
-                    "name": "28.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/28.jpg"
-                },
-                {
-                    "name": "29.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/29.jpg"
-                },
-                {
-                    "name": "3.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/3.jpg"
-                },
-                {
-                    "name": "30.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/30.jpg"
-                },
-                {
-                    "name": "31.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/31.jpg"
-                },
-                {
-                    "name": "32.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/32.jpg"
-                },
-                {
-                    "name": "33.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/33.jpg"
-                },
-                {
-                    "name": "34.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/34.jpg"
+                    "name": "36.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/36.jpg"
                 },
                 {
                     "name": "35.jpg",
                     "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/35.jpg"
                 },
                 {
-                    "name": "36.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/36.jpg"
+                    "name": "34.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/34.jpg"
                 },
                 {
-                    "name": "4.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/4.jpg"
+                    "name": "33.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/33.jpg"
                 },
                 {
-                    "name": "5.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/5.jpg"
+                    "name": "32.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/32.jpg"
                 },
                 {
-                    "name": "6.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/6.jpg"
+                    "name": "31.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/31.jpg"
                 },
                 {
-                    "name": "7.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/7.jpg"
+                    "name": "30.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/30.jpg"
+                },
+                {
+                    "name": "29.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/29.jpg"
+                },
+                {
+                    "name": "28.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/28.jpg"
+                },
+                {
+                    "name": "27.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/27.jpg"
+                },
+                {
+                    "name": "26.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/26.jpg"
+                },
+                {
+                    "name": "25.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/25.jpg"
+                },
+                {
+                    "name": "24.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/24.jpg"
+                },
+                {
+                    "name": "23.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/23.jpg"
+                },
+                {
+                    "name": "22.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/22.jpg"
+                },
+                {
+                    "name": "21.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/21.jpg"
+                },
+                {
+                    "name": "20.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/20.jpg"
+                },
+                {
+                    "name": "19.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/19.jpg"
+                },
+                {
+                    "name": "18.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/18.jpg"
+                },
+                {
+                    "name": "17.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/17.jpg"
+                },
+                {
+                    "name": "16.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/16.jpg"
+                },
+                {
+                    "name": "15.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/15.jpg"
+                },
+                {
+                    "name": "14.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/14.jpg"
+                },
+                {
+                    "name": "13.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/13.jpg"
+                },
+                {
+                    "name": "12.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/12.jpg"
+                },
+                {
+                    "name": "11.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/11.jpg"
+                },
+                {
+                    "name": "10.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/10.jpg"
+                },
+                {
+                    "name": "9.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/9.jpg"
                 },
                 {
                     "name": "8.jpg",
                     "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/8.jpg"
                 },
                 {
-                    "name": "9.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/9.jpg"
+                    "name": "7.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/7.jpg"
+                },
+                {
+                    "name": "6.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/6.jpg"
+                },
+                {
+                    "name": "5.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/5.jpg"
+                },
+                {
+                    "name": "4.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/4.jpg"
+                },
+                {
+                    "name": "3.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/3.jpg"
+                },
+                {
+                    "name": "2.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/2.jpg"
+                },
+                {
+                    "name": "1.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ram/1.jpg"
                 }
             ],
             "name": "Ram Ji",
@@ -941,284 +1209,564 @@
         {
             "wallpapers": [
                 {
-                    "name": "1.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/1.jpg"
+                    "name": "140.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/140.jpg"
                 },
                 {
-                    "name": "10.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/10.jpg"
+                    "name": "139.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/139.jpg"
                 },
                 {
-                    "name": "11.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/11.jpg"
+                    "name": "138.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/138.jpg"
                 },
                 {
-                    "name": "12.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/12.jpg"
+                    "name": "137.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/137.jpg"
                 },
                 {
-                    "name": "13.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/13.jpg"
+                    "name": "136.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/136.jpg"
                 },
                 {
-                    "name": "14.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/14.jpg"
+                    "name": "135.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/135.jpg"
                 },
                 {
-                    "name": "15.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/15.jpg"
+                    "name": "134.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/134.jpg"
                 },
                 {
-                    "name": "16.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/16.jpg"
+                    "name": "133.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/133.jpg"
                 },
                 {
-                    "name": "17.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/17.jpg"
+                    "name": "132.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/132.jpg"
                 },
                 {
-                    "name": "18.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/18.jpg"
+                    "name": "131.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/131.jpg"
                 },
                 {
-                    "name": "19.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/19.jpg"
+                    "name": "130.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/130.jpg"
                 },
                 {
-                    "name": "2.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/2.jpg"
+                    "name": "129.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/129.jpg"
                 },
                 {
-                    "name": "20.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/20.jpg"
+                    "name": "128.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/128.jpg"
                 },
                 {
-                    "name": "21.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/21.jpg"
+                    "name": "127.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/127.jpg"
                 },
                 {
-                    "name": "22.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/22.jpg"
+                    "name": "126.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/126.jpg"
                 },
                 {
-                    "name": "23.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/23.jpg"
+                    "name": "125.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/125.jpg"
                 },
                 {
-                    "name": "24.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/24.jpg"
+                    "name": "124.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/124.jpg"
                 },
                 {
-                    "name": "25.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/25.jpg"
+                    "name": "123.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/123.jpg"
                 },
                 {
-                    "name": "26.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/26.jpg"
+                    "name": "122.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/122.jpg"
                 },
                 {
-                    "name": "27.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/27.jpg"
+                    "name": "121.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/121.jpg"
                 },
                 {
-                    "name": "28.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/28.jpg"
+                    "name": "120.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/120.jpg"
                 },
                 {
-                    "name": "29.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/29.jpg"
+                    "name": "119.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/119.jpg"
                 },
                 {
-                    "name": "3.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/3.jpg"
+                    "name": "118.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/118.jpg"
                 },
                 {
-                    "name": "30.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/30.jpg"
+                    "name": "117.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/117.jpg"
                 },
                 {
-                    "name": "31.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/31.jpg"
+                    "name": "116.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/116.jpg"
                 },
                 {
-                    "name": "32.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/32.jpg"
+                    "name": "115.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/115.jpg"
                 },
                 {
-                    "name": "33.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/33.jpg"
+                    "name": "114.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/114.jpg"
                 },
                 {
-                    "name": "34.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/34.jpg"
+                    "name": "113.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/113.jpg"
                 },
                 {
-                    "name": "35.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/35.jpg"
+                    "name": "112.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/112.jpg"
                 },
                 {
-                    "name": "36.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/36.jpg"
+                    "name": "111.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/111.jpg"
                 },
                 {
-                    "name": "37.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/37.jpg"
+                    "name": "110.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/110.jpg"
                 },
                 {
-                    "name": "38.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/38.jpg"
+                    "name": "109.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/109.jpg"
                 },
                 {
-                    "name": "39.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/39.jpg"
+                    "name": "108.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/108.jpg"
                 },
                 {
-                    "name": "4.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/4.jpg"
+                    "name": "107.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/107.jpg"
                 },
                 {
-                    "name": "40.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/40.jpg"
+                    "name": "106.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/106.jpg"
                 },
                 {
-                    "name": "41.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/41.jpg"
+                    "name": "105.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/105.jpg"
                 },
                 {
-                    "name": "42.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/42.jpg"
+                    "name": "104.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/104.jpg"
                 },
                 {
-                    "name": "43.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/43.jpg"
+                    "name": "103.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/103.jpg"
                 },
                 {
-                    "name": "44.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/44.jpg"
+                    "name": "102.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/102.jpg"
                 },
                 {
-                    "name": "45.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/45.jpg"
+                    "name": "101.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/101.jpg"
                 },
                 {
-                    "name": "46.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/46.jpg"
+                    "name": "100.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/100.jpg"
                 },
                 {
-                    "name": "47.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/47.jpg"
+                    "name": "99.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/99.jpg"
                 },
                 {
-                    "name": "48.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/48.jpg"
+                    "name": "98.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/98.jpg"
                 },
                 {
-                    "name": "49.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/49.jpg"
+                    "name": "97.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/97.jpg"
                 },
                 {
-                    "name": "5.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/5.jpg"
+                    "name": "96.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/96.jpg"
                 },
                 {
-                    "name": "50.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/50.jpg"
+                    "name": "95.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/95.jpg"
                 },
                 {
-                    "name": "51.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/51.jpg"
+                    "name": "94.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/94.jpg"
                 },
                 {
-                    "name": "52.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/52.jpg"
+                    "name": "93.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/93.jpg"
                 },
                 {
-                    "name": "53.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/53.jpg"
+                    "name": "92.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/92.jpg"
                 },
                 {
-                    "name": "54.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/54.jpg"
+                    "name": "91.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/91.jpg"
                 },
                 {
-                    "name": "55.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/55.jpg"
+                    "name": "90.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/90.jpg"
                 },
                 {
-                    "name": "56.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/56.jpg"
+                    "name": "89.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/89.jpg"
                 },
                 {
-                    "name": "57.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/57.jpg"
+                    "name": "88.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/88.jpg"
                 },
                 {
-                    "name": "58.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/58.jpg"
+                    "name": "87.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/87.jpg"
                 },
                 {
-                    "name": "59.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/59.jpg"
+                    "name": "86.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/86.jpg"
                 },
                 {
-                    "name": "6.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/6.jpg"
+                    "name": "85.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/85.jpg"
                 },
                 {
-                    "name": "60.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/60.jpg"
+                    "name": "84.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/84.jpg"
                 },
                 {
-                    "name": "61.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/61.jpg"
+                    "name": "83.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/83.jpg"
                 },
                 {
-                    "name": "62.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/62.jpg"
+                    "name": "82.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/82.jpg"
                 },
                 {
-                    "name": "63.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/63.jpg"
+                    "name": "81.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/81.jpg"
                 },
                 {
-                    "name": "64.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/64.jpg"
+                    "name": "80.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/80.jpg"
                 },
                 {
-                    "name": "65.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/65.jpg"
+                    "name": "79.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/79.jpg"
                 },
                 {
-                    "name": "66.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/66.jpg"
+                    "name": "78.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/78.jpg"
                 },
                 {
-                    "name": "67.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/67.jpg"
+                    "name": "77.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/77.jpg"
                 },
                 {
-                    "name": "68.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/68.jpg"
+                    "name": "76.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/76.jpg"
                 },
                 {
-                    "name": "69.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/69.jpg"
+                    "name": "75.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/75.jpg"
                 },
                 {
-                    "name": "7.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/7.jpg"
+                    "name": "74.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/74.jpg"
+                },
+                {
+                    "name": "73.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/73.jpg"
+                },
+                {
+                    "name": "72.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/72.jpg"
+                },
+                {
+                    "name": "71.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/71.jpg"
                 },
                 {
                     "name": "70.jpg",
                     "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/70.jpg"
                 },
                 {
-                    "name": "8.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/8.jpg"
+                    "name": "69.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/69.jpg"
+                },
+                {
+                    "name": "68.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/68.jpg"
+                },
+                {
+                    "name": "67.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/67.jpg"
+                },
+                {
+                    "name": "66.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/66.jpg"
+                },
+                {
+                    "name": "65.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/65.jpg"
+                },
+                {
+                    "name": "64.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/64.jpg"
+                },
+                {
+                    "name": "63.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/63.jpg"
+                },
+                {
+                    "name": "62.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/62.jpg"
+                },
+                {
+                    "name": "61.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/61.jpg"
+                },
+                {
+                    "name": "60.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/60.jpg"
+                },
+                {
+                    "name": "59.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/59.jpg"
+                },
+                {
+                    "name": "58.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/58.jpg"
+                },
+                {
+                    "name": "57.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/57.jpg"
+                },
+                {
+                    "name": "56.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/56.jpg"
+                },
+                {
+                    "name": "55.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/55.jpg"
+                },
+                {
+                    "name": "54.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/54.jpg"
+                },
+                {
+                    "name": "53.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/53.jpg"
+                },
+                {
+                    "name": "52.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/52.jpg"
+                },
+                {
+                    "name": "51.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/51.jpg"
+                },
+                {
+                    "name": "50.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/50.jpg"
+                },
+                {
+                    "name": "49.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/49.jpg"
+                },
+                {
+                    "name": "48.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/48.jpg"
+                },
+                {
+                    "name": "47.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/47.jpg"
+                },
+                {
+                    "name": "46.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/46.jpg"
+                },
+                {
+                    "name": "45.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/45.jpg"
+                },
+                {
+                    "name": "44.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/44.jpg"
+                },
+                {
+                    "name": "43.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/43.jpg"
+                },
+                {
+                    "name": "42.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/42.jpg"
+                },
+                {
+                    "name": "41.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/41.jpg"
+                },
+                {
+                    "name": "40.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/40.jpg"
+                },
+                {
+                    "name": "39.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/39.jpg"
+                },
+                {
+                    "name": "38.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/38.jpg"
+                },
+                {
+                    "name": "37.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/37.jpg"
+                },
+                {
+                    "name": "36.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/36.jpg"
+                },
+                {
+                    "name": "35.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/35.jpg"
+                },
+                {
+                    "name": "34.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/34.jpg"
+                },
+                {
+                    "name": "33.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/33.jpg"
+                },
+                {
+                    "name": "32.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/32.jpg"
+                },
+                {
+                    "name": "31.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/31.jpg"
+                },
+                {
+                    "name": "30.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/30.jpg"
+                },
+                {
+                    "name": "29.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/29.jpg"
+                },
+                {
+                    "name": "28.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/28.jpg"
+                },
+                {
+                    "name": "27.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/27.jpg"
+                },
+                {
+                    "name": "26.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/26.jpg"
+                },
+                {
+                    "name": "25.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/25.jpg"
+                },
+                {
+                    "name": "24.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/24.jpg"
+                },
+                {
+                    "name": "23.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/23.jpg"
+                },
+                {
+                    "name": "22.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/22.jpg"
+                },
+                {
+                    "name": "21.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/21.jpg"
+                },
+                {
+                    "name": "20.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/20.jpg"
+                },
+                {
+                    "name": "19.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/19.jpg"
+                },
+                {
+                    "name": "18.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/18.jpg"
+                },
+                {
+                    "name": "17.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/17.jpg"
+                },
+                {
+                    "name": "16.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/16.jpg"
+                },
+                {
+                    "name": "15.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/15.jpg"
+                },
+                {
+                    "name": "14.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/14.jpg"
+                },
+                {
+                    "name": "13.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/13.jpg"
+                },
+                {
+                    "name": "12.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/12.jpg"
+                },
+                {
+                    "name": "11.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/11.jpg"
+                },
+                {
+                    "name": "10.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/10.jpg"
                 },
                 {
                     "name": "9.jpg",
                     "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/9.jpg"
+                },
+                {
+                    "name": "8.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/8.jpg"
+                },
+                {
+                    "name": "7.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/7.jpg"
+                },
+                {
+                    "name": "6.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/6.jpg"
+                },
+                {
+                    "name": "5.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/5.jpg"
+                },
+                {
+                    "name": "4.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/4.jpg"
+                },
+                {
+                    "name": "3.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/3.jpg"
+                },
+                {
+                    "name": "2.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/2.jpg"
+                },
+                {
+                    "name": "1.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Krishna/1.jpg"
                 }
             ],
             "name": "Krishna Ji",
@@ -1227,136 +1775,324 @@
         {
             "wallpapers": [
                 {
-                    "name": "1.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/1.jpg"
+                    "name": "80.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/80.jpg"
                 },
                 {
-                    "name": "10.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/10.jpg"
+                    "name": "79.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/79.jpg"
                 },
                 {
-                    "name": "11.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/11.jpg"
+                    "name": "78.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/78.jpg"
                 },
                 {
-                    "name": "12.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/12.jpg"
+                    "name": "77.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/77.jpg"
                 },
                 {
-                    "name": "13.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/13.jpg"
+                    "name": "76.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/76.jpg"
                 },
                 {
-                    "name": "14.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/14.jpg"
+                    "name": "75.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/75.jpg"
                 },
                 {
-                    "name": "15.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/15.jpg"
+                    "name": "74.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/74.jpg"
                 },
                 {
-                    "name": "16.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/16.jpg"
+                    "name": "73.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/73.jpg"
                 },
                 {
-                    "name": "17.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/17.jpg"
+                    "name": "72.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/72.jpg"
                 },
                 {
-                    "name": "18.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/18.jpg"
+                    "name": "71.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/71.jpg"
                 },
                 {
-                    "name": "19.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/19.jpg"
+                    "name": "70.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/70.jpg"
                 },
                 {
-                    "name": "2.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/2.jpg"
+                    "name": "69.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/69.jpg"
                 },
                 {
-                    "name": "20.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/20.jpg"
+                    "name": "68.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/68.jpg"
                 },
                 {
-                    "name": "21.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/21.jpg"
+                    "name": "67.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/67.jpg"
                 },
                 {
-                    "name": "22.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/22.jpg"
+                    "name": "66.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/66.jpg"
                 },
                 {
-                    "name": "23.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/23.jpg"
+                    "name": "65.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/65.jpg"
                 },
                 {
-                    "name": "24.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/24.jpg"
+                    "name": "64.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/64.jpg"
                 },
                 {
-                    "name": "25.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/25.jpg"
+                    "name": "63.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/63.jpg"
                 },
                 {
-                    "name": "26.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/26.jpg"
+                    "name": "62.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/62.jpg"
                 },
                 {
-                    "name": "27.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/27.jpg"
+                    "name": "61.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/61.jpg"
                 },
                 {
-                    "name": "28.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/28.jpg"
+                    "name": "60.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/60.jpg"
                 },
                 {
-                    "name": "29.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/29.jpg"
+                    "name": "59.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/59.jpg"
                 },
                 {
-                    "name": "3.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/3.jpg"
+                    "name": "58.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/58.jpg"
                 },
                 {
-                    "name": "30.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/30.jpg"
+                    "name": "57.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/57.jpg"
                 },
                 {
-                    "name": "31.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/31.jpg"
+                    "name": "56.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/56.jpg"
                 },
                 {
-                    "name": "32.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/32.jpg"
+                    "name": "55.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/55.jpg"
+                },
+                {
+                    "name": "54.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/54.jpg"
+                },
+                {
+                    "name": "53.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/53.jpg"
+                },
+                {
+                    "name": "52.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/52.jpg"
+                },
+                {
+                    "name": "51.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/51.jpg"
+                },
+                {
+                    "name": "50.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/50.jpg"
+                },
+                {
+                    "name": "49.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/49.jpg"
+                },
+                {
+                    "name": "48.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/48.jpg"
+                },
+                {
+                    "name": "47.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/47.jpg"
+                },
+                {
+                    "name": "46.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/46.jpg"
+                },
+                {
+                    "name": "45.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/45.jpg"
+                },
+                {
+                    "name": "44.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/44.jpg"
+                },
+                {
+                    "name": "43.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/43.jpg"
+                },
+                {
+                    "name": "42.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/42.jpg"
+                },
+                {
+                    "name": "41.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/41.jpg"
+                },
+                {
+                    "name": "40.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/40.jpg"
+                },
+                {
+                    "name": "39.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/39.jpg"
+                },
+                {
+                    "name": "38.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/38.jpg"
+                },
+                {
+                    "name": "37.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/37.jpg"
+                },
+                {
+                    "name": "36.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/36.jpg"
+                },
+                {
+                    "name": "35.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/35.jpg"
+                },
+                {
+                    "name": "34.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/34.jpg"
                 },
                 {
                     "name": "33.jpg",
                     "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/33.jpg"
                 },
                 {
-                    "name": "4.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/4.jpg"
+                    "name": "32.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/32.jpg"
                 },
                 {
-                    "name": "5.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/5.jpg"
+                    "name": "31.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/31.jpg"
                 },
                 {
-                    "name": "6.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/6.jpg"
+                    "name": "30.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/30.jpg"
                 },
                 {
-                    "name": "7.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/7.jpg"
+                    "name": "29.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/29.jpg"
+                },
+                {
+                    "name": "28.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/28.jpg"
+                },
+                {
+                    "name": "27.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/27.jpg"
+                },
+                {
+                    "name": "26.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/26.jpg"
+                },
+                {
+                    "name": "25.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/25.jpg"
+                },
+                {
+                    "name": "24.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/24.jpg"
+                },
+                {
+                    "name": "23.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/23.jpg"
+                },
+                {
+                    "name": "22.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/22.jpg"
+                },
+                {
+                    "name": "21.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/21.jpg"
+                },
+                {
+                    "name": "20.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/20.jpg"
+                },
+                {
+                    "name": "19.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/19.jpg"
+                },
+                {
+                    "name": "18.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/18.jpg"
+                },
+                {
+                    "name": "17.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/17.jpg"
+                },
+                {
+                    "name": "16.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/16.jpg"
+                },
+                {
+                    "name": "15.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/15.jpg"
+                },
+                {
+                    "name": "14.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/14.jpg"
+                },
+                {
+                    "name": "13.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/13.jpg"
+                },
+                {
+                    "name": "12.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/12.jpg"
+                },
+                {
+                    "name": "11.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/11.jpg"
+                },
+                {
+                    "name": "10.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/10.jpg"
+                },
+                {
+                    "name": "9.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/9.jpg"
                 },
                 {
                     "name": "8.jpg",
                     "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/8.jpg"
                 },
                 {
-                    "name": "9.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/9.jpg"
+                    "name": "7.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/7.jpg"
+                },
+                {
+                    "name": "6.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/6.jpg"
+                },
+                {
+                    "name": "5.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/5.jpg"
+                },
+                {
+                    "name": "4.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/4.jpg"
+                },
+                {
+                    "name": "3.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/3.jpg"
+                },
+                {
+                    "name": "2.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/2.jpg"
+                },
+                {
+                    "name": "1.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Ganesha/1.jpg"
                 }
             ],
             "name": "Ganesh Ji",
@@ -1365,228 +2101,228 @@
         {
             "wallpapers": [
                 {
-                    "name": "1.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/1.jpg"
-                },
-                {
-                    "name": "10.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/10.jpg"
-                },
-                {
-                    "name": "11.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/11.jpg"
-                },
-                {
-                    "name": "12.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/12.jpg"
-                },
-                {
-                    "name": "13.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/13.jpg"
-                },
-                {
-                    "name": "14.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/14.jpg"
-                },
-                {
-                    "name": "15.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/15.jpg"
-                },
-                {
-                    "name": "16.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/16.jpg"
-                },
-                {
-                    "name": "17.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/17.jpg"
-                },
-                {
-                    "name": "18.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/18.jpg"
-                },
-                {
-                    "name": "19.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/19.jpg"
-                },
-                {
-                    "name": "2.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/2.jpg"
-                },
-                {
-                    "name": "20.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/20.jpg"
-                },
-                {
-                    "name": "21.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/21.jpg"
-                },
-                {
-                    "name": "22.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/22.jpg"
-                },
-                {
-                    "name": "23.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/23.jpg"
-                },
-                {
-                    "name": "24.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/24.jpg"
-                },
-                {
-                    "name": "25.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/25.jpg"
-                },
-                {
-                    "name": "26.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/26.jpg"
-                },
-                {
-                    "name": "27.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/27.jpg"
-                },
-                {
-                    "name": "28.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/28.jpg"
-                },
-                {
-                    "name": "29.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/29.jpg"
-                },
-                {
-                    "name": "3.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/3.jpg"
-                },
-                {
-                    "name": "30.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/30.jpg"
-                },
-                {
-                    "name": "31.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/31.jpg"
-                },
-                {
-                    "name": "32.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/32.jpg"
-                },
-                {
-                    "name": "33.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/33.jpg"
-                },
-                {
-                    "name": "34.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/34.jpg"
-                },
-                {
-                    "name": "35.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/35.jpg"
-                },
-                {
-                    "name": "36.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/36.jpg"
-                },
-                {
-                    "name": "37.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/37.jpg"
-                },
-                {
-                    "name": "38.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/38.jpg"
-                },
-                {
-                    "name": "39.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/39.jpg"
-                },
-                {
-                    "name": "4.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/4.jpg"
-                },
-                {
-                    "name": "40.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/40.jpg"
-                },
-                {
-                    "name": "41.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/41.jpg"
-                },
-                {
-                    "name": "42.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/42.jpg"
-                },
-                {
-                    "name": "43.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/43.jpg"
-                },
-                {
-                    "name": "44.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/44.jpg"
-                },
-                {
-                    "name": "45.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/45.jpg"
-                },
-                {
-                    "name": "46.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/46.jpg"
-                },
-                {
-                    "name": "5.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/5.jpg"
-                },
-                {
-                    "name": "6.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/6.jpg"
-                },
-                {
-                    "name": "7.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/7.jpg"
-                },
-                {
-                    "name": "8.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/8.jpg"
-                },
-                {
-                    "name": "9.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/9.jpg"
-                },
-                {
-                    "name": "47.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/47.jpg"
-                },
-                {
-                    "name": "48.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/48.jpg"
-                },
-                {
-                    "name": "49.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/49.jpg"
-                },
-                {
-                    "name": "50.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/50.jpg"
-                },
-                {
-                    "name": "51.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/51.jpg"
-                },
-                {
-                    "name": "52.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/52.jpg"
-                },
-                {
-                    "name": "53.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/53.jpg"
-                },
-                {
-                    "name": "54.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/54.jpg"
+                    "name": "56.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/56.jpg"
                 },
                 {
                     "name": "55.jpg",
                     "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/55.jpg"
                 },
                 {
-                    "name": "56.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/56.jpg"
+                    "name": "54.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/54.jpg"
+                },
+                {
+                    "name": "53.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/53.jpg"
+                },
+                {
+                    "name": "52.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/52.jpg"
+                },
+                {
+                    "name": "51.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/51.jpg"
+                },
+                {
+                    "name": "50.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/50.jpg"
+                },
+                {
+                    "name": "49.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/49.jpg"
+                },
+                {
+                    "name": "48.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/48.jpg"
+                },
+                {
+                    "name": "47.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/47.jpg"
+                },
+                {
+                    "name": "46.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/46.jpg"
+                },
+                {
+                    "name": "45.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/45.jpg"
+                },
+                {
+                    "name": "44.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/44.jpg"
+                },
+                {
+                    "name": "43.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/43.jpg"
+                },
+                {
+                    "name": "42.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/42.jpg"
+                },
+                {
+                    "name": "41.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/41.jpg"
+                },
+                {
+                    "name": "40.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/40.jpg"
+                },
+                {
+                    "name": "39.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/39.jpg"
+                },
+                {
+                    "name": "38.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/38.jpg"
+                },
+                {
+                    "name": "37.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/37.jpg"
+                },
+                {
+                    "name": "36.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/36.jpg"
+                },
+                {
+                    "name": "35.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/35.jpg"
+                },
+                {
+                    "name": "34.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/34.jpg"
+                },
+                {
+                    "name": "33.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/33.jpg"
+                },
+                {
+                    "name": "32.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/32.jpg"
+                },
+                {
+                    "name": "31.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/31.jpg"
+                },
+                {
+                    "name": "30.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/30.jpg"
+                },
+                {
+                    "name": "29.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/29.jpg"
+                },
+                {
+                    "name": "28.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/28.jpg"
+                },
+                {
+                    "name": "27.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/27.jpg"
+                },
+                {
+                    "name": "26.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/26.jpg"
+                },
+                {
+                    "name": "25.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/25.jpg"
+                },
+                {
+                    "name": "24.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/24.jpg"
+                },
+                {
+                    "name": "23.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/23.jpg"
+                },
+                {
+                    "name": "22.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/22.jpg"
+                },
+                {
+                    "name": "21.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/21.jpg"
+                },
+                {
+                    "name": "20.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/20.jpg"
+                },
+                {
+                    "name": "19.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/19.jpg"
+                },
+                {
+                    "name": "18.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/18.jpg"
+                },
+                {
+                    "name": "17.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/17.jpg"
+                },
+                {
+                    "name": "16.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/16.jpg"
+                },
+                {
+                    "name": "15.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/15.jpg"
+                },
+                {
+                    "name": "14.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/14.jpg"
+                },
+                {
+                    "name": "13.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/13.jpg"
+                },
+                {
+                    "name": "12.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/12.jpg"
+                },
+                {
+                    "name": "11.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/11.jpg"
+                },
+                {
+                    "name": "10.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/10.jpg"
+                },
+                {
+                    "name": "9.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/9.jpg"
+                },
+                {
+                    "name": "8.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/8.jpg"
+                },
+                {
+                    "name": "7.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/7.jpg"
+                },
+                {
+                    "name": "6.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/6.jpg"
+                },
+                {
+                    "name": "5.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/5.jpg"
+                },
+                {
+                    "name": "4.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/4.jpg"
+                },
+                {
+                    "name": "3.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/3.jpg"
+                },
+                {
+                    "name": "2.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/2.jpg"
+                },
+                {
+                    "name": "1.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Vishnu/1.jpg"
                 }
             ],
             "name": "Vishnu Ji",
@@ -1595,56 +2331,56 @@
         {
             "wallpapers": [
                 {
-                    "name": "1.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Premanandji/1.jpg"
-                },
-                {
-                    "name": "10.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Premanandji/10.jpg"
-                },
-                {
-                    "name": "11.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Premanandji/11.jpg"
+                    "name": "13.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Premanandji/13.jpg"
                 },
                 {
                     "name": "12.jpg",
                     "url": "https://abhivishrut.github.io/Data2/Wallpapers/Premanandji/12.jpg"
                 },
                 {
-                    "name": "13.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Premanandji/13.jpg"
+                    "name": "11.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Premanandji/11.jpg"
                 },
                 {
-                    "name": "2.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Premanandji/2.jpg"
+                    "name": "10.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Premanandji/10.jpg"
                 },
                 {
-                    "name": "3.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Premanandji/3.jpg"
-                },
-                {
-                    "name": "4.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Premanandji/4.jpg"
-                },
-                {
-                    "name": "5.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Premanandji/5.jpg"
-                },
-                {
-                    "name": "6.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Premanandji/6.jpg"
-                },
-                {
-                    "name": "7.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Premanandji/7.jpg"
+                    "name": "9.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Premanandji/9.jpg"
                 },
                 {
                     "name": "8.png",
                     "url": "https://abhivishrut.github.io/Data2/Wallpapers/Premanandji/8.png"
                 },
                 {
-                    "name": "9.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Premanandji/9.jpg"
+                    "name": "7.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Premanandji/7.jpg"
+                },
+                {
+                    "name": "6.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Premanandji/6.jpg"
+                },
+                {
+                    "name": "5.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Premanandji/5.jpg"
+                },
+                {
+                    "name": "4.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Premanandji/4.jpg"
+                },
+                {
+                    "name": "3.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Premanandji/3.jpg"
+                },
+                {
+                    "name": "2.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Premanandji/2.jpg"
+                },
+                {
+                    "name": "1.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Premanandji/1.jpg"
                 }
             ],
             "name": "Premanand Ji",
@@ -1653,68 +2389,68 @@
         {
             "wallpapers": [
                 {
-                    "name": "1.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/1.jpg"
-                },
-                {
-                    "name": "10.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/10.jpg"
-                },
-                {
-                    "name": "11.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/11.jpg"
-                },
-                {
-                    "name": "2.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/2.jpg"
-                },
-                {
-                    "name": "3.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/3.jpg"
-                },
-                {
-                    "name": "4.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/4.jpg"
-                },
-                {
-                    "name": "5.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/5.jpg"
-                },
-                {
-                    "name": "6.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/6.jpg"
-                },
-                {
-                    "name": "7.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/7.jpg"
-                },
-                {
-                    "name": "8.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/8.jpg"
-                },
-                {
-                    "name": "9.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/9.jpg"
-                },
-                {
-                    "name": "12.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/12.jpg"
-                },
-                {
-                    "name": "13.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/13.jpg"
-                },
-                {
-                    "name": "14.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/14.jpg"
+                    "name": "16.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/16.jpg"
                 },
                 {
                     "name": "15.jpg",
                     "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/15.jpg"
                 },
                 {
-                    "name": "16.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/16.jpg"
+                    "name": "14.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/14.jpg"
+                },
+                {
+                    "name": "13.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/13.jpg"
+                },
+                {
+                    "name": "12.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/12.jpg"
+                },
+                {
+                    "name": "11.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/11.jpg"
+                },
+                {
+                    "name": "10.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/10.jpg"
+                },
+                {
+                    "name": "9.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/9.jpg"
+                },
+                {
+                    "name": "8.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/8.jpg"
+                },
+                {
+                    "name": "7.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/7.jpg"
+                },
+                {
+                    "name": "6.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/6.jpg"
+                },
+                {
+                    "name": "5.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/5.jpg"
+                },
+                {
+                    "name": "4.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/4.jpg"
+                },
+                {
+                    "name": "3.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/3.jpg"
+                },
+                {
+                    "name": "2.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/2.jpg"
+                },
+                {
+                    "name": "1.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Parshuram/1.jpg"
                 }
             ],
             "name": "Parshuram Ji",
@@ -1723,80 +2459,80 @@
         {
             "wallpapers": [
                 {
-                    "name": "1.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/1.jpg"
-                },
-                {
-                    "name": "10.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/10.jpg"
-                },
-                {
-                    "name": "11.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/11.jpg"
-                },
-                {
-                    "name": "12.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/12.jpg"
-                },
-                {
-                    "name": "13.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/13.jpg"
-                },
-                {
-                    "name": "14.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/14.jpg"
-                },
-                {
-                    "name": "15.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/15.jpg"
-                },
-                {
-                    "name": "16.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/16.jpg"
-                },
-                {
-                    "name": "17.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/17.jpg"
+                    "name": "19.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/19.jpg"
                 },
                 {
                     "name": "18.jpg",
                     "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/18.jpg"
                 },
                 {
-                    "name": "19.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/19.jpg"
+                    "name": "17.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/17.jpg"
                 },
                 {
-                    "name": "2.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/2.jpg"
+                    "name": "16.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/16.jpg"
                 },
                 {
-                    "name": "3.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/3.jpg"
+                    "name": "15.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/15.jpg"
                 },
                 {
-                    "name": "4.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/4.jpg"
+                    "name": "14.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/14.jpg"
                 },
                 {
-                    "name": "5.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/5.jpg"
+                    "name": "13.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/13.jpg"
                 },
                 {
-                    "name": "6.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/6.jpg"
+                    "name": "12.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/12.jpg"
                 },
                 {
-                    "name": "7.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/7.jpg"
+                    "name": "11.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/11.jpg"
+                },
+                {
+                    "name": "10.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/10.jpg"
+                },
+                {
+                    "name": "9.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/9.jpg"
                 },
                 {
                     "name": "8.jpg",
                     "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/8.jpg"
                 },
                 {
-                    "name": "9.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/9.jpg"
+                    "name": "7.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/7.jpg"
+                },
+                {
+                    "name": "6.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/6.jpg"
+                },
+                {
+                    "name": "5.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/5.jpg"
+                },
+                {
+                    "name": "4.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/4.jpg"
+                },
+                {
+                    "name": "3.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/3.jpg"
+                },
+                {
+                    "name": "2.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/2.jpg"
+                },
+                {
+                    "name": "1.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Maa/1.jpg"
                 }
             ],
             "name": "Maa",
@@ -1805,40 +2541,40 @@
         {
             "wallpapers": [
                 {
-                    "name": "1.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Others/1.jpg"
-                },
-                {
-                    "name": "2.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Others/2.jpg"
-                },
-                {
-                    "name": "3.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Others/3.jpg"
-                },
-                {
-                    "name": "4.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Others/4.jpg"
-                },
-                {
-                    "name": "5.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Others/5.jpg"
-                },
-                {
-                    "name": "6.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Others/6.jpg"
-                },
-                {
-                    "name": "7.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Others/7.jpg"
+                    "name": "9.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Others/9.jpg"
                 },
                 {
                     "name": "8.jpg",
                     "url": "https://abhivishrut.github.io/Data2/Wallpapers/Others/8.jpg"
                 },
                 {
-                    "name": "9.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Others/9.jpg"
+                    "name": "7.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Others/7.jpg"
+                },
+                {
+                    "name": "6.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Others/6.jpg"
+                },
+                {
+                    "name": "5.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Others/5.jpg"
+                },
+                {
+                    "name": "4.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Others/4.jpg"
+                },
+                {
+                    "name": "3.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Others/3.jpg"
+                },
+                {
+                    "name": "2.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Others/2.jpg"
+                },
+                {
+                    "name": "1.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Others/1.jpg"
                 }
             ],
             "name": "Others",
@@ -1847,48 +2583,48 @@
         {
             "wallpapers": [
                 {
-                    "name": "1.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Karna/1.jpg"
+                    "name": "11.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Karna/11.jpg"
                 },
                 {
                     "name": "10.jpg",
                     "url": "https://abhivishrut.github.io/Data2/Wallpapers/Karna/10.jpg"
                 },
                 {
-                    "name": "11.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Karna/11.jpg"
-                },
-                {
-                    "name": "2.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Karna/2.jpg"
-                },
-                {
-                    "name": "3.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Karna/3.jpg"
-                },
-                {
-                    "name": "4.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Karna/4.jpg"
-                },
-                {
-                    "name": "5.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Karna/5.jpg"
-                },
-                {
-                    "name": "6.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Karna/6.jpg"
-                },
-                {
-                    "name": "7.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Karna/7.jpg"
+                    "name": "9.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Karna/9.jpg"
                 },
                 {
                     "name": "8.jpg",
                     "url": "https://abhivishrut.github.io/Data2/Wallpapers/Karna/8.jpg"
                 },
                 {
-                    "name": "9.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Karna/9.jpg"
+                    "name": "7.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Karna/7.jpg"
+                },
+                {
+                    "name": "6.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Karna/6.jpg"
+                },
+                {
+                    "name": "5.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Karna/5.jpg"
+                },
+                {
+                    "name": "4.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Karna/4.jpg"
+                },
+                {
+                    "name": "3.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Karna/3.jpg"
+                },
+                {
+                    "name": "2.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Karna/2.jpg"
+                },
+                {
+                    "name": "1.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Karna/1.jpg"
                 }
             ],
             "name": "Karna",
@@ -1897,64 +2633,64 @@
         {
             "wallpapers": [
                 {
-                    "name": "1.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/1.jpg"
-                },
-                {
-                    "name": "10.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/10.jpg"
-                },
-                {
-                    "name": "11.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/11.jpg"
-                },
-                {
-                    "name": "12.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/12.jpg"
-                },
-                {
-                    "name": "13.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/13.jpg"
+                    "name": "15.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/15.jpg"
                 },
                 {
                     "name": "14.jpg",
                     "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/14.jpg"
                 },
                 {
-                    "name": "15.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/15.jpg"
+                    "name": "13.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/13.jpg"
                 },
                 {
-                    "name": "2.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/2.jpg"
+                    "name": "12.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/12.jpg"
                 },
                 {
-                    "name": "3.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/3.jpg"
+                    "name": "11.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/11.jpg"
                 },
                 {
-                    "name": "4.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/4.jpg"
+                    "name": "10.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/10.jpg"
                 },
                 {
-                    "name": "5.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/5.jpg"
-                },
-                {
-                    "name": "6.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/6.jpg"
-                },
-                {
-                    "name": "7.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/7.jpg"
+                    "name": "9.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/9.jpg"
                 },
                 {
                     "name": "8.jpg",
                     "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/8.jpg"
                 },
                 {
-                    "name": "9.jpg",
-                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/9.jpg"
+                    "name": "7.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/7.jpg"
+                },
+                {
+                    "name": "6.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/6.jpg"
+                },
+                {
+                    "name": "5.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/5.jpg"
+                },
+                {
+                    "name": "4.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/4.jpg"
+                },
+                {
+                    "name": "3.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/3.jpg"
+                },
+                {
+                    "name": "2.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/2.jpg"
+                },
+                {
+                    "name": "1.jpg",
+                    "url": "https://abhivishrut.github.io/Data2/Wallpapers/Quotes/1.jpg"
                 }
             ],
             "name": "Quotes",
