@@ -1,0 +1,335 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Privacy Policy for Stop That by Codewati.">
+  <title>Stop That - Privacy Policy</title>
+  <style>
+    :root{
+      --bg:#f7f7fb;
+      --card:#ffffff;
+      --text:#1b1d29;
+      --muted:#6d7280;
+      --line:#e8e8ef;
+      --accent:#6f52df;
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      background:var(--bg);
+      color:var(--text);
+      font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;
+      line-height:1.7;
+    }
+    .wrap{
+      width:min(820px,calc(100% - 32px));
+      margin:0 auto;
+      padding:52px 0;
+    }
+    .card{
+      background:var(--card);
+      border:1px solid var(--line);
+      border-radius:22px;
+      padding:clamp(24px,5vw,44px);
+      box-shadow:0 12px 34px rgba(24,24,40,.06);
+    }
+    h1{
+      margin:0 0 8px;
+      font-size:clamp(32px,6vw,46px);
+      letter-spacing:-.035em;
+      line-height:1.1;
+    }
+    .subtitle{
+      margin:0 0 28px;
+      color:var(--muted);
+      font-size:16px;
+    }
+    .meta{
+      display:flex;
+      flex-wrap:wrap;
+      gap:10px 18px;
+      padding-bottom:24px;
+      margin-bottom:28px;
+      border-bottom:1px solid var(--line);
+      color:var(--muted);
+      font-size:14px;
+    }
+    h2{
+      margin:30px 0 8px;
+      font-size:20px;
+      letter-spacing:-.01em;
+    }
+    p{margin:8px 0;color:#3e4250}
+    ul{margin:8px 0 0;padding-left:22px}
+    li{margin:6px 0;color:#3e4250}
+    .note{
+      margin-top:18px;
+      padding:14px 16px;
+      background:#f4f1ff;
+      border:1px solid #e4dcff;
+      border-radius:14px;
+      color:#4a3c79;
+    }
+    a{color:var(--accent);text-decoration:none}
+    a:hover{text-decoration:underline}
+    footer{
+      margin-top:34px;
+      padding-top:20px;
+      border-top:1px solid var(--line);
+      color:var(--muted);
+      font-size:13px;
+    }
+    @media (max-width:600px){
+      .wrap{padding:24px 0}
+      .card{border-radius:18px}
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <article class="card">
+      <h1>Privacy Policy</h1>
+      <p class="subtitle">For the Stop That app by Codewati</p>
+
+      <div class="meta">
+        <span><strong>Effective:</strong> <time datetime="2026-10-03">3 October 2026</time></span>
+        <span><strong>Package:</strong> com.codewati.stopthat</span>
+      </div>
+
+      <h2>1. Overview</h2>
+      <p>
+        Stop That by Codewati is an on-device digital wellbeing and screen-time control app. You can select apps to
+        monitor, set individual or shared category limits, configure weekly Study Time and Bed Time schedules,
+        use Parent Mode with PIN protection, and review usage insights and focus goals.
+      </p>
+      <p>
+        The current Android app works without an account, developer-operated backend, advertising SDK, analytics SDK,
+        or automatic cloud sync. Codewati does not automatically receive your usage history or settings.
+      </p>
+
+      <h2>2. Information Processed on Your Device</h2>
+      <p>To provide these features, Stop That accesses or stores the following information locally:</p>
+      <ul>
+        <li>installed launcher-app names, package identifiers, icons, and available app categories for selection, grouping, and identifying protected apps;</li>
+        <li>package-level usage events and timestamps supplied by Android Usage Access;</li>
+        <li>selected-app names and identifiers, session start/end times, durations, daily screen time, and app-open counts;</li>
+        <li>warning markers and restriction-event records, including the app, date, time, and type of restriction;</li>
+        <li>selected apps, per-app and shared category limits, and your Always Allowed exceptions;</li>
+        <li>Study Time and Bed Time start/end times, repeat days, and whether the relevant modes or schedules are enabled;</li>
+        <li>Get Me In extra-time and rest settings, the daily allowance and usage count, and recovery/rest state;</li>
+        <li>social-media, individual-app, and study-time goal settings and the date from which goals are evaluated;</li>
+        <li>consent, pause/reminder state, Normal/Parent/Student mode, appearance preferences, and widget state;</li>
+        <li>Parent Mode PIN verification data, as explained in section 6.</li>
+      </ul>
+      <p>
+        Android Usage Access can expose activity events for apps beyond your selection. Stop That processes these events
+        locally to detect when a selected app is entered or left and saves the selected-app sessions used by its current
+        monitoring features. Monitoring can continue while Stop That is not on screen, when enabled and permitted by Android.
+      </p>
+      <p>
+        Seven-day and 30-day insights, averages, top apps, period comparisons, distracting-hour summaries, goal streaks,
+        and upcoming-restriction information are calculated on the device from local records and settings.
+        These reporting periods do not mean older records are automatically deleted.
+      </p>
+      <p>
+        Older installations may retain a separate local automatic-history database. Its retained history is not merged
+        with selected-app monitoring totals. The older background reconciliation and alert flow is retired in the current build.
+      </p>
+
+      <h2>3. Permissions and Android Special Access</h2>
+      <p>
+        <strong>Usage Access:</strong> reads package-level usage events to detect selected-app activity and calculate usage.
+        Access is enabled by you through Android Settings following the in-app disclosure.
+      </p>
+      <p>
+        <strong>Display over other apps:</strong> shows reminders, app/category-limit screens, Study Time and Bed Time
+        restrictions, Parent PIN prompts, Get Me In choices, and eye-rest screens over selected apps.
+      </p>
+      <p>
+        <strong>Foreground service:</strong> keeps selected-app monitoring running while enabled. The service creates a
+        foreground-service notification; its visibility and Android's active-app indicators depend on system settings.
+        The current app does not request the POST_NOTIFICATIONS runtime permission.
+      </p>
+      <p>
+        <strong>Boot and app-update handling:</strong> attempts to restart monitoring after reboot or an app update if
+        consent, setup, selected apps, and the necessary permissions remain available and monitoring is not paused.
+        Android or manufacturer restrictions can prevent or delay restart.
+      </p>
+      <p>
+        <strong>Installed-app visibility:</strong> queries launcher apps for the app picker and app categories. Recognized
+        sensitive and essential apps are protected by local rules. Recognition is not exhaustive. Your Always Allowed
+        exceptions bypass blocking; selected apps marked Always Allowed can still have their usage recorded.
+      </p>
+      <p>
+        <strong>System document picker:</strong> used only when you choose to export a CSV or PDF report. The app writes
+        the report to the document location you select without requesting broad access to your files.
+      </p>
+      <p>
+        <strong>Device Policy support:</strong> applies only to specially provisioned managed devices, as described in section 9.
+        The Protection Health screen reads permission, monitoring-service, boot-configuration, and Device Owner status locally.
+        It does not transmit a health report to Codewati.
+      </p>
+      <div class="note">
+        Stop That does not use Android Accessibility Service. It does not read other apps' chats, screen text, passwords,
+        OTPs, payment details, banking content, screenshots, keyboard input, or touch input. It does not access your camera,
+        microphone, contacts, or precise location. It does process the settings and PIN you enter directly into Stop That.
+      </div>
+
+      <h2>4. Network Use and Sharing</h2>
+      <p>
+        The current Android manifest does not declare the INTERNET permission. Stop That does not automatically upload
+        usage sessions, installed-app selections, limits, schedules, goals, restriction records, or PIN verification data
+        to Codewati. It does not sell these records or automatically share them with advertisers, analytics providers,
+        or data brokers.
+      </p>
+      <p>
+        External privacy-policy, developer, social, or email links may open your browser or another app. Those services
+        handle information under their own privacy policies. No usage report is automatically attached to a support email.
+        User-initiated report exports are explained below.
+      </p>
+
+      <h2>5. CSV and PDF Report Exports</h2>
+      <p>
+        In Insights, you can choose to export the selected seven-day or 30-day report. Reports contain dates, app names,
+        open counts, screen-time totals, current configured app limits, and recorded restriction-event counts. CSV reports
+        also include app package identifiers. PIN verification data is not included.
+      </p>
+      <p>
+        The displayed limits are your current settings, not historical snapshots of every previous limit. Restriction-event
+        counts cover events recorded by the version that supports this feature; older daily warning markers are not treated
+        as a complete record of past blocks.
+      </p>
+      <p>
+        Reports are generated on your device and saved only after you select a destination in Android's document picker.
+        If you choose a cloud-backed document provider, that provider may upload or sync the file under its own policies,
+        even though Stop That itself has no INTERNET permission. Codewati does not automatically receive exported reports.
+      </p>
+      <p>
+        Exported files contain usage information and may be readable by anyone with access to the selected location or
+        anyone you share them with. They are separate from the app's private storage. Clearing Stop That's storage or
+        uninstalling it does not delete exported files or copies held by recipients or document providers; manage those
+        copies separately through the relevant provider or app.
+      </p>
+
+      <h2>6. Local Storage, PIN Security, and Backup</h2>
+      <p>
+        Usage sessions, warning markers, and restriction events are stored in a private local database. Selections,
+        schedules, limits, goals, consent, modes, and recovery settings are stored in private app preferences.
+        Device security also depends on Android, your screen lock, and who can access your device.
+      </p>
+      <p>
+        Parent PINs are not stored as plain text. Stop That stores a salted PBKDF2-HMAC-SHA256 derived value, its random
+        salt, PIN length, and format version to verify the PIN locally. The PIN protects designated in-app actions;
+        it does not encrypt exported reports or act as a separate lock for all usage history.
+      </p>
+      <p>
+        The app disables Android app backup and configures its private data to be excluded from Android cloud backup
+        and device-transfer backup. This does not control backup or syncing of reports you export to other locations.
+      </p>
+
+      <h2>7. Retention, Deletion, and Your Controls</h2>
+      <p>
+        Selected-app sessions, restriction records, and settings remain in app storage until you clear the app's storage
+        or uninstall it; there is no automatic deletion tied to the seven-day or 30-day Insights view. Older upgrade data
+        may also remain in private storage. Pausing monitoring, removing an app from your selection, or withdrawing consent
+        does not erase previously saved history.
+      </p>
+      <p>Depending on the active mode, you can:</p>
+      <ul>
+        <li>pause or resume monitoring and reminders;</li>
+        <li>add or remove selected apps, edit limits, and manage Always Allowed exceptions;</li>
+        <li>change weekly schedules, Get Me In settings, and focus goals;</li>
+        <li>switch modes, subject to Parent PIN checks where applicable;</li>
+        <li>choose “Withdraw consent &amp; stop reminders” in Settings to stop monitoring;</li>
+        <li>revoke Usage Access or Display over other apps through Android Settings;</li>
+        <li>remove the home-screen widget or delete exported report files separately.</li>
+      </ul>
+      <p>
+        Withdrawing in-app consent does not itself change Android's permission switches. On a normal installation,
+        delete private app data through Android Settings &gt; Apps &gt; Stop That &gt; Storage (or Storage &amp; cache)
+        &gt; Clear storage, or uninstall the app. This does not erase usage records maintained separately by Android,
+        other apps, or exported reports. Codewati cannot remotely retrieve or erase local records that have not been sent
+        to us, and there is no Stop That account to delete.
+      </p>
+      <p>
+        On a managed Device Owner installation, Android may restrict uninstall or user-control actions while Parent Mode
+        protection is active. The authorized parent or device administrator may need to remove that protection first.
+      </p>
+
+      <h2>8. Parent Mode, Schedules, and Focus Features</h2>
+      <p>
+        <strong>Parent Mode:</strong> a 4–6 digit PIN protects designated changes, including limits, category settings,
+        Get Me In settings, schedules, goals, and Always Allowed exceptions. PIN verification is also used for applicable
+        post-limit Get Me In requests. Processing and verification take place on the device.
+      </p>
+      <p>
+        <strong>Student Mode and Bed Time:</strong> selected apps can be blocked during configured weekly study or sleep
+        periods. Student Mode also applies stricter daily app limits. Shared category limits combine usage from selected,
+        non-exempt apps in that category. Always Allowed exceptions take priority over restrictions.
+      </p>
+      <p>
+        <strong>Get Me In:</strong> Normal/Parent flows can offer configurable additional usage followed by a rest period,
+        subject to a daily maximum shared across selected apps. Settings and daily counters remain local. This option
+        does not override every restriction, such as an active category, study, or bedtime block.
+      </p>
+      <p>
+        <strong>Goals and streaks:</strong> local goal settings are compared with recorded completed-day usage. These
+        summaries are not sent to a parent, school, employer, or Codewati automatically. Android's event availability,
+        permissions, and service interruptions can affect recorded usage and enforcement; the app is not a guarantee
+        against every way of accessing another app.
+      </p>
+
+      <h2>9. Optional Device Owner Protection</h2>
+      <p>
+        If Android has specially provisioned Stop That as the Device Owner on a managed device, Parent Mode can ask
+        Android to block uninstall of Stop That and restrict supported user-control actions for its package. These actions
+        use Android Device Policy locally and do not create remote monitoring or a cloud parent account.
+      </p>
+      <p>
+        A normal installation, an in-app Parent PIN, and managed Device Owner protection are different. Stop That does
+        not silently become a Device Owner. Android provisioning is required, and the Protection Health screen indicates
+        whether this managed-device capability is available.
+      </p>
+
+      <h2>10. Home-Screen Widget and On-Device Visibility</h2>
+      <p>
+        The optional widget displays selected-app names, icons, open counts, screen-time summaries, and active mode through
+        your launcher. The app's history, Insights, and reminder overlays can also show usage information to someone viewing
+        your screen. Consider who can access your device and exported reports. You can remove the widget at any time.
+      </p>
+
+      <h2>11. Children and Family Use</h2>
+      <p>
+        A parent or guardian may configure Parent Mode, Student Mode, schedules, or limits for family use. The current build
+        has no remote parent dashboard, child account, cloud monitoring, or server-side child profile. The same local data
+        processing described in this policy applies when the device is used by a child.
+      </p>
+      <p>
+        Parents or guardians should explain the monitoring to the device user and manage setup, permissions, the Parent PIN,
+        and any consent required for their use. Reports are shared outside the device only when someone chooses to export
+        them to an external provider or share them using another service.
+      </p>
+
+      <h2>12. Support and Contact</h2>
+      <p>
+        If you email Codewati, we receive your email address and the information you choose to include through your email
+        provider. Usage history is received only if you independently send it. For privacy questions or a request concerning
+        support correspondence, contact:<br>
+        <strong>Codewati</strong><br>
+        <a href="mailto:codewatipvtltd@gmail.com">codewatipvtltd@gmail.com</a>
+      </p>
+
+      <h2>13. Changes to This Policy</h2>
+      <p>
+        We may update this policy when the app's features, permissions, or data practices change. The effective date above
+        identifies this version. Where new processing requires consent, the app will request it before that processing begins.
+      </p>
+
+      <footer>
+        © 2026 Codewati. Stop That Privacy Policy.
+      </footer>
+    </article>
+  </main>
+</body>
+</html>
