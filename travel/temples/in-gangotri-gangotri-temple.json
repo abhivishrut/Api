@@ -1,0 +1,188 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "in-gangotri-gangotri-temple",
+    "slug": "gangotri-temple",
+    "name": "Gangotri Temple",
+    "thumbnail": "",
+    "aliases": [
+      "Gangotri"
+    ],
+    "country_code": "IN",
+    "state_name": "Uttarakhand",
+    "search_keywords": [
+      "Amman",
+      "Bhagavathy",
+      "Devi / Mata",
+      "Durga",
+      "Ganga",
+      "Gangotri",
+      "Gangotri Temple",
+      "India",
+      "Kali",
+      "Lakshmi",
+      "Maa",
+      "Parvati",
+      "Shakti",
+      "Uttarakhand",
+      "गंगा",
+      "माता"
+    ],
+    "details": {
+      "name": "Gangotri Temple",
+      "thumbnail": "",
+      "gallery": [],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": 30.993889,
+        "longitude": 78.941111,
+        "coordinate_status": "locality_reference_only",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Gangotri Temple, Gangotri, Uttarakhand, India",
+        "address_precision": "locality",
+        "country": "India",
+        "country_code": "IN",
+        "state": "Uttarakhand",
+        "city": "Gangotri",
+        "district": "Uttarkashi",
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gangotri+Temple%2C+Gangotri%2C+Uttarakhand%2C+India",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Gangotri+Temple%2C+Gangotri%2C+Uttarakhand%2C+India"
+      },
+      "description": "Gangotri Temple is located in Gangotri, Uttarakhand, India. A river-goddess pilgrimage on the Bhagirathi, distinct from the glacier trek to Gaumukh.",
+      "city": "Gangotri",
+      "district": "Uttarkashi",
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": "Confirm annual opening season",
+      "denotes_to": "Ganga, Devi / Mata",
+      "deity_ids": [
+        "ganga",
+        "devi"
+      ],
+      "primary_deity_id": "ganga",
+      "dedication": {
+        "text": "Ganga, Devi / Mata",
+        "source_id": null,
+        "status": "editorial_category"
+      },
+      "collection_ids": [
+        "chota-char-dham"
+      ],
+      "highlights": [
+        "A river-goddess pilgrimage on the Bhagirathi, distinct from the glacier trek to Gaumukh."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Kolkata",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": true,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": null,
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [
+          "This shrine has seasonal or designated opening periods. Check the current temple calendar before planning travel."
+        ],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": null
+      },
+      "media": {
+        "items": [],
+        "status": "photo_pending",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Gangotri",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:45:46.291777+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Gangotri - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "reference_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

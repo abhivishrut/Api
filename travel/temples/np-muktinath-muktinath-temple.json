@@ -1,0 +1,212 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "np-muktinath-muktinath-temple",
+    "slug": "muktinath-temple",
+    "name": "Muktinath Temple",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/The_Muktinath_Temple.jpg/250px-The_Muktinath_Temple.jpg",
+    "aliases": [
+      "Muktinath"
+    ],
+    "country_code": "NP",
+    "state_name": "Gandaki",
+    "search_keywords": [
+      "Balaji",
+      "Gandaki",
+      "Muktinath",
+      "Muktinath Temple",
+      "Narayan",
+      "Narayana",
+      "Nepal",
+      "Perumal",
+      "Venkateswara",
+      "Vishnu",
+      "विष्णु"
+    ],
+    "details": {
+      "name": "Muktinath Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/The_Muktinath_Temple.jpg/250px-The_Muktinath_Temple.jpg",
+      "gallery": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/The_Muktinath_Temple.jpg/250px-The_Muktinath_Temple.jpg"
+      ],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": 28.817083,
+        "longitude": 83.871694,
+        "coordinate_status": "reference_point",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Muktinath Temple, Muktinath, Gandaki, Nepal",
+        "address_precision": "locality",
+        "country": "Nepal",
+        "country_code": "NP",
+        "state": "Gandaki",
+        "city": "Muktinath",
+        "district": "Mustang",
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Muktinath+Temple%2C+Muktinath%2C+Gandaki%2C+Nepal",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Muktinath+Temple%2C+Muktinath%2C+Gandaki%2C+Nepal"
+      },
+      "description": "Muktinath Temple is located in Muktinath, Gandaki, Nepal. A high-altitude pilgrimage revered by both Hindus and Buddhists in the Mustang region.",
+      "city": "Muktinath",
+      "district": "Mustang",
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Vishnu",
+      "deity_ids": [
+        "vishnu"
+      ],
+      "primary_deity_id": "vishnu",
+      "dedication": {
+        "text": "Vishnu",
+        "source_id": "reference",
+        "status": "reference_extracted"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A high-altitude pilgrimage revered by both Hindus and Buddhists in the Mustang region."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Kathmandu",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": "https://ntb.gov.np/en/muktinath--mustang",
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [
+          "This is a high-altitude destination. Allow for acclimatisation and check transport and weather conditions locally."
+        ],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": "https://ntb.gov.np/en/muktinath--mustang"
+      },
+      "media": {
+        "items": [
+          {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/The_Muktinath_Temple.jpg/250px-The_Muktinath_Temple.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:The_Muktinath_Temple.jpg",
+            "author": "Ironicfreak",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:14.129116+00:00",
+            "alt": "Muktinath Temple",
+            "role": "article_lead_photo"
+          }
+        ],
+        "status": "attributed_reference_photo",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "primary",
+          "url": "https://ntb.gov.np/en/muktinath--mustang",
+          "type": "temple_or_public_institution",
+          "reviewed_on": "2026-10-06",
+          "review_method": "web_search_excerpt_or_page",
+          "scope": [
+            "identity",
+            "selected_background"
+          ],
+          "does_not_verify": [
+            "all_visitor_services",
+            "all_coordinates",
+            "all_editorial_claims"
+          ]
+        },
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Muktinath",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:46:54.336683+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Muktinath - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "primary_source_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "us-calabasas-malibu-hindu-temple",
+    "slug": "malibu-hindu-temple",
+    "name": "Malibu Hindu Temple",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Malibu_Hindu_Temple_25.jpg/250px-Malibu_Hindu_Temple_25.jpg",
+    "aliases": [],
+    "country_code": "US",
+    "state_name": "California",
+    "search_keywords": [
+      "Balaji",
+      "Bholenath",
+      "Calabasas",
+      "California",
+      "Mahadev",
+      "Malibu Hindu Temple",
+      "Narayan",
+      "Narayana",
+      "Perumal",
+      "Shankar",
+      "Shiv",
+      "Shiva",
+      "United States",
+      "Venkateswara",
+      "Vishnu",
+      "विष्णु",
+      "शिव"
+    ],
+    "details": {
+      "name": "Malibu Hindu Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Malibu_Hindu_Temple_25.jpg/250px-Malibu_Hindu_Temple_25.jpg",
+      "gallery": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Malibu_Hindu_Temple_25.jpg/250px-Malibu_Hindu_Temple_25.jpg"
+      ],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": 34.095,
+        "longitude": -118.709722,
+        "coordinate_status": "reference_point",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Malibu Hindu Temple, Calabasas, California, United States",
+        "address_precision": "locality",
+        "country": "United States",
+        "country_code": "US",
+        "state": "California",
+        "city": "Calabasas",
+        "district": "Santa Monica Mountains",
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Malibu+Hindu+Temple%2C+Calabasas%2C+California%2C+United+States",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Malibu+Hindu+Temple%2C+Calabasas%2C+California%2C+United+States"
+      },
+      "description": "Malibu Hindu Temple is located in Calabasas, California, United States. A South Indian-style temple complex in the Santa Monica Mountains near Malibu.",
+      "city": "Calabasas",
+      "district": "Santa Monica Mountains",
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Vishnu, Shiva",
+      "deity_ids": [
+        "vishnu",
+        "shiva"
+      ],
+      "primary_deity_id": "vishnu",
+      "dedication": {
+        "text": "Venkateswara and Shiva",
+        "source_id": "reference",
+        "status": "reference_extracted"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A South Indian-style temple complex in the Santa Monica Mountains near Malibu."
+      ],
+      "architecture": {
+        "text": "Dravidian",
+        "source_id": "reference",
+        "status": "reference_extracted"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "America/Los_Angeles",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": "https://www.malibuhindutemple.org/plan-a-visit/",
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": "https://www.malibuhindutemple.org/plan-a-visit/"
+      },
+      "media": {
+        "items": [
+          {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Malibu_Hindu_Temple_25.jpg/250px-Malibu_Hindu_Temple_25.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Malibu_Hindu_Temple_25.jpg",
+            "author": "Ganeshk",
+            "license": "CC BY-SA 2.5",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.5/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:19.871079+00:00",
+            "alt": "Malibu Hindu Temple",
+            "role": "article_lead_photo"
+          }
+        ],
+        "status": "attributed_reference_photo",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "primary",
+          "url": "https://www.malibuhindutemple.org/plan-a-visit/",
+          "type": "temple_or_public_institution",
+          "reviewed_on": "2026-10-06",
+          "review_method": "web_search_excerpt_or_page",
+          "scope": [
+            "identity",
+            "selected_background"
+          ],
+          "does_not_verify": [
+            "all_visitor_services",
+            "all_coordinates",
+            "all_editorial_claims"
+          ]
+        },
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Malibu_Hindu_Temple",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:47:07.576281+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Malibu Hindu Temple - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "primary_source_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

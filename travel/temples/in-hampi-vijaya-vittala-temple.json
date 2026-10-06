@@ -1,0 +1,188 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "in-hampi-vijaya-vittala-temple",
+    "slug": "vijaya-vittala-temple",
+    "name": "Vijaya Vittala Temple",
+    "thumbnail": "",
+    "aliases": [],
+    "country_code": "IN",
+    "state_name": "Karnataka",
+    "search_keywords": [
+      "Balaji",
+      "Gopal",
+      "Govind",
+      "Hampi",
+      "India",
+      "Kanha",
+      "Karnataka",
+      "Krishna",
+      "Narayan",
+      "Narayana",
+      "Perumal",
+      "Shyam",
+      "Venkateswara",
+      "Vijaya Vittala Temple",
+      "Vishnu",
+      "कृष्ण",
+      "विष्णु"
+    ],
+    "details": {
+      "name": "Vijaya Vittala Temple",
+      "thumbnail": "",
+      "gallery": [],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": null,
+        "longitude": null,
+        "coordinate_status": "coordinates_pending",
+        "coordinate_source_id": null,
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Vijaya Vittala Temple, Hampi, Karnataka, India",
+        "address_precision": "locality",
+        "country": "India",
+        "country_code": "IN",
+        "state": "Karnataka",
+        "city": "Hampi",
+        "district": null,
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vijaya+Vittala+Temple%2C+Hampi%2C+Karnataka%2C+India",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Vijaya+Vittala+Temple%2C+Hampi%2C+Karnataka%2C+India"
+      },
+      "description": "Vijaya Vittala Temple is located in Hampi, Karnataka, India. A Vijayanagara heritage temple complex known for its stone chariot and elaborate pillared halls.",
+      "city": "Hampi",
+      "district": null,
+      "religion": "Hindu",
+      "category": "Heritage temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Vishnu, Krishna",
+      "deity_ids": [
+        "vishnu",
+        "krishna"
+      ],
+      "primary_deity_id": "vishnu",
+      "dedication": {
+        "text": "Vishnu, Krishna",
+        "source_id": null,
+        "status": "editorial_category"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A Vijayanagara heritage temple complex known for its stone chariot and elaborate pillared halls."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Kolkata",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": "https://www.asihampicircle.in/vittala-temple-complex-and-its-surrounding/",
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [
+          "Plan as a heritage visit; do not assume daily darshan or unrestricted access to every structure."
+        ],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": "https://www.asihampicircle.in/vittala-temple-complex-and-its-surrounding/"
+      },
+      "media": {
+        "items": [],
+        "status": "photo_pending",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "primary",
+          "url": "https://www.asihampicircle.in/vittala-temple-complex-and-its-surrounding/",
+          "type": "temple_or_public_institution",
+          "reviewed_on": "2026-10-06",
+          "review_method": "web_search_excerpt_or_page",
+          "scope": [
+            "identity",
+            "selected_background"
+          ],
+          "does_not_verify": [
+            "all_visitor_services",
+            "all_coordinates",
+            "all_editorial_claims"
+          ]
+        }
+      ],
+      "data_quality": {
+        "identity": "primary_source_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

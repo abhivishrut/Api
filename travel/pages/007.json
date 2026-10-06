@@ -1,0 +1,920 @@
+{
+  "schema_version": "2.0.0",
+  "page": 7,
+  "page_size": 24,
+  "total_items": 214,
+  "total_pages": 9,
+  "previous": "travel/pages/006.json",
+  "next": "travel/pages/008.json",
+  "items": [
+    {
+      "id": "in-near-madurai-pazhamudircholai-temple",
+      "name": "Pazhamudircholai Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Pazhamuthir_solai_Murugan_1.JPG/250px-Pazhamuthir_solai_Murugan_1.JPG",
+      "country_code": "IN",
+      "state_name": "Tamil Nadu",
+      "search_keywords": [
+        "India",
+        "Kartikeya",
+        "Murugan",
+        "Near Madurai",
+        "Pazhamudircholai",
+        "Pazhamudircholai Temple",
+        "Skanda",
+        "Subramaniar",
+        "Subramanya",
+        "Tamil Nadu",
+        "कार्तिकेय"
+      ],
+      "city": "Near Madurai",
+      "deity_ids": [
+        "murugan"
+      ],
+      "collection_ids": [
+        "arupadai-veedu"
+      ],
+      "summary": "A Murugan shrine in the wooded hills near Alagar Kovil, completing the six-abode collection.",
+      "detail_path": "travel/temples/in-near-madurai-pazhamudircholai-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Pazhamuthir_solai_Murugan_1.JPG/250px-Pazhamuthir_solai_Murugan_1.JPG",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Pazhamuthir_solai_Murugan_1.JPG",
+        "author": "Ssriram mt",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:22.806846+00:00",
+        "alt": "Pazhamudircholai Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-kanyakumari-kumari-amman-temple",
+      "name": "Kumari Amman Temple",
+      "thumbnail": "",
+      "country_code": "IN",
+      "state_name": "Tamil Nadu",
+      "search_keywords": [
+        "Amman",
+        "Bhagavathy",
+        "Devi / Mata",
+        "Devi Kanya Kumari",
+        "Durga",
+        "India",
+        "Kali",
+        "Kanyakumari",
+        "Kumari Amman Temple",
+        "Lakshmi",
+        "Maa",
+        "Parvati",
+        "Shakti",
+        "Tamil Nadu",
+        "माता"
+      ],
+      "city": "Kanyakumari",
+      "deity_ids": [
+        "devi"
+      ],
+      "collection_ids": [],
+      "summary": "A coastal shrine to the virgin goddess at the southern tip of mainland India.",
+      "detail_path": "travel/temples/in-kanyakumari-kumari-amman-temple.json",
+      "photo_credit": null
+    },
+    {
+      "id": "in-puducherry-manakula-vinayagar-temple",
+      "name": "Manakula Vinayagar Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Manakula_vinayagar_temple_north_entrance.JPG/250px-Manakula_vinayagar_temple_north_entrance.JPG",
+      "country_code": "IN",
+      "state_name": "Puducherry",
+      "search_keywords": [
+        "Ganapati",
+        "Ganesh",
+        "Ganesha",
+        "Ganpati",
+        "India",
+        "Manakula Vinayagar Temple",
+        "Puducherry",
+        "Vinayaka",
+        "गणेश"
+      ],
+      "city": "Puducherry",
+      "deity_ids": [
+        "ganesha"
+      ],
+      "collection_ids": [],
+      "summary": "A Ganapati temple close to Puducherry's historic French quarter.",
+      "detail_path": "travel/temples/in-puducherry-manakula-vinayagar-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Manakula_vinayagar_temple_north_entrance.JPG/250px-Manakula_vinayagar_temple_north_entrance.JPG",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Manakula_vinayagar_temple_north_entrance.JPG",
+        "author": "Prabhupuducherry",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:10.217941+00:00",
+        "alt": "Manakula Vinayagar Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-thiruvananthapuram-sree-padmanabhaswamy-temple",
+      "name": "Sree Padmanabhaswamy Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Sree_Padmanabhaswamy_temple_01.jpg/250px-Sree_Padmanabhaswamy_temple_01.jpg",
+      "country_code": "IN",
+      "state_name": "Kerala",
+      "search_keywords": [
+        "Balaji",
+        "India",
+        "Kerala",
+        "Narayan",
+        "Narayana",
+        "Padmanabhaswamy Temple",
+        "Perumal",
+        "Sree Padmanabhaswamy Temple",
+        "Thiruvananthapuram",
+        "Venkateswara",
+        "Vishnu",
+        "विष्णु"
+      ],
+      "city": "Thiruvananthapuram",
+      "deity_ids": [
+        "vishnu"
+      ],
+      "collection_ids": [],
+      "summary": "Vishnu is worshipped in the reclining Anantha posture in a temple closely associated with Travancore.",
+      "detail_path": "travel/temples/in-thiruvananthapuram-sree-padmanabhaswamy-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Sree_Padmanabhaswamy_temple_01.jpg/250px-Sree_Padmanabhaswamy_temple_01.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Sree_Padmanabhaswamy_temple_01.jpg",
+        "author": "Rahulrnath001",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:22.290608+00:00",
+        "alt": "Sree Padmanabhaswamy Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-guruvayur-guruvayur-temple",
+      "name": "Guruvayur Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Guruvayoor_Temple_1.jpg/250px-Guruvayoor_Temple_1.jpg",
+      "country_code": "IN",
+      "state_name": "Kerala",
+      "search_keywords": [
+        "Balaji",
+        "Gopal",
+        "Govind",
+        "Guruvayur",
+        "Guruvayur Temple",
+        "India",
+        "Kanha",
+        "Kerala",
+        "Krishna",
+        "Narayan",
+        "Narayana",
+        "Perumal",
+        "Shyam",
+        "Venkateswara",
+        "Vishnu",
+        "कृष्ण",
+        "विष्णु"
+      ],
+      "city": "Guruvayur",
+      "deity_ids": [
+        "krishna",
+        "vishnu"
+      ],
+      "collection_ids": [],
+      "summary": "A major Krishna pilgrimage centre with distinctive Kerala temple worship and seva traditions.",
+      "detail_path": "travel/temples/in-guruvayur-guruvayur-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Guruvayoor_Temple_1.jpg/250px-Guruvayoor_Temple_1.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Guruvayoor_Temple_1.jpg",
+        "author": "Susmitanair",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:07.925003+00:00",
+        "alt": "Guruvayur Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-sabarimala-sabarimala-temple",
+      "name": "Sabarimala Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Sabarimala_2.jpg/250px-Sabarimala_2.jpg",
+      "country_code": "IN",
+      "state_name": "Kerala",
+      "search_keywords": [
+        "Ayyappa",
+        "India",
+        "Kerala",
+        "Sabarimala",
+        "Sabarimala Temple",
+        "Sastha",
+        "अय्यप्पा"
+      ],
+      "city": "Sabarimala",
+      "deity_ids": [
+        "ayyappa"
+      ],
+      "collection_ids": [],
+      "summary": "A forested hill pilgrimage dedicated to Ayyappa, with specified worship periods rather than year-round daily opening.",
+      "detail_path": "travel/temples/in-sabarimala-sabarimala-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Sabarimala_2.jpg/250px-Sabarimala_2.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Sabarimala_2.jpg",
+        "author": "Saisumanth532",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:13.376787+00:00",
+        "alt": "Sabarimala Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-thiruvananthapuram-attukal-bhagavathy-temple",
+      "name": "Attukal Bhagavathy Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Attukal_temple.jpg/250px-Attukal_temple.jpg",
+      "country_code": "IN",
+      "state_name": "Kerala",
+      "search_keywords": [
+        "Amman",
+        "Attukal Bhagavathy Temple",
+        "Attukal Temple",
+        "Bhagavathy",
+        "Devi / Mata",
+        "Durga",
+        "India",
+        "Kali",
+        "Kerala",
+        "Lakshmi",
+        "Maa",
+        "Parvati",
+        "Shakti",
+        "Thiruvananthapuram",
+        "माता"
+      ],
+      "city": "Thiruvananthapuram",
+      "deity_ids": [
+        "devi"
+      ],
+      "collection_ids": [],
+      "summary": "A Bhagavathy shrine especially associated with the Attukal Pongala offering tradition.",
+      "detail_path": "travel/temples/in-thiruvananthapuram-attukal-bhagavathy-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Attukal_temple.jpg/250px-Attukal_temple.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Attukal_temple.jpg",
+        "author": "Vijayakumarblathur",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:21.986521+00:00",
+        "alt": "Attukal Bhagavathy Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-chottanikkara-chottanikkara-temple",
+      "name": "Chottanikkara Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Chottanikkara_Temple.jpg/250px-Chottanikkara_Temple.jpg",
+      "country_code": "IN",
+      "state_name": "Kerala",
+      "search_keywords": [
+        "Amman",
+        "Bhagavathy",
+        "Chottanikkara",
+        "Chottanikkara Temple",
+        "Devi / Mata",
+        "Durga",
+        "India",
+        "Kali",
+        "Kerala",
+        "Lakshmi",
+        "Maa",
+        "Parvati",
+        "Shakti",
+        "माता"
+      ],
+      "city": "Chottanikkara",
+      "deity_ids": [
+        "devi"
+      ],
+      "collection_ids": [],
+      "summary": "A major Bhagavathy shrine in the Kochi region with distinctive daily worship traditions.",
+      "detail_path": "travel/temples/in-chottanikkara-chottanikkara-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Chottanikkara_Temple.jpg/250px-Chottanikkara_Temple.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Chottanikkara_Temple.jpg",
+        "author": "Roney Maxwell",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:19.342055+00:00",
+        "alt": "Chottanikkara Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-thrissur-vadakkunnathan-temple",
+      "name": "Vadakkunnathan Temple",
+      "thumbnail": "",
+      "country_code": "IN",
+      "state_name": "Kerala",
+      "search_keywords": [
+        "Bholenath",
+        "India",
+        "Kerala",
+        "Mahadev",
+        "Shankar",
+        "Shiv",
+        "Shiva",
+        "Thrissur",
+        "Vadakkunnathan Temple",
+        "शिव"
+      ],
+      "city": "Thrissur",
+      "deity_ids": [
+        "shiva"
+      ],
+      "collection_ids": [],
+      "summary": "A Kerala-style Shiva temple within Thrissur's central grounds, closely associated with the city's cultural identity.",
+      "detail_path": "travel/temples/in-thrissur-vadakkunnathan-temple.json",
+      "photo_credit": null
+    },
+    {
+      "id": "in-ambalappuzha-ambalappuzha-sri-krishna-temple",
+      "name": "Ambalappuzha Sri Krishna Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Ambalappuzha_Temple.JPG/250px-Ambalappuzha_Temple.JPG",
+      "country_code": "IN",
+      "state_name": "Kerala",
+      "search_keywords": [
+        "Ambalappuzha",
+        "Ambalappuzha Sree Krishna Swamy Temple",
+        "Ambalappuzha Sri Krishna Temple",
+        "Gopal",
+        "Govind",
+        "India",
+        "Kanha",
+        "Kerala",
+        "Krishna",
+        "Shyam",
+        "कृष्ण"
+      ],
+      "city": "Ambalappuzha",
+      "deity_ids": [
+        "krishna"
+      ],
+      "collection_ids": [],
+      "summary": "A Krishna shrine known for its palpayasam offering and Kerala temple architecture.",
+      "detail_path": "travel/temples/in-ambalappuzha-ambalappuzha-sri-krishna-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Ambalappuzha_Temple.JPG/250px-Ambalappuzha_Temple.JPG",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ambalappuzha_Temple.JPG",
+        "author": "Pradeep717",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:24.614347+00:00",
+        "alt": "Ambalappuzha Sri Krishna Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-haripad-mannarasala-temple",
+      "name": "Mannarasala Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Mannarasala_temple.jpg/250px-Mannarasala_temple.jpg",
+      "country_code": "IN",
+      "state_name": "Kerala",
+      "search_keywords": [
+        "Haripad",
+        "India",
+        "Kerala",
+        "Mannarasala Temple",
+        "Naga",
+        "Nagaraja",
+        "Serpent deities",
+        "नागराज"
+      ],
+      "city": "Haripad",
+      "deity_ids": [
+        "nagaraja"
+      ],
+      "collection_ids": [],
+      "summary": "A wooded serpent-worship shrine with distinctive hereditary ritual traditions.",
+      "detail_path": "travel/temples/in-haripad-mannarasala-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Mannarasala_temple.jpg/250px-Mannarasala_temple.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Mannarasala_temple.jpg",
+        "author": "Vibitha vijay",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:11.265463+00:00",
+        "alt": "Mannarasala Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-udupi-udupi-sri-krishna-matha",
+      "name": "Udupi Sri Krishna Matha",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Udupi_Sri_Krishna_Matha_Temple.jpg/250px-Udupi_Sri_Krishna_Matha_Temple.jpg",
+      "country_code": "IN",
+      "state_name": "Karnataka",
+      "search_keywords": [
+        "Gopal",
+        "Govind",
+        "India",
+        "Kanha",
+        "Karnataka",
+        "Krishna",
+        "Shyam",
+        "Udupi",
+        "Udupi Sri Krishna Matha",
+        "कृष्ण"
+      ],
+      "city": "Udupi",
+      "deity_ids": [
+        "krishna"
+      ],
+      "collection_ids": [],
+      "summary": "A Krishna temple and monastic centre associated with Madhvacharya and the Paryaya tradition.",
+      "detail_path": "travel/temples/in-udupi-udupi-sri-krishna-matha.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Udupi_Sri_Krishna_Matha_Temple.jpg/250px-Udupi_Sri_Krishna_Matha_Temple.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Udupi_Sri_Krishna_Matha_Temple.jpg",
+        "author": "Ashok Prabhakaran from Chennai, India",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:16.140409+00:00",
+        "alt": "Udupi Sri Krishna Matha",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-hampi-virupaksha-temple-hampi",
+      "name": "Virupaksha Temple, Hampi",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Complex_of_Virupaksha_Temple%2C_Hampi_%2804%29.jpg/250px-Complex_of_Virupaksha_Temple%2C_Hampi_%2804%29.jpg",
+      "country_code": "IN",
+      "state_name": "Karnataka",
+      "search_keywords": [
+        "Bholenath",
+        "Hampi",
+        "India",
+        "Karnataka",
+        "Mahadev",
+        "Shankar",
+        "Shiv",
+        "Shiva",
+        "Virupaksha Temple, Hampi",
+        "शिव"
+      ],
+      "city": "Hampi",
+      "deity_ids": [
+        "shiva"
+      ],
+      "collection_ids": [],
+      "summary": "A living Shiva temple within Hampi's historic Vijayanagara landscape.",
+      "detail_path": "travel/temples/in-hampi-virupaksha-temple-hampi.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Complex_of_Virupaksha_Temple%2C_Hampi_%2804%29.jpg/250px-Complex_of_Virupaksha_Temple%2C_Hampi_%2804%29.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Complex_of_Virupaksha_Temple,_Hampi_(04).jpg",
+        "author": "iMahesh",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:20.143429+00:00",
+        "alt": "Virupaksha Temple, Hampi",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-hampi-vijaya-vittala-temple",
+      "name": "Vijaya Vittala Temple",
+      "thumbnail": "",
+      "country_code": "IN",
+      "state_name": "Karnataka",
+      "search_keywords": [
+        "Balaji",
+        "Gopal",
+        "Govind",
+        "Hampi",
+        "India",
+        "Kanha",
+        "Karnataka",
+        "Krishna",
+        "Narayan",
+        "Narayana",
+        "Perumal",
+        "Shyam",
+        "Venkateswara",
+        "Vijaya Vittala Temple",
+        "Vishnu",
+        "कृष्ण",
+        "विष्णु"
+      ],
+      "city": "Hampi",
+      "deity_ids": [
+        "vishnu",
+        "krishna"
+      ],
+      "collection_ids": [],
+      "summary": "A Vijayanagara heritage temple complex known for its stone chariot and elaborate pillared halls.",
+      "detail_path": "travel/temples/in-hampi-vijaya-vittala-temple.json",
+      "photo_credit": null
+    },
+    {
+      "id": "in-kollur-kollur-mookambika-temple",
+      "name": "Kollur Mookambika Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Kollur_Mookambika_Temple_20080123.JPG/250px-Kollur_Mookambika_Temple_20080123.JPG",
+      "country_code": "IN",
+      "state_name": "Karnataka",
+      "search_keywords": [
+        "Amman",
+        "Bhagavathy",
+        "Devi / Mata",
+        "Durga",
+        "India",
+        "Kali",
+        "Karnataka",
+        "Kollur",
+        "Kollur Mookambika Temple",
+        "Lakshmi",
+        "Maa",
+        "Parvati",
+        "Shakti",
+        "माता"
+      ],
+      "city": "Kollur",
+      "deity_ids": [
+        "devi"
+      ],
+      "collection_ids": [],
+      "summary": "A major goddess shrine near the Western Ghats, especially important to devotees from Karnataka and Kerala.",
+      "detail_path": "travel/temples/in-kollur-kollur-mookambika-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Kollur_Mookambika_Temple_20080123.JPG/250px-Kollur_Mookambika_Temple_20080123.JPG",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Kollur_Mookambika_Temple_20080123.JPG",
+        "author": "Premkudva",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:08.969472+00:00",
+        "alt": "Kollur Mookambika Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-dharmasthala-dharmasthala-manjunatha-temple",
+      "name": "Dharmasthala Manjunatha Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Dharmasthala_1.jpg/250px-Dharmasthala_1.jpg",
+      "country_code": "IN",
+      "state_name": "Karnataka",
+      "search_keywords": [
+        "Bholenath",
+        "Dharmasthala",
+        "Dharmasthala Manjunatha Temple",
+        "Dharmasthala Temple",
+        "India",
+        "Karnataka",
+        "Mahadev",
+        "Shankar",
+        "Shiv",
+        "Shiva",
+        "शिव"
+      ],
+      "city": "Dharmasthala",
+      "deity_ids": [
+        "shiva"
+      ],
+      "collection_ids": [],
+      "summary": "A Manjunatha shrine known for its distinctive relationship between Hindu worship and Jain hereditary administration.",
+      "detail_path": "travel/temples/in-dharmasthala-dharmasthala-manjunatha-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Dharmasthala_1.jpg/250px-Dharmasthala_1.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Dharmasthala_1.jpg",
+        "author": "Naveenbm at English Wikipedia",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:19.121334+00:00",
+        "alt": "Dharmasthala Manjunatha Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-subramanya-kukke-subramanya-temple",
+      "name": "Kukke Subramanya Temple",
+      "thumbnail": "",
+      "country_code": "IN",
+      "state_name": "Karnataka",
+      "search_keywords": [
+        "India",
+        "Karnataka",
+        "Kartikeya",
+        "Kukke Subramanya Temple",
+        "Murugan",
+        "Naga",
+        "Nagaraja",
+        "Serpent deities",
+        "Skanda",
+        "Subramaniar",
+        "Subramanya",
+        "कार्तिकेय",
+        "नागराज"
+      ],
+      "city": "Subramanya",
+      "deity_ids": [
+        "murugan",
+        "nagaraja"
+      ],
+      "collection_ids": [],
+      "summary": "A Western Ghats pilgrimage where Subramanya is closely associated with serpent worship.",
+      "detail_path": "travel/temples/in-subramanya-kukke-subramanya-temple.json",
+      "photo_credit": null
+    },
+    {
+      "id": "in-murudeshwar-murudeshwar-temple",
+      "name": "Murudeshwar Temple",
+      "thumbnail": "",
+      "country_code": "IN",
+      "state_name": "Karnataka",
+      "search_keywords": [
+        "Bholenath",
+        "India",
+        "Karnataka",
+        "Mahadev",
+        "Murudeshwar",
+        "Murudeshwar Temple",
+        "Shankar",
+        "Shiv",
+        "Shiva",
+        "शिव"
+      ],
+      "city": "Murudeshwar",
+      "deity_ids": [
+        "shiva"
+      ],
+      "collection_ids": [],
+      "summary": "A coastal Shiva pilgrimage distinguished by a large Shiva statue and tall entrance tower.",
+      "detail_path": "travel/temples/in-murudeshwar-murudeshwar-temple.json",
+      "photo_credit": null
+    },
+    {
+      "id": "in-gokarna-mahabaleshwar-temple-gokarna",
+      "name": "Mahabaleshwar Temple, Gokarna",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Main_entry_to_the_Mahabaleshwar_Temple_at_Gokaran.jpg/250px-Main_entry_to_the_Mahabaleshwar_Temple_at_Gokaran.jpg",
+      "country_code": "IN",
+      "state_name": "Karnataka",
+      "search_keywords": [
+        "Bholenath",
+        "Gokarna",
+        "India",
+        "Karnataka",
+        "Mahabaleshwar Temple, Gokarna",
+        "Mahadev",
+        "Shankar",
+        "Shiv",
+        "Shiva",
+        "शिव"
+      ],
+      "city": "Gokarna",
+      "deity_ids": [
+        "shiva"
+      ],
+      "collection_ids": [],
+      "summary": "A coastal Karnataka Shiva shrine associated with the Atmalinga tradition.",
+      "detail_path": "travel/temples/in-gokarna-mahabaleshwar-temple-gokarna.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Main_entry_to_the_Mahabaleshwar_Temple_at_Gokaran.jpg/250px-Main_entry_to_the_Mahabaleshwar_Temple_at_Gokaran.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Main_entry_to_the_Mahabaleshwar_Temple_at_Gokaran.jpg",
+        "author": "Nvvchar",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:13.416530+00:00",
+        "alt": "Mahabaleshwar Temple, Gokarna",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-mysuru-chamundeshwari-temple",
+      "name": "Chamundeshwari Temple",
+      "thumbnail": "",
+      "country_code": "IN",
+      "state_name": "Karnataka",
+      "search_keywords": [
+        "Amman",
+        "Bhagavathy",
+        "Chamundeshwari Temple",
+        "Devi / Mata",
+        "Durga",
+        "India",
+        "Kali",
+        "Karnataka",
+        "Lakshmi",
+        "Maa",
+        "Mysuru",
+        "Parvati",
+        "Shakti",
+        "माता"
+      ],
+      "city": "Mysuru",
+      "deity_ids": [
+        "devi"
+      ],
+      "collection_ids": [],
+      "summary": "A hilltop goddess temple above Mysuru, closely linked with the city's royal and Dasara traditions.",
+      "detail_path": "travel/temples/in-mysuru-chamundeshwari-temple.json",
+      "photo_credit": null
+    },
+    {
+      "id": "in-horanadu-horanadu-annapoorneshwari-temple",
+      "name": "Horanadu Annapoorneshwari Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/HoranaduAnnapurneswariTemple1.jpg/250px-HoranaduAnnapurneswariTemple1.jpg",
+      "country_code": "IN",
+      "state_name": "Karnataka",
+      "search_keywords": [
+        "Amman",
+        "Annapoorneshwari Temple",
+        "Bhagavathy",
+        "Devi / Mata",
+        "Durga",
+        "Horanadu",
+        "Horanadu Annapoorneshwari Temple",
+        "India",
+        "Kali",
+        "Karnataka",
+        "Lakshmi",
+        "Maa",
+        "Parvati",
+        "Shakti",
+        "माता"
+      ],
+      "city": "Horanadu",
+      "deity_ids": [
+        "devi"
+      ],
+      "collection_ids": [],
+      "summary": "A goddess-of-nourishment shrine in the Western Ghats at Horanadu.",
+      "detail_path": "travel/temples/in-horanadu-horanadu-annapoorneshwari-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/HoranaduAnnapurneswariTemple1.jpg/250px-HoranaduAnnapurneswariTemple1.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:HoranaduAnnapurneswariTemple1.jpg",
+        "author": "Wind4wings (talk)",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:16.376762+00:00",
+        "alt": "Horanadu Annapoorneshwari Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-sringeri-sringeri-sharadamba-temple",
+      "name": "Sringeri Sharadamba Temple",
+      "thumbnail": "",
+      "country_code": "IN",
+      "state_name": "Karnataka",
+      "search_keywords": [
+        "Amman",
+        "Bhagavathy",
+        "Devi / Mata",
+        "Durga",
+        "India",
+        "Kali",
+        "Karnataka",
+        "Lakshmi",
+        "Maa",
+        "Parvati",
+        "Saraswati",
+        "Shakti",
+        "Sharada",
+        "Sringeri",
+        "Sringeri Sharadamba Temple",
+        "माता",
+        "सरस्वती"
+      ],
+      "city": "Sringeri",
+      "deity_ids": [
+        "saraswati",
+        "devi"
+      ],
+      "collection_ids": [],
+      "summary": "A Sharada shrine associated with the Sringeri monastic institution on the Tunga river.",
+      "detail_path": "travel/temples/in-sringeri-sringeri-sharadamba-temple.json",
+      "photo_credit": null
+    },
+    {
+      "id": "in-belur-chennakeshava-temple-belur",
+      "name": "Chennakeshava Temple, Belur",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Courtyard_of_Chennakesava_Temple_-_Belur.jpg/250px-The_Courtyard_of_Chennakesava_Temple_-_Belur.jpg",
+      "country_code": "IN",
+      "state_name": "Karnataka",
+      "search_keywords": [
+        "Balaji",
+        "Belur",
+        "Chennakeshava Temple, Belur",
+        "India",
+        "Karnataka",
+        "Narayan",
+        "Narayana",
+        "Perumal",
+        "Venkateswara",
+        "Vishnu",
+        "विष्णु"
+      ],
+      "city": "Belur",
+      "deity_ids": [
+        "vishnu"
+      ],
+      "collection_ids": [],
+      "summary": "A Hoysala temple dedicated to Keshava, celebrated for detailed stone sculpture and bracket figures.",
+      "detail_path": "travel/temples/in-belur-chennakeshava-temple-belur.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Courtyard_of_Chennakesava_Temple_-_Belur.jpg/250px-The_Courtyard_of_Chennakesava_Temple_-_Belur.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:The_Courtyard_of_Chennakesava_Temple_-_Belur.jpg",
+        "author": "Bikashrd",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:05.872478+00:00",
+        "alt": "Chennakeshava Temple, Belur",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-halebidu-hoysaleswara-temple",
+      "name": "Hoysaleswara Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Hoysaleshwara_temple_in_Monsoon.JPG/250px-Hoysaleshwara_temple_in_Monsoon.JPG",
+      "country_code": "IN",
+      "state_name": "Karnataka",
+      "search_keywords": [
+        "Bholenath",
+        "Halebidu",
+        "Hoysaleswara Temple",
+        "India",
+        "Karnataka",
+        "Mahadev",
+        "Shankar",
+        "Shiv",
+        "Shiva",
+        "शिव"
+      ],
+      "city": "Halebidu",
+      "deity_ids": [
+        "shiva"
+      ],
+      "collection_ids": [],
+      "summary": "A twin-shrine Hoysala Shiva temple with extensive narrative and ornamental carving.",
+      "detail_path": "travel/temples/in-halebidu-hoysaleswara-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Hoysaleshwara_temple_in_Monsoon.JPG/250px-Hoysaleshwara_temple_in_Monsoon.JPG",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Hoysaleshwara_temple_in_Monsoon.JPG",
+        "author": "Karthikbs23",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:07.150531+00:00",
+        "alt": "Hoysaleswara Temple",
+        "role": "article_lead_photo"
+      }
+    }
+  ]
+}

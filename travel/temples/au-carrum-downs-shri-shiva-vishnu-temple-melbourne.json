@@ -1,0 +1,186 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "au-carrum-downs-shri-shiva-vishnu-temple-melbourne",
+    "slug": "shri-shiva-vishnu-temple-melbourne",
+    "name": "Shri Shiva Vishnu Temple, Melbourne",
+    "thumbnail": "",
+    "aliases": [],
+    "country_code": "AU",
+    "state_name": "Victoria",
+    "search_keywords": [
+      "Australia",
+      "Balaji",
+      "Bholenath",
+      "Carrum Downs",
+      "Mahadev",
+      "Narayan",
+      "Narayana",
+      "Perumal",
+      "Shankar",
+      "Shiv",
+      "Shiva",
+      "Shri Shiva Vishnu Temple, Melbourne",
+      "Venkateswara",
+      "Victoria",
+      "Vishnu",
+      "विष्णु",
+      "शिव"
+    ],
+    "details": {
+      "name": "Shri Shiva Vishnu Temple, Melbourne",
+      "thumbnail": "",
+      "gallery": [],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": null,
+        "longitude": null,
+        "coordinate_status": "coordinates_pending",
+        "coordinate_source_id": null,
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Shri Shiva Vishnu Temple, Melbourne, Carrum Downs, Victoria, Australia",
+        "address_precision": "locality",
+        "country": "Australia",
+        "country_code": "AU",
+        "state": "Victoria",
+        "city": "Carrum Downs",
+        "district": null,
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Shri+Shiva+Vishnu+Temple%2C+Melbourne%2C+Carrum+Downs%2C+Victoria%2C+Australia",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Shri+Shiva+Vishnu+Temple%2C+Melbourne%2C+Carrum+Downs%2C+Victoria%2C+Australia"
+      },
+      "description": "Shri Shiva Vishnu Temple, Melbourne is located in Carrum Downs, Victoria, Australia. A temple of the Hindu Society of Victoria centred on Shiva and Vishnu worship.",
+      "city": "Carrum Downs",
+      "district": null,
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Shiva, Vishnu",
+      "deity_ids": [
+        "shiva",
+        "vishnu"
+      ],
+      "primary_deity_id": "shiva",
+      "dedication": {
+        "text": "Shiva, Vishnu",
+        "source_id": null,
+        "status": "editorial_category"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A temple of the Hindu Society of Victoria centred on Shiva and Vishnu worship."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "Australia/Melbourne",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": "https://www.hsvshivavishnutemple.org.au/",
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": "https://www.hsvshivavishnutemple.org.au/"
+      },
+      "media": {
+        "items": [],
+        "status": "photo_pending",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "primary",
+          "url": "https://www.hsvshivavishnutemple.org.au/",
+          "type": "temple_or_public_institution",
+          "reviewed_on": "2026-10-06",
+          "review_method": "web_search_excerpt_or_page",
+          "scope": [
+            "identity",
+            "selected_background"
+          ],
+          "does_not_verify": [
+            "all_visitor_services",
+            "all_coordinates",
+            "all_editorial_claims"
+          ]
+        }
+      ],
+      "data_quality": {
+        "identity": "primary_source_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

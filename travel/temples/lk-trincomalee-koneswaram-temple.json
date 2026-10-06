@@ -1,0 +1,207 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "lk-trincomalee-koneswaram-temple",
+    "slug": "koneswaram-temple",
+    "name": "Koneswaram Temple",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Spiritual_16.jpg/330px-Spiritual_16.jpg",
+    "aliases": [],
+    "country_code": "LK",
+    "state_name": "Eastern Province",
+    "search_keywords": [
+      "Bholenath",
+      "Eastern Province",
+      "Koneswaram Temple",
+      "Mahadev",
+      "Shankar",
+      "Shiv",
+      "Shiva",
+      "Sri Lanka",
+      "Trincomalee",
+      "शिव"
+    ],
+    "details": {
+      "name": "Koneswaram Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Spiritual_16.jpg/330px-Spiritual_16.jpg",
+      "gallery": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Spiritual_16.jpg/330px-Spiritual_16.jpg"
+      ],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": 8.5825,
+        "longitude": 81.245556,
+        "coordinate_status": "reference_point",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Koneswaram Temple, Trincomalee, Eastern Province, Sri Lanka",
+        "address_precision": "locality",
+        "country": "Sri Lanka",
+        "country_code": "LK",
+        "state": "Eastern Province",
+        "city": "Trincomalee",
+        "district": "Trincomalee District",
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Koneswaram+Temple%2C+Trincomalee%2C+Eastern+Province%2C+Sri+Lanka",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Koneswaram+Temple%2C+Trincomalee%2C+Eastern+Province%2C+Sri+Lanka"
+      },
+      "description": "Koneswaram Temple is located in Trincomalee, Eastern Province, Sri Lanka. A Shiva shrine on Swami Rock overlooking Trincomalee's coast, associated with the Pancha Ishwaram tradition.",
+      "city": "Trincomalee",
+      "district": "Trincomalee District",
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Shiva",
+      "deity_ids": [
+        "shiva"
+      ],
+      "primary_deity_id": "shiva",
+      "dedication": {
+        "text": "Konanātha Swami, Māthumai",
+        "source_id": "reference",
+        "status": "reference_extracted"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A Shiva shrine on Swami Rock overlooking Trincomalee's coast, associated with the Pancha Ishwaram tradition."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Colombo",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": "https://srilanka.travel/attraction?attraction_id=167",
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": "https://srilanka.travel/attraction?attraction_id=167"
+      },
+      "media": {
+        "items": [
+          {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Spiritual_16.jpg/330px-Spiritual_16.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Spiritual_16.jpg",
+            "author": "Shamli071",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:10.253427+00:00",
+            "alt": "Koneswaram Temple",
+            "role": "article_lead_photo"
+          }
+        ],
+        "status": "attributed_reference_photo",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "primary",
+          "url": "https://srilanka.travel/attraction?attraction_id=167",
+          "type": "temple_or_public_institution",
+          "reviewed_on": "2026-10-06",
+          "review_method": "web_search_excerpt_or_page",
+          "scope": [
+            "identity",
+            "selected_background"
+          ],
+          "does_not_verify": [
+            "all_visitor_services",
+            "all_coordinates",
+            "all_editorial_claims"
+          ]
+        },
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Koneswaram_Temple",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:46:55.726488+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Koneswaram Temple - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "primary_source_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

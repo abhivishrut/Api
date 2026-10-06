@@ -1,0 +1,185 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "in-mayapur-iskcon-mayapur",
+    "slug": "iskcon-mayapur",
+    "name": "ISKCON Mayapur",
+    "thumbnail": "",
+    "aliases": [
+      "Mayapur"
+    ],
+    "country_code": "IN",
+    "state_name": "West Bengal",
+    "search_keywords": [
+      "Chaitanya",
+      "Gauranga",
+      "Gopal",
+      "Govind",
+      "ISKCON Mayapur",
+      "India",
+      "Kanha",
+      "Krishna",
+      "Mayapur",
+      "Radha",
+      "Radharani",
+      "Shyam",
+      "West Bengal",
+      "कृष्ण",
+      "चैतन्य",
+      "राधा"
+    ],
+    "details": {
+      "name": "ISKCON Mayapur",
+      "thumbnail": "",
+      "gallery": [],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": 23.438333,
+        "longitude": 88.392778,
+        "coordinate_status": "locality_reference_only",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "ISKCON Mayapur, Mayapur, West Bengal, India",
+        "address_precision": "locality",
+        "country": "India",
+        "country_code": "IN",
+        "state": "West Bengal",
+        "city": "Mayapur",
+        "district": "Nadia",
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ISKCON+Mayapur%2C+Mayapur%2C+West+Bengal%2C+India",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=ISKCON+Mayapur%2C+Mayapur%2C+West+Bengal%2C+India"
+      },
+      "description": "ISKCON Mayapur is located in Mayapur, West Bengal, India. A Gaudiya Vaishnava pilgrimage centre associated with Chaitanya and the international ISKCON community.",
+      "city": "Mayapur",
+      "district": "Nadia",
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Krishna, Radha, Chaitanya",
+      "deity_ids": [
+        "krishna",
+        "radha",
+        "chaitanya"
+      ],
+      "primary_deity_id": "krishna",
+      "dedication": {
+        "text": "Krishna, Radha, Chaitanya",
+        "source_id": null,
+        "status": "editorial_category"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A Gaudiya Vaishnava pilgrimage centre associated with Chaitanya and the international ISKCON community."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Kolkata",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": null,
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": null
+      },
+      "media": {
+        "items": [],
+        "status": "photo_pending",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Mayapur",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:46:25.440168+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Mayapur - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "reference_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

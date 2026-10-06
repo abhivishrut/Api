@@ -1,0 +1,189 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "sg-singapore-sri-thendayuthapani-temple",
+    "slug": "sri-thendayuthapani-temple",
+    "name": "Sri Thendayuthapani Temple",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/SriThendayuthapaniTemple-Singapore-gopuram-20091220.jpg/330px-SriThendayuthapaniTemple-Singapore-gopuram-20091220.jpg",
+    "aliases": [],
+    "country_code": "SG",
+    "state_name": "Singapore",
+    "search_keywords": [
+      "Kartikeya",
+      "Murugan",
+      "Singapore",
+      "Skanda",
+      "Sri Thendayuthapani Temple",
+      "Subramaniar",
+      "Subramanya",
+      "कार्तिकेय"
+    ],
+    "details": {
+      "name": "Sri Thendayuthapani Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/SriThendayuthapaniTemple-Singapore-gopuram-20091220.jpg/330px-SriThendayuthapaniTemple-Singapore-gopuram-20091220.jpg",
+      "gallery": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/SriThendayuthapaniTemple-Singapore-gopuram-20091220.jpg/330px-SriThendayuthapaniTemple-Singapore-gopuram-20091220.jpg"
+      ],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": 1.294444,
+        "longitude": 103.840833,
+        "coordinate_status": "reference_point",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Sri Thendayuthapani Temple, Singapore",
+        "address_precision": "locality",
+        "country": "Singapore",
+        "country_code": "SG",
+        "state": "Singapore",
+        "city": "Singapore",
+        "district": null,
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sri+Thendayuthapani+Temple%2C+Singapore",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Sri+Thendayuthapani+Temple%2C+Singapore"
+      },
+      "description": "Sri Thendayuthapani Temple is located in Singapore, Singapore, Singapore. A Murugan temple on Tank Road associated with Singapore's Thaipusam pilgrimage.",
+      "city": "Singapore",
+      "district": null,
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Murugan",
+      "deity_ids": [
+        "murugan"
+      ],
+      "primary_deity_id": "murugan",
+      "dedication": {
+        "text": "Murugan",
+        "source_id": null,
+        "status": "editorial_category"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A Murugan temple on Tank Road associated with Singapore's Thaipusam pilgrimage."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Singapore",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": null,
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": null
+      },
+      "media": {
+        "items": [
+          {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/SriThendayuthapaniTemple-Singapore-gopuram-20091220.jpg/330px-SriThendayuthapaniTemple-Singapore-gopuram-20091220.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:SriThendayuthapaniTemple-Singapore-gopuram-20091220.jpg",
+            "author": "Shiny Things.",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:20.553551+00:00",
+            "alt": "Sri Thendayuthapani Temple",
+            "role": "article_lead_photo"
+          }
+        ],
+        "status": "attributed_reference_photo",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Sri_Thendayuthapani_Temple",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:46:58.632343+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Sri Thendayuthapani Temple - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "reference_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "in-naina-devi-naina-devi-temple-bilaspur",
+    "slug": "naina-devi-temple-bilaspur",
+    "name": "Naina Devi Temple, Bilaspur",
+    "thumbnail": "",
+    "aliases": [
+      "Naina Devi"
+    ],
+    "country_code": "IN",
+    "state_name": "Himachal Pradesh",
+    "search_keywords": [
+      "Amman",
+      "Bhagavathy",
+      "Devi / Mata",
+      "Durga",
+      "Himachal Pradesh",
+      "India",
+      "Kali",
+      "Lakshmi",
+      "Maa",
+      "Naina Devi",
+      "Naina Devi Temple, Bilaspur",
+      "Parvati",
+      "Shakti",
+      "माता"
+    ],
+    "details": {
+      "name": "Naina Devi Temple, Bilaspur",
+      "thumbnail": "",
+      "gallery": [],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": 31.306111,
+        "longitude": 76.536389,
+        "coordinate_status": "locality_reference_only",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Naina Devi Temple, Bilaspur, Naina Devi, Himachal Pradesh, India",
+        "address_precision": "locality",
+        "country": "India",
+        "country_code": "IN",
+        "state": "Himachal Pradesh",
+        "city": "Naina Devi",
+        "district": "Bilaspur",
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Naina+Devi+Temple%2C+Bilaspur%2C+Naina+Devi%2C+Himachal+Pradesh%2C+India",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Naina+Devi+Temple%2C+Bilaspur%2C+Naina+Devi%2C+Himachal+Pradesh%2C+India"
+      },
+      "description": "Naina Devi Temple, Bilaspur is located in Naina Devi, Himachal Pradesh, India. A hilltop goddess shrine above the plains near the Punjab-Himachal border.",
+      "city": "Naina Devi",
+      "district": "Bilaspur",
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Devi / Mata",
+      "deity_ids": [
+        "devi"
+      ],
+      "primary_deity_id": "devi",
+      "dedication": {
+        "text": "Devi / Mata",
+        "source_id": null,
+        "status": "editorial_category"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A hilltop goddess shrine above the plains near the Punjab-Himachal border."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Kolkata",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": "https://himachaltourism.gov.in/destination/temples/",
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": "https://himachaltourism.gov.in/destination/temples/"
+      },
+      "media": {
+        "items": [],
+        "status": "photo_pending",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "primary",
+          "url": "https://himachaltourism.gov.in/destination/temples/",
+          "type": "temple_or_public_institution",
+          "reviewed_on": "2026-10-06",
+          "review_method": "web_search_excerpt_or_page",
+          "scope": [
+            "identity",
+            "selected_background"
+          ],
+          "does_not_verify": [
+            "all_visitor_services",
+            "all_coordinates",
+            "all_editorial_claims"
+          ]
+        },
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Naina_Devi",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:46:06.252533+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Naina Devi - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "primary_source_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "in-gorakhpur-gorakhnath-temple",
+    "slug": "gorakhnath-temple",
+    "name": "Gorakhnath Temple",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Gorakhnath_Mandir_in_nutshell.jpg/250px-Gorakhnath_Mandir_in_nutshell.jpg",
+    "aliases": [
+      "Gorakhnath Math"
+    ],
+    "country_code": "IN",
+    "state_name": "Uttar Pradesh",
+    "search_keywords": [
+      "Bholenath",
+      "Gorakhnath",
+      "Gorakhnath Math",
+      "Gorakhnath Temple",
+      "Gorakhpur",
+      "India",
+      "Mahadev",
+      "Shankar",
+      "Shiv",
+      "Shiva",
+      "Uttar Pradesh",
+      "गोरखनाथ",
+      "शिव"
+    ],
+    "details": {
+      "name": "Gorakhnath Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Gorakhnath_Mandir_in_nutshell.jpg/250px-Gorakhnath_Mandir_in_nutshell.jpg",
+      "gallery": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Gorakhnath_Mandir_in_nutshell.jpg/250px-Gorakhnath_Mandir_in_nutshell.jpg"
+      ],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": null,
+        "longitude": null,
+        "coordinate_status": "coordinates_pending",
+        "coordinate_source_id": null,
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Gorakhnath Temple, Gorakhpur, Uttar Pradesh, India",
+        "address_precision": "locality",
+        "country": "India",
+        "country_code": "IN",
+        "state": "Uttar Pradesh",
+        "city": "Gorakhpur",
+        "district": "Gorakhpur",
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gorakhnath+Temple%2C+Gorakhpur%2C+Uttar+Pradesh%2C+India",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Gorakhnath+Temple%2C+Gorakhpur%2C+Uttar+Pradesh%2C+India"
+      },
+      "description": "Gorakhnath Temple is located in Gorakhpur, Uttar Pradesh, India. A Nath monastic and temple centre associated with the yogi Gorakhnath.",
+      "city": "Gorakhpur",
+      "district": "Gorakhpur",
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Gorakhnath, Shiva",
+      "deity_ids": [
+        "gorakhnath",
+        "shiva"
+      ],
+      "primary_deity_id": "gorakhnath",
+      "dedication": {
+        "text": "Shiva and Guru Gorakshanath",
+        "source_id": "reference",
+        "status": "reference_extracted"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A Nath monastic and temple centre associated with the yogi Gorakhnath."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Kolkata",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": null,
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": null
+      },
+      "media": {
+        "items": [
+          {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Gorakhnath_Mandir_in_nutshell.jpg/250px-Gorakhnath_Mandir_in_nutshell.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Gorakhnath_Mandir_in_nutshell.jpg",
+            "author": "Google User",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:17.786889+00:00",
+            "alt": "Gorakhnath Temple",
+            "role": "article_lead_photo"
+          }
+        ],
+        "status": "attributed_reference_photo",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Gorakhnath_Math",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:46:02.847164+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Gorakhnath Math - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "reference_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

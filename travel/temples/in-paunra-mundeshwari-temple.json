@@ -1,0 +1,202 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "in-paunra-mundeshwari-temple",
+    "slug": "mundeshwari-temple",
+    "name": "Mundeshwari Temple",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Maa_Mundeshwari_Devi.jpg/250px-Maa_Mundeshwari_Devi.jpg",
+    "aliases": [],
+    "country_code": "IN",
+    "state_name": "Bihar",
+    "search_keywords": [
+      "Amman",
+      "Bhagavathy",
+      "Bholenath",
+      "Bihar",
+      "Devi / Mata",
+      "Durga",
+      "India",
+      "Kali",
+      "Lakshmi",
+      "Maa",
+      "Mahadev",
+      "Mundeshwari Temple",
+      "Parvati",
+      "Paunra",
+      "Shakti",
+      "Shankar",
+      "Shiv",
+      "Shiva",
+      "माता",
+      "शिव"
+    ],
+    "details": {
+      "name": "Mundeshwari Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Maa_Mundeshwari_Devi.jpg/250px-Maa_Mundeshwari_Devi.jpg",
+      "gallery": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Maa_Mundeshwari_Devi.jpg/250px-Maa_Mundeshwari_Devi.jpg"
+      ],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": 24.983333,
+        "longitude": 83.564722,
+        "coordinate_status": "reference_point",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Mundeshwari Temple, Paunra, Bihar, India",
+        "address_precision": "locality",
+        "country": "India",
+        "country_code": "IN",
+        "state": "Bihar",
+        "city": "Paunra",
+        "district": "Kaimur district",
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mundeshwari+Temple%2C+Paunra%2C+Bihar%2C+India",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Mundeshwari+Temple%2C+Paunra%2C+Bihar%2C+India"
+      },
+      "description": "Mundeshwari Temple is located in Paunra, Bihar, India. A historic hill temple known for its unusual octagonal plan and continuing worship.",
+      "city": "Paunra",
+      "district": "Kaimur district",
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Devi / Mata, Shiva",
+      "deity_ids": [
+        "devi",
+        "shiva"
+      ],
+      "primary_deity_id": "devi",
+      "dedication": {
+        "text": "Shiva and Shakthi",
+        "source_id": "reference",
+        "status": "reference_extracted"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A historic hill temple known for its unusual octagonal plan and continuing worship."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": "Ramnavami, Shivratri, Navaratra",
+        "source_id": "reference",
+        "dates": [],
+        "status": "reference_extracted_dates_not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Kolkata",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": null,
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": null
+      },
+      "media": {
+        "items": [
+          {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Maa_Mundeshwari_Devi.jpg/250px-Maa_Mundeshwari_Devi.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Maa_Mundeshwari_Devi.jpg",
+            "author": "Lakshya",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:14.441607+00:00",
+            "alt": "Mundeshwari Temple",
+            "role": "article_lead_photo"
+          }
+        ],
+        "status": "attributed_reference_photo",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Mundeshwari_Temple",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:46:21.985912+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Mundeshwari Temple - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "reference_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

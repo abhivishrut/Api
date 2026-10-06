@@ -1,0 +1,177 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "in-jammu-raghunath-temple-jammu",
+    "slug": "raghunath-temple-jammu",
+    "name": "Raghunath Temple, Jammu",
+    "thumbnail": "",
+    "aliases": [
+      "Raghunath Temple"
+    ],
+    "country_code": "IN",
+    "state_name": "Jammu and Kashmir",
+    "search_keywords": [
+      "India",
+      "Jammu",
+      "Jammu and Kashmir",
+      "Raghunath",
+      "Raghunath Temple",
+      "Raghunath Temple, Jammu",
+      "Ram",
+      "Ram Lalla",
+      "Rama",
+      "राम"
+    ],
+    "details": {
+      "name": "Raghunath Temple, Jammu",
+      "thumbnail": "",
+      "gallery": [],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": 32.730278,
+        "longitude": 74.862222,
+        "coordinate_status": "reference_point",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Raghunath Temple, Jammu, Jammu, Jammu and Kashmir, India",
+        "address_precision": "locality",
+        "country": "India",
+        "country_code": "IN",
+        "state": "Jammu and Kashmir",
+        "city": "Jammu",
+        "district": "Jammu district",
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Raghunath+Temple%2C+Jammu%2C+Jammu%2C+Jammu+and+Kashmir%2C+India",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Raghunath+Temple%2C+Jammu%2C+Jammu%2C+Jammu+and+Kashmir%2C+India"
+      },
+      "description": "Raghunath Temple, Jammu is located in Jammu, Jammu and Kashmir, India. A temple complex in Jammu centred on Rama and associated with Dogra royal patronage.",
+      "city": "Jammu",
+      "district": "Jammu district",
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Rama",
+      "deity_ids": [
+        "rama"
+      ],
+      "primary_deity_id": "rama",
+      "dedication": {
+        "text": "Rama",
+        "source_id": "reference",
+        "status": "reference_extracted"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A temple complex in Jammu centred on Rama and associated with Dogra royal patronage."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Kolkata",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": null,
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": null
+      },
+      "media": {
+        "items": [],
+        "status": "photo_pending",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Raghunath_Temple",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:45:57.221099+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Raghunath Temple - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "reference_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

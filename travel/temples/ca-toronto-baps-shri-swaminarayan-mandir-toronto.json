@@ -1,0 +1,207 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "ca-toronto-baps-shri-swaminarayan-mandir-toronto",
+    "slug": "baps-shri-swaminarayan-mandir-toronto",
+    "name": "BAPS Shri Swaminarayan Mandir, Toronto",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/BAPS_Toronto_Mandir_exterior_7.jpg/250px-BAPS_Toronto_Mandir_exterior_7.jpg",
+    "aliases": [
+      "BAPS Shri Swaminarayan Mandir Toronto"
+    ],
+    "country_code": "CA",
+    "state_name": "Ontario",
+    "search_keywords": [
+      "BAPS Shri Swaminarayan Mandir Toronto",
+      "BAPS Shri Swaminarayan Mandir, Toronto",
+      "Canada",
+      "Ontario",
+      "Sahajanand",
+      "Swaminarayan",
+      "Toronto",
+      "स्वामिनारायण"
+    ],
+    "details": {
+      "name": "BAPS Shri Swaminarayan Mandir, Toronto",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/BAPS_Toronto_Mandir_exterior_7.jpg/250px-BAPS_Toronto_Mandir_exterior_7.jpg",
+      "gallery": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/BAPS_Toronto_Mandir_exterior_7.jpg/250px-BAPS_Toronto_Mandir_exterior_7.jpg"
+      ],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": 43.738611,
+        "longitude": -79.626944,
+        "coordinate_status": "reference_point",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "BAPS Shri Swaminarayan Mandir, Toronto, Toronto, Ontario, Canada",
+        "address_precision": "locality",
+        "country": "Canada",
+        "country_code": "CA",
+        "state": "Ontario",
+        "city": "Toronto",
+        "district": null,
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BAPS+Shri+Swaminarayan+Mandir%2C+Toronto%2C+Toronto%2C+Ontario%2C+Canada",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=BAPS+Shri+Swaminarayan+Mandir%2C+Toronto%2C+Toronto%2C+Ontario%2C+Canada"
+      },
+      "description": "BAPS Shri Swaminarayan Mandir, Toronto is located in Toronto, Ontario, Canada. A carved-stone mandir and cultural complex developed by BAPS in the Toronto area.",
+      "city": "Toronto",
+      "district": null,
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Swaminarayan",
+      "deity_ids": [
+        "swaminarayan"
+      ],
+      "primary_deity_id": "swaminarayan",
+      "dedication": {
+        "text": "Swaminarayan, , Radha Krishna, , Rama-Sita, , Shiva-Parvati",
+        "source_id": "reference",
+        "status": "reference_extracted"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A carved-stone mandir and cultural complex developed by BAPS in the Toronto area."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "America/Toronto",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": "https://www.baps.org/Global-Network/North-America/Toronto/Mandir-Info.aspx",
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": "https://www.baps.org/Global-Network/North-America/Toronto/Mandir-Info.aspx"
+      },
+      "media": {
+        "items": [
+          {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/BAPS_Toronto_Mandir_exterior_7.jpg/250px-BAPS_Toronto_Mandir_exterior_7.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:BAPS_Toronto_Mandir_exterior_7.jpg",
+            "author": "Work for hire; Copyright held by BAPS Swaminarayan Sanstha (web: www.baps.org, email: info@baps.org); Unknown photographer",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:09.477163+00:00",
+            "alt": "BAPS Shri Swaminarayan Mandir, Toronto",
+            "role": "article_lead_photo"
+          }
+        ],
+        "status": "attributed_reference_photo",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "primary",
+          "url": "https://www.baps.org/Global-Network/North-America/Toronto/Mandir-Info.aspx",
+          "type": "temple_or_public_institution",
+          "reviewed_on": "2026-10-06",
+          "review_method": "web_search_excerpt_or_page",
+          "scope": [
+            "identity",
+            "selected_background"
+          ],
+          "does_not_verify": [
+            "all_visitor_services",
+            "all_coordinates",
+            "all_editorial_claims"
+          ]
+        },
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/BAPS_Shri_Swaminarayan_Mandir_Toronto",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:47:07.711325+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "BAPS Shri Swaminarayan Mandir Toronto - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "primary_source_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

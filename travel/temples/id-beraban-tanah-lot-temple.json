@@ -1,0 +1,209 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "id-beraban-tanah-lot-temple",
+    "slug": "tanah-lot-temple",
+    "name": "Tanah Lot Temple",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/TanahLot_2014.JPG/330px-TanahLot_2014.JPG",
+    "aliases": [
+      "Tanah Lot"
+    ],
+    "country_code": "ID",
+    "state_name": "Bali",
+    "search_keywords": [
+      "Bali",
+      "Balinese sea deity tradition",
+      "Beraban",
+      "Bhatara Segara",
+      "Dewa Baruna",
+      "Indonesia",
+      "Tanah Lot",
+      "Tanah Lot Temple"
+    ],
+    "details": {
+      "name": "Tanah Lot Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/TanahLot_2014.JPG/330px-TanahLot_2014.JPG",
+      "gallery": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/TanahLot_2014.JPG/330px-TanahLot_2014.JPG"
+      ],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": -8.621111,
+        "longitude": 115.087222,
+        "coordinate_status": "reference_point",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Tanah Lot Temple, Beraban, Bali, Indonesia",
+        "address_precision": "locality",
+        "country": "Indonesia",
+        "country_code": "ID",
+        "state": "Bali",
+        "city": "Beraban",
+        "district": null,
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tanah+Lot+Temple%2C+Beraban%2C+Bali%2C+Indonesia",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Tanah+Lot+Temple%2C+Beraban%2C+Bali%2C+Indonesia"
+      },
+      "description": "Tanah Lot Temple is located in Beraban, Bali, Indonesia. A Balinese sea-temple landmark on a coastal rock formation; tide conditions affect the approach.",
+      "city": "Beraban",
+      "district": null,
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Balinese sea deity tradition",
+      "deity_ids": [
+        "sea-deity"
+      ],
+      "primary_deity_id": "sea-deity",
+      "dedication": {
+        "text": "Balinese sea deity tradition",
+        "source_id": null,
+        "status": "editorial_category"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A Balinese sea-temple landmark on a coastal rock formation; tide conditions affect the approach."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Makassar",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": "https://www.indonesia.travel/id/en/destination/bali-nusa-tenggara/bali/tanah-lot",
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [
+          "Tides affect the coastal approach; public sightseeing access does not imply entry into the worship area."
+        ],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": "https://www.indonesia.travel/id/en/destination/bali-nusa-tenggara/bali/tanah-lot"
+      },
+      "media": {
+        "items": [
+          {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/TanahLot_2014.JPG/330px-TanahLot_2014.JPG",
+            "source_page": "https://commons.wikimedia.org/wiki/File:TanahLot_2014.JPG",
+            "author": "Grayswoodsurrey",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:17.227913+00:00",
+            "alt": "Tanah Lot Temple",
+            "role": "article_lead_photo"
+          }
+        ],
+        "status": "attributed_reference_photo",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "primary",
+          "url": "https://www.indonesia.travel/id/en/destination/bali-nusa-tenggara/bali/tanah-lot",
+          "type": "temple_or_public_institution",
+          "reviewed_on": "2026-10-06",
+          "review_method": "web_search_excerpt_or_page",
+          "scope": [
+            "identity",
+            "selected_background"
+          ],
+          "does_not_verify": [
+            "all_visitor_services",
+            "all_coordinates",
+            "all_editorial_claims"
+          ]
+        },
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Tanah_Lot",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:46:59.618654+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Tanah Lot - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "primary_source_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

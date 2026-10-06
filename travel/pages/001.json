@@ -1,0 +1,950 @@
+{
+  "schema_version": "2.0.0",
+  "page": 1,
+  "page_size": 24,
+  "total_items": 214,
+  "total_pages": 9,
+  "previous": null,
+  "next": "travel/pages/002.json",
+  "items": [
+    {
+      "id": "in-badrinath-badrinath-temple",
+      "name": "Badrinath Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Badrinath_Temple_%2C_Uttarakhand.jpg/250px-Badrinath_Temple_%2C_Uttarakhand.jpg",
+      "country_code": "IN",
+      "state_name": "Uttarakhand",
+      "search_keywords": [
+        "Badrinath",
+        "Badrinath Temple",
+        "Balaji",
+        "India",
+        "Narayan",
+        "Narayana",
+        "Perumal",
+        "Uttarakhand",
+        "Venkateswara",
+        "Vishnu",
+        "विष्णु"
+      ],
+      "city": "Badrinath",
+      "deity_ids": [
+        "vishnu"
+      ],
+      "collection_ids": [
+        "char-dham",
+        "chota-char-dham"
+      ],
+      "summary": "Vishnu worship on the Alaknanda river in the Garhwal Himalayas; the mountain shrine has a seasonal pilgrimage calendar.",
+      "detail_path": "travel/temples/in-badrinath-badrinath-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Badrinath_Temple_%2C_Uttarakhand.jpg/250px-Badrinath_Temple_%2C_Uttarakhand.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Badrinath_Temple_,_Uttarakhand.jpg",
+        "author": "Anubha khare",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:24.543146+00:00",
+        "alt": "Badrinath Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-kedarnath-kedarnath-temple",
+      "name": "Kedarnath Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Kedarnath_Temple_in_Rainy_season.jpg/250px-Kedarnath_Temple_in_Rainy_season.jpg",
+      "country_code": "IN",
+      "state_name": "Uttarakhand",
+      "search_keywords": [
+        "Bholenath",
+        "India",
+        "Kedarnath",
+        "Kedarnath Temple",
+        "Mahadev",
+        "Shankar",
+        "Shiv",
+        "Shiva",
+        "Uttarakhand",
+        "शिव"
+      ],
+      "city": "Kedarnath",
+      "deity_ids": [
+        "shiva"
+      ],
+      "collection_ids": [
+        "jyotirlinga",
+        "chota-char-dham",
+        "panch-kedar"
+      ],
+      "summary": "A high Himalayan Shiva shrine reached through the Kedarnath valley; weather and the annual opening season shape every visit.",
+      "detail_path": "travel/temples/in-kedarnath-kedarnath-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Kedarnath_Temple_in_Rainy_season.jpg/250px-Kedarnath_Temple_in_Rainy_season.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Kedarnath_Temple_in_Rainy_season.jpg",
+        "author": "Shivam Kumar 766",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:12.323669+00:00",
+        "alt": "Kedarnath Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-gangotri-gangotri-temple",
+      "name": "Gangotri Temple",
+      "thumbnail": "",
+      "country_code": "IN",
+      "state_name": "Uttarakhand",
+      "search_keywords": [
+        "Amman",
+        "Bhagavathy",
+        "Devi / Mata",
+        "Durga",
+        "Ganga",
+        "Gangotri",
+        "Gangotri Temple",
+        "India",
+        "Kali",
+        "Lakshmi",
+        "Maa",
+        "Parvati",
+        "Shakti",
+        "Uttarakhand",
+        "गंगा",
+        "माता"
+      ],
+      "city": "Gangotri",
+      "deity_ids": [
+        "ganga",
+        "devi"
+      ],
+      "collection_ids": [
+        "chota-char-dham"
+      ],
+      "summary": "A river-goddess pilgrimage on the Bhagirathi, distinct from the glacier trek to Gaumukh.",
+      "detail_path": "travel/temples/in-gangotri-gangotri-temple.json",
+      "photo_credit": null
+    },
+    {
+      "id": "in-yamunotri-yamunotri-temple",
+      "name": "Yamunotri Temple",
+      "thumbnail": "",
+      "country_code": "IN",
+      "state_name": "Uttarakhand",
+      "search_keywords": [
+        "Amman",
+        "Bhagavathy",
+        "Devi / Mata",
+        "Durga",
+        "India",
+        "Kali",
+        "Lakshmi",
+        "Maa",
+        "Parvati",
+        "Shakti",
+        "Uttarakhand",
+        "Yamuna",
+        "Yamunotri",
+        "Yamunotri Temple",
+        "माता",
+        "यमुना"
+      ],
+      "city": "Yamunotri",
+      "deity_ids": [
+        "yamuna",
+        "devi"
+      ],
+      "collection_ids": [
+        "chota-char-dham"
+      ],
+      "summary": "A mountain shrine to Yamuna approached from the Janki Chatti side, with hot springs near the temple.",
+      "detail_path": "travel/temples/in-yamunotri-yamunotri-temple.json",
+      "photo_credit": null
+    },
+    {
+      "id": "in-tungnath-tungnath-temple",
+      "name": "Tungnath Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Tungnath_temple.jpg/250px-Tungnath_temple.jpg",
+      "country_code": "IN",
+      "state_name": "Uttarakhand",
+      "search_keywords": [
+        "Bholenath",
+        "India",
+        "Mahadev",
+        "Shankar",
+        "Shiv",
+        "Shiva",
+        "Tungnath",
+        "Tungnath Temple",
+        "Uttarakhand",
+        "शिव"
+      ],
+      "city": "Tungnath",
+      "deity_ids": [
+        "shiva"
+      ],
+      "collection_ids": [
+        "panch-kedar"
+      ],
+      "summary": "The Panch Kedar shrine above Chopta combines a stone temple with a steep mountain walking approach.",
+      "detail_path": "travel/temples/in-tungnath-tungnath-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Tungnath_temple.jpg/250px-Tungnath_temple.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Tungnath_temple.jpg",
+        "author": "Varun Shiv Kapur",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:24.781779+00:00",
+        "alt": "Tungnath Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-rudranath-rudranath-temple",
+      "name": "Rudranath Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Rudranath_temple.jpg/250px-Rudranath_temple.jpg",
+      "country_code": "IN",
+      "state_name": "Uttarakhand",
+      "search_keywords": [
+        "Bholenath",
+        "India",
+        "Mahadev",
+        "Rudranath",
+        "Rudranath Temple",
+        "Shankar",
+        "Shiv",
+        "Shiva",
+        "Uttarakhand",
+        "शिव"
+      ],
+      "city": "Rudranath",
+      "deity_ids": [
+        "shiva"
+      ],
+      "collection_ids": [
+        "panch-kedar"
+      ],
+      "summary": "Shiva is venerated in his face form at this remote Panch Kedar shrine reached on foot.",
+      "detail_path": "travel/temples/in-rudranath-rudranath-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Rudranath_temple.jpg/250px-Rudranath_temple.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Rudranath_temple.jpg",
+        "author": "rolling on",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:13.076711+00:00",
+        "alt": "Rudranath Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-madhyamaheshwar-madhyamaheshwar-temple",
+      "name": "Madhyamaheshwar Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Madhyamaheshwar_Temple%2C_Uttarakhand.JPG/250px-Madhyamaheshwar_Temple%2C_Uttarakhand.JPG",
+      "country_code": "IN",
+      "state_name": "Uttarakhand",
+      "search_keywords": [
+        "Bholenath",
+        "India",
+        "Madhyamaheshwar",
+        "Madhyamaheshwar Temple",
+        "Mahadev",
+        "Shankar",
+        "Shiv",
+        "Shiva",
+        "Uttarakhand",
+        "शिव"
+      ],
+      "city": "Madhyamaheshwar",
+      "deity_ids": [
+        "shiva"
+      ],
+      "collection_ids": [
+        "panch-kedar"
+      ],
+      "summary": "This Panch Kedar shrine is associated with Shiva's navel and stands in a high mountain valley.",
+      "detail_path": "travel/temples/in-madhyamaheshwar-madhyamaheshwar-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Madhyamaheshwar_Temple%2C_Uttarakhand.JPG/250px-Madhyamaheshwar_Temple%2C_Uttarakhand.JPG",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Madhyamaheshwar_Temple,_Uttarakhand.JPG",
+        "author": "Bodhisattwa",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:12.886653+00:00",
+        "alt": "Madhyamaheshwar Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-urgam-valley-kalpeshwar-temple",
+      "name": "Kalpeshwar Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Kalpehswar.jpg/250px-Kalpehswar.jpg",
+      "country_code": "IN",
+      "state_name": "Uttarakhand",
+      "search_keywords": [
+        "Bholenath",
+        "India",
+        "Kalpeshwar",
+        "Kalpeshwar Temple",
+        "Mahadev",
+        "Shankar",
+        "Shiv",
+        "Shiva",
+        "Urgam Valley",
+        "Uttarakhand",
+        "शिव"
+      ],
+      "city": "Urgam Valley",
+      "deity_ids": [
+        "shiva"
+      ],
+      "collection_ids": [
+        "panch-kedar"
+      ],
+      "summary": "A cave-associated Panch Kedar shrine where Shiva's matted hair is revered.",
+      "detail_path": "travel/temples/in-urgam-valley-kalpeshwar-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Kalpehswar.jpg/250px-Kalpehswar.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Kalpehswar.jpg",
+        "author": "rolling on",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:05.316948+00:00",
+        "alt": "Kalpeshwar Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-jageshwar-jageshwar-temples",
+      "name": "Jageshwar Temples",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Jageshwar_Mandir.jpg/250px-Jageshwar_Mandir.jpg",
+      "country_code": "IN",
+      "state_name": "Uttarakhand",
+      "search_keywords": [
+        "Bholenath",
+        "India",
+        "Jageshwar",
+        "Jageshwar Temples",
+        "Mahadev",
+        "Shankar",
+        "Shiv",
+        "Shiva",
+        "Uttarakhand",
+        "शिव"
+      ],
+      "city": "Jageshwar",
+      "deity_ids": [
+        "shiva"
+      ],
+      "collection_ids": [],
+      "summary": "A cluster of stone shrines set among deodar trees in the Kumaon hills.",
+      "detail_path": "travel/temples/in-jageshwar-jageshwar-temples.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Jageshwar_Mandir.jpg/250px-Jageshwar_Mandir.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Jageshwar_Mandir.jpg",
+        "author": "Pramod Rawal",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:23.251062+00:00",
+        "alt": "Jageshwar Temples",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-near-rishikesh-neelkanth-mahadev-temple",
+      "name": "Neelkanth Mahadev Temple",
+      "thumbnail": "",
+      "country_code": "IN",
+      "state_name": "Uttarakhand",
+      "search_keywords": [
+        "Bholenath",
+        "India",
+        "Mahadev",
+        "Near Rishikesh",
+        "Neelkanth Mahadev Temple",
+        "Shankar",
+        "Shiv",
+        "Shiva",
+        "Uttarakhand",
+        "शिव"
+      ],
+      "city": "Near Rishikesh",
+      "deity_ids": [
+        "shiva"
+      ],
+      "collection_ids": [],
+      "summary": "A forested hill shrine associated in tradition with Shiva drinking poison during the churning of the ocean.",
+      "detail_path": "travel/temples/in-near-rishikesh-neelkanth-mahadev-temple.json",
+      "photo_credit": null
+    },
+    {
+      "id": "in-haridwar-mansa-devi-temple-haridwar",
+      "name": "Mansa Devi Temple, Haridwar",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Mansa_Devi_Temple%2C_Haridwar.JPG/250px-Mansa_Devi_Temple%2C_Haridwar.JPG",
+      "country_code": "IN",
+      "state_name": "Uttarakhand",
+      "search_keywords": [
+        "Amman",
+        "Bhagavathy",
+        "Devi / Mata",
+        "Durga",
+        "Haridwar",
+        "India",
+        "Kali",
+        "Lakshmi",
+        "Maa",
+        "Mansa Devi Temple, Haridwar",
+        "Parvati",
+        "Shakti",
+        "Uttarakhand",
+        "माता"
+      ],
+      "city": "Haridwar",
+      "deity_ids": [
+        "devi"
+      ],
+      "collection_ids": [],
+      "summary": "A hilltop goddess shrine overlooking Haridwar; distinguish it from the Mansa Devi temple in Panchkula.",
+      "detail_path": "travel/temples/in-haridwar-mansa-devi-temple-haridwar.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Mansa_Devi_Temple%2C_Haridwar.JPG/250px-Mansa_Devi_Temple%2C_Haridwar.JPG",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Mansa_Devi_Temple,_Haridwar.JPG",
+        "author": "Ekabhishek",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:09.732420+00:00",
+        "alt": "Mansa Devi Temple, Haridwar",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-haridwar-chandi-devi-temple-haridwar",
+      "name": "Chandi Devi Temple, Haridwar",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Chandi_Devi_Mandir%2CHaridwar.JPG/250px-Chandi_Devi_Mandir%2CHaridwar.JPG",
+      "country_code": "IN",
+      "state_name": "Uttarakhand",
+      "search_keywords": [
+        "Amman",
+        "Bhagavathy",
+        "Chandi Devi Temple, Haridwar",
+        "Devi / Mata",
+        "Durga",
+        "Haridwar",
+        "India",
+        "Kali",
+        "Lakshmi",
+        "Maa",
+        "Parvati",
+        "Shakti",
+        "Uttarakhand",
+        "माता"
+      ],
+      "city": "Haridwar",
+      "deity_ids": [
+        "devi"
+      ],
+      "collection_ids": [],
+      "summary": "A goddess shrine on Neel Parvat, forming part of Haridwar's hill-temple pilgrimage.",
+      "detail_path": "travel/temples/in-haridwar-chandi-devi-temple-haridwar.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Chandi_Devi_Mandir%2CHaridwar.JPG/250px-Chandi_Devi_Mandir%2CHaridwar.JPG",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Chandi_Devi_Mandir,Haridwar.JPG",
+        "author": "World8115",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:10.711551+00:00",
+        "alt": "Chandi Devi Temple, Haridwar",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-kalyasaur-dhari-devi-temple",
+      "name": "Dhari Devi Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Dhari_Devi.jpg/250px-Dhari_Devi.jpg",
+      "country_code": "IN",
+      "state_name": "Uttarakhand",
+      "search_keywords": [
+        "Amman",
+        "Bhagavathy",
+        "Devi / Mata",
+        "Dhari Devi",
+        "Dhari Devi Temple",
+        "Durga",
+        "India",
+        "Kali",
+        "Kalyasaur",
+        "Lakshmi",
+        "Maa",
+        "Parvati",
+        "Shakti",
+        "Uttarakhand",
+        "माता"
+      ],
+      "city": "Kalyasaur",
+      "deity_ids": [
+        "devi"
+      ],
+      "collection_ids": [],
+      "summary": "A riverside goddess shrine on the Alaknanda between Srinagar and Rudraprayag.",
+      "detail_path": "travel/temples/in-kalyasaur-dhari-devi-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Dhari_Devi.jpg/250px-Dhari_Devi.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Dhari_Devi.jpg",
+        "author": "Aloak1",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:12.633270+00:00",
+        "alt": "Dhari Devi Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-gopeshwar-gopinath-temple-gopeshwar",
+      "name": "Gopinath Temple, Gopeshwar",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Gopinath_Mandir_%2C_Gopeshwar_Chamoli.jpg/250px-Gopinath_Mandir_%2C_Gopeshwar_Chamoli.jpg",
+      "country_code": "IN",
+      "state_name": "Uttarakhand",
+      "search_keywords": [
+        "Bholenath",
+        "Gopeshwar",
+        "Gopinath Mandir",
+        "Gopinath Temple, Gopeshwar",
+        "India",
+        "Mahadev",
+        "Shankar",
+        "Shiv",
+        "Shiva",
+        "Uttarakhand",
+        "शिव"
+      ],
+      "city": "Gopeshwar",
+      "deity_ids": [
+        "shiva"
+      ],
+      "collection_ids": [],
+      "summary": "A Shiva temple in Gopeshwar known for its stone architecture and large trident in the courtyard.",
+      "detail_path": "travel/temples/in-gopeshwar-gopinath-temple-gopeshwar.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Gopinath_Mandir_%2C_Gopeshwar_Chamoli.jpg/250px-Gopinath_Mandir_%2C_Gopeshwar_Chamoli.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Gopinath_Mandir_,_Gopeshwar_Chamoli.jpg",
+        "author": "Vishwanath Negi",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:13.625725+00:00",
+        "alt": "Gopinath Temple, Gopeshwar",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-katra-vaishno-devi-temple",
+      "name": "Vaishno Devi Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Snowfall_in_Vaishno_Devi.jpg/250px-Snowfall_in_Vaishno_Devi.jpg",
+      "country_code": "IN",
+      "state_name": "Jammu and Kashmir",
+      "search_keywords": [
+        "Amman",
+        "Bhagavathy",
+        "Devi / Mata",
+        "Durga",
+        "India",
+        "Jammu and Kashmir",
+        "Kali",
+        "Katra",
+        "Lakshmi",
+        "Maa",
+        "Parvati",
+        "Shakti",
+        "Vaishno Devi Temple",
+        "माता"
+      ],
+      "city": "Katra",
+      "deity_ids": [
+        "devi"
+      ],
+      "collection_ids": [],
+      "summary": "A cave shrine in the Trikuta hills approached from Katra through a managed pilgrimage route.",
+      "detail_path": "travel/temples/in-katra-vaishno-devi-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Snowfall_in_Vaishno_Devi.jpg/250px-Snowfall_in_Vaishno_Devi.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Snowfall_in_Vaishno_Devi.jpg",
+        "author": "Yatin. 123",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:19.436590+00:00",
+        "alt": "Vaishno Devi Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-amarnath-amarnath-cave-temple",
+      "name": "Amarnath Cave Temple",
+      "thumbnail": "",
+      "country_code": "IN",
+      "state_name": "Jammu and Kashmir",
+      "search_keywords": [
+        "Amarnath",
+        "Amarnath Cave Temple",
+        "Amarnath Temple",
+        "Bholenath",
+        "India",
+        "Jammu and Kashmir",
+        "Mahadev",
+        "Shankar",
+        "Shiv",
+        "Shiva",
+        "शिव"
+      ],
+      "city": "Amarnath",
+      "deity_ids": [
+        "shiva"
+      ],
+      "collection_ids": [],
+      "summary": "A high-altitude cave pilgrimage associated with a naturally forming ice lingam and a limited annual yatra season.",
+      "detail_path": "travel/temples/in-amarnath-amarnath-cave-temple.json",
+      "photo_credit": null
+    },
+    {
+      "id": "in-srinagar-shankaracharya-temple",
+      "name": "Shankaracharya Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Ancient_Shankaracharya_Temple_%28Srinagar%2C_Jammu_and_Kashmir%29_%28cropped%29.jpg/250px-The_Ancient_Shankaracharya_Temple_%28Srinagar%2C_Jammu_and_Kashmir%29_%28cropped%29.jpg",
+      "country_code": "IN",
+      "state_name": "Jammu and Kashmir",
+      "search_keywords": [
+        "Bholenath",
+        "India",
+        "Jammu and Kashmir",
+        "Mahadev",
+        "Shankar",
+        "Shankaracharya Temple",
+        "Shiv",
+        "Shiva",
+        "Srinagar",
+        "शिव"
+      ],
+      "city": "Srinagar",
+      "deity_ids": [
+        "shiva"
+      ],
+      "collection_ids": [],
+      "summary": "A hilltop Shiva temple above Srinagar with a stepped approach and views over the city.",
+      "detail_path": "travel/temples/in-srinagar-shankaracharya-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Ancient_Shankaracharya_Temple_%28Srinagar%2C_Jammu_and_Kashmir%29_%28cropped%29.jpg/250px-The_Ancient_Shankaracharya_Temple_%28Srinagar%2C_Jammu_and_Kashmir%29_%28cropped%29.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:The_Ancient_Shankaracharya_Temple_(Srinagar,_Jammu_and_Kashmir)_(cropped).jpg",
+        "author": "Divya Gupta",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:18.390897+00:00",
+        "alt": "Shankaracharya Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-jammu-raghunath-temple-jammu",
+      "name": "Raghunath Temple, Jammu",
+      "thumbnail": "",
+      "country_code": "IN",
+      "state_name": "Jammu and Kashmir",
+      "search_keywords": [
+        "India",
+        "Jammu",
+        "Jammu and Kashmir",
+        "Raghunath",
+        "Raghunath Temple",
+        "Raghunath Temple, Jammu",
+        "Ram",
+        "Ram Lalla",
+        "Rama",
+        "राम"
+      ],
+      "city": "Jammu",
+      "deity_ids": [
+        "rama"
+      ],
+      "collection_ids": [],
+      "summary": "A temple complex in Jammu centred on Rama and associated with Dogra royal patronage.",
+      "detail_path": "travel/temples/in-jammu-raghunath-temple-jammu.json",
+      "photo_credit": null
+    },
+    {
+      "id": "in-tulmulla-kheer-bhawani-temple",
+      "name": "Kheer Bhawani Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/DBSQN5qUQAAD_zY.jpg/250px-DBSQN5qUQAAD_zY.jpg",
+      "country_code": "IN",
+      "state_name": "Jammu and Kashmir",
+      "search_keywords": [
+        "Amman",
+        "Bhagavathy",
+        "Devi / Mata",
+        "Durga",
+        "India",
+        "Jammu and Kashmir",
+        "Kali",
+        "Kheer Bhawani",
+        "Kheer Bhawani Temple",
+        "Lakshmi",
+        "Maa",
+        "Parvati",
+        "Shakti",
+        "Tulmulla",
+        "माता"
+      ],
+      "city": "Tulmulla",
+      "deity_ids": [
+        "devi"
+      ],
+      "collection_ids": [],
+      "summary": "A Kashmiri goddess shrine built around a sacred spring at Tulmulla.",
+      "detail_path": "travel/temples/in-tulmulla-kheer-bhawani-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/DBSQN5qUQAAD_zY.jpg/250px-DBSQN5qUQAAD_zY.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:DBSQN5qUQAAD_zY.jpg",
+        "author": "Shivansh.ganjoo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:18.874894+00:00",
+        "alt": "Kheer Bhawani Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-ayodhya-shri-ram-janmabhoomi-temple",
+      "name": "Shri Ram Janmabhoomi Temple",
+      "thumbnail": "",
+      "country_code": "IN",
+      "state_name": "Uttar Pradesh",
+      "search_keywords": [
+        "Ayodhya",
+        "India",
+        "Raghunath",
+        "Ram",
+        "Ram Lalla",
+        "Ram Mandir",
+        "Rama",
+        "Shri Ram Janmabhoomi Temple",
+        "Uttar Pradesh",
+        "राम"
+      ],
+      "city": "Ayodhya",
+      "deity_ids": [
+        "rama"
+      ],
+      "collection_ids": [],
+      "summary": "Ayodhya's Ram Lalla shrine is a principal focus of devotion to Rama; visitor arrangements should be checked with the trust.",
+      "detail_path": "travel/temples/in-ayodhya-shri-ram-janmabhoomi-temple.json",
+      "photo_credit": null
+    },
+    {
+      "id": "in-ayodhya-hanuman-garhi-ayodhya",
+      "name": "Hanuman Garhi, Ayodhya",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Hanuman_Garhi_Temple%2C_a_major_religious_site_in_Ayodhya_utter_pradesh.jpg/250px-Hanuman_Garhi_Temple%2C_a_major_religious_site_in_Ayodhya_utter_pradesh.jpg",
+      "country_code": "IN",
+      "state_name": "Uttar Pradesh",
+      "search_keywords": [
+        "Anjaneya",
+        "Ayodhya",
+        "Bajrangbali",
+        "Hanuman",
+        "Hanuman Garhi Temple",
+        "Hanuman Garhi, Ayodhya",
+        "India",
+        "Maruti",
+        "Uttar Pradesh",
+        "हनुमान"
+      ],
+      "city": "Ayodhya",
+      "deity_ids": [
+        "hanuman"
+      ],
+      "collection_ids": [],
+      "summary": "A prominent Hanuman shrine with a stepped approach in the centre of Ayodhya.",
+      "detail_path": "travel/temples/in-ayodhya-hanuman-garhi-ayodhya.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Hanuman_Garhi_Temple%2C_a_major_religious_site_in_Ayodhya_utter_pradesh.jpg/250px-Hanuman_Garhi_Temple%2C_a_major_religious_site_in_Ayodhya_utter_pradesh.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Hanuman_Garhi_Temple,_a_major_religious_site_in_Ayodhya_utter_pradesh.jpg",
+        "author": "Prashant Kharote",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:24.362068+00:00",
+        "alt": "Hanuman Garhi, Ayodhya",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-ayodhya-kanak-bhawan",
+      "name": "Kanak Bhawan",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Kanak_Bhawan.jpg/250px-Kanak_Bhawan.jpg",
+      "country_code": "IN",
+      "state_name": "Uttar Pradesh",
+      "search_keywords": [
+        "Amman",
+        "Ayodhya",
+        "Bhagavathy",
+        "Devi / Mata",
+        "Durga",
+        "India",
+        "Janaki",
+        "Kali",
+        "Kanak Bhawan",
+        "Lakshmi",
+        "Maa",
+        "Parvati",
+        "Raghunath",
+        "Ram",
+        "Ram Lalla",
+        "Rama",
+        "Shakti",
+        "Sita",
+        "Uttar Pradesh",
+        "माता",
+        "राम",
+        "सीता"
+      ],
+      "city": "Ayodhya",
+      "deity_ids": [
+        "rama",
+        "sita",
+        "devi"
+      ],
+      "collection_ids": [],
+      "summary": "A palace-style temple devoted to Rama and Sita in Ayodhya's sacred centre.",
+      "detail_path": "travel/temples/in-ayodhya-kanak-bhawan.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Kanak_Bhawan.jpg/250px-Kanak_Bhawan.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Kanak_Bhawan.jpg",
+        "author": "Shalini Tomar",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:09.721599+00:00",
+        "alt": "Kanak Bhawan",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-varanasi-shri-kashi-vishwanath-temple",
+      "name": "Shri Kashi Vishwanath Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Kashi_Vishwanath.jpg/250px-Kashi_Vishwanath.jpg",
+      "country_code": "IN",
+      "state_name": "Uttar Pradesh",
+      "search_keywords": [
+        "Bholenath",
+        "India",
+        "Kashi Vishwanath Temple",
+        "Mahadev",
+        "Shankar",
+        "Shiv",
+        "Shiva",
+        "Shri Kashi Vishwanath Temple",
+        "Uttar Pradesh",
+        "Varanasi",
+        "शिव"
+      ],
+      "city": "Varanasi",
+      "deity_ids": [
+        "shiva"
+      ],
+      "collection_ids": [
+        "jyotirlinga"
+      ],
+      "summary": "The Vishwanath lingam anchors Shiva worship in Kashi, close to the Ganga and the old city's lanes.",
+      "detail_path": "travel/temples/in-varanasi-shri-kashi-vishwanath-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Kashi_Vishwanath.jpg/250px-Kashi_Vishwanath.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Kashi_Vishwanath.jpg",
+        "author": "Architkumar1234",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:24.864449+00:00",
+        "alt": "Shri Kashi Vishwanath Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-varanasi-sankat-mochan-hanuman-temple",
+      "name": "Sankat Mochan Hanuman Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Sankat_Mochan_temple_entrance%2C_Varanasi_-_IRCTC_2017_%281%29.jpg/250px-Sankat_Mochan_temple_entrance%2C_Varanasi_-_IRCTC_2017_%281%29.jpg",
+      "country_code": "IN",
+      "state_name": "Uttar Pradesh",
+      "search_keywords": [
+        "Anjaneya",
+        "Bajrangbali",
+        "Hanuman",
+        "India",
+        "Maruti",
+        "Sankat Mochan Hanuman Temple",
+        "Uttar Pradesh",
+        "Varanasi",
+        "हनुमान"
+      ],
+      "city": "Varanasi",
+      "deity_ids": [
+        "hanuman"
+      ],
+      "collection_ids": [],
+      "summary": "A Hanuman shrine associated with Tulsidas and a long-standing tradition of devotional music.",
+      "detail_path": "travel/temples/in-varanasi-sankat-mochan-hanuman-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Sankat_Mochan_temple_entrance%2C_Varanasi_-_IRCTC_2017_%281%29.jpg/250px-Sankat_Mochan_temple_entrance%2C_Varanasi_-_IRCTC_2017_%281%29.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Sankat_Mochan_temple_entrance,_Varanasi_-_IRCTC_2017_(1).jpg",
+        "author": "Vinayaraj",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:08.699227+00:00",
+        "alt": "Sankat Mochan Hanuman Temple",
+        "role": "article_lead_photo"
+      }
+    }
+  ]
+}

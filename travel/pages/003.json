@@ -1,0 +1,949 @@
+{
+  "schema_version": "2.0.0",
+  "page": 3,
+  "page_size": 24,
+  "total_items": 214,
+  "total_pages": 9,
+  "previous": "travel/pages/002.json",
+  "next": "travel/pages/004.json",
+  "items": [
+    {
+      "id": "in-shimla-jakhu-temple",
+      "name": "Jakhu Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Jakhoo_temple.jpg/250px-Jakhoo_temple.jpg",
+      "country_code": "IN",
+      "state_name": "Himachal Pradesh",
+      "search_keywords": [
+        "Anjaneya",
+        "Bajrangbali",
+        "Hanuman",
+        "Himachal Pradesh",
+        "India",
+        "Jakhu Temple",
+        "Maruti",
+        "Shimla",
+        "हनुमान"
+      ],
+      "city": "Shimla",
+      "deity_ids": [
+        "hanuman"
+      ],
+      "collection_ids": [],
+      "summary": "A Hanuman shrine on Jakhu hill above Shimla, identifiable by its large Hanuman statue.",
+      "detail_path": "travel/temples/in-shimla-jakhu-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Jakhoo_temple.jpg/250px-Jakhoo_temple.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Jakhoo_temple.jpg",
+        "author": "Rohan1331",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:08.173794+00:00",
+        "alt": "Jakhu Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-sarahan-bhimakali-temple",
+      "name": "Bhimakali Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Bhimakali_temple.jpg/250px-Bhimakali_temple.jpg",
+      "country_code": "IN",
+      "state_name": "Himachal Pradesh",
+      "search_keywords": [
+        "Amman",
+        "Bhagavathy",
+        "Bhimakali Temple",
+        "Devi / Mata",
+        "Durga",
+        "Himachal Pradesh",
+        "India",
+        "Kali",
+        "Lakshmi",
+        "Maa",
+        "Parvati",
+        "Sarahan",
+        "Shakti",
+        "माता"
+      ],
+      "city": "Sarahan",
+      "deity_ids": [
+        "devi"
+      ],
+      "collection_ids": [],
+      "summary": "A multi-storeyed Himalayan temple known for its timber-and-stone architectural character.",
+      "detail_path": "travel/temples/in-sarahan-bhimakali-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Bhimakali_temple.jpg/250px-Bhimakali_temple.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Bhimakali_temple.jpg",
+        "author": "Abhishekptlbbk",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:19.872006+00:00",
+        "alt": "Bhimakali Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-panchkula-mata-mansa-devi-temple-panchkula",
+      "name": "Mata Mansa Devi Temple, Panchkula",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Mansa_Devi_temple_main_shrine.jpg/250px-Mansa_Devi_temple_main_shrine.jpg",
+      "country_code": "IN",
+      "state_name": "Haryana",
+      "search_keywords": [
+        "Amman",
+        "Bhagavathy",
+        "Devi / Mata",
+        "Durga",
+        "Haryana",
+        "India",
+        "Kali",
+        "Lakshmi",
+        "Maa",
+        "Mata Mansa Devi Mandir",
+        "Mata Mansa Devi Temple, Panchkula",
+        "Panchkula",
+        "Parvati",
+        "Shakti",
+        "माता"
+      ],
+      "city": "Panchkula",
+      "deity_ids": [
+        "devi"
+      ],
+      "collection_ids": [],
+      "summary": "A major Shakti shrine at the foot of the Shivalik hills near Chandigarh.",
+      "detail_path": "travel/temples/in-panchkula-mata-mansa-devi-temple-panchkula.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Mansa_Devi_temple_main_shrine.jpg/250px-Mansa_Devi_temple_main_shrine.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Mansa_Devi_temple_main_shrine.jpg",
+        "author": "Barthateslisa",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:16.640341+00:00",
+        "alt": "Mata Mansa Devi Temple, Panchkula",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-thanesar-sthaneshwar-mahadev-temple",
+      "name": "Sthaneshwar Mahadev Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Sthaneshwar_Mahadev_temple_Thanesar.jpg/250px-Sthaneshwar_Mahadev_temple_Thanesar.jpg",
+      "country_code": "IN",
+      "state_name": "Haryana",
+      "search_keywords": [
+        "Bholenath",
+        "Haryana",
+        "India",
+        "Mahadev",
+        "Shankar",
+        "Shiv",
+        "Shiva",
+        "Sthaneshwar Mahadev Temple",
+        "Thanesar",
+        "शिव"
+      ],
+      "city": "Thanesar",
+      "deity_ids": [
+        "shiva"
+      ],
+      "collection_ids": [],
+      "summary": "A Shiva shrine associated with the sacred landscape of Kurukshetra.",
+      "detail_path": "travel/temples/in-thanesar-sthaneshwar-mahadev-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Sthaneshwar_Mahadev_temple_Thanesar.jpg/250px-Sthaneshwar_Mahadev_temple_Thanesar.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Sthaneshwar_Mahadev_temple_Thanesar.jpg",
+        "author": "Sid Sharma5911",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:16.939663+00:00",
+        "alt": "Sthaneshwar Mahadev Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-amritsar-durgiana-temple",
+      "name": "Durgiana Temple",
+      "thumbnail": "",
+      "country_code": "IN",
+      "state_name": "Punjab",
+      "search_keywords": [
+        "Amman",
+        "Amritsar",
+        "Balaji",
+        "Bhagavathy",
+        "Devi / Mata",
+        "Durga",
+        "Durgiana Temple",
+        "India",
+        "Kali",
+        "Lakshmi",
+        "Maa",
+        "Narayan",
+        "Narayana",
+        "Parvati",
+        "Perumal",
+        "Punjab",
+        "Shakti",
+        "Venkateswara",
+        "Vishnu",
+        "माता",
+        "विष्णु"
+      ],
+      "city": "Amritsar",
+      "deity_ids": [
+        "devi",
+        "vishnu"
+      ],
+      "collection_ids": [],
+      "summary": "A Hindu temple complex set beside a sacred tank in Amritsar.",
+      "detail_path": "travel/temples/in-amritsar-durgiana-temple.json",
+      "photo_credit": null
+    },
+    {
+      "id": "in-new-delhi-swaminarayan-akshardham-delhi",
+      "name": "Swaminarayan Akshardham, Delhi",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/New_Delhi_Temple.jpg/250px-New_Delhi_Temple.jpg",
+      "country_code": "IN",
+      "state_name": "Delhi",
+      "search_keywords": [
+        "Delhi",
+        "India",
+        "New Delhi",
+        "Sahajanand",
+        "Swaminarayan",
+        "Swaminarayan Akshardham (Delhi)",
+        "Swaminarayan Akshardham, Delhi",
+        "स्वामिनारायण"
+      ],
+      "city": "New Delhi",
+      "deity_ids": [
+        "swaminarayan"
+      ],
+      "collection_ids": [],
+      "summary": "A carved-stone Swaminarayan complex combining a mandir with cultural exhibitions and landscaped grounds.",
+      "detail_path": "travel/temples/in-new-delhi-swaminarayan-akshardham-delhi.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/New_Delhi_Temple.jpg/250px-New_Delhi_Temple.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:New_Delhi_Temple.jpg",
+        "author": "Swaminarayan Sanstha",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:21.164939+00:00",
+        "alt": "Swaminarayan Akshardham, Delhi",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-new-delhi-chhatarpur-temple",
+      "name": "Chhatarpur Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Chattarpur_Temple.jpg/250px-Chattarpur_Temple.jpg",
+      "country_code": "IN",
+      "state_name": "Delhi",
+      "search_keywords": [
+        "Amman",
+        "Bhagavathy",
+        "Chhatarpur Temple",
+        "Delhi",
+        "Devi / Mata",
+        "Durga",
+        "India",
+        "Kali",
+        "Lakshmi",
+        "Maa",
+        "New Delhi",
+        "Parvati",
+        "Shakti",
+        "माता"
+      ],
+      "city": "New Delhi",
+      "deity_ids": [
+        "devi"
+      ],
+      "collection_ids": [],
+      "summary": "A large temple complex at Chhatarpur centred on Katyayani, a form of the goddess.",
+      "detail_path": "travel/temples/in-new-delhi-chhatarpur-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Chattarpur_Temple.jpg/250px-Chattarpur_Temple.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Chattarpur_Temple.jpg",
+        "author": "Sujit kumar",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:24.070302+00:00",
+        "alt": "Chhatarpur Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-new-delhi-kalkaji-temple",
+      "name": "Kalkaji Temple",
+      "thumbnail": "",
+      "country_code": "IN",
+      "state_name": "Delhi",
+      "search_keywords": [
+        "Amman",
+        "Bhagavathy",
+        "Delhi",
+        "Devi / Mata",
+        "Durga",
+        "India",
+        "Kali",
+        "Kalkaji Mandir",
+        "Kalkaji Temple",
+        "Lakshmi",
+        "Maa",
+        "New Delhi",
+        "Parvati",
+        "Shakti",
+        "माता"
+      ],
+      "city": "New Delhi",
+      "deity_ids": [
+        "devi"
+      ],
+      "collection_ids": [],
+      "summary": "A long-established Kali shrine in south Delhi with a prominent Navratri pilgrimage tradition.",
+      "detail_path": "travel/temples/in-new-delhi-kalkaji-temple.json",
+      "photo_credit": null
+    },
+    {
+      "id": "in-prabhas-patan-somnath-temple",
+      "name": "Somnath Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Somanath_mandir_%28cropped%29.jpg/250px-Somanath_mandir_%28cropped%29.jpg",
+      "country_code": "IN",
+      "state_name": "Gujarat",
+      "search_keywords": [
+        "Bholenath",
+        "Gujarat",
+        "India",
+        "Mahadev",
+        "Prabhas Patan",
+        "Shankar",
+        "Shiv",
+        "Shiva",
+        "Somnath Temple",
+        "शिव"
+      ],
+      "city": "Prabhas Patan",
+      "deity_ids": [
+        "shiva"
+      ],
+      "collection_ids": [
+        "jyotirlinga"
+      ],
+      "summary": "A coastal Jyotirlinga shrine at Prabhas Patan with a long history of reconstruction and worship.",
+      "detail_path": "travel/temples/in-prabhas-patan-somnath-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Somanath_mandir_%28cropped%29.jpg/250px-Somanath_mandir_%28cropped%29.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Somanath_mandir_(cropped).jpg",
+        "author": "B. SurajPatro1997",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:07.659624+00:00",
+        "alt": "Somnath Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-near-dwarka-nageshwar-jyotirlinga",
+      "name": "Nageshwar Jyotirlinga",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Nageshwar.JPG/250px-Nageshwar.JPG",
+      "country_code": "IN",
+      "state_name": "Gujarat",
+      "search_keywords": [
+        "Bholenath",
+        "Gujarat",
+        "India",
+        "Mahadev",
+        "Nageshvara Jyotirlinga",
+        "Nageshwar Jyotirlinga",
+        "Near Dwarka",
+        "Shankar",
+        "Shiv",
+        "Shiva",
+        "शिव"
+      ],
+      "city": "Near Dwarka",
+      "deity_ids": [
+        "shiva"
+      ],
+      "collection_ids": [
+        "jyotirlinga"
+      ],
+      "summary": "The Darukavana Jyotirlinga is identified here in the Dwarka pilgrimage tradition; other regional identifications also exist.",
+      "detail_path": "travel/temples/in-near-dwarka-nageshwar-jyotirlinga.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Nageshwar.JPG/250px-Nageshwar.JPG",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Nageshwar.JPG",
+        "author": "Bkjit",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:08.445142+00:00",
+        "alt": "Nageshwar Jyotirlinga",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-dwarka-dwarkadhish-temple",
+      "name": "Dwarkadhish Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Dwarakadheesh_Temple%2C_2014.jpg/250px-Dwarakadheesh_Temple%2C_2014.jpg",
+      "country_code": "IN",
+      "state_name": "Gujarat",
+      "search_keywords": [
+        "Dwarka",
+        "Dwarkadhish Temple",
+        "Gopal",
+        "Govind",
+        "Gujarat",
+        "India",
+        "Kanha",
+        "Krishna",
+        "Shyam",
+        "कृष्ण"
+      ],
+      "city": "Dwarka",
+      "deity_ids": [
+        "krishna"
+      ],
+      "collection_ids": [
+        "char-dham"
+      ],
+      "summary": "The Jagat Mandir at Dwarka honours Krishna as king and forms the western Char Dham destination.",
+      "detail_path": "travel/temples/in-dwarka-dwarkadhish-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Dwarakadheesh_Temple%2C_2014.jpg/250px-Dwarakadheesh_Temple%2C_2014.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Dwarakadheesh_Temple,_2014.jpg",
+        "author": "Vishnupranay.k",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:07.150314+00:00",
+        "alt": "Dwarkadhish Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-ambaji-ambaji-temple",
+      "name": "Ambaji Temple",
+      "thumbnail": "",
+      "country_code": "IN",
+      "state_name": "Gujarat",
+      "search_keywords": [
+        "Ambaji",
+        "Ambaji Temple",
+        "Amman",
+        "Bhagavathy",
+        "Devi / Mata",
+        "Durga",
+        "Gujarat",
+        "India",
+        "Kali",
+        "Lakshmi",
+        "Maa",
+        "Parvati",
+        "Shakti",
+        "माता"
+      ],
+      "city": "Ambaji",
+      "deity_ids": [
+        "devi"
+      ],
+      "collection_ids": [],
+      "summary": "A major goddess pilgrimage near the Aravalli hills, with the Gabbar hill shrine forming part of the sacred landscape.",
+      "detail_path": "travel/temples/in-ambaji-ambaji-temple.json",
+      "photo_credit": null
+    },
+    {
+      "id": "in-pavagadh-kalika-mata-temple-pavagadh",
+      "name": "Kalika Mata Temple, Pavagadh",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Kalika_Mata_Temple%2C_Pavagarh.jpg/250px-Kalika_Mata_Temple%2C_Pavagarh.jpg",
+      "country_code": "IN",
+      "state_name": "Gujarat",
+      "search_keywords": [
+        "Amman",
+        "Bhagavathy",
+        "Devi / Mata",
+        "Durga",
+        "Gujarat",
+        "India",
+        "Kali",
+        "Kalika Mata Temple, Pavagadh",
+        "Lakshmi",
+        "Maa",
+        "Parvati",
+        "Pavagadh",
+        "Shakti",
+        "माता"
+      ],
+      "city": "Pavagadh",
+      "deity_ids": [
+        "devi"
+      ],
+      "collection_ids": [],
+      "summary": "A hilltop goddess shrine above the Champaner-Pavagadh heritage landscape.",
+      "detail_path": "travel/temples/in-pavagadh-kalika-mata-temple-pavagadh.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Kalika_Mata_Temple%2C_Pavagarh.jpg/250px-Kalika_Mata_Temple%2C_Pavagarh.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Kalika_Mata_Temple,_Pavagarh.jpg",
+        "author": "Kridha20",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:09.990056+00:00",
+        "alt": "Kalika Mata Temple, Pavagadh",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-dakor-ranchhodraiji-temple-dakor",
+      "name": "Ranchhodraiji Temple, Dakor",
+      "thumbnail": "",
+      "country_code": "IN",
+      "state_name": "Gujarat",
+      "search_keywords": [
+        "Dakor",
+        "Gopal",
+        "Govind",
+        "Gujarat",
+        "India",
+        "Kanha",
+        "Krishna",
+        "Ranchhodraiji Temple",
+        "Ranchhodraiji Temple, Dakor",
+        "Shyam",
+        "कृष्ण"
+      ],
+      "city": "Dakor",
+      "deity_ids": [
+        "krishna"
+      ],
+      "collection_ids": [],
+      "summary": "A Krishna shrine at Dakor where the deity is worshipped as Ranchhodrai.",
+      "detail_path": "travel/temples/in-dakor-ranchhodraiji-temple-dakor.json",
+      "photo_credit": null
+    },
+    {
+      "id": "in-modhera-modhera-sun-temple",
+      "name": "Modhera Sun Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Surya_mandhir.jpg/250px-Surya_mandhir.jpg",
+      "country_code": "IN",
+      "state_name": "Gujarat",
+      "search_keywords": [
+        "Aditya",
+        "Gujarat",
+        "India",
+        "Modhera",
+        "Modhera Sun Temple",
+        "Sun",
+        "Sun Temple, Modhera",
+        "Surya",
+        "सूर्य"
+      ],
+      "city": "Modhera",
+      "deity_ids": [
+        "surya"
+      ],
+      "collection_ids": [],
+      "summary": "A historic solar temple celebrated for its carved assembly hall and stepped sacred tank; treat it as a heritage visit.",
+      "detail_path": "travel/temples/in-modhera-modhera-sun-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Surya_mandhir.jpg/250px-Surya_mandhir.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Surya_mandhir.jpg",
+        "author": "Musafir kanya",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:14.697825+00:00",
+        "alt": "Modhera Sun Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-salangpur-kashtabhanjan-hanuman-temple",
+      "name": "Kashtabhanjan Hanuman Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Kashtabhanjan_Dev_Hanuman_Temple%2C_Salangpur.jpg/250px-Kashtabhanjan_Dev_Hanuman_Temple%2C_Salangpur.jpg",
+      "country_code": "IN",
+      "state_name": "Gujarat",
+      "search_keywords": [
+        "Anjaneya",
+        "Bajrangbali",
+        "Gujarat",
+        "Hanuman",
+        "Hanuman temple, Salangpur",
+        "India",
+        "Kashtabhanjan Hanuman Temple",
+        "Maruti",
+        "Salangpur",
+        "हनुमान"
+      ],
+      "city": "Salangpur",
+      "deity_ids": [
+        "hanuman"
+      ],
+      "collection_ids": [],
+      "summary": "A prominent Hanuman shrine within the Swaminarayan devotional tradition.",
+      "detail_path": "travel/temples/in-salangpur-kashtabhanjan-hanuman-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Kashtabhanjan_Dev_Hanuman_Temple%2C_Salangpur.jpg/250px-Kashtabhanjan_Dev_Hanuman_Temple%2C_Salangpur.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Kashtabhanjan_Dev_Hanuman_Temple,_Salangpur.jpg",
+        "author": "Rahilarious",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:11.871990+00:00",
+        "alt": "Kashtabhanjan Hanuman Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-mumbai-siddhivinayak-temple-mumbai",
+      "name": "Siddhivinayak Temple, Mumbai",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Shree_Siddhivinayak_Temple_Mumbai.jpg/250px-Shree_Siddhivinayak_Temple_Mumbai.jpg",
+      "country_code": "IN",
+      "state_name": "Maharashtra",
+      "search_keywords": [
+        "Ganapati",
+        "Ganesh",
+        "Ganesha",
+        "Ganpati",
+        "India",
+        "Maharashtra",
+        "Mumbai",
+        "Siddhivinayak Temple, Mumbai",
+        "Vinayaka",
+        "गणेश"
+      ],
+      "city": "Mumbai",
+      "deity_ids": [
+        "ganesha"
+      ],
+      "collection_ids": [],
+      "summary": "The Prabhadevi Ganapati shrine is an important urban pilgrimage centre in Mumbai.",
+      "detail_path": "travel/temples/in-mumbai-siddhivinayak-temple-mumbai.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Shree_Siddhivinayak_Temple_Mumbai.jpg/250px-Shree_Siddhivinayak_Temple_Mumbai.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Shree_Siddhivinayak_Temple_Mumbai.jpg",
+        "author": "Darwininan",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:20.271274+00:00",
+        "alt": "Siddhivinayak Temple, Mumbai",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-pune-dagadusheth-halwai-ganapati-temple",
+      "name": "Dagadusheth Halwai Ganapati Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Dagdusheth_Ganpati_Temple_Decorated_during_Ganesh_Chaturti_September_2012_%281%29.JPG/250px-Dagdusheth_Ganpati_Temple_Decorated_during_Ganesh_Chaturti_September_2012_%281%29.JPG",
+      "country_code": "IN",
+      "state_name": "Maharashtra",
+      "search_keywords": [
+        "Dagadusheth Halwai Ganapati Temple",
+        "Ganapati",
+        "Ganesh",
+        "Ganesha",
+        "Ganpati",
+        "India",
+        "Maharashtra",
+        "Pune",
+        "Vinayaka",
+        "गणेश"
+      ],
+      "city": "Pune",
+      "deity_ids": [
+        "ganesha"
+      ],
+      "collection_ids": [],
+      "summary": "A central Pune Ganapati temple closely associated with the city's public Ganesh festival tradition.",
+      "detail_path": "travel/temples/in-pune-dagadusheth-halwai-ganapati-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Dagdusheth_Ganpati_Temple_Decorated_during_Ganesh_Chaturti_September_2012_%281%29.JPG/250px-Dagdusheth_Ganpati_Temple_Decorated_during_Ganesh_Chaturti_September_2012_%281%29.JPG",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Dagdusheth_Ganpati_Temple_Decorated_during_Ganesh_Chaturti_September_2012_(1).JPG",
+        "author": "Universalashic",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:19.089899+00:00",
+        "alt": "Dagadusheth Halwai Ganapati Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-trimbak-trimbakeshwar-temple",
+      "name": "Trimbakeshwar Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Trimbakeshwar_Temple-Nashik-Maharashtra-1.jpg/250px-Trimbakeshwar_Temple-Nashik-Maharashtra-1.jpg",
+      "country_code": "IN",
+      "state_name": "Maharashtra",
+      "search_keywords": [
+        "Bholenath",
+        "India",
+        "Mahadev",
+        "Maharashtra",
+        "Shankar",
+        "Shiv",
+        "Shiva",
+        "Trimbak",
+        "Trimbakeshwar Shiva Temple",
+        "Trimbakeshwar Temple",
+        "शिव"
+      ],
+      "city": "Trimbak",
+      "deity_ids": [
+        "shiva"
+      ],
+      "collection_ids": [
+        "jyotirlinga"
+      ],
+      "summary": "A Jyotirlinga temple below Brahmagiri near the source landscape of the Godavari.",
+      "detail_path": "travel/temples/in-trimbak-trimbakeshwar-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Trimbakeshwar_Temple-Nashik-Maharashtra-1.jpg/250px-Trimbakeshwar_Temple-Nashik-Maharashtra-1.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Trimbakeshwar_Temple-Nashik-Maharashtra-1.jpg",
+        "author": "Abhideo21",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:07.887467+00:00",
+        "alt": "Trimbakeshwar Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-bhimashankar-bhimashankar-temple",
+      "name": "Bhimashankar Temple",
+      "thumbnail": "",
+      "country_code": "IN",
+      "state_name": "Maharashtra",
+      "search_keywords": [
+        "Bhimashankar",
+        "Bhimashankar Temple",
+        "Bholenath",
+        "India",
+        "Mahadev",
+        "Maharashtra",
+        "Shankar",
+        "Shiv",
+        "Shiva",
+        "शिव"
+      ],
+      "city": "Bhimashankar",
+      "deity_ids": [
+        "shiva"
+      ],
+      "collection_ids": [
+        "jyotirlinga"
+      ],
+      "summary": "A Shiva pilgrimage in the Sahyadri hills within a forested landscape.",
+      "detail_path": "travel/temples/in-bhimashankar-bhimashankar-temple.json",
+      "photo_credit": null
+    },
+    {
+      "id": "in-verul-grishneshwar-temple",
+      "name": "Grishneshwar Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Grishneshwar_temple_in_Aurangabad_district.jpg/250px-Grishneshwar_temple_in_Aurangabad_district.jpg",
+      "country_code": "IN",
+      "state_name": "Maharashtra",
+      "search_keywords": [
+        "Bholenath",
+        "Grishneshwar Temple",
+        "India",
+        "Mahadev",
+        "Maharashtra",
+        "Shankar",
+        "Shiv",
+        "Shiva",
+        "Verul",
+        "शिव"
+      ],
+      "city": "Verul",
+      "deity_ids": [
+        "shiva"
+      ],
+      "collection_ids": [
+        "jyotirlinga"
+      ],
+      "summary": "A Jyotirlinga shrine near the Ellora caves, distinct from Ellora's rock-cut Kailasa monument.",
+      "detail_path": "travel/temples/in-verul-grishneshwar-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Grishneshwar_temple_in_Aurangabad_district.jpg/250px-Grishneshwar_temple_in_Aurangabad_district.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Grishneshwar_temple_in_Aurangabad_district.jpg",
+        "author": "Rashmi.parab",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:19.341479+00:00",
+        "alt": "Grishneshwar Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-kolhapur-mahalakshmi-temple-kolhapur",
+      "name": "Mahalakshmi Temple, Kolhapur",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Mahalaxmi_Temple%2C_Kolhapur.jpg/250px-Mahalaxmi_Temple%2C_Kolhapur.jpg",
+      "country_code": "IN",
+      "state_name": "Maharashtra",
+      "search_keywords": [
+        "Amman",
+        "Bhagavathy",
+        "Devi / Mata",
+        "Durga",
+        "India",
+        "Kali",
+        "Kolhapur",
+        "Lakshmi",
+        "Maa",
+        "Mahalakshmi Temple, Kolhapur",
+        "Maharashtra",
+        "Parvati",
+        "Shakti",
+        "माता"
+      ],
+      "city": "Kolhapur",
+      "deity_ids": [
+        "devi"
+      ],
+      "collection_ids": [],
+      "summary": "The Ambabai shrine anchors Kolhapur's goddess pilgrimage and temple-town identity.",
+      "detail_path": "travel/temples/in-kolhapur-mahalakshmi-temple-kolhapur.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Mahalaxmi_Temple%2C_Kolhapur.jpg/250px-Mahalaxmi_Temple%2C_Kolhapur.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Mahalaxmi_Temple,_Kolhapur.jpg",
+        "author": "Lovelitjadhav",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:12.070936+00:00",
+        "alt": "Mahalakshmi Temple, Kolhapur",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-tuljapur-tulja-bhavani-temple",
+      "name": "Tulja Bhavani Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Raje_Shahaji_Mahadwar_of_Tulja_Bhavani_Temple.jpg/250px-Raje_Shahaji_Mahadwar_of_Tulja_Bhavani_Temple.jpg",
+      "country_code": "IN",
+      "state_name": "Maharashtra",
+      "search_keywords": [
+        "Amman",
+        "Bhagavathy",
+        "Devi / Mata",
+        "Durga",
+        "India",
+        "Kali",
+        "Lakshmi",
+        "Maa",
+        "Maharashtra",
+        "Parvati",
+        "Shakti",
+        "Tulja Bhavani Temple",
+        "Tuljapur",
+        "माता"
+      ],
+      "city": "Tuljapur",
+      "deity_ids": [
+        "devi"
+      ],
+      "collection_ids": [],
+      "summary": "A major Bhavani shrine with longstanding importance in Maharashtra's devotional and royal traditions.",
+      "detail_path": "travel/temples/in-tuljapur-tulja-bhavani-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Raje_Shahaji_Mahadwar_of_Tulja_Bhavani_Temple.jpg/250px-Raje_Shahaji_Mahadwar_of_Tulja_Bhavani_Temple.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Raje_Shahaji_Mahadwar_of_Tulja_Bhavani_Temple.jpg",
+        "author": "Kiran891",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:19.699650+00:00",
+        "alt": "Tulja Bhavani Temple",
+        "role": "article_lead_photo"
+      }
+    },
+    {
+      "id": "in-vani-saptashrungi-temple",
+      "name": "Saptashrungi Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Goddess_Saptashrungi_Devi_Temple1.jpg/250px-Goddess_Saptashrungi_Devi_Temple1.jpg",
+      "country_code": "IN",
+      "state_name": "Maharashtra",
+      "search_keywords": [
+        "Amman",
+        "Bhagavathy",
+        "Devi / Mata",
+        "Durga",
+        "India",
+        "Kali",
+        "Lakshmi",
+        "Maa",
+        "Maharashtra",
+        "Parvati",
+        "Saptashrungi",
+        "Saptashrungi Temple",
+        "Shakti",
+        "Vani",
+        "माता"
+      ],
+      "city": "Vani",
+      "deity_ids": [
+        "devi"
+      ],
+      "collection_ids": [],
+      "summary": "A mountain goddess shrine in the Nashik region, set among the Saptashrungi hills.",
+      "detail_path": "travel/temples/in-vani-saptashrungi-temple.json",
+      "photo_credit": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Goddess_Saptashrungi_Devi_Temple1.jpg/250px-Goddess_Saptashrungi_Devi_Temple1.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Goddess_Saptashrungi_Devi_Temple1.jpg",
+        "author": "AmitUdeshi",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:05.872054+00:00",
+        "alt": "Saptashrungi Temple",
+        "role": "article_lead_photo"
+      }
+    }
+  ]
+}

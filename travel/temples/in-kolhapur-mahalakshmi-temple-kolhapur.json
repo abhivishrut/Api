@@ -1,0 +1,195 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "in-kolhapur-mahalakshmi-temple-kolhapur",
+    "slug": "mahalakshmi-temple-kolhapur",
+    "name": "Mahalakshmi Temple, Kolhapur",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Mahalaxmi_Temple%2C_Kolhapur.jpg/250px-Mahalaxmi_Temple%2C_Kolhapur.jpg",
+    "aliases": [],
+    "country_code": "IN",
+    "state_name": "Maharashtra",
+    "search_keywords": [
+      "Amman",
+      "Bhagavathy",
+      "Devi / Mata",
+      "Durga",
+      "India",
+      "Kali",
+      "Kolhapur",
+      "Lakshmi",
+      "Maa",
+      "Mahalakshmi Temple, Kolhapur",
+      "Maharashtra",
+      "Parvati",
+      "Shakti",
+      "माता"
+    ],
+    "details": {
+      "name": "Mahalakshmi Temple, Kolhapur",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Mahalaxmi_Temple%2C_Kolhapur.jpg/250px-Mahalaxmi_Temple%2C_Kolhapur.jpg",
+      "gallery": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Mahalaxmi_Temple%2C_Kolhapur.jpg/250px-Mahalaxmi_Temple%2C_Kolhapur.jpg"
+      ],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": 16.7,
+        "longitude": 74.233333,
+        "coordinate_status": "reference_point",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Mahalakshmi Temple, Kolhapur, Kolhapur, Maharashtra, India",
+        "address_precision": "locality",
+        "country": "India",
+        "country_code": "IN",
+        "state": "Maharashtra",
+        "city": "Kolhapur",
+        "district": "Kolhapur",
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mahalakshmi+Temple%2C+Kolhapur%2C+Kolhapur%2C+Maharashtra%2C+India",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Mahalakshmi+Temple%2C+Kolhapur%2C+Kolhapur%2C+Maharashtra%2C+India"
+      },
+      "description": "Mahalakshmi Temple, Kolhapur is located in Kolhapur, Maharashtra, India. The Ambabai shrine anchors Kolhapur's goddess pilgrimage and temple-town identity.",
+      "city": "Kolhapur",
+      "district": "Kolhapur",
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Devi / Mata",
+      "deity_ids": [
+        "devi"
+      ],
+      "primary_deity_id": "devi",
+      "dedication": {
+        "text": "Mahalakshmi",
+        "source_id": "reference",
+        "status": "reference_extracted"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "The Ambabai shrine anchors Kolhapur's goddess pilgrimage and temple-town identity."
+      ],
+      "architecture": {
+        "text": "Hemadpanti architecture",
+        "source_id": "reference",
+        "status": "reference_extracted"
+      },
+      "festivals": {
+        "text": "KirnotsavRathotsavLakshmi PujaDiwaliVaralakshmi VratamLalita PanchamiNavratriMargshirsha Guruvar",
+        "source_id": "reference",
+        "dates": [],
+        "status": "reference_extracted_dates_not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Kolkata",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": null,
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": null
+      },
+      "media": {
+        "items": [
+          {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Mahalaxmi_Temple%2C_Kolhapur.jpg/250px-Mahalaxmi_Temple%2C_Kolhapur.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Mahalaxmi_Temple,_Kolhapur.jpg",
+            "author": "Lovelitjadhav",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:12.070936+00:00",
+            "alt": "Mahalakshmi Temple, Kolhapur",
+            "role": "article_lead_photo"
+          }
+        ],
+        "status": "attributed_reference_photo",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Mahalakshmi_Temple,_Kolhapur",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:46:14.479106+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Mahalakshmi Temple, Kolhapur - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "reference_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

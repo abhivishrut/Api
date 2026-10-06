@@ -1,0 +1,211 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "my-johor-bahru-arulmigu-sri-rajakaliamman-glass-temple",
+    "slug": "arulmigu-sri-rajakaliamman-glass-temple",
+    "name": "Arulmigu Sri Rajakaliamman Glass Temple",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Arulmigu_Sri_Rajakaliamman_Glass_Temple%2C_JB_%282025%29_-_img_43.jpg/250px-Arulmigu_Sri_Rajakaliamman_Glass_Temple%2C_JB_%282025%29_-_img_43.jpg",
+    "aliases": [],
+    "country_code": "MY",
+    "state_name": "Johor",
+    "search_keywords": [
+      "Amman",
+      "Arulmigu Sri Rajakaliamman Glass Temple",
+      "Bhagavathy",
+      "Devi / Mata",
+      "Durga",
+      "Johor",
+      "Johor Bahru",
+      "Kali",
+      "Lakshmi",
+      "Maa",
+      "Malaysia",
+      "Parvati",
+      "Shakti",
+      "माता"
+    ],
+    "details": {
+      "name": "Arulmigu Sri Rajakaliamman Glass Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Arulmigu_Sri_Rajakaliamman_Glass_Temple%2C_JB_%282025%29_-_img_43.jpg/250px-Arulmigu_Sri_Rajakaliamman_Glass_Temple%2C_JB_%282025%29_-_img_43.jpg",
+      "gallery": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Arulmigu_Sri_Rajakaliamman_Glass_Temple%2C_JB_%282025%29_-_img_43.jpg/250px-Arulmigu_Sri_Rajakaliamman_Glass_Temple%2C_JB_%282025%29_-_img_43.jpg"
+      ],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": 1.468611,
+        "longitude": 103.759722,
+        "coordinate_status": "reference_point",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Arulmigu Sri Rajakaliamman Glass Temple, Johor Bahru, Johor, Malaysia",
+        "address_precision": "locality",
+        "country": "Malaysia",
+        "country_code": "MY",
+        "state": "Johor",
+        "city": "Johor Bahru",
+        "district": "Johor Bahru",
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Arulmigu+Sri+Rajakaliamman+Glass+Temple%2C+Johor+Bahru%2C+Johor%2C+Malaysia",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Arulmigu+Sri+Rajakaliamman+Glass+Temple%2C+Johor+Bahru%2C+Johor%2C+Malaysia"
+      },
+      "description": "Arulmigu Sri Rajakaliamman Glass Temple is located in Johor Bahru, Johor, Malaysia. A goddess temple distinguished by extensive glass mosaic decoration in its interior.",
+      "city": "Johor Bahru",
+      "district": "Johor Bahru",
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Devi / Mata",
+      "deity_ids": [
+        "devi"
+      ],
+      "primary_deity_id": "devi",
+      "dedication": {
+        "text": "Kaliamman",
+        "source_id": "reference",
+        "status": "reference_extracted"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A goddess temple distinguished by extensive glass mosaic decoration in its interior."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Kuala_Lumpur",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": "https://visitjohor2026.my/listing/arulmigu-sri-rajakaliamman-glass-temple/",
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": "https://visitjohor2026.my/listing/arulmigu-sri-rajakaliamman-glass-temple/"
+      },
+      "media": {
+        "items": [
+          {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Arulmigu_Sri_Rajakaliamman_Glass_Temple%2C_JB_%282025%29_-_img_43.jpg/250px-Arulmigu_Sri_Rajakaliamman_Glass_Temple%2C_JB_%282025%29_-_img_43.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Arulmigu_Sri_Rajakaliamman_Glass_Temple,_JB_(2025)_-_img_43.jpg",
+            "author": "Chainwit.",
+            "license": "CC BY 4.0",
+            "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:21.960999+00:00",
+            "alt": "Arulmigu Sri Rajakaliamman Glass Temple",
+            "role": "article_lead_photo"
+          }
+        ],
+        "status": "attributed_reference_photo",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "primary",
+          "url": "https://visitjohor2026.my/listing/arulmigu-sri-rajakaliamman-glass-temple/",
+          "type": "temple_or_public_institution",
+          "reviewed_on": "2026-10-06",
+          "review_method": "web_search_excerpt_or_page",
+          "scope": [
+            "identity",
+            "selected_background"
+          ],
+          "does_not_verify": [
+            "all_visitor_services",
+            "all_coordinates",
+            "all_editorial_claims"
+          ]
+        },
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Arulmigu_Sri_Rajakaliamman_Glass_Temple",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:46:57.607435+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Arulmigu Sri Rajakaliamman Glass Temple - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "primary_source_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

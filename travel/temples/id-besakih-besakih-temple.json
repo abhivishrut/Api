@@ -1,0 +1,219 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "id-besakih-besakih-temple",
+    "slug": "besakih-temple",
+    "name": "Besakih Temple",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Besakih_Bali_Indonesia_Pura-Besakih-02.jpg/330px-Besakih_Bali_Indonesia_Pura-Besakih-02.jpg",
+    "aliases": [],
+    "country_code": "ID",
+    "state_name": "Bali",
+    "search_keywords": [
+      "Balaji",
+      "Bali",
+      "Besakih",
+      "Besakih Temple",
+      "Bholenath",
+      "Brahma",
+      "Indonesia",
+      "Mahadev",
+      "Narayan",
+      "Narayana",
+      "Perumal",
+      "Phra Phrom",
+      "Shankar",
+      "Shiv",
+      "Shiva",
+      "Venkateswara",
+      "Vishnu",
+      "ब्रह्मा",
+      "विष्णु",
+      "शिव"
+    ],
+    "details": {
+      "name": "Besakih Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Besakih_Bali_Indonesia_Pura-Besakih-02.jpg/330px-Besakih_Bali_Indonesia_Pura-Besakih-02.jpg",
+      "gallery": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Besakih_Bali_Indonesia_Pura-Besakih-02.jpg/330px-Besakih_Bali_Indonesia_Pura-Besakih-02.jpg"
+      ],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": -8.374444,
+        "longitude": 115.450833,
+        "coordinate_status": "reference_point",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Besakih Temple, Besakih, Bali, Indonesia",
+        "address_precision": "locality",
+        "country": "Indonesia",
+        "country_code": "ID",
+        "state": "Bali",
+        "city": "Besakih",
+        "district": null,
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Besakih+Temple%2C+Besakih%2C+Bali%2C+Indonesia",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Besakih+Temple%2C+Besakih%2C+Bali%2C+Indonesia"
+      },
+      "description": "Besakih Temple is located in Besakih, Bali, Indonesia. A large Balinese Hindu temple complex on Mount Agung's slopes, often called Bali's mother temple.",
+      "city": "Besakih",
+      "district": null,
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Shiva, Vishnu, Brahma",
+      "deity_ids": [
+        "shiva",
+        "vishnu",
+        "brahma"
+      ],
+      "primary_deity_id": "shiva",
+      "dedication": {
+        "text": "Shiva, Vishnu, Brahma",
+        "source_id": null,
+        "status": "editorial_category"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A large Balinese Hindu temple complex on Mount Agung's slopes, often called Bali's mother temple."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Makassar",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": "https://www.indonesia.travel/id/id/destination/bali-nusa-tenggara/bali/bali---pura-besakih",
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": "https://www.indonesia.travel/id/id/destination/bali-nusa-tenggara/bali/bali---pura-besakih"
+      },
+      "media": {
+        "items": [
+          {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Besakih_Bali_Indonesia_Pura-Besakih-02.jpg/330px-Besakih_Bali_Indonesia_Pura-Besakih-02.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Besakih_Bali_Indonesia_Pura-Besakih-02.jpg",
+            "author": "CEphoto, Uwe Aranas",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:11.823365+00:00",
+            "alt": "Besakih Temple",
+            "role": "article_lead_photo"
+          }
+        ],
+        "status": "attributed_reference_photo",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "primary",
+          "url": "https://www.indonesia.travel/id/id/destination/bali-nusa-tenggara/bali/bali---pura-besakih",
+          "type": "temple_or_public_institution",
+          "reviewed_on": "2026-10-06",
+          "review_method": "web_search_excerpt_or_page",
+          "scope": [
+            "identity",
+            "selected_background"
+          ],
+          "does_not_verify": [
+            "all_visitor_services",
+            "all_coordinates",
+            "all_editorial_claims"
+          ]
+        },
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Besakih_Temple",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:46:59.542927+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Besakih Temple - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "primary_source_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "in-srivilliputhur-andal-temple-srivilliputhur",
+    "slug": "andal-temple-srivilliputhur",
+    "name": "Andal Temple, Srivilliputhur",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Srivilliputhur_Andal_temple_%2829%29.jpg/250px-Srivilliputhur_Andal_temple_%2829%29.jpg",
+    "aliases": [
+      "Srivilliputhur Andal Temple"
+    ],
+    "country_code": "IN",
+    "state_name": "Tamil Nadu",
+    "search_keywords": [
+      "Amman",
+      "Andal",
+      "Andal Temple, Srivilliputhur",
+      "Balaji",
+      "Bhagavathy",
+      "Devi / Mata",
+      "Durga",
+      "Goda",
+      "India",
+      "Kali",
+      "Lakshmi",
+      "Maa",
+      "Narayan",
+      "Narayana",
+      "Parvati",
+      "Perumal",
+      "Shakti",
+      "Srivilliputhur",
+      "Srivilliputhur Andal Temple",
+      "Tamil Nadu",
+      "Venkateswara",
+      "Vishnu",
+      "आंडाल",
+      "माता",
+      "विष्णु"
+    ],
+    "details": {
+      "name": "Andal Temple, Srivilliputhur",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Srivilliputhur_Andal_temple_%2829%29.jpg/250px-Srivilliputhur_Andal_temple_%2829%29.jpg",
+      "gallery": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Srivilliputhur_Andal_temple_%2829%29.jpg/250px-Srivilliputhur_Andal_temple_%2829%29.jpg"
+      ],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": 9.508306,
+        "longitude": 77.630389,
+        "coordinate_status": "reference_point",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Andal Temple, Srivilliputhur, Srivilliputhur, Tamil Nadu, India",
+        "address_precision": "locality",
+        "country": "India",
+        "country_code": "IN",
+        "state": "Tamil Nadu",
+        "city": "Srivilliputhur",
+        "district": "Virudhunagar",
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Andal+Temple%2C+Srivilliputhur%2C+Srivilliputhur%2C+Tamil+Nadu%2C+India",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Andal+Temple%2C+Srivilliputhur%2C+Srivilliputhur%2C+Tamil+Nadu%2C+India"
+      },
+      "description": "Andal Temple, Srivilliputhur is located in Srivilliputhur, Tamil Nadu, India. A Vaishnava pilgrimage associated with the poet-saint Andal and Vatapatrasayi.",
+      "city": "Srivilliputhur",
+      "district": "Virudhunagar",
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Andal, Devi / Mata, Vishnu",
+      "deity_ids": [
+        "andal",
+        "devi",
+        "vishnu"
+      ],
+      "primary_deity_id": "andal",
+      "dedication": {
+        "text": "Andal",
+        "source_id": "reference",
+        "status": "reference_extracted"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A Vaishnava pilgrimage associated with the poet-saint Andal and Vatapatrasayi."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Kolkata",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": null,
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": null
+      },
+      "media": {
+        "items": [
+          {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Srivilliputhur_Andal_temple_%2829%29.jpg/250px-Srivilliputhur_Andal_temple_%2829%29.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Srivilliputhur_Andal_temple_(29).jpg",
+            "author": "Ssriram mt",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:08.160269+00:00",
+            "alt": "Andal Temple, Srivilliputhur",
+            "role": "article_lead_photo"
+          }
+        ],
+        "status": "attributed_reference_photo",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Srivilliputhur_Andal_Temple",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:46:38.830565+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Srivilliputhur Andal Temple - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "reference_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

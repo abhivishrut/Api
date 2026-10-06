@@ -1,0 +1,113 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Hindu Temple Travel Catalogue v2",
+  "description": "Static research catalogue. Null indicates unknown, never false, zero or free.",
+  "type": "object",
+  "required": ["schema_version", "metadata", "deities", "collections", "countries", "states", "international_temples"],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {"const": "2.0.0"},
+    "metadata": {"type": "object", "required": ["title", "updated_on", "statistics", "coverage", "null_policy", "map_policy"]},
+    "deities": {"type": "array", "items": {"type": "object", "required": ["id", "name", "name_hi", "aliases", "temple_count"]}},
+    "collections": {"type": "array", "items": {"type": "object", "required": ["id", "name", "expected_count", "notes", "temple_ids"]}},
+    "countries": {"type": "array", "items": {"type": "object", "required": ["country_code", "country_name", "temple_count", "regions"]}},
+    "states": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["state_name", "country_code", "temple_count", "temples"],
+        "properties": {
+          "state_name": {"type": "string", "minLength": 1},
+          "country_code": {"const": "IN"},
+          "temple_count": {"type": "integer", "minimum": 1},
+          "temples": {"type": "array", "items": {"$ref": "#/$defs/temple"}}
+        }
+      }
+    },
+    "international_temples": {"type": "array", "items": {"$ref": "#/$defs/temple"}}
+  },
+  "$defs": {
+    "nullableString": {"type": ["string", "null"]},
+    "nullableBoolean": {"type": ["boolean", "null"]},
+    "temple": {
+      "type": "object",
+      "required": ["id", "slug", "name", "thumbnail", "aliases", "country_code", "state_name", "search_keywords", "details"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {"type": "string", "minLength": 3},
+        "slug": {"type": "string", "minLength": 1},
+        "name": {"type": "string", "minLength": 1},
+        "thumbnail": {"type": "string"},
+        "aliases": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+        "country_code": {"type": "string", "minLength": 2},
+        "state_name": {"type": "string", "minLength": 1},
+        "search_keywords": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+        "details": {"$ref": "#/$defs/details"}
+      }
+    },
+    "details": {
+      "type": "object",
+      "required": ["name", "thumbnail", "gallery", "facilities", "opening_time", "closing_time", "location", "description", "city", "district", "religion", "category", "best_time_to_visit", "denotes_to", "deity_ids", "primary_deity_id", "dedication", "collection_ids", "highlights", "architecture", "festivals", "visiting", "contact", "media", "sources", "data_quality"],
+      "properties": {
+        "name": {"type": "string"},
+        "thumbnail": {"type": "string"},
+        "gallery": {"type": "array", "items": {"type": "string"}},
+        "description": {"type": "string", "minLength": 60},
+        "city": {"type": "string"},
+        "district": {"$ref": "#/$defs/nullableString"},
+        "religion": {"const": "Hindu"},
+        "category": {"enum": ["Temple", "Heritage temple", "Sacred site"]},
+        "best_time_to_visit": {"$ref": "#/$defs/nullableString"},
+        "opening_time": {"$ref": "#/$defs/nullableString"},
+        "closing_time": {"$ref": "#/$defs/nullableString"},
+        "denotes_to": {"type": "string"},
+        "deity_ids": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+        "primary_deity_id": {"type": "string"},
+        "collection_ids": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+        "highlights": {"type": "array", "items": {"type": "string"}},
+        "dedication": {"type": "object", "required": ["text", "source_id", "status"]},
+        "architecture": {"type": "object", "required": ["text", "source_id", "status"]},
+        "festivals": {"type": "object", "required": ["text", "source_id", "dates", "status"]},
+        "facilities": {
+          "type": "object",
+          "required": ["wheelchair_accessible", "parking", "food_available", "locker", "washroom", "medical_facility"],
+          "additionalProperties": {"$ref": "#/$defs/nullableBoolean"}
+        },
+        "location": {
+          "type": "object",
+          "required": ["latitude", "longitude", "coordinate_status", "coordinate_source_id", "address", "address_precision", "country", "country_code", "state", "city", "google_place_id", "google_maps_url", "directions_url"],
+          "properties": {
+            "latitude": {"type": ["number", "null"], "minimum": -90, "maximum": 90},
+            "longitude": {"type": ["number", "null"], "minimum": -180, "maximum": 180},
+            "coordinate_status": {"enum": ["reference_point", "locality_reference_only", "coordinates_pending"]},
+            "google_place_id": {"type": "null"},
+            "google_maps_url": {"type": "string"},
+            "directions_url": {"type": "string"},
+            "address_precision": {"enum": ["locality", "street"]}
+          }
+        },
+        "visiting": {
+          "type": "object",
+          "required": ["timezone", "hours", "hours_status", "entry_fee", "booking", "accessibility", "notes"],
+          "properties": {
+            "timezone": {"type": "string"},
+            "hours": {"type": "array"},
+            "hours_status": {"enum": ["not_verified", "source_checked_recheck_before_visit"]},
+            "notes": {"type": "array", "items": {"type": "string"}}
+          }
+        },
+        "contact": {"type": "object", "required": ["phone", "email", "information_url"]},
+        "media": {
+          "type": "object",
+          "required": ["items", "status", "fallback_asset", "fallback_is_temple_photo"],
+          "properties": {
+            "fallback_is_temple_photo": {"const": false},
+            "items": {"type": "array", "items": {"type": "object", "required": ["url", "source_page", "author", "license", "license_url", "changes", "verification", "alt", "role"]}}
+          }
+        },
+        "sources": {"type": "array", "items": {"type": "object", "required": ["id", "url", "type", "scope", "review_method"]}},
+        "data_quality": {"type": "object", "required": ["identity", "editorial", "visitor_information", "google_maps_listing_verified", "last_editorial_update", "unverified_fields"]}
+      }
+    }
+  }
+}

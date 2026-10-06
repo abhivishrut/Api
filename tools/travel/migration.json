@@ -1,0 +1,5453 @@
+{
+  "original_sha256": "c83a0701db029457f17a42f5058bd7b05630b481896486924bbc4cf9b3e05b11",
+  "original_record_count": 778,
+  "archive": "legacy.travel.json.gz",
+  "records": [
+    {
+      "legacy_pointer": "/states/0/temples/0",
+      "name": "Badrinath Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": "in-badrinath-badrinath-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/1",
+      "name": "Rudranath Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": "in-rudranath-rudranath-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/2",
+      "name": "Gopinath Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/3",
+      "name": "Kalpeshwar Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": "in-urgam-valley-kalpeshwar-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/4",
+      "name": "Adi Badri",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/5",
+      "name": "Anusuya Devi Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/6",
+      "name": "Mansa Devi Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/7",
+      "name": "Chandi Devi Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/8",
+      "name": "Maya Devi Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/9",
+      "name": "Bharat Mata Mandir",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/10",
+      "name": "Daksh Mahadev Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/11",
+      "name": "Sati Kund",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/12",
+      "name": "Kedarnath Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": "in-kedarnath-kedarnath-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/13",
+      "name": "Bhairavnath Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/14",
+      "name": "Tungnath Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": "in-tungnath-tungnath-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/15",
+      "name": "Madhyamaheshwar Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": "in-madhyamaheshwar-madhyamaheshwar-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/16",
+      "name": "Omkareshwar Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/17",
+      "name": "Triyuginarayan Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/18",
+      "name": "Koteshwar Mahadev Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/19",
+      "name": "Gangotri Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": "in-gangotri-gangotri-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/20",
+      "name": "Yamunotri Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": "in-yamunotri-yamunotri-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/21",
+      "name": "Kashi Vishwanath Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/22",
+      "name": "Shakti Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/23",
+      "name": "Neelkanth Mahadev Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": "in-near-rishikesh-neelkanth-mahadev-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/24",
+      "name": "Tarkeshwar Mahadev Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/25",
+      "name": "Dhari Devi Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": "in-kalyasaur-dhari-devi-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/26",
+      "name": "Kamleshwar Mahadev Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/27",
+      "name": "Kalinka Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/28",
+      "name": "Naina Devi Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/29",
+      "name": "Hanuman Garhi",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/30",
+      "name": "Kainchi Dham (Neem Karoli Baba Ashram)",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/31",
+      "name": "Garjiya Devi Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/32",
+      "name": "Surkanda Devi Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/33",
+      "name": "Kunjapuri Temple",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/34",
+      "name": "Sapta Badri",
+      "legacy_group": "Uttarakhand",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/0/temples/35",
+      "name": "Kalpeshwar",
+      "legacy_group": "Uttarakhand",
+      "temple_id": "in-urgam-valley-kalpeshwar-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/1/temples/0",
+      "name": "Vaishno Devi",
+      "legacy_group": "Jammu and Kashmir",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/2/temples/0",
+      "name": "Banke Bihari Temple",
+      "legacy_group": "Uttar Pradesh",
+      "temple_id": "in-vrindavan-banke-bihari-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/2/temples/1",
+      "name": "Sarnath",
+      "legacy_group": "Uttar Pradesh",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/2/temples/2",
+      "name": "Shri Kashi Vishwanath Temple",
+      "legacy_group": "Uttar Pradesh",
+      "temple_id": "in-varanasi-shri-kashi-vishwanath-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/2/temples/3",
+      "name": "Lodipur",
+      "legacy_group": "Uttar Pradesh",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/2/temples/4",
+      "name": "Shri Ram Janmabhoomi Temple",
+      "legacy_group": "Uttar Pradesh",
+      "temple_id": "in-ayodhya-shri-ram-janmabhoomi-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/2/temples/5",
+      "name": "Hanuman Garhi",
+      "legacy_group": "Uttar Pradesh",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/2/temples/6",
+      "name": "Kanak Bhawan",
+      "legacy_group": "Uttar Pradesh",
+      "temple_id": "in-ayodhya-kanak-bhawan",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/2/temples/7",
+      "name": "Gorakhnath Temple",
+      "legacy_group": "Uttar Pradesh",
+      "temple_id": "in-gorakhpur-gorakhnath-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/2/temples/8",
+      "name": "Vindhyavasini Temple",
+      "legacy_group": "Uttar Pradesh",
+      "temple_id": "in-vindhyachal-vindhyavasini-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/2/temples/9",
+      "name": "JK Temple",
+      "legacy_group": "Uttar Pradesh",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/2/temples/10",
+      "name": "Sita Samahit Sthal",
+      "legacy_group": "Uttar Pradesh",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/2/temples/11",
+      "name": "Durga Mandir",
+      "legacy_group": "Uttar Pradesh",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/2/temples/12",
+      "name": "St. Thomas Orthodox Syrian Church, Prayagraj",
+      "legacy_group": "Uttar Pradesh",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/3/temples/0",
+      "name": "Brahma Temple",
+      "legacy_group": "Rajasthan",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/3/temples/1",
+      "name": "Karni Mata Temple",
+      "legacy_group": "Rajasthan",
+      "temple_id": "in-deshnoke-karni-mata-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/3/temples/2",
+      "name": "Mukam Mukti Dham",
+      "legacy_group": "Rajasthan",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/3/temples/3",
+      "name": "Samrathal Dhora",
+      "legacy_group": "Rajasthan",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/3/temples/4",
+      "name": "Pipasar",
+      "legacy_group": "Rajasthan",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/3/temples/5",
+      "name": "Rotu",
+      "legacy_group": "Rajasthan",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/3/temples/6",
+      "name": "Jambholav",
+      "legacy_group": "Rajasthan",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/3/temples/7",
+      "name": "Lohawat",
+      "legacy_group": "Rajasthan",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/3/temples/8",
+      "name": "Nakoda",
+      "legacy_group": "Rajasthan",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/3/temples/9",
+      "name": "Jirawala Tirth",
+      "legacy_group": "Rajasthan",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/3/temples/10",
+      "name": "Atishaya Kshetra Lunwa Jain Temple",
+      "legacy_group": "Rajasthan",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/4/temples/0",
+      "name": "Jwala Ji Temple",
+      "legacy_group": "Himachal Pradesh",
+      "temple_id": "in-jwalamukhi-jwala-ji-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/5/temples/0",
+      "name": "Mata Mansa Devi Temple",
+      "legacy_group": "Haryana",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/0",
+      "name": "Ramanathaswamy Temple",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": "in-rameswaram-ramanathaswamy-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/1",
+      "name": "Brihadisvara Temple",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": "in-thanjavur-brihadisvara-temple-thanjavur",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/2",
+      "name": "Sri Ranganathaswamy Temple",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/3",
+      "name": "Vedagiriswarar temple",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/4",
+      "name": "Maruthamalai Marudhachalamurthy Temple",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/5",
+      "name": "Dhandayuthapani Swamy Temple",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": "in-palani-dhandayuthapani-swamy-temple-palani",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/6",
+      "name": "Loganatha Perumal Temple",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/7",
+      "name": "Anbilalanturai",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/8",
+      "name": "Andankoil Swarnapureewarar Temple",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/9",
+      "name": "Apatsahayesvarar Temple, Alangudi",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/10",
+      "name": "Adikesava Perumal Temple",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/11",
+      "name": "Bannari Amman Temple",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/12",
+      "name": "Ashtabujakaram",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/13",
+      "name": "Ganga Jadadisvarar Temple",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/14",
+      "name": "Eri-Katha Ramar Temple",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/15",
+      "name": "Garbharakshambigai temple",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/16",
+      "name": "Kamakshi Amman Temple, Mangadu",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/17",
+      "name": "ISKCON Temple Chennai",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/18",
+      "name": "Brahmapureeswarar Temple",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/19",
+      "name": "Ampal Brahmapureeswarar Temple",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/20",
+      "name": "Kothandarama Temple, Thillaivilagam",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/21",
+      "name": "Sri Ekambaranathar Temple South Pond",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/22",
+      "name": "Mahalingeswarar temple",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/23",
+      "name": "Mel Sithamur Jain Math",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/6/temples/24",
+      "name": "Mannargudi Mallinatha Swamy Jain Temple",
+      "legacy_group": "Tamil Nadu",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/7/temples/0",
+      "name": "Venkateswara Temple",
+      "legacy_group": "Andhra Pradesh",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/7/temples/1",
+      "name": "Mallikarjuna Temple",
+      "legacy_group": "Andhra Pradesh",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/7/temples/2",
+      "name": "Andhra Shiridi",
+      "legacy_group": "Andhra Pradesh",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/7/temples/3",
+      "name": "Sri Kodandarama Swami Devastanam",
+      "legacy_group": "Andhra Pradesh",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/8/temples/0",
+      "name": "Sabarimala Temple",
+      "legacy_group": "Kerala",
+      "temple_id": "in-sabarimala-sabarimala-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/8/temples/1",
+      "name": "Aneekkara Poomala Bhagavathi Temple",
+      "legacy_group": "Kerala",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/8/temples/2",
+      "name": "Elamgulam Sree Dharma Sastha Temple",
+      "legacy_group": "Kerala",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/8/temples/3",
+      "name": "Ernakulam Shiva Temple",
+      "legacy_group": "Kerala",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/8/temples/4",
+      "name": "Avanavanchery Sri Indilayappan Temple",
+      "legacy_group": "Kerala",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/8/temples/5",
+      "name": "Bethel Marthoma Church",
+      "legacy_group": "Kerala",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/8/temples/6",
+      "name": "Arthat St. Mary's Cathedral",
+      "legacy_group": "Kerala",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/8/temples/7",
+      "name": "St.Mary's Cathedral Kothamangalam",
+      "legacy_group": "Kerala",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/9/temples/0",
+      "name": "Virupaksha Temple",
+      "legacy_group": "Karnataka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/9/temples/1",
+      "name": "Sri Krishna Temple",
+      "legacy_group": "Karnataka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/9/temples/2",
+      "name": "Mahabaleshwar Temple",
+      "legacy_group": "Karnataka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/9/temples/3",
+      "name": "Kollur Mookambika Temple",
+      "legacy_group": "Karnataka",
+      "temple_id": "in-kollur-kollur-mookambika-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/9/temples/4",
+      "name": "Adoration Monastery of the Sisters of St-Clare",
+      "legacy_group": "Karnataka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/9/temples/5",
+      "name": "Annapoorneshwari Temple",
+      "legacy_group": "Karnataka",
+      "temple_id": "in-horanadu-horanadu-annapoorneshwari-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/9/temples/6",
+      "name": "Ganesha Temple, Idagunji",
+      "legacy_group": "Karnataka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/9/temples/7",
+      "name": "St. Lawrence Shrine",
+      "legacy_group": "Karnataka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/9/temples/8",
+      "name": "St. Anthony's Basilica, Dornahalli",
+      "legacy_group": "Karnataka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/9/temples/9",
+      "name": "Jwalamalini temple",
+      "legacy_group": "Karnataka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/10/temples/0",
+      "name": "Somnath Temple",
+      "legacy_group": "Gujarat",
+      "temple_id": "in-prabhas-patan-somnath-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/10/temples/1",
+      "name": "Nageshvara Jyotirlinga",
+      "legacy_group": "Gujarat",
+      "temple_id": "in-near-dwarka-nageshwar-jyotirlinga",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/10/temples/2",
+      "name": "Dwarkadhish Temple",
+      "legacy_group": "Gujarat",
+      "temple_id": "in-dwarka-dwarkadhish-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/10/temples/3",
+      "name": "Palitana Temples",
+      "legacy_group": "Gujarat",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/10/temples/4",
+      "name": "Udvada Atash Behram",
+      "legacy_group": "Gujarat",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/10/temples/5",
+      "name": "Udvada Atash Behram",
+      "legacy_group": "Gujarat",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/10/temples/6",
+      "name": "EME Temple",
+      "legacy_group": "Gujarat",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/11/temples/0",
+      "name": "Trimbakeshwar Temple",
+      "legacy_group": "Maharashtra",
+      "temple_id": "in-trimbak-trimbakeshwar-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/11/temples/1",
+      "name": "Bhimashankar Temple",
+      "legacy_group": "Maharashtra",
+      "temple_id": "in-bhimashankar-bhimashankar-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/11/temples/2",
+      "name": "Grishneshwar Temple",
+      "legacy_group": "Maharashtra",
+      "temple_id": "in-verul-grishneshwar-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/11/temples/3",
+      "name": "Sandor",
+      "legacy_group": "Maharashtra",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/11/temples/4",
+      "name": "Allamprabhu Temple",
+      "legacy_group": "Maharashtra",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/11/temples/5",
+      "name": "Mumba Devi Temple",
+      "legacy_group": "Maharashtra",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/11/temples/6",
+      "name": "Baneshwar temple, Nasrapur",
+      "legacy_group": "Maharashtra",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/11/temples/7",
+      "name": "Dashabhuja Temple",
+      "legacy_group": "Maharashtra",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/12/temples/0",
+      "name": "Mahakaleshwar Temple",
+      "legacy_group": "Madhya Pradesh",
+      "temple_id": "in-ujjain-mahakaleshwar-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/12/temples/1",
+      "name": "Omkareshwar Temple",
+      "legacy_group": "Madhya Pradesh",
+      "temple_id": "in-omkareshwar-omkareshwar-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/12/temples/2",
+      "name": "Mahakaleshwar Jyotirlinga",
+      "legacy_group": "Madhya Pradesh",
+      "temple_id": "in-ujjain-mahakaleshwar-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/12/temples/3",
+      "name": "Adhyatma Niketan",
+      "legacy_group": "Madhya Pradesh",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/12/temples/4",
+      "name": "Sarvodaya Jain temple",
+      "legacy_group": "Madhya Pradesh",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/13/temples/0",
+      "name": "Baidyanath Temple",
+      "legacy_group": "Jharkhand",
+      "temple_id": "in-deoghar-baidyanath-temple-deoghar",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/14/temples/0",
+      "name": "Lingaraj Temple",
+      "legacy_group": "Odisha",
+      "temple_id": "in-bhubaneswar-lingaraj-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/14/temples/1",
+      "name": "Jagannath Temple, Koraput",
+      "legacy_group": "Odisha",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/14/temples/2",
+      "name": "Dhabaleswar",
+      "legacy_group": "Odisha",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/14/temples/3",
+      "name": "Manikeshwari Temple",
+      "legacy_group": "Odisha",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/14/temples/4",
+      "name": "St. Paul's Church, Gunupur",
+      "legacy_group": "Odisha",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/14/temples/5",
+      "name": "Parsvanath Jain Temple-I",
+      "legacy_group": "Odisha",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/15/temples/0",
+      "name": "Dakshineswar Kali Temple",
+      "legacy_group": "West Bengal",
+      "temple_id": "in-dakshineswar-dakshineswar-kali-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/16/temples/0",
+      "name": "Kamakhya Temple",
+      "legacy_group": "Assam",
+      "temple_id": "in-guwahati-kamakhya-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/17/temples/0",
+      "name": "Golden Temple",
+      "legacy_group": "Punjab",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/18/temples/0",
+      "name": "Mahabodhi Temple",
+      "legacy_group": "Bihar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/18/temples/1",
+      "name": "Mahabodhi Temple",
+      "legacy_group": "Bihar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/18/temples/2",
+      "name": "Takht Sri Patna Sahib",
+      "legacy_group": "Bihar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/19/temples/0",
+      "name": "Tawang Monastery",
+      "legacy_group": "Arunachal Pradesh",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/20/temples/0",
+      "name": "Lotus Temple",
+      "legacy_group": "Delhi",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/20/temples/1",
+      "name": "St. James' Church, Delhi",
+      "legacy_group": "Delhi",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/20/temples/2",
+      "name": "Holy Trinity Church, Delhi",
+      "legacy_group": "Delhi",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/20/temples/3",
+      "name": "Central Baptist Church, Delhi",
+      "legacy_group": "Delhi",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/21/temples/0",
+      "name": "St. Andrew's Church, Chennai",
+      "legacy_group": "Chennai",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/21/temples/1",
+      "name": "St. George's Cathedral",
+      "legacy_group": "Chennai",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/21/temples/2",
+      "name": "San Thome Basilica",
+      "legacy_group": "Chennai",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/21/temples/3",
+      "name": "St. Mary's Church, Chennai",
+      "legacy_group": "Chennai",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/21/temples/4",
+      "name": "Parthasarathy Temple",
+      "legacy_group": "Chennai",
+      "temple_id": "in-chennai-parthasarathy-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/21/temples/5",
+      "name": "Armenian Church, Chennai",
+      "legacy_group": "Chennai",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/21/temples/6",
+      "name": "Church of Our Lady of Light, Chennai",
+      "legacy_group": "Chennai",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/21/temples/7",
+      "name": "St. Patrick's Church, Chennai",
+      "legacy_group": "Chennai",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/22/temples/0",
+      "name": "Harmandir Sahib",
+      "legacy_group": "Amritsar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/22/temples/1",
+      "name": "Akal Takht",
+      "legacy_group": "Amritsar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/22/temples/2",
+      "name": "Gurdwara Baba Atal",
+      "legacy_group": "Amritsar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/23/temples/0",
+      "name": "Virupaksha Temple",
+      "legacy_group": "Vijayanagara District",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/23/temples/1",
+      "name": "Ananthasayana temple",
+      "legacy_group": "Vijayanagara District",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/24/temples/0",
+      "name": "Ajanta Caves",
+      "legacy_group": "Aurangabad district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/24/temples/1",
+      "name": "Kailasa Temple, Ellora",
+      "legacy_group": "Aurangabad district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/24/temples/2",
+      "name": "Grishneshwar temple",
+      "legacy_group": "Aurangabad district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/24/temples/3",
+      "name": "Bhadra Maruti Temple",
+      "legacy_group": "Aurangabad district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/25/temples/0",
+      "name": "Baba Gangeshwarnath Dham",
+      "legacy_group": "Bhadohi district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/26/temples/0",
+      "name": "Khajuraho Group of Monuments",
+      "legacy_group": "Khajuraho",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/26/temples/1",
+      "name": "Beejamandal, Khajuraho",
+      "legacy_group": "Khajuraho",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/27/temples/0",
+      "name": "Manyakheta",
+      "legacy_group": "Kalaburgi district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/28/temples/0",
+      "name": "Immaculate Conception Cathedral, Pondicherry",
+      "legacy_group": "Pondicherry",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/28/temples/1",
+      "name": "Basilica of the Sacred Heart of Jesus",
+      "legacy_group": "Pondicherry",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/28/temples/2",
+      "name": "Our Lady of Angels Church",
+      "legacy_group": "Pondicherry",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/29/temples/0",
+      "name": "Jagannath Temple",
+      "legacy_group": "Puri",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/29/temples/1",
+      "name": "Angira Ashram",
+      "legacy_group": "Puri",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/30/temples/0",
+      "name": "Basilica of Bom Jesus",
+      "legacy_group": "North Goa district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/30/temples/1",
+      "name": "Mangueshi Temple",
+      "legacy_group": "North Goa district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/30/temples/2",
+      "name": "Se Cathedral",
+      "legacy_group": "North Goa district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/30/temples/3",
+      "name": "Church of St. Francis of Assisi",
+      "legacy_group": "North Goa district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/30/temples/4",
+      "name": "St Catherine's Chapel, Old Goa",
+      "legacy_group": "North Goa district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/31/temples/0",
+      "name": "Badrinath Temple",
+      "legacy_group": "Badrinath",
+      "temple_id": "in-badrinath-badrinath-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/32/temples/0",
+      "name": "Amarnath Temple",
+      "legacy_group": "Anantnag district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/33/temples/0",
+      "name": "Vimala Temple",
+      "legacy_group": "Puri district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/33/temples/1",
+      "name": "Mausi Maa Temple",
+      "legacy_group": "Puri district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/33/temples/2",
+      "name": "Gundicha Temple",
+      "legacy_group": "Puri district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/33/temples/3",
+      "name": "Konark Sun Temple",
+      "legacy_group": "Puri district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/33/temples/4",
+      "name": "Alarnatha Temple",
+      "legacy_group": "Puri district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/33/temples/5",
+      "name": "Kakatpur Mangala Temple",
+      "legacy_group": "Puri district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/33/temples/6",
+      "name": "Varahi Deula",
+      "legacy_group": "Puri district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/33/temples/7",
+      "name": "Beleswar temple",
+      "legacy_group": "Puri district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/33/temples/8",
+      "name": "Sakhigopal Temple",
+      "legacy_group": "Puri district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/0",
+      "name": "Sasthamcotta Sree Dharma Sastha Temple",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/1",
+      "name": "Dodda Ganeshana Gudi",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/2",
+      "name": "Dhamrai Jagannath Roth",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/3",
+      "name": "Jagannath Temple",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/4",
+      "name": "Alanduraiyar Temple",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/5",
+      "name": "Basistha Temple",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/6",
+      "name": "Pancha Rathas",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/7",
+      "name": "108 Divya desams",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/8",
+      "name": "Baba Keenaram Sthal",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/9",
+      "name": "Babulnath",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/10",
+      "name": "Anantnath Swami Temple",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/11",
+      "name": "Vaitheeswaran Koil",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/12",
+      "name": "Adhiparasakthi Siddhar Peetam",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/13",
+      "name": "Andeshwar Parshwanath",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/14",
+      "name": "Burhanath temple",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/15",
+      "name": "Group of monuments at Mahabalipuram",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/16",
+      "name": "Centenary Baptist Church, Clock Tower, Secunderabad",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/17",
+      "name": "Jambukeswarar Temple",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/18",
+      "name": "Annakoteshvara Temple",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/19",
+      "name": "Boiyakonda Gangamma Temple",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/20",
+      "name": "Ardhagiri",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/21",
+      "name": "Sani Monastery",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/22",
+      "name": "Arohana Marthoma Church, Anicadu",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/23",
+      "name": "Christ Lutheran Church, Narsapur",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/24",
+      "name": "Khatushyam",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/25",
+      "name": "Athmanatheswarar Temple",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/26",
+      "name": "Ashtalakshmi Kovil",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/27",
+      "name": "Balaji Mandir",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/28",
+      "name": "Sri Digambar Jain Lal Mandir",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/29",
+      "name": "Ajaikapada Bhairava Temple",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/30",
+      "name": "Dirgheshwari temple",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/31",
+      "name": "Ambika Mata Temple",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/32",
+      "name": "Durga Devi temple, Guhagar",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/33",
+      "name": "Ekambareswarar Temple, Chennai",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/34",
+      "name": "Don Bosco Church, North Paravur",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/35",
+      "name": "Indralath Temple",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/36",
+      "name": "Chhatia Bata",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/37",
+      "name": "Holy Trinity Church, Yercaud",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/38",
+      "name": "Holy Trinity Church, Ooty",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/39",
+      "name": "Bhalei Mata Temple",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/40",
+      "name": "Chathuranga Vallabhanathar Temple",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/41",
+      "name": "Chinakkathoor Temple",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/42",
+      "name": "Dayanidheeswarar Temple",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/43",
+      "name": "Kalyanasundareswarar Temple, Thiruvelvikudi",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/44",
+      "name": "Avur Church",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/45",
+      "name": "Jyotir Math",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/46",
+      "name": "Deva Pureeswarar Temple",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/47",
+      "name": "Bhoothalingaswamy Temple",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/48",
+      "name": "Karchapeswarar Temple",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/34/temples/49",
+      "name": "Church of Our Lady of Dolours, Wadala",
+      "legacy_group": "Other Locations",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/35/temples/0",
+      "name": "Badami cave temples",
+      "legacy_group": "Badami",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/36/temples/0",
+      "name": "Kedarnath Temple",
+      "legacy_group": "Rudraprayag district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/37/temples/0",
+      "name": "CSI Cathedral Church, Kozhikode",
+      "legacy_group": "Kozhikode",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/37/temples/1",
+      "name": "Mother of God Cathedral",
+      "legacy_group": "Kozhikode",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/38/temples/0",
+      "name": "Kapaleeshwarar Temple",
+      "legacy_group": "Mylapore",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/39/temples/0",
+      "name": "Marth Mariyam Major Archiepiscopal Church",
+      "legacy_group": "Kottayam district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/39/temples/1",
+      "name": "Vazhappally Maha Siva Temple",
+      "legacy_group": "Kottayam district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/39/temples/2",
+      "name": "Ettumanoor Mahadevar Temple",
+      "legacy_group": "Kottayam district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/39/temples/3",
+      "name": "Elamgulam Sree Dharma Sastha Temple",
+      "legacy_group": "Kottayam district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/39/temples/4",
+      "name": "St. Thomas Cathedral, Pala",
+      "legacy_group": "Kottayam district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/40/temples/0",
+      "name": "Chirakkadavu Sree Mahadeva Temple",
+      "legacy_group": "Kanjirappally taluk",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/41/temples/0",
+      "name": "Nachna-Kuthara",
+      "legacy_group": "Panna district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/42/temples/0",
+      "name": "Panchakuta Basadi, Kambadahalli",
+      "legacy_group": "Nagamangala Taluk",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/43/temples/0",
+      "name": "Akshardham",
+      "legacy_group": "East Delhi district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/44/temples/0",
+      "name": "Akshardham (Gandhinagar)",
+      "legacy_group": "Gandhinagar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/45/temples/0",
+      "name": "Sri Aurobindo Ashram",
+      "legacy_group": "Puducherry",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/46/temples/0",
+      "name": "St. Paul's Cathedral",
+      "legacy_group": "Ward No. 63, Kolkata Municipal Corporation",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/46/temples/1",
+      "name": "St. Thomas Church",
+      "legacy_group": "Ward No. 63, Kolkata Municipal Corporation",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/47/temples/0",
+      "name": "Nataraja Temple",
+      "legacy_group": "Chidambaram",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/48/temples/0",
+      "name": "Sabarimala temple complex",
+      "legacy_group": "Pathanamthitta district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/48/temples/1",
+      "name": "Sreevallabha Temple, Thiruvalla",
+      "legacy_group": "Pathanamthitta district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/48/temples/2",
+      "name": "Anikkattilammakshethram",
+      "legacy_group": "Pathanamthitta district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/48/temples/3",
+      "name": "Aranmula Parthasarathy Temple",
+      "legacy_group": "Pathanamthitta district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/48/temples/4",
+      "name": "Aluvamkudi Sree Mahadeva Temple",
+      "legacy_group": "Pathanamthitta district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/49/temples/0",
+      "name": "Rishabhdeo",
+      "legacy_group": "Udaipur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/50/temples/0",
+      "name": "Kailasanathar Temple, Kanchipuram",
+      "legacy_group": "Kanchipuram",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/50/temples/1",
+      "name": "Ekambareswarar Temple",
+      "legacy_group": "Kanchipuram",
+      "temple_id": "in-kanchipuram-ekambareswarar-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/51/temples/0",
+      "name": "Meenakshi Temple",
+      "legacy_group": "Madurai",
+      "temple_id": "in-madurai-meenakshi-amman-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/51/temples/1",
+      "name": "St. Mary's Cathedral, Madurai",
+      "legacy_group": "Madurai",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/52/temples/0",
+      "name": "Shikharji",
+      "legacy_group": "North Chotanagpur division",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/53/temples/0",
+      "name": "St. Philomena's Cathedral",
+      "legacy_group": "Mysore",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/53/temples/1",
+      "name": "Chamundeshwari Temple",
+      "legacy_group": "Mysore",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/53/temples/2",
+      "name": "Sri Ganapathy Sachchidananda Ashrama",
+      "legacy_group": "Mysore",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/54/temples/0",
+      "name": "Padmanabhaswamy Temple",
+      "legacy_group": "Thiruvananthapuram",
+      "temple_id": "in-thiruvananthapuram-sree-padmanabhaswamy-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/54/temples/1",
+      "name": "St. Mary, Queen of Peace Basilica",
+      "legacy_group": "Thiruvananthapuram",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/54/temples/2",
+      "name": "Mateer Memorial Church",
+      "legacy_group": "Thiruvananthapuram",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/54/temples/3",
+      "name": "St. Joseph's Cathedral, Trivandrum",
+      "legacy_group": "Thiruvananthapuram",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/54/temples/4",
+      "name": "St. Mary's Cathedral, Pattom, Trivandrum",
+      "legacy_group": "Thiruvananthapuram",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/54/temples/5",
+      "name": "St. George Orthodox Syrian Cathedral, Thiruvananthapuram",
+      "legacy_group": "Thiruvananthapuram",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/55/temples/0",
+      "name": "Mahakuta group of temples",
+      "legacy_group": "Bagalkot district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/55/temples/1",
+      "name": "Lad Khan Temple",
+      "legacy_group": "Bagalkot district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/55/temples/2",
+      "name": "Bhutanatha group of temples, Badami",
+      "legacy_group": "Bagalkot district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/55/temples/3",
+      "name": "Durga temple, Aihole",
+      "legacy_group": "Bagalkot district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/56/temples/0",
+      "name": "Ananta Vasudeva Temple",
+      "legacy_group": "Bhubaneswar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/56/temples/1",
+      "name": "Bata Mahadeva temple",
+      "legacy_group": "Bhubaneswar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/56/temples/2",
+      "name": "Lingaraja Temple",
+      "legacy_group": "Bhubaneswar",
+      "temple_id": "in-bhubaneswar-lingaraj-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/56/temples/3",
+      "name": "Ram Mandir",
+      "legacy_group": "Bhubaneswar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/56/temples/4",
+      "name": "Arjunesvara Siva Temple",
+      "legacy_group": "Bhubaneswar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/56/temples/5",
+      "name": "Yameshwar Temple",
+      "legacy_group": "Bhubaneswar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/56/temples/6",
+      "name": "Astasambhu Siva Temples",
+      "legacy_group": "Bhubaneswar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/56/temples/7",
+      "name": "Baitala Deula",
+      "legacy_group": "Bhubaneswar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/56/temples/8",
+      "name": "Muktesvara deula",
+      "legacy_group": "Bhubaneswar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/56/temples/9",
+      "name": "Akhadachandi Temple",
+      "legacy_group": "Bhubaneswar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/56/temples/10",
+      "name": "Champakesvara Siva Temple",
+      "legacy_group": "Bhubaneswar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/56/temples/11",
+      "name": "Chintamanisvara Siva Temple",
+      "legacy_group": "Bhubaneswar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/56/temples/12",
+      "name": "Digambara Jaina Temple, Khandagiri",
+      "legacy_group": "Bhubaneswar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/56/temples/13",
+      "name": "Dolagovinda Siva Temple",
+      "legacy_group": "Bhubaneswar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/56/temples/14",
+      "name": "Brahma Temple, Bindusagar",
+      "legacy_group": "Bhubaneswar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/57/temples/0",
+      "name": "Guruvayur Temple",
+      "legacy_group": "Thrissur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/57/temples/1",
+      "name": "Poonkunnam Siva Temple",
+      "legacy_group": "Thrissur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/57/temples/2",
+      "name": "Vadakkunnathan Temple, Thrissur",
+      "legacy_group": "Thrissur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/57/temples/3",
+      "name": "Mammiyoor Temple",
+      "legacy_group": "Thrissur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/57/temples/4",
+      "name": "Arattupuzha Temple",
+      "legacy_group": "Thrissur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/57/temples/5",
+      "name": "Thiruvanchikulam Mahadeva Temple",
+      "legacy_group": "Thrissur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/57/temples/6",
+      "name": "Annamanada Mahadeva Temple",
+      "legacy_group": "Thrissur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/57/temples/7",
+      "name": "Puthanchira Forona Church",
+      "legacy_group": "Thrissur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/57/temples/8",
+      "name": "Trikkur Mahadeva Temple",
+      "legacy_group": "Thrissur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/58/temples/0",
+      "name": "Taranga",
+      "legacy_group": "Satlasana Taluka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/59/temples/0",
+      "name": "Shani Shingnapur",
+      "legacy_group": "Ahilyanagar district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/60/temples/0",
+      "name": "Ranganathaswamy Temple, Srirangam",
+      "legacy_group": "Tiruchirappalli",
+      "temple_id": "in-tiruchirappalli-sri-ranganathaswamy-temple-srirangam",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/60/temples/1",
+      "name": "St. Mary's Cathedral, Tiruchirappalli",
+      "legacy_group": "Tiruchirappalli",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/61/temples/0",
+      "name": "Dilwara Temple",
+      "legacy_group": "Aburaj",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/62/temples/0",
+      "name": "Kamakshi Amman Temple",
+      "legacy_group": "Kanchipuram district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/62/temples/1",
+      "name": "Atcheeswarar Temple",
+      "legacy_group": "Kanchipuram district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/62/temples/2",
+      "name": "Trilokyanatha Temple",
+      "legacy_group": "Kanchipuram district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/63/temples/0",
+      "name": "Mangi-Tungi",
+      "legacy_group": "Nashik district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/63/temples/1",
+      "name": "Trimbakeshwar Shiva Temple",
+      "legacy_group": "Nashik district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/64/temples/0",
+      "name": "Airavatesvara Temple",
+      "legacy_group": "Thanjavur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/64/temples/1",
+      "name": "Gajendra Varadha Temple",
+      "legacy_group": "Thanjavur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/64/temples/2",
+      "name": "Aavoor Pasupatheeswaram temple",
+      "legacy_group": "Thanjavur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/64/temples/3",
+      "name": "Chakravageswarar Temple",
+      "legacy_group": "Thanjavur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/64/temples/4",
+      "name": "Apathsahayar Temple, Thirupazhanam",
+      "legacy_group": "Thanjavur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/64/temples/5",
+      "name": "Agniswarar Temple, Kanjanur",
+      "legacy_group": "Thanjavur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/64/temples/6",
+      "name": "Aiyarappar temple",
+      "legacy_group": "Thanjavur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/64/temples/7",
+      "name": "Amirthakadeswarar Temple, Sakkottai",
+      "legacy_group": "Thanjavur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/64/temples/8",
+      "name": "Banapuriswarar Temple",
+      "legacy_group": "Thanjavur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/64/temples/9",
+      "name": "Kalyanasundaresar Temple, Nallur",
+      "legacy_group": "Thanjavur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/64/temples/10",
+      "name": "Kailasanthar Temple,Thingalur",
+      "legacy_group": "Thanjavur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/65/temples/0",
+      "name": "Nageshvara Jyotirlinga",
+      "legacy_group": "Dwarka Taluka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/65/temples/1",
+      "name": "Dwarakadhish Temple",
+      "legacy_group": "Dwarka Taluka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/66/temples/0",
+      "name": "Sacred Heart Cathedral, New Delhi",
+      "legacy_group": "New Delhi district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/67/temples/0",
+      "name": "Basilica of Our Lady of Good Health",
+      "legacy_group": "Velankanni",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/68/temples/0",
+      "name": "Basilica of Our Lady of Graces",
+      "legacy_group": "Meerut district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/69/temples/0",
+      "name": "St. John's Church",
+      "legacy_group": "Ward No. 45, Kolkata Municipal Corporation",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/69/temples/1",
+      "name": "Armenian Church of the Holy Nazareth",
+      "legacy_group": "Ward No. 45, Kolkata Municipal Corporation",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/70/temples/0",
+      "name": "Mallikarjuna Temple",
+      "legacy_group": "Srisailam mandal",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/71/temples/0",
+      "name": "Lakshmi Narayani Golden Temple",
+      "legacy_group": "Vellore district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/72/temples/0",
+      "name": "Alampur Navabrahma Temples",
+      "legacy_group": "Jogulamba Gadwal district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/73/temples/0",
+      "name": "Basilica of Our Lady of Snow, Pallippuram",
+      "legacy_group": "Ernakulam district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/73/temples/1",
+      "name": "Chottanikkara Temple",
+      "legacy_group": "Ernakulam district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/73/temples/2",
+      "name": "St. Mary's Syro-Malabar Catholic Cathedral Basilica",
+      "legacy_group": "Ernakulam district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/73/temples/3",
+      "name": "St. Francis Church",
+      "legacy_group": "Ernakulam district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/73/temples/4",
+      "name": "Vallarpadam Church",
+      "legacy_group": "Ernakulam district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/73/temples/5",
+      "name": "Thrikkakara Temple",
+      "legacy_group": "Ernakulam district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/73/temples/6",
+      "name": "Rajadhiraja St. Mary's Jacobite Syrian Cathedral",
+      "legacy_group": "Ernakulam district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/73/temples/7",
+      "name": "Dakshina Mookambika Temple, North Paravur",
+      "legacy_group": "Ernakulam district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/74/temples/0",
+      "name": "Gurudwara Bangla Sahib",
+      "legacy_group": "New Delhi",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/74/temples/1",
+      "name": "Laxminarayan Temple",
+      "legacy_group": "New Delhi",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/74/temples/2",
+      "name": "Cathedral Church of the Redemption",
+      "legacy_group": "New Delhi",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/75/temples/0",
+      "name": "Khodiyar Temple - Rajapara (Gujarat)",
+      "legacy_group": "Bhavnagar district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/75/temples/1",
+      "name": "Songadh Jain temple",
+      "legacy_group": "Bhavnagar district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/76/temples/0",
+      "name": "Bhaktavatsala Perumal Temple",
+      "legacy_group": "Tiruvarur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/76/temples/1",
+      "name": "Tirucherai Saranathan Temple",
+      "legacy_group": "Tiruvarur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/77/temples/0",
+      "name": "Bateshwar Hindu temples",
+      "legacy_group": "Morena district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/78/temples/0",
+      "name": "Dakshineswar Kali Temple",
+      "legacy_group": "North 24 Parganas district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/79/temples/0",
+      "name": "Takht Sri Patna Sahib",
+      "legacy_group": "Patna district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/80/temples/0",
+      "name": "Shore Temple",
+      "legacy_group": "Chengalpattu district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/80/temples/1",
+      "name": "Tiger Cave",
+      "legacy_group": "Chengalpattu district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/80/temples/2",
+      "name": "Draupadi Ratha",
+      "legacy_group": "Chengalpattu district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/81/temples/0",
+      "name": "Mahabodhi Temple",
+      "legacy_group": "Bodh Gaya",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/82/temples/0",
+      "name": "Kalighat Kali Temple",
+      "legacy_group": "Ward No. 83, Kolkata Municipal Corporation",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/83/temples/0",
+      "name": "Shri Nathjidada Ni Jagya",
+      "legacy_group": "Kalavad Taluka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/84/temples/0",
+      "name": "Kandariya Mahadeva Temple",
+      "legacy_group": "Chhatarpur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/84/temples/1",
+      "name": "Javari Temple, Khajuraho",
+      "legacy_group": "Chhatarpur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/84/temples/2",
+      "name": "Lakshmana Temple",
+      "legacy_group": "Chhatarpur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/84/temples/3",
+      "name": "Chaturbhuj Temple, Khajuraho",
+      "legacy_group": "Chhatarpur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/84/temples/4",
+      "name": "Duladeo Temple",
+      "legacy_group": "Chhatarpur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/84/temples/5",
+      "name": "Devi Jagadambi Temple",
+      "legacy_group": "Chhatarpur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/84/temples/6",
+      "name": "Parshvanatha Temple",
+      "legacy_group": "Chhatarpur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/84/temples/7",
+      "name": "Adinatha temple",
+      "legacy_group": "Chhatarpur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/84/temples/8",
+      "name": "Ghantai temple",
+      "legacy_group": "Chhatarpur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/85/temples/0",
+      "name": "Prahadisvarar Temple",
+      "legacy_group": "Thanjavur",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/86/temples/0",
+      "name": "Dharmaraya Swamy Temple",
+      "legacy_group": "Bengaluru",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/86/temples/1",
+      "name": "Holy Trinity Church, Bangalore",
+      "legacy_group": "Bengaluru",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/86/temples/2",
+      "name": "Gavi Gangadhareshwara Temple",
+      "legacy_group": "Bengaluru",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/86/temples/3",
+      "name": "St. Mark's Cathedral, Bangalore",
+      "legacy_group": "Bengaluru",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/86/temples/4",
+      "name": "St. Francis Xavier's Cathedral, Bengaluru",
+      "legacy_group": "Bengaluru",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/87/temples/0",
+      "name": "Somnath temple",
+      "legacy_group": "Veraval",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/88/temples/0",
+      "name": "Udupi Sri Krishna Matha",
+      "legacy_group": "Udupi district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/88/temples/1",
+      "name": "Milagres Church",
+      "legacy_group": "Udupi district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/89/temples/0",
+      "name": "Dashavatara Temple, Deogarh",
+      "legacy_group": "Lalitpur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/90/temples/0",
+      "name": "Takht Sri Damdama Sahib",
+      "legacy_group": "Bathinda District",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/91/temples/0",
+      "name": "Vaidyanath Jyotirlinga",
+      "legacy_group": "Deoghar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/91/temples/1",
+      "name": "Balananda Ashram, Deoghar",
+      "legacy_group": "Deoghar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/92/temples/0",
+      "name": "Simhachalam Temple",
+      "legacy_group": "Visakhapatnam",
+      "temple_id": "in-visakhapatnam-simhachalam-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/93/temples/0",
+      "name": "Vaishno Devi Temple",
+      "legacy_group": "Katra",
+      "temple_id": "in-katra-vaishno-devi-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/94/temples/0",
+      "name": "Prananadeswarar Temple",
+      "legacy_group": "Maruthuvakudi",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/95/temples/0",
+      "name": "Wargal Saraswati Temple",
+      "legacy_group": "Siddipet district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/96/temples/0",
+      "name": "Kashi Vishwanath Temple",
+      "legacy_group": "Varanasi",
+      "temple_id": "in-varanasi-shri-kashi-vishwanath-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/96/temples/1",
+      "name": "St. Mary’s Cathedral",
+      "legacy_group": "Varanasi",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/97/temples/0",
+      "name": "Galteswar Temple",
+      "legacy_group": "Galateshwar Taluka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/98/temples/0",
+      "name": "Ambalappuzha Sri Krishna Temple",
+      "legacy_group": "Alappuzha district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/98/temples/1",
+      "name": "Kokkamangalam St. Thomas Church",
+      "legacy_group": "Alappuzha district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/98/temples/2",
+      "name": "Mannarasala Temple",
+      "legacy_group": "Alappuzha district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/98/temples/3",
+      "name": "Chammanad devi temple",
+      "legacy_group": "Alappuzha district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/98/temples/4",
+      "name": "Chettikulangara Devi Temple",
+      "legacy_group": "Alappuzha district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/99/temples/0",
+      "name": "Kamakhya Temple",
+      "legacy_group": "Guwahati",
+      "temple_id": "in-guwahati-kamakhya-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/100/temples/0",
+      "name": "Kamakhya Temple",
+      "legacy_group": "Kamrup district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/100/temples/1",
+      "name": "Doul Govinda Temple",
+      "legacy_group": "Kamrup district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/102/temples/0",
+      "name": "Abaya Pradhan Temple",
+      "legacy_group": "Palakkad district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/103/temples/0",
+      "name": "Sri Ranganathaswamy Temple (Srirangapatna)",
+      "legacy_group": "Mandya district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/103/temples/1",
+      "name": "Cheluvanarayana Swamy Temple",
+      "legacy_group": "Mandya district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/103/temples/2",
+      "name": "Brahmeshvara Temple, Kikkeri",
+      "legacy_group": "Mandya district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/104/temples/0",
+      "name": "Sun Temple",
+      "legacy_group": "Becharaji Taluka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/105/temples/0",
+      "name": "Santa Cruz Basilica",
+      "legacy_group": "Kochi",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/105/temples/1",
+      "name": "St. Francis of Assisi in Kochi",
+      "legacy_group": "Kochi",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/106/temples/0",
+      "name": "Ramappa Temple",
+      "legacy_group": "Mulugu district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/107/temples/0",
+      "name": "Mount Mary Church",
+      "legacy_group": "Bandra",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/108/temples/0",
+      "name": "Galtaji",
+      "legacy_group": "Jaipur",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/108/temples/1",
+      "name": "Birla Mandir",
+      "legacy_group": "Jaipur",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/108/temples/2",
+      "name": "Garh Ganesh Temple",
+      "legacy_group": "Jaipur",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/108/temples/3",
+      "name": "Cathedral of Our Lady of the Annunciation in Jaipur",
+      "legacy_group": "Jaipur",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/109/temples/0",
+      "name": "Chakrapani Temple",
+      "legacy_group": "Kudanthaiyan",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/109/temples/1",
+      "name": "Adi Kumbeswarar Temple",
+      "legacy_group": "Kudanthaiyan",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/109/temples/2",
+      "name": "Bhagawan Chandraprabha Jain Temple, Kumbakonam",
+      "legacy_group": "Kudanthaiyan",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/110/temples/0",
+      "name": "Anjaneya Temple, Nanganallur",
+      "legacy_group": "Nanganallur",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/111/temples/0",
+      "name": "Shankheshwar Jain Temple",
+      "legacy_group": "Shankheshwar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/112/temples/0",
+      "name": "Hutheesing Jain Temple",
+      "legacy_group": "Ahmedabad",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/112/temples/1",
+      "name": "Mount Carmel Cathedral",
+      "legacy_group": "Ahmedabad",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/113/temples/0",
+      "name": "Basilica of the Holy-Rosary",
+      "legacy_group": "Hugli-Chuchura",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/113/temples/1",
+      "name": "Armenian Church of St. John the Baptist",
+      "legacy_group": "Hugli-Chuchura",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/114/temples/0",
+      "name": "Baroli Temple Complex",
+      "legacy_group": "Rawatbhata tehsil",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/115/temples/0",
+      "name": "Chennakesava Temple",
+      "legacy_group": "Belur",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/116/temples/0",
+      "name": "Ananthapura Lake Temple",
+      "legacy_group": "Kasaragod district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/116/temples/1",
+      "name": "Bela Church",
+      "legacy_group": "Kasaragod district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/117/temples/0",
+      "name": "Amrutesvara Temple",
+      "legacy_group": "Chikmagalur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/118/temples/0",
+      "name": "Hazur Sahib",
+      "legacy_group": "Nanded",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/119/temples/0",
+      "name": "Srikalahasti Temple",
+      "legacy_group": "Chittoor",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/120/temples/0",
+      "name": "Bhimakali Temple",
+      "legacy_group": "Sarahan",
+      "temple_id": "in-sarahan-bhimakali-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/121/temples/0",
+      "name": "Nakoda",
+      "legacy_group": "Barmer district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/122/temples/0",
+      "name": "Udayagiri and Khandagiri Caves",
+      "legacy_group": "Khordha district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/123/temples/0",
+      "name": "Mahabodhi Chinese Temple",
+      "legacy_group": "Gaya district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/124/temples/0",
+      "name": "Chennakesava Temple at Somanathapura Mysore",
+      "legacy_group": "Somanathapura",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/125/temples/0",
+      "name": "Thiruvithamcode Arappally",
+      "legacy_group": "Thiruvithamcode",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/126/temples/0",
+      "name": "Thiruvithamcode Arappally",
+      "legacy_group": "Kanniyakumari district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/126/temples/1",
+      "name": "Thirunadhikkara Cave Temple",
+      "legacy_group": "Kanniyakumari district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/126/temples/2",
+      "name": "Alappancode Easwara Kala Bhoothathan Temple",
+      "legacy_group": "Kanniyakumari district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/126/temples/3",
+      "name": "St. Francis Xavier's Cathedral, Kottar",
+      "legacy_group": "Kanniyakumari district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/126/temples/4",
+      "name": "St. Jude's Church, Chinnathurai",
+      "legacy_group": "Kanniyakumari district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/126/temples/5",
+      "name": "Chitharal Jain Monuments",
+      "legacy_group": "Kanniyakumari district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/127/temples/0",
+      "name": "Allamprabhu Temple",
+      "legacy_group": "Dharashiv district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/128/temples/0",
+      "name": "Allamprabhu Temple",
+      "legacy_group": "Bhoom Taluka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/129/temples/0",
+      "name": "Shri Hanuman Mandir",
+      "legacy_group": "Barwala Taluka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/130/temples/0",
+      "name": "Avudaiyarkoil",
+      "legacy_group": "Pudukkottai district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/130/temples/1",
+      "name": "Jain Idols And Remains Of The Jain Temple",
+      "legacy_group": "Pudukkottai district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/130/temples/2",
+      "name": "Sittanavasal Rock-Cut Jain Temple",
+      "legacy_group": "Pudukkottai district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/131/temples/0",
+      "name": "అరుణాచలం దేవాలయం",
+      "legacy_group": "Tiruvannamalai district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/131/temples/1",
+      "name": "Tirumalai (Tamil Nadu)",
+      "legacy_group": "Tiruvannamalai district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/132/temples/0",
+      "name": "Jagannath Temple",
+      "legacy_group": "Ranchi district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/133/temples/0",
+      "name": "Madan Mohan Temple",
+      "legacy_group": "Vrindavan",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/133/temples/1",
+      "name": "Radha Damodar Temple, Vrindavan",
+      "legacy_group": "Vrindavan",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/133/temples/2",
+      "name": "ISKCON Temple, Vrindavan",
+      "legacy_group": "Vrindavan",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/133/temples/3",
+      "name": "Radha Ramana",
+      "legacy_group": "Vrindavan",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/133/temples/4",
+      "name": "Banke Bihari Temple",
+      "legacy_group": "Vrindavan",
+      "temple_id": "in-vrindavan-banke-bihari-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/134/temples/0",
+      "name": "Arattupuzha Temple",
+      "legacy_group": "Arattupuzha",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/135/temples/0",
+      "name": "Annapurneshwari Temple, Cherukunnu",
+      "legacy_group": "Kannur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/135/temples/1",
+      "name": "Muthappan Temple",
+      "legacy_group": "Kannur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/136/temples/0",
+      "name": "Chandramouleshwara Temple, Unkal",
+      "legacy_group": "Dharwad district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/137/temples/0",
+      "name": "Palitana temples",
+      "legacy_group": "Palitana",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/138/temples/0",
+      "name": "Church of the Lord Jesus",
+      "legacy_group": "Kolkata",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/138/temples/1",
+      "name": "Birla Mandir",
+      "legacy_group": "Kolkata",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/139/temples/0",
+      "name": "Our Lady of Dolours Basilica",
+      "legacy_group": "Thrissur",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/139/temples/1",
+      "name": "Our Lady of Lourdes Metropolitan Cathedral",
+      "legacy_group": "Thrissur",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/140/temples/0",
+      "name": "Akbar's Church",
+      "legacy_group": "Agra",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/140/temples/1",
+      "name": "Cathedral of the Immaculate Conception of Agra",
+      "legacy_group": "Agra",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/141/temples/0",
+      "name": "Arahanthgiri Jain Math",
+      "legacy_group": "Tiruvannamalai",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/141/temples/1",
+      "name": "Sri Ramana Ashram",
+      "legacy_group": "Tiruvannamalai",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/142/temples/0",
+      "name": "Cathedral of the Most Holy Rosary",
+      "legacy_group": "Ward No. 42, Kolkata Municipal Corporation",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/142/temples/1",
+      "name": "Swetamber Panchayati Temple",
+      "legacy_group": "Ward No. 42, Kolkata Municipal Corporation",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/143/temples/0",
+      "name": "Cathedral of Mary Help of Christians, Shillong",
+      "legacy_group": "Shillong",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/144/temples/0",
+      "name": "Centenary Methodist Church",
+      "legacy_group": "Hyderabad",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/144/temples/1",
+      "name": "Birla Mandir, Hyderabad",
+      "legacy_group": "Hyderabad",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/144/temples/2",
+      "name": "St Joseph's Cathedral",
+      "legacy_group": "Hyderabad",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/144/temples/3",
+      "name": "Ashtalakshmi Temple, Hyderabad",
+      "legacy_group": "Hyderabad",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/145/temples/0",
+      "name": "Chandragupta Basadi",
+      "legacy_group": "Shravanabelagola",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/145/temples/1",
+      "name": "Parshvanatha Basadi",
+      "legacy_group": "Shravanabelagola",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/145/temples/2",
+      "name": "Akkana Basadi",
+      "legacy_group": "Shravanabelagola",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/145/temples/3",
+      "name": "Chavundaraya Basadi",
+      "legacy_group": "Shravanabelagola",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/146/temples/0",
+      "name": "Biranchinarayan Temple, Buguda",
+      "legacy_group": "Ganjam district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/146/temples/1",
+      "name": "Siddha Bhairavi",
+      "legacy_group": "Ganjam district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/147/temples/0",
+      "name": "Attukal Temple",
+      "legacy_group": "Thiruvananthapuram district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/147/temples/1",
+      "name": "Karikkakom Devi Temple",
+      "legacy_group": "Thiruvananthapuram district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/148/temples/0",
+      "name": "Teli ka Temple",
+      "legacy_group": "Gwalior",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/148/temples/1",
+      "name": "Cathedral of St. John the Baptist",
+      "legacy_group": "Gwalior",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/149/temples/0",
+      "name": "Hoysaleswara Temple",
+      "legacy_group": "Hassan district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/149/temples/1",
+      "name": "Bucesvara Temple, Koravangala",
+      "legacy_group": "Hassan district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/149/temples/2",
+      "name": "Lakshmi Devi Temple",
+      "legacy_group": "Hassan district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/149/temples/3",
+      "name": "Parsvanatha Basti",
+      "legacy_group": "Hassan district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/149/temples/4",
+      "name": "Shantinatha Basadi, Jinanathapura",
+      "legacy_group": "Hassan district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/149/temples/5",
+      "name": "Odegal Basadi",
+      "legacy_group": "Hassan district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/149/temples/6",
+      "name": "Bhandara Basadi",
+      "legacy_group": "Hassan district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/150/temples/0",
+      "name": "Viratteswara Temple",
+      "legacy_group": "Nagapattinam district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/150/temples/1",
+      "name": "Brahmapureeswarar Temple, Thirukkuvalai",
+      "legacy_group": "Nagapattinam district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/150/temples/2",
+      "name": "Amritaghateswarar-Abirami Temple,Thirukkadaiyur",
+      "legacy_group": "Nagapattinam district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/151/temples/0",
+      "name": "Agroha Dham",
+      "legacy_group": "Hisar district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/152/temples/0",
+      "name": "Birla Mandir, Shahad",
+      "legacy_group": "Thane district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/153/temples/0",
+      "name": "Alattiyur Hanuman Temple",
+      "legacy_group": "Malappuram district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/154/temples/0",
+      "name": "Baijnath Temple, Himachal Pradesh",
+      "legacy_group": "Kangra district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/155/temples/0",
+      "name": "Bhadrachalam Temple",
+      "legacy_group": "Bhadradri Kothagudem district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/156/temples/0",
+      "name": "Mahalakshmi Temple",
+      "legacy_group": "Kolhapur",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/157/temples/0",
+      "name": "Cathedral of the Holy Name",
+      "legacy_group": "Mumbai",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/157/temples/1",
+      "name": "Church of Our Lady of Mount Carmel, Bandra",
+      "legacy_group": "Mumbai",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/157/temples/2",
+      "name": "Gloria Church",
+      "legacy_group": "Mumbai",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/157/temples/3",
+      "name": "St. Thomas Cathedral, Mumbai",
+      "legacy_group": "Mumbai",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/158/temples/0",
+      "name": "Shiva temple, Bhumara",
+      "legacy_group": "Satna district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/159/temples/0",
+      "name": "Rajadhiraja St. Mary's Jacobite Syrian Cathedral",
+      "legacy_group": "Piravom",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/160/temples/0",
+      "name": "Vattal Kurishu Palli",
+      "legacy_group": "Kozhikode district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/161/temples/0",
+      "name": "Aharji",
+      "legacy_group": "Tikamgarh district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/162/temples/0",
+      "name": "Our Lady of Snows",
+      "legacy_group": "Kallikulam",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/163/temples/0",
+      "name": "Our Lady of Lourdes Shrine",
+      "legacy_group": "Villianur",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/164/temples/0",
+      "name": "Basilica of Our Lady of the Assumption, Secunderabad",
+      "legacy_group": "Secunderabad",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/164/temples/1",
+      "name": "Holy Trinity Church, Bolarum",
+      "legacy_group": "Secunderabad",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/165/temples/0",
+      "name": "Chaturdasha Temple",
+      "legacy_group": "West Tripura District",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/167/temples/0",
+      "name": "Balkampet Yellamma temple",
+      "legacy_group": "Telangana",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/167/temples/1",
+      "name": "Chilkur Balaji Temple",
+      "legacy_group": "Telangana",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/167/temples/2",
+      "name": "Chaya Someswara Swamy temple",
+      "legacy_group": "Telangana",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/168/temples/0",
+      "name": "Balaji Mandir Ketkawla",
+      "legacy_group": "Pune district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/168/temples/1",
+      "name": "Chintamani Temple, Theur",
+      "legacy_group": "Pune district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/168/temples/2",
+      "name": "Bhuleshwar Temple, Pune",
+      "legacy_group": "Pune district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/169/temples/0",
+      "name": "CSI Immanuel Church, Ernakulam",
+      "legacy_group": "Ernakulam",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/170/temples/0",
+      "name": "Baleshwar Temple",
+      "legacy_group": "Champawat district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/171/temples/0",
+      "name": "Calcutta Jain Temple",
+      "legacy_group": "Ward No. 15, Kolkata Municipal Corporation",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/171/temples/1",
+      "name": "Sri Sri Shitalnath Swami Garden Temple",
+      "legacy_group": "Ward No. 15, Kolkata Municipal Corporation",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/171/temples/2",
+      "name": "Jain Swetamber Dadaji's Temple",
+      "legacy_group": "Ward No. 15, Kolkata Municipal Corporation",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/171/temples/3",
+      "name": "Sri Sri Chandraprabhuji temple",
+      "legacy_group": "Ward No. 15, Kolkata Municipal Corporation",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/171/temples/4",
+      "name": "Sri Sri Mahavir Swami Temple",
+      "legacy_group": "Ward No. 15, Kolkata Municipal Corporation",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/172/temples/0",
+      "name": "Christ Church (Shimla)",
+      "legacy_group": "Shimla",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/173/temples/0",
+      "name": "Danteshwari Temple",
+      "legacy_group": "Dantewada district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/174/temples/0",
+      "name": "Bagnath Temple",
+      "legacy_group": "Bageshwar district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/174/temples/1",
+      "name": "Anasakti Gandhi Ashram",
+      "legacy_group": "Bageshwar district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/175/temples/0",
+      "name": "Biraja Temple",
+      "legacy_group": "Jajpur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/176/temples/0",
+      "name": "Dadhimati Mata Temple",
+      "legacy_group": "Jayal",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/177/temples/0",
+      "name": "Dagadusheth Halwai Ganapati Temple",
+      "legacy_group": "Pune",
+      "temple_id": "in-pune-dagadusheth-halwai-ganapati-temple",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/177/temples/1",
+      "name": "Kasba Ganapati Temple",
+      "legacy_group": "Pune",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/177/temples/2",
+      "name": "Shinde Chhatri",
+      "legacy_group": "Pune",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/177/temples/3",
+      "name": "Christ Prem Seva Sangh",
+      "legacy_group": "Pune",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/177/temples/4",
+      "name": "St. Patrick's Cathedral, Pune",
+      "legacy_group": "Pune",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/177/temples/5",
+      "name": "Chandraprabhu Maharaj Jain Mandir",
+      "legacy_group": "Pune",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/178/temples/0",
+      "name": "Daksheswara Mahadev Temple",
+      "legacy_group": "Haridwar district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/178/temples/1",
+      "name": "Chandi Devi Temple, Haridwar",
+      "legacy_group": "Haridwar district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/180/temples/0",
+      "name": "Akhandalamani Temple",
+      "legacy_group": "Bhadrak district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/180/temples/1",
+      "name": "Bhadrakali Temple",
+      "legacy_group": "Bhadrak district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/181/temples/0",
+      "name": "Chenraya Perumal Temple",
+      "legacy_group": "Dharmapuri district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/182/temples/0",
+      "name": "Chandrabadani Devi",
+      "legacy_group": "Tehri Garhwal district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/183/temples/0",
+      "name": "Chennakesava Perumal Temple, Chennai",
+      "legacy_group": "Chennai district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/184/temples/0",
+      "name": "Dimapur Kalibari",
+      "legacy_group": "Dimapur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/185/temples/0",
+      "name": "Jatashankar",
+      "legacy_group": "Pachmarhi",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/186/temples/0",
+      "name": "Salasar Balaji",
+      "legacy_group": "Churu district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/187/temples/0",
+      "name": "Ajmer Jain Temple",
+      "legacy_group": "Ajmer",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/189/temples/0",
+      "name": "Akkanna Madanna Temple",
+      "legacy_group": "Hyderabad district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/189/temples/1",
+      "name": "Bhagyalakshmi temple",
+      "legacy_group": "Hyderabad district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/192/temples/0",
+      "name": "Adinatha Perumal Temple",
+      "legacy_group": "Thoothukudi district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/193/temples/0",
+      "name": "Ashram Sree Krishna Swamy Temple",
+      "legacy_group": "Kollam district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/193/temples/1",
+      "name": "Anandavaleeswaram Temple",
+      "legacy_group": "Kollam district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/194/temples/0",
+      "name": "Chandika Sthan",
+      "legacy_group": "Munger district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/195/temples/0",
+      "name": "Doddabasappa Temple, Dambal",
+      "legacy_group": "Gadag district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/195/temples/1",
+      "name": "Brahma Jinalaya, Lakkundi",
+      "legacy_group": "Gadag district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/196/temples/0",
+      "name": "Durgiana Temple",
+      "legacy_group": "Amritsar district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/197/temples/0",
+      "name": "Durga Temple, Motia",
+      "legacy_group": "Cuttack",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/198/temples/0",
+      "name": "Church of St. Anne, Talaulim",
+      "legacy_group": "Tiswadi taluk",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/198/temples/1",
+      "name": "Chapel of St. Xavier",
+      "legacy_group": "Tiswadi taluk",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/198/temples/2",
+      "name": "Chapel of St. Jeronimus",
+      "legacy_group": "Tiswadi taluk",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/199/temples/0",
+      "name": "Chapel of Our Lady of Brotas",
+      "legacy_group": "Karwar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/199/temples/1",
+      "name": "Cathedral of the Assumption of Our Lady",
+      "legacy_group": "Karwar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/200/temples/0",
+      "name": "Church of Our Lady of Hope",
+      "legacy_group": "Vypin",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/201/temples/0",
+      "name": "Holy Magi Syro-Malabar Catholic Forane Church, Muvattupuzha",
+      "legacy_group": "Muvattupuzha",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/202/temples/0",
+      "name": "Amaramkavu",
+      "legacy_group": "Idukki district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/203/temples/0",
+      "name": "Amararama",
+      "legacy_group": "Amaravathi mandal",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/204/temples/0",
+      "name": "Bhairabi Temple",
+      "legacy_group": "Sonitpur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/205/temples/0",
+      "name": "Bhaktavatsala Perumal Temple, Thirunindravur",
+      "legacy_group": "Tiruvallur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/206/temples/0",
+      "name": "Erumbeeswarar Temple",
+      "legacy_group": "Tiruchirappalli district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/206/temples/1",
+      "name": "Sri Lalitha Mahila Samajam",
+      "legacy_group": "Tiruchirappalli district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/207/temples/0",
+      "name": "Kukke Subramanya Temple",
+      "legacy_group": "Dakshina Kannada district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/207/temples/1",
+      "name": "Hospet Church",
+      "legacy_group": "Dakshina Kannada district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/207/temples/2",
+      "name": "St. Mary’s Pro-Cathedral",
+      "legacy_group": "Dakshina Kannada district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/207/temples/3",
+      "name": "Saavira Kambada Basadi",
+      "legacy_group": "Dakshina Kannada district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/208/temples/0",
+      "name": "Afghan Church",
+      "legacy_group": "Navy Nagar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/209/temples/0",
+      "name": "Dichpally Ramalayam",
+      "legacy_group": "Nizamabad district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/210/temples/0",
+      "name": "Holy Cross Church, Kurla",
+      "legacy_group": "Kurla",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/211/temples/0",
+      "name": "Holy Trinity Cathedral, Palayamkottai",
+      "legacy_group": "Palayamkottai",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/211/temples/1",
+      "name": "St. Francis Xavier’s Cathedral",
+      "legacy_group": "Palayamkottai",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/212/temples/0",
+      "name": "Chaturbhuj Temple, Orchha",
+      "legacy_group": "Orchha",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/213/temples/0",
+      "name": "Gopinath Mandir",
+      "legacy_group": "Chamoli district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/214/temples/0",
+      "name": "Gaurishvara Temple, Yelandur",
+      "legacy_group": "Chamarajanagar district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/215/temples/0",
+      "name": "Dhari Devi",
+      "legacy_group": "Srinagar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/215/temples/1",
+      "name": "Holy Family Catholic Church",
+      "legacy_group": "Srinagar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/216/temples/0",
+      "name": "Gangaikonda Cholapuram Temple",
+      "legacy_group": "Ariyalur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/217/temples/0",
+      "name": "Krishna Janmasthan Temple Complex",
+      "legacy_group": "Mathura",
+      "temple_id": "in-mathura-krishna-janmasthan-temple-complex",
+      "status": "matched_name_and_region"
+    },
+    {
+      "legacy_pointer": "/states/218/temples/0",
+      "name": "Devipuram",
+      "legacy_group": "Anakapalli district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/220/temples/0",
+      "name": "Mylara Lingeshwara Temple",
+      "legacy_group": "Ballari district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/221/temples/0",
+      "name": "Bhoramdeo Temple",
+      "legacy_group": "Kawardha",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/222/temples/0",
+      "name": "Bhattarika Temple",
+      "legacy_group": "Cuttack district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/223/temples/0",
+      "name": "Marichi Temple",
+      "legacy_group": "Balasore district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/224/temples/0",
+      "name": "Anandashram, Kanhangad",
+      "legacy_group": "Unknown State",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/224/temples/1",
+      "name": "Santa Cruz Basilica Cemetery Chapel",
+      "legacy_group": "Unknown State",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/224/temples/2",
+      "name": "Bibrod Tirth",
+      "legacy_group": "Unknown State",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/224/temples/3",
+      "name": "Kanch Mandir",
+      "legacy_group": "Unknown State",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/224/temples/4",
+      "name": "Mohankheda",
+      "legacy_group": "Unknown State",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/224/temples/5",
+      "name": "Nareli Jain Temple",
+      "legacy_group": "Unknown State",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/224/temples/6",
+      "name": "Naya Mandir",
+      "legacy_group": "Unknown State",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/224/temples/7",
+      "name": "Shree Pavapuri Tirth Dham",
+      "legacy_group": "Unknown State",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/224/temples/8",
+      "name": "Jainimedu Jain temple",
+      "legacy_group": "Unknown State",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/224/temples/9",
+      "name": "Shantinath Jain Teerth",
+      "legacy_group": "Unknown State",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/224/temples/10",
+      "name": "Suparshavanath Temple, Ranakpur",
+      "legacy_group": "Unknown State",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/224/temples/11",
+      "name": "Khandargiri Jain Cave temples, Chanderi",
+      "legacy_group": "Unknown State",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/224/temples/12",
+      "name": "Chaubara Dera 2, Un",
+      "legacy_group": "Unknown State",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/224/temples/13",
+      "name": "Adishwar Temple, Shatrunjay",
+      "legacy_group": "Unknown State",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/225/temples/0",
+      "name": "Kodandarama Temple",
+      "legacy_group": "Hiremagalur",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/226/temples/0",
+      "name": "Poondi Madha Basilica",
+      "legacy_group": "Poondi",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/228/temples/0",
+      "name": "St. George Syro-Malabar Catholic Basilica, Angamaly",
+      "legacy_group": "Angamaly",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/230/temples/0",
+      "name": "Sri Kodandrama Swamy Temple, Vontimitta",
+      "legacy_group": "Vontimitta",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/231/temples/0",
+      "name": "Beatles Ashram",
+      "legacy_group": "Rishikesh",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/231/temples/1",
+      "name": "Swami Dayananda Ashram",
+      "legacy_group": "Rishikesh",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/232/temples/0",
+      "name": "Valmiki Ashram",
+      "legacy_group": "Kanpur Nagar district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/233/temples/0",
+      "name": "Kreupasanam Marian Shrine",
+      "legacy_group": "Kalavoor",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/234/temples/0",
+      "name": "Vishwamitra Ashram, Bisaul",
+      "legacy_group": "Madhubani district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/235/temples/0",
+      "name": "Mahanad Jora Shiva Temple",
+      "legacy_group": "Mahanad gram panchayat",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/236/temples/0",
+      "name": "Valinath Mahadev temple, Tarabh",
+      "legacy_group": "Visnagar Taluka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/237/temples/0",
+      "name": "Rasmancha",
+      "legacy_group": "Bishnupur",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/238/temples/0",
+      "name": "St. Joseph's Catholic Church",
+      "legacy_group": "Baramulla",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/239/temples/0",
+      "name": "Sumi Baptist Church",
+      "legacy_group": "Zunheboto",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/240/temples/0",
+      "name": "Carey Baptist Church",
+      "legacy_group": "Ward No. 46, Kolkata Municipal Corporation",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/241/temples/0",
+      "name": "Parsi Tower of Silence",
+      "legacy_group": "Ward No. 33, Kolkata Municipal Corporation",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/242/temples/0",
+      "name": "Abantika Navaratna Ras Mancha",
+      "legacy_group": "Bishnupur community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/242/temples/1",
+      "name": "Rangamani Ras Mancha",
+      "legacy_group": "Bishnupur community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/243/temples/0",
+      "name": "Rashkhola Rashmancha",
+      "legacy_group": "Khardah",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/244/temples/0",
+      "name": "Gopinath Jiu Rasmancha",
+      "legacy_group": "Pursurah community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/245/temples/0",
+      "name": "St. Joseph’s Parish Shrine, Pavaratty",
+      "legacy_group": "Chavakkad",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/246/temples/0",
+      "name": "Our Lady Of Refuge Church, Elathagiri",
+      "legacy_group": "Elathagiri",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/247/temples/0",
+      "name": "Rasmancha of Lakshmi Janardan temple",
+      "legacy_group": "Daspur II community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/247/temples/1",
+      "name": "Rasmancha of Shridharjiu temple",
+      "legacy_group": "Daspur II community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/248/temples/0",
+      "name": "Rasmancha of Shridhar temple",
+      "legacy_group": "Ghatal community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/249/temples/0",
+      "name": "Rasmancha of Lakshmi Janardanjiu",
+      "legacy_group": "Debra community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/249/temples/1",
+      "name": "Satyapur Rasmancha",
+      "legacy_group": "Debra community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/250/temples/0",
+      "name": "Rasmancha of Narajole Rajbari",
+      "legacy_group": "Daspur I community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/250/temples/1",
+      "name": "Rasmancha of Shridharjiu temple of Hazra family",
+      "legacy_group": "Daspur I community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/250/temples/2",
+      "name": "Rasmancha of Gopinath temple of Goswami family",
+      "legacy_group": "Daspur I community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/250/temples/3",
+      "name": "Rasmancha of Sitaram temple of Bera family",
+      "legacy_group": "Daspur I community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/251/temples/0",
+      "name": "Tulsimancha of Dey family",
+      "legacy_group": "Ghatal",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/252/temples/0",
+      "name": "Rasmancha of Raghunath temple",
+      "legacy_group": "Egra I community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/252/temples/1",
+      "name": "Rasmancha of Radha Gokulananda temple",
+      "legacy_group": "Egra I community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/253/temples/0",
+      "name": "Rasmancha of Hatnagar Shiva temple",
+      "legacy_group": "Egra",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/254/temples/0",
+      "name": "Rasmancha of Raha family",
+      "legacy_group": "Joypur community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/254/temples/1",
+      "name": "Supur Rasmancha",
+      "legacy_group": "Joypur community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/255/temples/0",
+      "name": "Beliatore Rasmancha",
+      "legacy_group": "Barjora community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/256/temples/0",
+      "name": "Jaypur Rasmancha",
+      "legacy_group": "Amta II community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/257/temples/0",
+      "name": "Rasmancha of Mandal family",
+      "legacy_group": "Jagatballavpur community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/257/temples/1",
+      "name": "Nijbalia Rasmancha",
+      "legacy_group": "Jagatballavpur community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/257/temples/2",
+      "name": "Rasmancha of Bhubaneshwar Shiva Temple of Manna family",
+      "legacy_group": "Jagatballavpur community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/258/temples/0",
+      "name": "Dol Mandir of Basu family",
+      "legacy_group": "Manteswar community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/259/temples/0",
+      "name": "Rasmancha of Radhaballabh temple",
+      "legacy_group": "Keshpur community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/259/temples/1",
+      "name": "Rasmancha of Jagadishwar Shiva temple",
+      "legacy_group": "Keshpur community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/260/temples/0",
+      "name": "Dolmancha of Radhaballabhjiu",
+      "legacy_group": "Raina I community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/261/temples/0",
+      "name": "Rasmancha of Sridharnathjiu of Samanta family",
+      "legacy_group": "Udaynarayanpur community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/262/temples/0",
+      "name": "Rasmancha of Radhamadhab temple",
+      "legacy_group": "Faridpur-Durgapur community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/263/temples/0",
+      "name": "Rasmancha of Radhamadhab temple of Sarkar family",
+      "legacy_group": "Andal community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/264/temples/0",
+      "name": "Rasmancha of Radhagobinda temple",
+      "legacy_group": "Chandrakona II community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/264/temples/1",
+      "name": "Rasmancha of Shridhar temple of Sarkar family",
+      "legacy_group": "Chandrakona II community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/264/temples/2",
+      "name": "Rasmancha of Damodar",
+      "legacy_group": "Chandrakona II community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/265/temples/0",
+      "name": "Rasmancha of Radhamadhab temple of Mailty family",
+      "legacy_group": "Panskura community development block",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/267/temples/0",
+      "name": "Our Lady of Lourdes Church",
+      "legacy_group": "Kalyan",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/270/temples/0",
+      "name": "Mary Help of Christians Cathedral, Kohima",
+      "legacy_group": "Kohima",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/271/temples/0",
+      "name": "Medak Cathedral",
+      "legacy_group": "Medak",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/272/temples/0",
+      "name": "Our Lady of Rosary of Mangalore",
+      "legacy_group": "Mangaluru",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/273/temples/0",
+      "name": "Sacred Heart Syro-Malabar Cathedral",
+      "legacy_group": "Rajkot",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/274/temples/0",
+      "name": "St. Mary's Cathedral, Punalur",
+      "legacy_group": "Punalur",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/275/temples/0",
+      "name": "St Thomas Cathedral & Bishop House",
+      "legacy_group": "Irinjalakuda",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/276/temples/0",
+      "name": "St. Michael’s Cathedral",
+      "legacy_group": "Coimbatore",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/277/temples/0",
+      "name": "Sacred Heart Cathedral, Rourkela",
+      "legacy_group": "Rourkela",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/278/temples/0",
+      "name": "St. Joseph's Cathedral, Prayagraj",
+      "legacy_group": "Prayagraj Nagar Nigam area",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/279/temples/0",
+      "name": "St. Mary's Cathedral, Jalandhar",
+      "legacy_group": "Jalandhar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/280/temples/0",
+      "name": "Kannamcode Cathedral",
+      "legacy_group": "Adoor",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/281/temples/0",
+      "name": "St. John's Cathedral, Tiruvalla",
+      "legacy_group": "Tiruvalla",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/282/temples/0",
+      "name": "St. Joseph's Cathedral, Imphal",
+      "legacy_group": "Imphal",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/283/temples/0",
+      "name": "St. John's Cathedral, Nazareth",
+      "legacy_group": "Nazareth",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/285/temples/0",
+      "name": "Holy Trinity Cathedral",
+      "legacy_group": "Kottayam",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/285/temples/1",
+      "name": "Immaculate Heart of Mary Cathedral",
+      "legacy_group": "Kottayam",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/285/temples/2",
+      "name": "Christ the King Cathedral",
+      "legacy_group": "Kottayam",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/286/temples/0",
+      "name": "Epiphany Cathedral, Dornakal",
+      "legacy_group": "Dornakal Mandal",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/288/temples/0",
+      "name": "St Mary's Metropolitan Cathedral",
+      "legacy_group": "Changanassery",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/289/temples/0",
+      "name": "St. Francis de Sales Cathedral of Nagpur",
+      "legacy_group": "Nagpur",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/290/temples/0",
+      "name": "Infant Jesus Cathedral",
+      "legacy_group": "Kollam",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/291/temples/0",
+      "name": "St. Mary's Cathedral, Ranchi",
+      "legacy_group": "Ranchi",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/292/temples/0",
+      "name": "Sacred Heart Church, Asansol",
+      "legacy_group": "Asansol",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/293/temples/0",
+      "name": "Church of Bom Jesus",
+      "legacy_group": "Daman district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/293/temples/1",
+      "name": "The Chapel of Our Lady of Rosario",
+      "legacy_group": "Daman district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/294/temples/0",
+      "name": "St. Joseph's Cathedral, Kotdwar",
+      "legacy_group": "Kotdwar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/295/temples/0",
+      "name": "Sacred Heart Cathedral in Tuticorin",
+      "legacy_group": "Thoothukudi",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/296/temples/0",
+      "name": "Cathedral of Our Lady of Mount Carmel, Alappuzha",
+      "legacy_group": "Alappuzha",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/297/temples/0",
+      "name": "Cathedral of St. Alphonsus de Ligouri, Bareilly",
+      "legacy_group": "Bareilly",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/298/temples/0",
+      "name": "St. Micheal's Cathedral, Kottappuram",
+      "legacy_group": "Kottappuram, Thrissur",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/299/temples/0",
+      "name": "Alangara Annai Cathedral",
+      "legacy_group": "Sivaganga",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/300/temples/0",
+      "name": "Sts. Peter and Paul Cathedral",
+      "legacy_group": "Jabalpur",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/300/temples/1",
+      "name": "Hanumantal Bada Jain Mandir",
+      "legacy_group": "Jabalpur",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/301/temples/0",
+      "name": "Cathedral of the Holy Redeemer",
+      "legacy_group": "Krishnanagar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/302/temples/0",
+      "name": "Cathedral of the Infant Jesus",
+      "legacy_group": "Salem",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/303/temples/0",
+      "name": "St. Paul’s Cathedral",
+      "legacy_group": "Vijayawada",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/304/temples/0",
+      "name": "Immaculate Conception Cathedral",
+      "legacy_group": "Darjeeling",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/305/temples/0",
+      "name": "Cathedral of the Immaculate Heart of Mary and St. Teresa of Calcutta",
+      "legacy_group": "Baruipur",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/306/temples/0",
+      "name": "Cathedral of the Nativity of the Blessed Virgin Mary",
+      "legacy_group": "Bettiah",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/307/temples/0",
+      "name": "Cathedral of the Sacred Heart, Dibrugarh",
+      "legacy_group": "Dibrugarh district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/308/temples/0",
+      "name": "Cathedral of St. Joseph",
+      "legacy_group": "Dindigul",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/309/temples/0",
+      "name": "Sacred Heart Cathedral",
+      "legacy_group": "Shimoga",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/311/temples/0",
+      "name": "Mariarani Cathedral",
+      "legacy_group": "Nalgonda",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/313/temples/0",
+      "name": "Cathedral of Our Lady of Grace",
+      "legacy_group": "Vasai",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/315/temples/0",
+      "name": "Cathedral of Our Lady of the Family Rosary of Fatima",
+      "legacy_group": "Belgaum",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/316/temples/0",
+      "name": "St. Francis de Sales Cathedral",
+      "legacy_group": "Aurangabad",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/318/temples/0",
+      "name": "Cathedral of the Holy Trinity",
+      "legacy_group": "Kannur",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/320/temples/0",
+      "name": "Sacred Heart Cathedral, Ooty",
+      "legacy_group": "Ooty",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/342/temples/0",
+      "name": "Padmakshi Temple",
+      "legacy_group": "Hanamkonda district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/344/temples/0",
+      "name": "Holy Spirit Church, Margao",
+      "legacy_group": "Margao",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/347/temples/0",
+      "name": "Hastings Chapel",
+      "legacy_group": "Ward No. 75, Kolkata Municipal Corporation",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/349/temples/0",
+      "name": "Jattappa Naykana Chandranathesvara Basti temple",
+      "legacy_group": "Uttara Kannada District",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/350/temples/0",
+      "name": "Jain Temple of Suswani Goddess",
+      "legacy_group": "Bikaner district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/352/temples/0",
+      "name": "Lourd Mata Mandir",
+      "legacy_group": "Nagpur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/355/temples/0",
+      "name": "Assumption Cathedral",
+      "legacy_group": "Vellore",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/359/temples/0",
+      "name": "St. Mary’s Co-Cathedral",
+      "legacy_group": "Salem district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/361/temples/0",
+      "name": "Cathedral of the Queen of Peace",
+      "legacy_group": "Medininagar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/362/temples/0",
+      "name": "Cathedral of St. Michael",
+      "legacy_group": "Raigarh",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/363/temples/0",
+      "name": "Cathedral of the Resurrection",
+      "legacy_group": "Hazaribagh",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/364/temples/0",
+      "name": "Cathedral of St. Paul",
+      "legacy_group": "Dumka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/365/temples/0",
+      "name": "Stella Maris Cathedral",
+      "legacy_group": "Srivijayapuram",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/365/temples/1",
+      "name": "Shree Munisuvrat Swami Jain Temple, Port Blair",
+      "legacy_group": "Srivijayapuram",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/366/temples/0",
+      "name": "Cathedral of St. Theresa of Lisieux",
+      "legacy_group": "Jowai",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/367/temples/0",
+      "name": "Church of the Holy Cross",
+      "legacy_group": "Silchar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/368/temples/0",
+      "name": "Former Cathedral of the Immaculate Conception",
+      "legacy_group": "Pullichira",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/369/temples/0",
+      "name": "Cathedral of St. Peter the Apostle",
+      "legacy_group": "Nongstoin",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/370/temples/0",
+      "name": "St. Dominic’s Cathedral",
+      "legacy_group": "Kanjirappally",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/371/temples/0",
+      "name": "Bawangaja",
+      "legacy_group": "Barwani",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/372/temples/0",
+      "name": "Jahaj Mandir",
+      "legacy_group": "Mandwala",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/373/temples/0",
+      "name": "Kulpakji",
+      "legacy_group": "Kolanupaka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/374/temples/0",
+      "name": "Muchhal Mahavir Temple",
+      "legacy_group": "Ghanerao",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/375/temples/0",
+      "name": "Shri Mahavirji",
+      "legacy_group": "Karauli district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/376/temples/0",
+      "name": "Tijara Jain Temple",
+      "legacy_group": "Tijara",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/377/temples/0",
+      "name": "Jain Temple, Kidanganad",
+      "legacy_group": "Wayanad district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/378/temples/0",
+      "name": "Mirpur Jain Temple",
+      "legacy_group": "Mirpur, Sirohi",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/379/temples/0",
+      "name": "Remains of buried Jain temple at Danabalapadu",
+      "legacy_group": "YSR  Kadapa district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/380/temples/0",
+      "name": "Bhand Dewal",
+      "legacy_group": "Raipur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/381/temples/0",
+      "name": "SiddalaKona",
+      "legacy_group": "Sri Potti Sri Ramulu Nellore district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/382/temples/0",
+      "name": "Girnar Jain temples",
+      "legacy_group": "Junagadh district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/382/temples/1",
+      "name": "Neminath Jain Temple, Girnar",
+      "legacy_group": "Junagadh district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/383/temples/0",
+      "name": "Sanghiji",
+      "legacy_group": "Jaipur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/384/temples/0",
+      "name": "Kalugumalai Jain Beds",
+      "legacy_group": "Kalugumalai",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/385/temples/0",
+      "name": "Ahinsa Sthal",
+      "legacy_group": "Mehrauli",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/386/temples/0",
+      "name": "Bhadreshwar Jain Temple",
+      "legacy_group": "Bhadresar",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/387/temples/0",
+      "name": "Jambudweep",
+      "legacy_group": "Hastinapur",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/388/temples/0",
+      "name": "Kumbharia Jain temples",
+      "legacy_group": "Banaskantha district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/389/temples/0",
+      "name": "Mahavira Jain temple",
+      "legacy_group": "Jodhpur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/390/temples/0",
+      "name": "Naugaza Digambar Jain temple",
+      "legacy_group": "Alwar district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/391/temples/0",
+      "name": "Dehra Temple",
+      "legacy_group": "Gurugram district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/392/temples/0",
+      "name": "Jain temples, Talaja",
+      "legacy_group": "Talaja Taluka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/393/temples/0",
+      "name": "Pavagadh fort and temples",
+      "legacy_group": "Halol Taluka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/393/temples/1",
+      "name": "Jain temples, Pavagadh",
+      "legacy_group": "Halol Taluka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/395/temples/0",
+      "name": "Shree Parshvanatha Digambar Jain Upavan Mandir",
+      "legacy_group": "Ward No. 5, Kolkata Municipal Corporation",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/397/temples/0",
+      "name": "Shri Atma Vallabh Jain Smarak",
+      "legacy_group": "Nangli Puna",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/398/temples/0",
+      "name": "Kere Basadi",
+      "legacy_group": "Varanga",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/399/temples/0",
+      "name": "Jain temple, Mettupudur",
+      "legacy_group": "Erode district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/402/temples/0",
+      "name": "Bajramath Temple, Gyaraspur",
+      "legacy_group": "Vidisha district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/402/temples/1",
+      "name": "Maladevi Temple",
+      "legacy_group": "Vidisha district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/402/temples/2",
+      "name": "Jain temples group, Badoh",
+      "legacy_group": "Vidisha district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/404/temples/0",
+      "name": "Humcha Jain temples",
+      "legacy_group": "Shimoga district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/405/temples/0",
+      "name": "Gadarmal Devi temple",
+      "legacy_group": "Vidisha",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/406/temples/0",
+      "name": "Jain temples, Abhapur",
+      "legacy_group": "Vijaynagar (Sabarkantha) Taluka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/407/temples/0",
+      "name": "Vahelna Jain temple",
+      "legacy_group": "Vahelna",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/408/temples/0",
+      "name": "Sarnath Jain Tirth",
+      "legacy_group": "Sarnath",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/409/temples/0",
+      "name": "Shobhnath temple",
+      "legacy_group": "Shravasti",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/410/temples/0",
+      "name": "Guru Basadi",
+      "legacy_group": "Moodubidire",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/411/temples/0",
+      "name": "Chandraprabhu Temple",
+      "legacy_group": "Jaisalmer",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/412/temples/0",
+      "name": "Chamatkarji Jain Temple",
+      "legacy_group": "Sawai Madhopur district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/414/temples/0",
+      "name": "Shantinatha temple, Ramtek",
+      "legacy_group": "Ramtek, Maharashtra",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/415/temples/0",
+      "name": "Dadawadi, Mehsana",
+      "legacy_group": "Mehsana Taluka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/416/temples/0",
+      "name": "Manoranjan Parshwanath Jain Temple, Mehsana",
+      "legacy_group": "Mehsana district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/417/temples/0",
+      "name": "Suparshvanatha temple, Pavagad hill",
+      "legacy_group": "Panchmahal district",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/418/temples/0",
+      "name": "Nana Poshina Parshwanath Jain Temple",
+      "legacy_group": "Idar Taluka",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/419/temples/0",
+      "name": "Gollatha Gudi",
+      "legacy_group": "Jadcherla  Mandal",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/430/temples/0",
+      "name": "Toong Oon church",
+      "legacy_group": "Ward No. 44, Kolkata Municipal Corporation",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/430/temples/1",
+      "name": "Sea Ip Church",
+      "legacy_group": "Ward No. 44, Kolkata Municipal Corporation",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    },
+    {
+      "legacy_pointer": "/states/435/temples/0",
+      "name": "Dwadash Shiva Temples",
+      "legacy_group": "Ward No. 126, Kolkata Municipal Corporation",
+      "temple_id": null,
+      "status": "needs_identity_scope_and_location_review"
+    }
+  ]
+}

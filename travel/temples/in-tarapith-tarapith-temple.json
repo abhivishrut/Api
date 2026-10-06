@@ -1,0 +1,181 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "in-tarapith-tarapith-temple",
+    "slug": "tarapith-temple",
+    "name": "Tarapith Temple",
+    "thumbnail": "",
+    "aliases": [
+      "Tarapith"
+    ],
+    "country_code": "IN",
+    "state_name": "West Bengal",
+    "search_keywords": [
+      "Amman",
+      "Bhagavathy",
+      "Devi / Mata",
+      "Durga",
+      "India",
+      "Kali",
+      "Lakshmi",
+      "Maa",
+      "Parvati",
+      "Shakti",
+      "Tarapith",
+      "Tarapith Temple",
+      "West Bengal",
+      "माता"
+    ],
+    "details": {
+      "name": "Tarapith Temple",
+      "thumbnail": "",
+      "gallery": [],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": 24.116667,
+        "longitude": 87.8,
+        "coordinate_status": "locality_reference_only",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Tarapith Temple, Tarapith, West Bengal, India",
+        "address_precision": "locality",
+        "country": "India",
+        "country_code": "IN",
+        "state": "West Bengal",
+        "city": "Tarapith",
+        "district": "Birbhum",
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tarapith+Temple%2C+Tarapith%2C+West+Bengal%2C+India",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Tarapith+Temple%2C+Tarapith%2C+West+Bengal%2C+India"
+      },
+      "description": "Tarapith Temple is located in Tarapith, West Bengal, India. A Tara pilgrimage centre associated with Shakta practice and the saint Bamakhepa.",
+      "city": "Tarapith",
+      "district": "Birbhum",
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Devi / Mata",
+      "deity_ids": [
+        "devi"
+      ],
+      "primary_deity_id": "devi",
+      "dedication": {
+        "text": "Devi / Mata",
+        "source_id": null,
+        "status": "editorial_category"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A Tara pilgrimage centre associated with Shakta practice and the saint Bamakhepa."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Kolkata",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": null,
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": null
+      },
+      "media": {
+        "items": [],
+        "status": "photo_pending",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Tarapith",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:46:24.949818+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Tarapith - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "reference_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

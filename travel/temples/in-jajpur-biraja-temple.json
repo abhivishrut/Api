@@ -1,0 +1,195 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "in-jajpur-biraja-temple",
+    "slug": "biraja-temple",
+    "name": "Biraja Temple",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Biraja_Temple%2C_Jajpur%2C_Odisha%2C_India%2C_13th_century.jpg/250px-Biraja_Temple%2C_Jajpur%2C_Odisha%2C_India%2C_13th_century.jpg",
+    "aliases": [],
+    "country_code": "IN",
+    "state_name": "Odisha",
+    "search_keywords": [
+      "Amman",
+      "Bhagavathy",
+      "Biraja Temple",
+      "Devi / Mata",
+      "Durga",
+      "India",
+      "Jajpur",
+      "Kali",
+      "Lakshmi",
+      "Maa",
+      "Odisha",
+      "Parvati",
+      "Shakti",
+      "माता"
+    ],
+    "details": {
+      "name": "Biraja Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Biraja_Temple%2C_Jajpur%2C_Odisha%2C_India%2C_13th_century.jpg/250px-Biraja_Temple%2C_Jajpur%2C_Odisha%2C_India%2C_13th_century.jpg",
+      "gallery": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Biraja_Temple%2C_Jajpur%2C_Odisha%2C_India%2C_13th_century.jpg/250px-Biraja_Temple%2C_Jajpur%2C_Odisha%2C_India%2C_13th_century.jpg"
+      ],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": 20.833764,
+        "longitude": 86.338144,
+        "coordinate_status": "reference_point",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Biraja Temple, Jajpur, Odisha, India",
+        "address_precision": "locality",
+        "country": "India",
+        "country_code": "IN",
+        "state": "Odisha",
+        "city": "Jajpur",
+        "district": "Jajpur",
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biraja+Temple%2C+Jajpur%2C+Odisha%2C+India",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Biraja+Temple%2C+Jajpur%2C+Odisha%2C+India"
+      },
+      "description": "Biraja Temple is located in Jajpur, Odisha, India. A goddess shrine in the historic sacred town of Jajpur.",
+      "city": "Jajpur",
+      "district": "Jajpur",
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Devi / Mata",
+      "deity_ids": [
+        "devi"
+      ],
+      "primary_deity_id": "devi",
+      "dedication": {
+        "text": "Biraja",
+        "source_id": "reference",
+        "status": "reference_extracted"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A goddess shrine in the historic sacred town of Jajpur."
+      ],
+      "architecture": {
+        "text": "Kalinga architecture",
+        "source_id": "reference",
+        "status": "reference_extracted"
+      },
+      "festivals": {
+        "text": "Durga Puja, Ratha Yatra",
+        "source_id": "reference",
+        "dates": [],
+        "status": "reference_extracted_dates_not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Kolkata",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": null,
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": null
+      },
+      "media": {
+        "items": [
+          {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Biraja_Temple%2C_Jajpur%2C_Odisha%2C_India%2C_13th_century.jpg/250px-Biraja_Temple%2C_Jajpur%2C_Odisha%2C_India%2C_13th_century.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Biraja_Temple,_Jajpur,_Odisha,_India,_13th_century.jpg",
+            "author": "Odisha1",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:19.079103+00:00",
+            "alt": "Biraja Temple",
+            "role": "article_lead_photo"
+          }
+        ],
+        "status": "attributed_reference_photo",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Biraja_Temple",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:46:23.931769+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Biraja Temple - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "reference_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

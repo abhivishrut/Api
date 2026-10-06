@@ -1,0 +1,198 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "id-candikuning-ulun-danu-beratan-temple",
+    "slug": "ulun-danu-beratan-temple",
+    "name": "Ulun Danu Beratan Temple",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pura_Ulun_Danu_Bratan%2C_2022.jpg/250px-Pura_Ulun_Danu_Bratan%2C_2022.jpg",
+    "aliases": [
+      "Pura Ulun Danu Bratan"
+    ],
+    "country_code": "ID",
+    "state_name": "Bali",
+    "search_keywords": [
+      "Amman",
+      "Bali",
+      "Bhagavathy",
+      "Candikuning",
+      "Devi / Mata",
+      "Durga",
+      "Indonesia",
+      "Kali",
+      "Lakshmi",
+      "Maa",
+      "Parvati",
+      "Pura Ulun Danu Bratan",
+      "Shakti",
+      "Ulun Danu Beratan Temple",
+      "माता"
+    ],
+    "details": {
+      "name": "Ulun Danu Beratan Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pura_Ulun_Danu_Bratan%2C_2022.jpg/250px-Pura_Ulun_Danu_Bratan%2C_2022.jpg",
+      "gallery": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pura_Ulun_Danu_Bratan%2C_2022.jpg/250px-Pura_Ulun_Danu_Bratan%2C_2022.jpg"
+      ],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": -8.275278,
+        "longitude": 115.166389,
+        "coordinate_status": "reference_point",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Ulun Danu Beratan Temple, Candikuning, Bali, Indonesia",
+        "address_precision": "locality",
+        "country": "Indonesia",
+        "country_code": "ID",
+        "state": "Bali",
+        "city": "Candikuning",
+        "district": null,
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ulun+Danu+Beratan+Temple%2C+Candikuning%2C+Bali%2C+Indonesia",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Ulun+Danu+Beratan+Temple%2C+Candikuning%2C+Bali%2C+Indonesia"
+      },
+      "description": "Ulun Danu Beratan Temple is located in Candikuning, Bali, Indonesia. A lakeside Balinese temple associated with water and the goddess Danu.",
+      "city": "Candikuning",
+      "district": null,
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Devi / Mata",
+      "deity_ids": [
+        "devi"
+      ],
+      "primary_deity_id": "devi",
+      "dedication": {
+        "text": "Devi / Mata",
+        "source_id": null,
+        "status": "editorial_category"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A lakeside Balinese temple associated with water and the goddess Danu."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Makassar",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": null,
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": null
+      },
+      "media": {
+        "items": [
+          {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pura_Ulun_Danu_Bratan%2C_2022.jpg/250px-Pura_Ulun_Danu_Bratan%2C_2022.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Pura_Ulun_Danu_Bratan,_2022.jpg",
+            "author": "LukeTriton",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:15.309082+00:00",
+            "alt": "Ulun Danu Beratan Temple",
+            "role": "article_lead_photo"
+          }
+        ],
+        "status": "attributed_reference_photo",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Pura_Ulun_Danu_Bratan",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:47:00.613587+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Pura Ulun Danu Bratan - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "reference_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

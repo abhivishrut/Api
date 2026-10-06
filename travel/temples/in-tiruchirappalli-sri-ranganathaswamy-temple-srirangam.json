@@ -1,0 +1,211 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "in-tiruchirappalli-sri-ranganathaswamy-temple-srirangam",
+    "slug": "sri-ranganathaswamy-temple-srirangam",
+    "name": "Sri Ranganathaswamy Temple, Srirangam",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Ranganathaswamy_temple_tiruchirappalli.jpg/250px-Ranganathaswamy_temple_tiruchirappalli.jpg",
+    "aliases": [
+      "Ranganathaswamy Temple, Srirangam"
+    ],
+    "country_code": "IN",
+    "state_name": "Tamil Nadu",
+    "search_keywords": [
+      "Balaji",
+      "India",
+      "Narayan",
+      "Narayana",
+      "Perumal",
+      "Ranganathaswamy Temple, Srirangam",
+      "Sri Ranganathaswamy Temple, Srirangam",
+      "Tamil Nadu",
+      "Tiruchirappalli",
+      "Venkateswara",
+      "Vishnu",
+      "विष्णु"
+    ],
+    "details": {
+      "name": "Sri Ranganathaswamy Temple, Srirangam",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Ranganathaswamy_temple_tiruchirappalli.jpg/250px-Ranganathaswamy_temple_tiruchirappalli.jpg",
+      "gallery": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Ranganathaswamy_temple_tiruchirappalli.jpg/250px-Ranganathaswamy_temple_tiruchirappalli.jpg"
+      ],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": 10.8625,
+        "longitude": 78.689722,
+        "coordinate_status": "reference_point",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Sri Ranganathaswamy Temple, Srirangam, Tiruchirappalli, Tamil Nadu, India",
+        "address_precision": "locality",
+        "country": "India",
+        "country_code": "IN",
+        "state": "Tamil Nadu",
+        "city": "Tiruchirappalli",
+        "district": "Tiruchirapalli",
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sri+Ranganathaswamy+Temple%2C+Srirangam%2C+Tiruchirappalli%2C+Tamil+Nadu%2C+India",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Sri+Ranganathaswamy+Temple%2C+Srirangam%2C+Tiruchirappalli%2C+Tamil+Nadu%2C+India"
+      },
+      "description": "Sri Ranganathaswamy Temple, Srirangam is located in Tiruchirappalli, Tamil Nadu, India. A large concentric temple-town complex devoted to reclining Ranganatha on the island of Srirangam.",
+      "city": "Tiruchirappalli",
+      "district": "Tiruchirapalli",
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Vishnu",
+      "deity_ids": [
+        "vishnu"
+      ],
+      "primary_deity_id": "vishnu",
+      "dedication": {
+        "text": "Ranganathar Perumal Ranganayaki",
+        "source_id": "reference",
+        "status": "reference_extracted"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A large concentric temple-town complex devoted to reclining Ranganatha on the island of Srirangam."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": "Vaikuntha Ekadashi Uriyadi Jeeyarpuram",
+        "source_id": "reference",
+        "dates": [],
+        "status": "reference_extracted_dates_not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Kolkata",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": "https://tiruchirappalli.nic.in/tourist-place/srirangam-temple/",
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": "https://tiruchirappalli.nic.in/tourist-place/srirangam-temple/"
+      },
+      "media": {
+        "items": [
+          {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Ranganathaswamy_temple_tiruchirappalli.jpg/250px-Ranganathaswamy_temple_tiruchirappalli.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Ranganathaswamy_temple_tiruchirappalli.jpg",
+            "author": "RUPESH MAURYA",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:18.305946+00:00",
+            "alt": "Sri Ranganathaswamy Temple, Srirangam",
+            "role": "article_lead_photo"
+          }
+        ],
+        "status": "attributed_reference_photo",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "primary",
+          "url": "https://tiruchirappalli.nic.in/tourist-place/srirangam-temple/",
+          "type": "temple_or_public_institution",
+          "reviewed_on": "2026-10-06",
+          "review_method": "web_search_excerpt_or_page",
+          "scope": [
+            "identity",
+            "selected_background"
+          ],
+          "does_not_verify": [
+            "all_visitor_services",
+            "all_coordinates",
+            "all_editorial_claims"
+          ]
+        },
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Ranganathaswamy_Temple,_Srirangam",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:46:34.440905+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Ranganathaswamy Temple, Srirangam - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "primary_source_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

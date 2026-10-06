@@ -1,0 +1,204 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "in-hanamkonda-thousand-pillar-temple",
+    "slug": "thousand-pillar-temple",
+    "name": "Thousand Pillar Temple",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/1000pillar_temple_warangal.jpg/250px-1000pillar_temple_warangal.jpg",
+    "aliases": [],
+    "country_code": "IN",
+    "state_name": "Telangana",
+    "search_keywords": [
+      "Aditya",
+      "Balaji",
+      "Bholenath",
+      "Hanamkonda",
+      "India",
+      "Mahadev",
+      "Narayan",
+      "Narayana",
+      "Perumal",
+      "Shankar",
+      "Shiv",
+      "Shiva",
+      "Sun",
+      "Surya",
+      "Telangana",
+      "Thousand Pillar Temple",
+      "Venkateswara",
+      "Vishnu",
+      "विष्णु",
+      "शिव",
+      "सूर्य"
+    ],
+    "details": {
+      "name": "Thousand Pillar Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/1000pillar_temple_warangal.jpg/250px-1000pillar_temple_warangal.jpg",
+      "gallery": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/1000pillar_temple_warangal.jpg/250px-1000pillar_temple_warangal.jpg"
+      ],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": 18.003722,
+        "longitude": 79.57475,
+        "coordinate_status": "reference_point",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Thousand Pillar Temple, Hanamkonda, Telangana, India",
+        "address_precision": "locality",
+        "country": "India",
+        "country_code": "IN",
+        "state": "Telangana",
+        "city": "Hanamkonda",
+        "district": null,
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Thousand+Pillar+Temple%2C+Hanamkonda%2C+Telangana%2C+India",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Thousand+Pillar+Temple%2C+Hanamkonda%2C+Telangana%2C+India"
+      },
+      "description": "Thousand Pillar Temple is located in Hanamkonda, Telangana, India. A Kakatiya temple complex associated with Rudreshwara and noted for its carved stone pillars.",
+      "city": "Hanamkonda",
+      "district": null,
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Shiva, Vishnu, Surya",
+      "deity_ids": [
+        "shiva",
+        "vishnu",
+        "surya"
+      ],
+      "primary_deity_id": "shiva",
+      "dedication": {
+        "text": "Shiva, Vishnu, Surya",
+        "source_id": "reference",
+        "status": "reference_extracted"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A Kakatiya temple complex associated with Rudreshwara and noted for its carved stone pillars."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Kolkata",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": null,
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": null
+      },
+      "media": {
+        "items": [
+          {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/1000pillar_temple_warangal.jpg/250px-1000pillar_temple_warangal.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:1000pillar_temple_warangal.jpg",
+            "author": "Nikhil B",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:10.471263+00:00",
+            "alt": "Thousand Pillar Temple",
+            "role": "article_lead_photo"
+          }
+        ],
+        "status": "attributed_reference_photo",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Thousand_Pillar_Temple",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:46:32.382056+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Thousand Pillar Temple - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "reference_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

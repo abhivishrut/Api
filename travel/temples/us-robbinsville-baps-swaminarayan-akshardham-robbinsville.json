@@ -1,0 +1,191 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "us-robbinsville-baps-swaminarayan-akshardham-robbinsville",
+    "slug": "baps-swaminarayan-akshardham-robbinsville",
+    "name": "BAPS Swaminarayan Akshardham, Robbinsville",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Mahamandir-dusk-scaled.jpg/250px-Mahamandir-dusk-scaled.jpg",
+    "aliases": [
+      "Swaminarayan Akshardham (New Jersey)"
+    ],
+    "country_code": "US",
+    "state_name": "New Jersey",
+    "search_keywords": [
+      "BAPS Swaminarayan Akshardham, Robbinsville",
+      "New Jersey",
+      "Robbinsville",
+      "Sahajanand",
+      "Swaminarayan",
+      "Swaminarayan Akshardham (New Jersey)",
+      "United States",
+      "स्वामिनारायण"
+    ],
+    "details": {
+      "name": "BAPS Swaminarayan Akshardham, Robbinsville",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Mahamandir-dusk-scaled.jpg/250px-Mahamandir-dusk-scaled.jpg",
+      "gallery": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Mahamandir-dusk-scaled.jpg/250px-Mahamandir-dusk-scaled.jpg"
+      ],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": 40.254167,
+        "longitude": -74.577778,
+        "coordinate_status": "reference_point",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "BAPS Swaminarayan Akshardham, Robbinsville, Robbinsville, New Jersey, United States",
+        "address_precision": "locality",
+        "country": "United States",
+        "country_code": "US",
+        "state": "New Jersey",
+        "city": "Robbinsville",
+        "district": null,
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BAPS+Swaminarayan+Akshardham%2C+Robbinsville%2C+Robbinsville%2C+New+Jersey%2C+United+States",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=BAPS+Swaminarayan+Akshardham%2C+Robbinsville%2C+Robbinsville%2C+New+Jersey%2C+United+States"
+      },
+      "description": "BAPS Swaminarayan Akshardham, Robbinsville is located in Robbinsville, New Jersey, United States. A large BAPS temple and cultural campus featuring traditional stone carving in New Jersey.",
+      "city": "Robbinsville",
+      "district": null,
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Swaminarayan",
+      "deity_ids": [
+        "swaminarayan"
+      ],
+      "primary_deity_id": "swaminarayan",
+      "dedication": {
+        "text": "Swaminarayan, , Radha Krishna, Venkateshwara-Padmavathi, , Sita-Rama Lakshman Hanuman, , Shiva-Parvati Kartikeya Ganesha",
+        "source_id": "reference",
+        "status": "reference_extracted"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A large BAPS temple and cultural campus featuring traditional stone carving in New Jersey."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "America/New_York",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": null,
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": null
+      },
+      "media": {
+        "items": [
+          {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Mahamandir-dusk-scaled.jpg/250px-Mahamandir-dusk-scaled.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Mahamandir-dusk-scaled.jpg",
+            "author": "BAPS Swaminarayan Sanstha",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:10.011893+00:00",
+            "alt": "BAPS Swaminarayan Akshardham, Robbinsville",
+            "role": "article_lead_photo"
+          }
+        ],
+        "status": "attributed_reference_photo",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Swaminarayan_Akshardham_(New_Jersey)",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:47:06.253546+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Swaminarayan Akshardham (Robbinsville) - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "reference_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

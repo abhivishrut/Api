@@ -1,0 +1,195 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "in-thiruvananthapuram-sree-padmanabhaswamy-temple",
+    "slug": "sree-padmanabhaswamy-temple",
+    "name": "Sree Padmanabhaswamy Temple",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Sree_Padmanabhaswamy_temple_01.jpg/250px-Sree_Padmanabhaswamy_temple_01.jpg",
+    "aliases": [
+      "Padmanabhaswamy Temple"
+    ],
+    "country_code": "IN",
+    "state_name": "Kerala",
+    "search_keywords": [
+      "Balaji",
+      "India",
+      "Kerala",
+      "Narayan",
+      "Narayana",
+      "Padmanabhaswamy Temple",
+      "Perumal",
+      "Sree Padmanabhaswamy Temple",
+      "Thiruvananthapuram",
+      "Venkateswara",
+      "Vishnu",
+      "विष्णु"
+    ],
+    "details": {
+      "name": "Sree Padmanabhaswamy Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Sree_Padmanabhaswamy_temple_01.jpg/250px-Sree_Padmanabhaswamy_temple_01.jpg",
+      "gallery": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Sree_Padmanabhaswamy_temple_01.jpg/250px-Sree_Padmanabhaswamy_temple_01.jpg"
+      ],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": 8.482778,
+        "longitude": 76.943611,
+        "coordinate_status": "reference_point",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Sree Padmanabhaswamy Temple, Thiruvananthapuram, Kerala, India",
+        "address_precision": "locality",
+        "country": "India",
+        "country_code": "IN",
+        "state": "Kerala",
+        "city": "Thiruvananthapuram",
+        "district": "Thiruvananthapuram District",
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sree+Padmanabhaswamy+Temple%2C+Thiruvananthapuram%2C+Kerala%2C+India",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Sree+Padmanabhaswamy+Temple%2C+Thiruvananthapuram%2C+Kerala%2C+India"
+      },
+      "description": "Sree Padmanabhaswamy Temple is located in Thiruvananthapuram, Kerala, India. Vishnu is worshipped in the reclining Anantha posture in a temple closely associated with Travancore.",
+      "city": "Thiruvananthapuram",
+      "district": "Thiruvananthapuram District",
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Vishnu",
+      "deity_ids": [
+        "vishnu"
+      ],
+      "primary_deity_id": "vishnu",
+      "dedication": {
+        "text": "Anantha Padmanabhaswamy (a form of Vishnu) and Lakshmi",
+        "source_id": "reference",
+        "status": "reference_extracted"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "Vishnu is worshipped in the reclining Anantha posture in a temple closely associated with Travancore."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Kolkata",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": null,
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": null
+      },
+      "media": {
+        "items": [
+          {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Sree_Padmanabhaswamy_temple_01.jpg/250px-Sree_Padmanabhaswamy_temple_01.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Sree_Padmanabhaswamy_temple_01.jpg",
+            "author": "Rahulrnath001",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:22.290608+00:00",
+            "alt": "Sree Padmanabhaswamy Temple",
+            "role": "article_lead_photo"
+          }
+        ],
+        "status": "attributed_reference_photo",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Padmanabhaswamy_Temple",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:46:42.354920+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Padmanabhaswamy Temple - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "reference_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

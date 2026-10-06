@@ -1,0 +1,207 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "in-udupi-udupi-sri-krishna-matha",
+    "slug": "udupi-sri-krishna-matha",
+    "name": "Udupi Sri Krishna Matha",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Udupi_Sri_Krishna_Matha_Temple.jpg/250px-Udupi_Sri_Krishna_Matha_Temple.jpg",
+    "aliases": [],
+    "country_code": "IN",
+    "state_name": "Karnataka",
+    "search_keywords": [
+      "Gopal",
+      "Govind",
+      "India",
+      "Kanha",
+      "Karnataka",
+      "Krishna",
+      "Shyam",
+      "Udupi",
+      "Udupi Sri Krishna Matha",
+      "कृष्ण"
+    ],
+    "details": {
+      "name": "Udupi Sri Krishna Matha",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Udupi_Sri_Krishna_Matha_Temple.jpg/250px-Udupi_Sri_Krishna_Matha_Temple.jpg",
+      "gallery": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Udupi_Sri_Krishna_Matha_Temple.jpg/250px-Udupi_Sri_Krishna_Matha_Temple.jpg"
+      ],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": 13.332222,
+        "longitude": 74.746111,
+        "coordinate_status": "reference_point",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Udupi Sri Krishna Matha, Udupi, Karnataka, India",
+        "address_precision": "locality",
+        "country": "India",
+        "country_code": "IN",
+        "state": "Karnataka",
+        "city": "Udupi",
+        "district": null,
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Udupi+Sri+Krishna+Matha%2C+Udupi%2C+Karnataka%2C+India",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Udupi+Sri+Krishna+Matha%2C+Udupi%2C+Karnataka%2C+India"
+      },
+      "description": "Udupi Sri Krishna Matha is located in Udupi, Karnataka, India. A Krishna temple and monastic centre associated with Madhvacharya and the Paryaya tradition.",
+      "city": "Udupi",
+      "district": null,
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Krishna",
+      "deity_ids": [
+        "krishna"
+      ],
+      "primary_deity_id": "krishna",
+      "dedication": {
+        "text": "Krishna",
+        "source_id": "reference",
+        "status": "reference_extracted"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A Krishna temple and monastic centre associated with Madhvacharya and the Paryaya tradition."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Kolkata",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": "https://karnatakatourism.org/en/destinations/udupi",
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": "https://karnatakatourism.org/en/destinations/udupi"
+      },
+      "media": {
+        "items": [
+          {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Udupi_Sri_Krishna_Matha_Temple.jpg/250px-Udupi_Sri_Krishna_Matha_Temple.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Udupi_Sri_Krishna_Matha_Temple.jpg",
+            "author": "Ashok Prabhakaran from Chennai, India",
+            "license": "CC BY-SA 2.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:16.140409+00:00",
+            "alt": "Udupi Sri Krishna Matha",
+            "role": "article_lead_photo"
+          }
+        ],
+        "status": "attributed_reference_photo",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "primary",
+          "url": "https://karnatakatourism.org/en/destinations/udupi",
+          "type": "temple_or_public_institution",
+          "reviewed_on": "2026-10-06",
+          "review_method": "web_search_excerpt_or_page",
+          "scope": [
+            "identity",
+            "selected_background"
+          ],
+          "does_not_verify": [
+            "all_visitor_services",
+            "all_coordinates",
+            "all_editorial_claims"
+          ]
+        },
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Udupi_Sri_Krishna_Matha",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:46:45.034195+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Udupi Sri Krishna Matha - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "primary_source_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

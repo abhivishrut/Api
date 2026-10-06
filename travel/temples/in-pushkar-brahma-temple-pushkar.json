@@ -1,0 +1,204 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "in-pushkar-brahma-temple-pushkar",
+    "slug": "brahma-temple-pushkar",
+    "name": "Brahma Temple, Pushkar",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Brahma_Temple%2C_Pushkar.jpg/250px-Brahma_Temple%2C_Pushkar.jpg",
+    "aliases": [],
+    "country_code": "IN",
+    "state_name": "Rajasthan",
+    "search_keywords": [
+      "Brahma",
+      "Brahma Temple, Pushkar",
+      "India",
+      "Phra Phrom",
+      "Pushkar",
+      "Rajasthan",
+      "ब्रह्मा"
+    ],
+    "details": {
+      "name": "Brahma Temple, Pushkar",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Brahma_Temple%2C_Pushkar.jpg/250px-Brahma_Temple%2C_Pushkar.jpg",
+      "gallery": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Brahma_Temple%2C_Pushkar.jpg/250px-Brahma_Temple%2C_Pushkar.jpg"
+      ],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": 26.487222,
+        "longitude": 74.554167,
+        "coordinate_status": "reference_point",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Brahma Temple, Pushkar, Pushkar, Rajasthan, India",
+        "address_precision": "locality",
+        "country": "India",
+        "country_code": "IN",
+        "state": "Rajasthan",
+        "city": "Pushkar",
+        "district": "Ajmer",
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Brahma+Temple%2C+Pushkar%2C+Pushkar%2C+Rajasthan%2C+India",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Brahma+Temple%2C+Pushkar%2C+Pushkar%2C+Rajasthan%2C+India"
+      },
+      "description": "Brahma Temple, Pushkar is located in Pushkar, Rajasthan, India. A prominent Brahma shrine near Pushkar Lake, central to the town's pilgrimage landscape.",
+      "city": "Pushkar",
+      "district": "Ajmer",
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Brahma",
+      "deity_ids": [
+        "brahma"
+      ],
+      "primary_deity_id": "brahma",
+      "dedication": {
+        "text": "Brahma",
+        "source_id": "reference",
+        "status": "reference_extracted"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A prominent Brahma shrine near Pushkar Lake, central to the town's pilgrimage landscape."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Kolkata",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": "https://www.tourism.rajasthan.gov.in/brahma-temple.html",
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": "https://www.tourism.rajasthan.gov.in/brahma-temple.html"
+      },
+      "media": {
+        "items": [
+          {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Brahma_Temple%2C_Pushkar.jpg/250px-Brahma_Temple%2C_Pushkar.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Brahma_Temple,_Pushkar.jpg",
+            "author": "https://www.flickr.com/photos/vasantv/",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:10.543180+00:00",
+            "alt": "Brahma Temple, Pushkar",
+            "role": "article_lead_photo"
+          }
+        ],
+        "status": "attributed_reference_photo",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "primary",
+          "url": "https://www.tourism.rajasthan.gov.in/brahma-temple.html",
+          "type": "temple_or_public_institution",
+          "reviewed_on": "2026-10-06",
+          "review_method": "web_search_excerpt_or_page",
+          "scope": [
+            "identity",
+            "selected_background"
+          ],
+          "does_not_verify": [
+            "all_visitor_services",
+            "all_coordinates",
+            "all_editorial_claims"
+          ]
+        },
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Brahma_Temple,_Pushkar",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:46:02.905454+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Brahma Temple, Pushkar - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "primary_source_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

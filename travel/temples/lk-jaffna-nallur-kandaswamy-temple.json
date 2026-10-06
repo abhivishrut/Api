@@ -1,0 +1,191 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "lk-jaffna-nallur-kandaswamy-temple",
+    "slug": "nallur-kandaswamy-temple",
+    "name": "Nallur Kandaswamy Temple",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Nallur_Kandasamy_front_entrance.jpg/250px-Nallur_Kandasamy_front_entrance.jpg",
+    "aliases": [],
+    "country_code": "LK",
+    "state_name": "Northern Province",
+    "search_keywords": [
+      "Jaffna",
+      "Kartikeya",
+      "Murugan",
+      "Nallur Kandaswamy Temple",
+      "Northern Province",
+      "Skanda",
+      "Sri Lanka",
+      "Subramaniar",
+      "Subramanya",
+      "कार्तिकेय"
+    ],
+    "details": {
+      "name": "Nallur Kandaswamy Temple",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Nallur_Kandasamy_front_entrance.jpg/250px-Nallur_Kandasamy_front_entrance.jpg",
+      "gallery": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Nallur_Kandasamy_front_entrance.jpg/250px-Nallur_Kandasamy_front_entrance.jpg"
+      ],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": 9.674444,
+        "longitude": 80.029167,
+        "coordinate_status": "reference_point",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Nallur Kandaswamy Temple, Jaffna, Northern Province, Sri Lanka",
+        "address_precision": "locality",
+        "country": "Sri Lanka",
+        "country_code": "LK",
+        "state": "Northern Province",
+        "city": "Jaffna",
+        "district": "Jaffna District",
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nallur+Kandaswamy+Temple%2C+Jaffna%2C+Northern+Province%2C+Sri+Lanka",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Nallur+Kandaswamy+Temple%2C+Jaffna%2C+Northern+Province%2C+Sri+Lanka"
+      },
+      "description": "Nallur Kandaswamy Temple is located in Jaffna, Northern Province, Sri Lanka. A major Murugan shrine at Nallur, central to Jaffna's Tamil Hindu religious life.",
+      "city": "Jaffna",
+      "district": "Jaffna District",
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": null,
+      "denotes_to": "Murugan",
+      "deity_ids": [
+        "murugan"
+      ],
+      "primary_deity_id": "murugan",
+      "dedication": {
+        "text": "Murugan",
+        "source_id": "reference",
+        "status": "reference_extracted"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A major Murugan shrine at Nallur, central to Jaffna's Tamil Hindu religious life."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Colombo",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": false,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": null,
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": null
+      },
+      "media": {
+        "items": [
+          {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Nallur_Kandasamy_front_entrance.jpg/250px-Nallur_Kandasamy_front_entrance.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Nallur_Kandasamy_front_entrance.jpg",
+            "author": "Gane Kumaraswamy",
+            "license": "CC BY-SA 2.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:13.139320+00:00",
+            "alt": "Nallur Kandaswamy Temple",
+            "role": "article_lead_photo"
+          }
+        ],
+        "status": "attributed_reference_photo",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Nallur_Kandaswamy_temple",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:46:55.584259+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Nallur Kandaswamy temple - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "reference_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}

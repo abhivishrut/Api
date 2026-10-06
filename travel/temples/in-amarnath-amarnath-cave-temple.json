@@ -1,0 +1,181 @@
+{
+  "schema_version": "2.0.0",
+  "temple": {
+    "id": "in-amarnath-amarnath-cave-temple",
+    "slug": "amarnath-cave-temple",
+    "name": "Amarnath Cave Temple",
+    "thumbnail": "",
+    "aliases": [
+      "Amarnath Temple"
+    ],
+    "country_code": "IN",
+    "state_name": "Jammu and Kashmir",
+    "search_keywords": [
+      "Amarnath",
+      "Amarnath Cave Temple",
+      "Amarnath Temple",
+      "Bholenath",
+      "India",
+      "Jammu and Kashmir",
+      "Mahadev",
+      "Shankar",
+      "Shiv",
+      "Shiva",
+      "शिव"
+    ],
+    "details": {
+      "name": "Amarnath Cave Temple",
+      "thumbnail": "",
+      "gallery": [],
+      "facilities": {
+        "wheelchair_accessible": null,
+        "parking": null,
+        "food_available": null,
+        "locker": null,
+        "washroom": null,
+        "medical_facility": null
+      },
+      "opening_time": null,
+      "closing_time": null,
+      "location": {
+        "latitude": 34.215,
+        "longitude": 75.500833,
+        "coordinate_status": "reference_point",
+        "coordinate_source_id": "reference",
+        "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+        "address": "Amarnath Cave Temple, Amarnath, Jammu and Kashmir, India",
+        "address_precision": "locality",
+        "country": "India",
+        "country_code": "IN",
+        "state": "Jammu and Kashmir",
+        "city": "Amarnath",
+        "district": "Anantnag",
+        "postal_code": null,
+        "google_place_id": null,
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Amarnath+Cave+Temple%2C+Amarnath%2C+Jammu+and+Kashmir%2C+India",
+        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Amarnath+Cave+Temple%2C+Amarnath%2C+Jammu+and+Kashmir%2C+India"
+      },
+      "description": "Amarnath Cave Temple is located in Amarnath, Jammu and Kashmir, India. A high-altitude cave pilgrimage associated with a naturally forming ice lingam and a limited annual yatra season.",
+      "city": "Amarnath",
+      "district": "Anantnag",
+      "religion": "Hindu",
+      "category": "Temple",
+      "best_time_to_visit": "Confirm annual opening season",
+      "denotes_to": "Shiva",
+      "deity_ids": [
+        "shiva"
+      ],
+      "primary_deity_id": "shiva",
+      "dedication": {
+        "text": "Shiva",
+        "source_id": "reference",
+        "status": "reference_extracted"
+      },
+      "collection_ids": [],
+      "highlights": [
+        "A high-altitude cave pilgrimage associated with a naturally forming ice lingam and a limited annual yatra season."
+      ],
+      "architecture": {
+        "text": null,
+        "source_id": null,
+        "status": "not_verified"
+      },
+      "festivals": {
+        "text": null,
+        "source_id": null,
+        "dates": [],
+        "status": "not_verified"
+      },
+      "visiting": {
+        "timezone": "Asia/Kolkata",
+        "hours": [],
+        "hours_status": "not_verified",
+        "hours_source_id": null,
+        "seasonal_opening": true,
+        "seasonal_opening_dates": null,
+        "entry_fee": {
+          "amount": null,
+          "currency": null,
+          "status": "not_verified"
+        },
+        "booking": {
+          "required": null,
+          "information_url": null,
+          "status": "recheck_before_visit"
+        },
+        "accessibility": {
+          "wheelchair_accessible": null,
+          "step_free_route": null,
+          "status": "not_verified"
+        },
+        "dress_code": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "photography": {
+          "allowed": null,
+          "status": "confirm_with_temple"
+        },
+        "entry_eligibility": {
+          "text": null,
+          "status": "confirm_with_temple"
+        },
+        "suggested_visit_duration_minutes": null,
+        "notes": [
+          "This shrine has seasonal or designated opening periods. Check the current temple calendar before planning travel.",
+          "The pilgrimage includes a walking or hill approach. Confirm route conditions and assistance arrangements before departure."
+        ],
+        "general_etiquette": [
+          "Follow posted footwear and dress requirements.",
+          "Ask before photographing worship, people or sanctums.",
+          "Follow the temple's current queue and offering arrangements."
+        ]
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "information_url": null
+      },
+      "media": {
+        "items": [],
+        "status": "photo_pending",
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "fallback_is_temple_photo": false
+      },
+      "sources": [
+        {
+          "id": "reference",
+          "url": "https://en.wikipedia.org/wiki/Amarnath_Temple",
+          "type": "encyclopedia",
+          "retrieved_at": "2026-10-06T07:45:56.031102+00:00",
+          "review_method": "automated_page_and_infobox_retrieval",
+          "scope": [
+            "reference_identity",
+            "infobox_location",
+            "infobox_named_facts"
+          ],
+          "title": "Amarnath Temple - Wikipedia"
+        }
+      ],
+      "data_quality": {
+        "identity": "reference_located",
+        "editorial": "written_summary_needs_full_fact_check",
+        "visitor_information": "not_verified",
+        "google_maps_listing_verified": false,
+        "last_editorial_update": "2026-10-06",
+        "unverified_fields": [
+          "facilities",
+          "entry_fee",
+          "accessibility",
+          "dress_code",
+          "photography",
+          "entry_eligibility",
+          "phone",
+          "email",
+          "postal_code",
+          "google_place_id"
+        ]
+      }
+    }
+  }
+}
