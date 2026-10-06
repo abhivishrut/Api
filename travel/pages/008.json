@@ -1,5 +1,5 @@
 {
-  "schema_version": "2.0.0",
+  "schema_version": "2.1.0",
   "page": 8,
   "page_size": 24,
   "total_items": 214,
@@ -32,6 +32,15 @@
       "collection_ids": [],
       "summary": "A large Ganapati shrine in Basavanagudi near the Bull Temple precinct.",
       "detail_path": "travel/temples/in-bengaluru-dodda-ganapathi-temple.json",
+      "card": {
+        "title": "Dodda Ganapathi Temple",
+        "subtitle": "Bengaluru, Karnataka",
+        "deity_label": "Ganesha",
+        "image": null,
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-bengaluru-dodda-ganapathi-temple.json"
+      },
       "photo_credit": null
     },
     {
@@ -59,6 +68,27 @@
       "collection_ids": [],
       "summary": "A major Shiva pilgrimage on the Bagmati river, with a temple complex and cremation ghats.",
       "detail_path": "travel/temples/np-kathmandu-pashupatinath-temple.json",
+      "card": {
+        "title": "Pashupatinath Temple",
+        "subtitle": "Kathmandu, Bagmati",
+        "deity_label": "Shiva",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Pashupatinath_Temple-2020.jpg/250px-Pashupatinath_Temple-2020.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Pashupatinath_Temple-2020.jpg",
+          "author": "Bijay Chaurasia (1998–)",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:08.394070+00:00",
+          "alt": "Pashupatinath Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/np-kathmandu-pashupatinath-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Pashupatinath_Temple-2020.jpg/250px-Pashupatinath_Temple-2020.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Pashupatinath_Temple-2020.jpg",
@@ -112,6 +142,33 @@
       "collection_ids": [],
       "summary": "A prominent palace-like temple devoted to Janaki, or Sita, in the Mithila cultural region.",
       "detail_path": "travel/temples/np-janakpur-janaki-mandir.json",
+      "card": {
+        "title": "Janaki Mandir",
+        "subtitle": "Janakpur, Madhesh",
+        "deity_label": "Sita, Rama, Devi / Mata",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Janki_Mandir_alt_version.jpg/250px-Janki_Mandir_alt_version.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Janki_Mandir_alt_version.jpg",
+          "author": "Abhishek Dutta (http://abhishekdutta.org), fix chromatic aberration by uploader",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:07.901238+00:00",
+          "alt": "Janaki Mandir",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/np-janakpur-janaki-mandir.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Janki_Mandir_alt_version.jpg/250px-Janki_Mandir_alt_version.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Janki_Mandir_alt_version.jpg",
@@ -152,6 +209,27 @@
       "collection_ids": [],
       "summary": "A high-altitude pilgrimage revered by both Hindus and Buddhists in the Mustang region.",
       "detail_path": "travel/temples/np-muktinath-muktinath-temple.json",
+      "card": {
+        "title": "Muktinath Temple",
+        "subtitle": "Muktinath, Gandaki",
+        "deity_label": "Vishnu",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/The_Muktinath_Temple.jpg/250px-The_Muktinath_Temple.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:The_Muktinath_Temple.jpg",
+          "author": "Ironicfreak",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:14.129116+00:00",
+          "alt": "Muktinath Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/np-muktinath-muktinath-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/The_Muktinath_Temple.jpg/250px-The_Muktinath_Temple.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:The_Muktinath_Temple.jpg",
@@ -192,6 +270,27 @@
       "collection_ids": [],
       "summary": "A historic Vishnu shrine above the Kathmandu Valley with important early sculpture and inscriptions.",
       "detail_path": "travel/temples/np-changunarayan-changu-narayan-temple.json",
+      "card": {
+        "title": "Changu Narayan Temple",
+        "subtitle": "Changunarayan, Bagmati",
+        "deity_label": "Vishnu",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Nepal_-_Changu_Narayan_%283566057331%29.jpg/250px-Nepal_-_Changu_Narayan_%283566057331%29.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Nepal_-_Changu_Narayan_(3566057331).jpg",
+          "author": "Dhilung Kirat from Santa Barbara, CA",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:21.502350+00:00",
+          "alt": "Changu Narayan Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/np-changunarayan-changu-narayan-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Nepal_-_Changu_Narayan_%283566057331%29.jpg/250px-Nepal_-_Changu_Narayan_%283566057331%29.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Nepal_-_Changu_Narayan_(3566057331).jpg",
@@ -235,6 +334,33 @@
       "collection_ids": [],
       "summary": "A hilltop goddess shrine in the Gorkha region with a well-known cable-car approach.",
       "detail_path": "travel/temples/np-manakamana-manakamana-temple.json",
+      "card": {
+        "title": "Manakamana Temple",
+        "subtitle": "Manakamana, Gandaki",
+        "deity_label": "Devi / Mata",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Gorkha_Manakamana_Temple_%28cropped%29.jpg/250px-Gorkha_Manakamana_Temple_%28cropped%29.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Gorkha_Manakamana_Temple_(cropped).jpg",
+          "author": "Bhupendra Shrestha",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:11.077080+00:00",
+          "alt": "Manakamana Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/np-manakamana-manakamana-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Gorkha_Manakamana_Temple_%28cropped%29.jpg/250px-Gorkha_Manakamana_Temple_%28cropped%29.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Gorkha_Manakamana_Temple_(cropped).jpg",
@@ -278,6 +404,33 @@
       "collection_ids": [],
       "summary": "A Kali shrine south of Kathmandu with distinctive Shakta ritual traditions.",
       "detail_path": "travel/temples/np-dakshinkali-dakshinkali-temple.json",
+      "card": {
+        "title": "Dakshinkali Temple",
+        "subtitle": "Dakshinkali, Bagmati",
+        "deity_label": "Devi / Mata",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Dakshin_Kali_main_Temple.JPG/250px-Dakshin_Kali_main_Temple.JPG",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Dakshin_Kali_main_Temple.JPG",
+          "author": "Ashim nep",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:16.224908+00:00",
+          "alt": "Dakshinkali Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/np-dakshinkali-dakshinkali-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Dakshin_Kali_main_Temple.JPG/250px-Dakshin_Kali_main_Temple.JPG",
         "source_page": "https://commons.wikimedia.org/wiki/File:Dakshin_Kali_main_Temple.JPG",
@@ -317,6 +470,27 @@
       "collection_ids": [],
       "summary": "A major Murugan shrine at Nallur, central to Jaffna's Tamil Hindu religious life.",
       "detail_path": "travel/temples/lk-jaffna-nallur-kandaswamy-temple.json",
+      "card": {
+        "title": "Nallur Kandaswamy Temple",
+        "subtitle": "Jaffna, Northern Province",
+        "deity_label": "Murugan",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Nallur_Kandasamy_front_entrance.jpg/250px-Nallur_Kandasamy_front_entrance.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Nallur_Kandasamy_front_entrance.jpg",
+          "author": "Gane Kumaraswamy",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:13.139320+00:00",
+          "alt": "Nallur Kandaswamy Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/lk-jaffna-nallur-kandaswamy-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Nallur_Kandasamy_front_entrance.jpg/250px-Nallur_Kandasamy_front_entrance.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Nallur_Kandasamy_front_entrance.jpg",
@@ -356,6 +530,27 @@
       "collection_ids": [],
       "summary": "A Shiva shrine on Swami Rock overlooking Trincomalee's coast, associated with the Pancha Ishwaram tradition.",
       "detail_path": "travel/temples/lk-trincomalee-koneswaram-temple.json",
+      "card": {
+        "title": "Koneswaram Temple",
+        "subtitle": "Trincomalee, Eastern Province",
+        "deity_label": "Shiva",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Spiritual_16.jpg/330px-Spiritual_16.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Spiritual_16.jpg",
+          "author": "Shamli071",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:10.253427+00:00",
+          "alt": "Koneswaram Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/lk-trincomalee-koneswaram-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Spiritual_16.jpg/330px-Spiritual_16.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Spiritual_16.jpg",
@@ -406,6 +601,33 @@
       "collection_ids": [],
       "summary": "A temple complex near Chilaw whose principal Shiva shrine belongs to Sri Lanka's ancient Ishwaram tradition.",
       "detail_path": "travel/temples/lk-chilaw-munneswaram-temple.json",
+      "card": {
+        "title": "Munneswaram Temple",
+        "subtitle": "Chilaw, North Western Province",
+        "deity_label": "Shiva, Devi / Mata",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Munneswaram.jpg/250px-Munneswaram.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Munneswaram.jpg",
+          "author": "Leon Meerson",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:21.423588+00:00",
+          "alt": "Munneswaram Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/lk-chilaw-munneswaram-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Munneswaram.jpg/250px-Munneswaram.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Munneswaram.jpg",
@@ -448,6 +670,27 @@
       "collection_ids": [],
       "summary": "A shrine near Nuwara Eliya associated in local Ramayana tradition with Sita's stay in Lanka.",
       "detail_path": "travel/temples/lk-seetha-eliya-seetha-amman-temple.json",
+      "card": {
+        "title": "Seetha Amman Temple",
+        "subtitle": "Seetha Eliya, Central Province",
+        "deity_label": "Sita, Rama",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Seetha_Amman_Temple_Seetha_Eliya.jpg/250px-Seetha_Amman_Temple_Seetha_Eliya.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Seetha_Amman_Temple_Seetha_Eliya.jpg",
+          "author": "Buddhika Mawella",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:24.105893+00:00",
+          "alt": "Seetha Amman Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/lk-seetha-eliya-seetha-amman-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Seetha_Amman_Temple_Seetha_Eliya.jpg/250px-Seetha_Amman_Temple_Seetha_Eliya.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Seetha_Amman_Temple_Seetha_Eliya.jpg",
@@ -487,6 +730,27 @@
       "collection_ids": [],
       "summary": "A limestone-cave Murugan pilgrimage famous for its stairway, large statue and Thaipusam celebrations.",
       "detail_path": "travel/temples/my-batu-caves-batu-caves-sri-subramaniar-temple.json",
+      "card": {
+        "title": "Batu Caves Sri Subramaniar Temple",
+        "subtitle": "Batu Caves, Selangor",
+        "deity_label": "Murugan",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Batu_Caves_stairs_2022-05.jpg/250px-Batu_Caves_stairs_2022-05.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Batu_Caves_stairs_2022-05.jpg",
+          "author": "Chainwit.",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:17.508765+00:00",
+          "alt": "Batu Caves Sri Subramaniar Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/my-batu-caves-batu-caves-sri-subramaniar-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Batu_Caves_stairs_2022-05.jpg/250px-Batu_Caves_stairs_2022-05.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Batu_Caves_stairs_2022-05.jpg",
@@ -529,6 +793,33 @@
       "collection_ids": [],
       "summary": "A historic Tamil Hindu temple in central Kuala Lumpur with a richly sculpted entrance tower.",
       "detail_path": "travel/temples/my-kuala-lumpur-sri-mahamariamman-temple-kuala-lumpur.json",
+      "card": {
+        "title": "Sri Mahamariamman Temple, Kuala Lumpur",
+        "subtitle": "Kuala Lumpur, Kuala Lumpur",
+        "deity_label": "Devi / Mata",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Gopuram_-_Sri_Maha_Mariamman_Koyil_KL_-_2022-05.jpg/250px-Gopuram_-_Sri_Maha_Mariamman_Koyil_KL_-_2022-05.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Gopuram_-_Sri_Maha_Mariamman_Koyil_KL_-_2022-05.jpg",
+          "author": "Chainwit.",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:08.645330+00:00",
+          "alt": "Sri Mahamariamman Temple, Kuala Lumpur",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/my-kuala-lumpur-sri-mahamariamman-temple-kuala-lumpur.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Gopuram_-_Sri_Maha_Mariamman_Koyil_KL_-_2022-05.jpg/250px-Gopuram_-_Sri_Maha_Mariamman_Koyil_KL_-_2022-05.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Gopuram_-_Sri_Maha_Mariamman_Koyil_KL_-_2022-05.jpg",
@@ -572,6 +863,33 @@
       "collection_ids": [],
       "summary": "A goddess temple distinguished by extensive glass mosaic decoration in its interior.",
       "detail_path": "travel/temples/my-johor-bahru-arulmigu-sri-rajakaliamman-glass-temple.json",
+      "card": {
+        "title": "Arulmigu Sri Rajakaliamman Glass Temple",
+        "subtitle": "Johor Bahru, Johor",
+        "deity_label": "Devi / Mata",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Arulmigu_Sri_Rajakaliamman_Glass_Temple%2C_JB_%282025%29_-_img_43.jpg/250px-Arulmigu_Sri_Rajakaliamman_Glass_Temple%2C_JB_%282025%29_-_img_43.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Arulmigu_Sri_Rajakaliamman_Glass_Temple,_JB_(2025)_-_img_43.jpg",
+          "author": "Chainwit.",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:21.960999+00:00",
+          "alt": "Arulmigu Sri Rajakaliamman Glass Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/my-johor-bahru-arulmigu-sri-rajakaliamman-glass-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Arulmigu_Sri_Rajakaliamman_Glass_Temple%2C_JB_%282025%29_-_img_43.jpg/250px-Arulmigu_Sri_Rajakaliamman_Glass_Temple%2C_JB_%282025%29_-_img_43.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Arulmigu_Sri_Rajakaliamman_Glass_Temple,_JB_(2025)_-_img_43.jpg",
@@ -613,6 +931,33 @@
       "collection_ids": [],
       "summary": "A historic Tamil Hindu temple in Chinatown, known for its sculpted gopuram and fire-walking tradition.",
       "detail_path": "travel/temples/sg-singapore-sri-mariamman-temple-singapore.json",
+      "card": {
+        "title": "Sri Mariamman Temple, Singapore",
+        "subtitle": "Singapore, Singapore",
+        "deity_label": "Devi / Mata",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Gopuram_-_Sri_Mariamman_Temple_Singapore_%282023%29_-_img_01.jpg/250px-Gopuram_-_Sri_Mariamman_Temple_Singapore_%282023%29_-_img_01.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Gopuram_-_Sri_Mariamman_Temple_Singapore_(2023)_-_img_01.jpg",
+          "author": "Chainwit.",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:13.690611+00:00",
+          "alt": "Sri Mariamman Temple, Singapore",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/sg-singapore-sri-mariamman-temple-singapore.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Gopuram_-_Sri_Mariamman_Temple_Singapore_%282023%29_-_img_01.jpg/250px-Gopuram_-_Sri_Mariamman_Temple_Singapore_%282023%29_-_img_01.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Gopuram_-_Sri_Mariamman_Temple_Singapore_(2023)_-_img_01.jpg",
@@ -654,6 +999,21 @@
       "collection_ids": [],
       "summary": "A Kali temple in Little India whose sculptural decoration reflects Tamil Hindu traditions.",
       "detail_path": "travel/temples/sg-singapore-sri-veeramakaliamman-temple.json",
+      "card": {
+        "title": "Sri Veeramakaliamman Temple",
+        "subtitle": "Singapore, Singapore",
+        "deity_label": "Devi / Mata",
+        "image": null,
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/sg-singapore-sri-veeramakaliamman-temple.json"
+      },
       "photo_credit": null
     },
     {
@@ -679,6 +1039,27 @@
       "collection_ids": [],
       "summary": "A Murugan temple on Tank Road associated with Singapore's Thaipusam pilgrimage.",
       "detail_path": "travel/temples/sg-singapore-sri-thendayuthapani-temple.json",
+      "card": {
+        "title": "Sri Thendayuthapani Temple",
+        "subtitle": "Singapore, Singapore",
+        "deity_label": "Murugan",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/SriThendayuthapaniTemple-Singapore-gopuram-20091220.jpg/330px-SriThendayuthapaniTemple-Singapore-gopuram-20091220.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:SriThendayuthapaniTemple-Singapore-gopuram-20091220.jpg",
+          "author": "Shiny Things.",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:20.553551+00:00",
+          "alt": "Sri Thendayuthapani Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/sg-singapore-sri-thendayuthapani-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/SriThendayuthapaniTemple-Singapore-gopuram-20091220.jpg/330px-SriThendayuthapaniTemple-Singapore-gopuram-20091220.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:SriThendayuthapaniTemple-Singapore-gopuram-20091220.jpg",
@@ -717,6 +1098,15 @@
       "collection_ids": [],
       "summary": "A Perumal shrine on Serangoon Road and an important landmark in Singapore's Hindu community.",
       "detail_path": "travel/temples/sg-singapore-sri-srinivasa-perumal-temple.json",
+      "card": {
+        "title": "Sri Srinivasa Perumal Temple",
+        "subtitle": "Singapore, Singapore",
+        "deity_label": "Vishnu",
+        "image": null,
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/sg-singapore-sri-srinivasa-perumal-temple.json"
+      },
       "photo_credit": null
     },
     {
@@ -756,6 +1146,27 @@
       "collection_ids": [],
       "summary": "A large Balinese Hindu temple complex on Mount Agung's slopes, often called Bali's mother temple.",
       "detail_path": "travel/temples/id-besakih-besakih-temple.json",
+      "card": {
+        "title": "Besakih Temple",
+        "subtitle": "Besakih, Bali",
+        "deity_label": "Shiva, Vishnu, Brahma",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Besakih_Bali_Indonesia_Pura-Besakih-02.jpg/330px-Besakih_Bali_Indonesia_Pura-Besakih-02.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Besakih_Bali_Indonesia_Pura-Besakih-02.jpg",
+          "author": "CEphoto, Uwe Aranas",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:11.823365+00:00",
+          "alt": "Besakih Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/id-besakih-besakih-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Besakih_Bali_Indonesia_Pura-Besakih-02.jpg/330px-Besakih_Bali_Indonesia_Pura-Besakih-02.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Besakih_Bali_Indonesia_Pura-Besakih-02.jpg",
@@ -793,6 +1204,27 @@
       "collection_ids": [],
       "summary": "A Balinese sea-temple landmark on a coastal rock formation; tide conditions affect the approach.",
       "detail_path": "travel/temples/id-beraban-tanah-lot-temple.json",
+      "card": {
+        "title": "Tanah Lot Temple",
+        "subtitle": "Beraban, Bali",
+        "deity_label": "Balinese sea deity tradition",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/TanahLot_2014.JPG/330px-TanahLot_2014.JPG",
+          "source_page": "https://commons.wikimedia.org/wiki/File:TanahLot_2014.JPG",
+          "author": "Grayswoodsurrey",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:17.227913+00:00",
+          "alt": "Tanah Lot Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/id-beraban-tanah-lot-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/TanahLot_2014.JPG/330px-TanahLot_2014.JPG",
         "source_page": "https://commons.wikimedia.org/wiki/File:TanahLot_2014.JPG",
@@ -832,6 +1264,27 @@
       "collection_ids": [],
       "summary": "A Balinese Hindu sea temple set on cliffs above the Indian Ocean.",
       "detail_path": "travel/temples/id-pecatu-uluwatu-temple.json",
+      "card": {
+        "title": "Uluwatu Temple",
+        "subtitle": "Pecatu, Bali",
+        "deity_label": "Shiva",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Pura_Luhur_Uluwatu_2017-08-17_%2834%29.jpg/250px-Pura_Luhur_Uluwatu_2017-08-17_%2834%29.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Pura_Luhur_Uluwatu_2017-08-17_(34).jpg",
+          "author": "Paskuu",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:12.564405+00:00",
+          "alt": "Uluwatu Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/id-pecatu-uluwatu-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Pura_Luhur_Uluwatu_2017-08-17_%2834%29.jpg/250px-Pura_Luhur_Uluwatu_2017-08-17_%2834%29.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Pura_Luhur_Uluwatu_2017-08-17_(34).jpg",
@@ -876,6 +1329,33 @@
       "collection_ids": [],
       "summary": "A lakeside Balinese temple associated with water and the goddess Danu.",
       "detail_path": "travel/temples/id-candikuning-ulun-danu-beratan-temple.json",
+      "card": {
+        "title": "Ulun Danu Beratan Temple",
+        "subtitle": "Candikuning, Bali",
+        "deity_label": "Devi / Mata",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pura_Ulun_Danu_Bratan%2C_2022.jpg/250px-Pura_Ulun_Danu_Bratan%2C_2022.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Pura_Ulun_Danu_Bratan,_2022.jpg",
+          "author": "LukeTriton",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:15.309082+00:00",
+          "alt": "Ulun Danu Beratan Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/id-candikuning-ulun-danu-beratan-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pura_Ulun_Danu_Bratan%2C_2022.jpg/250px-Pura_Ulun_Danu_Bratan%2C_2022.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Pura_Ulun_Danu_Bratan,_2022.jpg",
@@ -927,6 +1407,27 @@
       "collection_ids": [],
       "summary": "A major historic Hindu temple complex with towering sanctuaries devoted to the Trimurti.",
       "detail_path": "travel/temples/id-prambanan-prambanan-temple-compounds.json",
+      "card": {
+        "title": "Prambanan Temple Compounds",
+        "subtitle": "Prambanan, Special Region of Yogyakarta",
+        "deity_label": "Shiva, Vishnu, Brahma",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Prambanan_Temple_Yogyakarta_Indonesia.jpg/330px-Prambanan_Temple_Yogyakarta_Indonesia.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Prambanan_Temple_Yogyakarta_Indonesia.jpg",
+          "author": "Christopher Michel (1967–)",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:05.872775+00:00",
+          "alt": "Prambanan Temple Compounds",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/id-prambanan-prambanan-temple-compounds.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Prambanan_Temple_Yogyakarta_Indonesia.jpg/330px-Prambanan_Temple_Yogyakarta_Indonesia.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Prambanan_Temple_Yogyakarta_Indonesia.jpg",
@@ -962,6 +1463,27 @@
       "collection_ids": [],
       "summary": "A city shrine to Phra Phrom, the Thai representation of Brahma, at the Ratchaprasong intersection.",
       "detail_path": "travel/temples/th-bangkok-erawan-shrine.json",
+      "card": {
+        "title": "Erawan Shrine",
+        "subtitle": "Bangkok, Bangkok",
+        "deity_label": "Brahma",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Erawan_statue_restored.jpg/250px-Erawan_statue_restored.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Erawan_statue_restored.jpg",
+          "author": "Lerdsuwa",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:20.434761+00:00",
+          "alt": "Erawan Shrine",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/th-bangkok-erawan-shrine.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Erawan_statue_restored.jpg/250px-Erawan_statue_restored.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Erawan_statue_restored.jpg",

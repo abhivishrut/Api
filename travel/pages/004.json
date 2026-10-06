@@ -1,5 +1,5 @@
 {
-  "schema_version": "2.0.0",
+  "schema_version": "2.1.0",
   "page": 4,
   "page_size": 24,
   "total_items": 214,
@@ -52,6 +52,33 @@
       "collection_ids": [],
       "summary": "The principal Varkari pilgrimage shrine, devoted to Vitthal and Rukmini on the Chandrabhaga river.",
       "detail_path": "travel/temples/in-pandharpur-vitthal-rukmini-temple.json",
+      "card": {
+        "title": "Vitthal Rukmini Temple",
+        "subtitle": "Pandharpur, Maharashtra",
+        "deity_label": "Krishna, Vishnu, Devi / Mata",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Pandharpur_2013_Aashad_-_panoramio_%2810%29_%28cropped%29.jpg/250px-Pandharpur_2013_Aashad_-_panoramio_%2810%29_%28cropped%29.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Pandharpur_2013_Aashad_-_panoramio_(10)_(cropped).jpg",
+          "author": "Udaykumar PR",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:08.406663+00:00",
+          "alt": "Vitthal Rukmini Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/in-pandharpur-vitthal-rukmini-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Pandharpur_2013_Aashad_-_panoramio_%2810%29_%28cropped%29.jpg/250px-Pandharpur_2013_Aashad_-_panoramio_%2810%29_%28cropped%29.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Pandharpur_2013_Aashad_-_panoramio_(10)_(cropped).jpg",
@@ -88,6 +115,15 @@
       "collection_ids": [],
       "summary": "A pilgrimage complex centred on Sai Baba's samadhi and teachings; the tradition draws devotees across religious communities.",
       "detail_path": "travel/temples/in-shirdi-shirdi-sai-baba-temple.json",
+      "card": {
+        "title": "Shirdi Sai Baba Temple",
+        "subtitle": "Shirdi, Maharashtra",
+        "deity_label": "Sai Baba",
+        "image": null,
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-shirdi-shirdi-sai-baba-temple.json"
+      },
       "photo_credit": null
     },
     {
@@ -118,6 +154,33 @@
       ],
       "summary": "The Morgaon shrine is traditionally the opening and closing destination of the Ashtavinayaka pilgrimage.",
       "detail_path": "travel/temples/in-morgaon-mayureshwar-temple-morgaon.json",
+      "card": {
+        "title": "Mayureshwar Temple, Morgaon",
+        "subtitle": "Morgaon, Maharashtra",
+        "deity_label": "Ganesha",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Morgaon.jpg/250px-Morgaon.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Morgaon.jpg",
+          "author": "Redtigerxyz",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:09.404589+00:00",
+          "alt": "Mayureshwar Temple, Morgaon",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "ashtavinayaka",
+            "label": "Ashtavinayaka",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-morgaon-mayureshwar-temple-morgaon.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Morgaon.jpg/250px-Morgaon.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Morgaon.jpg",
@@ -159,6 +222,33 @@
       ],
       "summary": "An Ashtavinayaka shrine on the Bhima river, distinct from Mumbai's Siddhivinayak temple.",
       "detail_path": "travel/temples/in-siddhatek-siddhivinayak-temple-siddhatek.json",
+      "card": {
+        "title": "Siddhivinayak Temple, Siddhatek",
+        "subtitle": "Siddhatek, Maharashtra",
+        "deity_label": "Ganesha",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Siddhi_Vinayak_at_Siddhatek.jpg/250px-Siddhi_Vinayak_at_Siddhatek.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Siddhi_Vinayak_at_Siddhatek.jpg",
+          "author": "Borayin Maitreya Larios",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:21.250108+00:00",
+          "alt": "Siddhivinayak Temple, Siddhatek",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "ashtavinayaka",
+            "label": "Ashtavinayaka",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-siddhatek-siddhivinayak-temple-siddhatek.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Siddhi_Vinayak_at_Siddhatek.jpg/250px-Siddhi_Vinayak_at_Siddhatek.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Siddhi_Vinayak_at_Siddhatek.jpg",
@@ -201,6 +291,33 @@
       ],
       "summary": "The Pali Ashtavinayaka shrine is associated with the devotee Ballala.",
       "detail_path": "travel/temples/in-pali-ballaleshwar-temple-pali.json",
+      "card": {
+        "title": "Ballaleshwar Temple, Pali",
+        "subtitle": "Pali, Maharashtra",
+        "deity_label": "Ganesha",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Pali-_Shri_Ballaleshwar.jpg/250px-Pali-_Shri_Ballaleshwar.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Pali-_Shri_Ballaleshwar.jpg",
+          "author": "Borayin Maitreya Larios",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:14.256792+00:00",
+          "alt": "Ballaleshwar Temple, Pali",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "ashtavinayaka",
+            "label": "Ashtavinayaka",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-pali-ballaleshwar-temple-pali.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Pali-_Shri_Ballaleshwar.jpg/250px-Pali-_Shri_Ballaleshwar.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Pali-_Shri_Ballaleshwar.jpg",
@@ -243,6 +360,21 @@
       ],
       "summary": "An Ashtavinayaka shrine at Mahad near Khopoli; distinguish this locality from Mahad town farther south.",
       "detail_path": "travel/temples/in-mahad-khalapur-varadvinayak-temple.json",
+      "card": {
+        "title": "Varadvinayak Temple",
+        "subtitle": "Mahad, Khalapur, Maharashtra",
+        "deity_label": "Ganesha",
+        "image": null,
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "ashtavinayaka",
+            "label": "Ashtavinayaka",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-mahad-khalapur-varadvinayak-temple.json"
+      },
       "photo_credit": null
     },
     {
@@ -272,6 +404,33 @@
       ],
       "summary": "The Theur Ganapati shrine is one of the eight Ashtavinayaka pilgrimage temples.",
       "detail_path": "travel/temples/in-theur-chintamani-temple-theur.json",
+      "card": {
+        "title": "Chintamani Temple, Theur",
+        "subtitle": "Theur, Maharashtra",
+        "deity_label": "Ganesha",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Shri_Cintamani_of_Theur.jpg/250px-Shri_Cintamani_of_Theur.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Shri_Cintamani_of_Theur.jpg",
+          "author": "Borayin Maitreya Larios",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:22.174571+00:00",
+          "alt": "Chintamani Temple, Theur",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "ashtavinayaka",
+            "label": "Ashtavinayaka",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-theur-chintamani-temple-theur.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Shri_Cintamani_of_Theur.jpg/250px-Shri_Cintamani_of_Theur.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Shri_Cintamani_of_Theur.jpg",
@@ -313,6 +472,33 @@
       ],
       "summary": "A cave shrine reached by steps, set within the Lenyadri rock-cut cave group.",
       "detail_path": "travel/temples/in-lenyadri-girijatmaj-temple-lenyadri.json",
+      "card": {
+        "title": "Girijatmaj Temple, Lenyadri",
+        "subtitle": "Lenyadri, Maharashtra",
+        "deity_label": "Ganesha",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Lenyadri.jpg/330px-Lenyadri.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Lenyadri.jpg",
+          "author": "Niemru from MUMBAI, INDIA",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:07.656288+00:00",
+          "alt": "Girijatmaj Temple, Lenyadri",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "ashtavinayaka",
+            "label": "Ashtavinayaka",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-lenyadri-girijatmaj-temple-lenyadri.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Lenyadri.jpg/330px-Lenyadri.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Lenyadri.jpg",
@@ -355,6 +541,33 @@
       ],
       "summary": "An Ashtavinayaka shrine where Ganapati is worshipped as the remover of obstacles.",
       "detail_path": "travel/temples/in-ozar-vighneshwar-temple-ozar.json",
+      "card": {
+        "title": "Vighneshwar Temple, Ozar",
+        "subtitle": "Ozar, Maharashtra",
+        "deity_label": "Ganesha",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Ozhar_-_Shri_Vighnahar.jpg/250px-Ozhar_-_Shri_Vighnahar.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Ozhar_-_Shri_Vighnahar.jpg",
+          "author": "Borayin Maitreya Larios",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:22.547197+00:00",
+          "alt": "Vighneshwar Temple, Ozar",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "ashtavinayaka",
+            "label": "Ashtavinayaka",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-ozar-vighneshwar-temple-ozar.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Ozhar_-_Shri_Vighnahar.jpg/250px-Ozhar_-_Shri_Vighnahar.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Ozhar_-_Shri_Vighnahar.jpg",
@@ -397,6 +610,21 @@
       ],
       "summary": "The Ranjangaon shrine represents Mahaganapati in the Ashtavinayaka pilgrimage tradition.",
       "detail_path": "travel/temples/in-ranjangaon-mahaganapati-temple-ranjangaon.json",
+      "card": {
+        "title": "Mahaganapati Temple, Ranjangaon",
+        "subtitle": "Ranjangaon, Maharashtra",
+        "deity_label": "Ganesha",
+        "image": null,
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "ashtavinayaka",
+            "label": "Ashtavinayaka",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-ranjangaon-mahaganapati-temple-ranjangaon.json"
+      },
       "photo_credit": null
     },
     {
@@ -427,6 +655,33 @@
       ],
       "summary": "A south-facing Jyotirlinga in Ujjain, particularly associated with the Bhasma Aarti tradition.",
       "detail_path": "travel/temples/in-ujjain-mahakaleshwar-temple.json",
+      "card": {
+        "title": "Mahakaleshwar Temple",
+        "subtitle": "Ujjain, Madhya Pradesh",
+        "deity_label": "Shiva",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Mahakaleshwar_Temple%2C_Ujjain.jpg/250px-Mahakaleshwar_Temple%2C_Ujjain.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Mahakaleshwar_Temple,_Ujjain.jpg",
+          "author": "Ashverse",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:15.056984+00:00",
+          "alt": "Mahakaleshwar Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "jyotirlinga",
+            "label": "12 Jyotirlingas",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-ujjain-mahakaleshwar-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Mahakaleshwar_Temple%2C_Ujjain.jpg/250px-Mahakaleshwar_Temple%2C_Ujjain.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Mahakaleshwar_Temple,_Ujjain.jpg",
@@ -468,6 +723,33 @@
       ],
       "summary": "A Narmada island pilgrimage; Omkareshwar and nearby Mamleshwar are associated in the local Jyotirlinga tradition.",
       "detail_path": "travel/temples/in-omkareshwar-omkareshwar-temple.json",
+      "card": {
+        "title": "Omkareshwar Temple",
+        "subtitle": "Omkareshwar, Madhya Pradesh",
+        "deity_label": "Shiva",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Omkareswar_Jyotirlinga.jpg/250px-Omkareswar_Jyotirlinga.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Omkareswar_Jyotirlinga.jpg",
+          "author": "Deveshc92",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:05.318475+00:00",
+          "alt": "Omkareshwar Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "jyotirlinga",
+            "label": "12 Jyotirlingas",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-omkareshwar-omkareshwar-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Omkareswar_Jyotirlinga.jpg/250px-Omkareswar_Jyotirlinga.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Omkareswar_Jyotirlinga.jpg",
@@ -506,6 +788,27 @@
       "collection_ids": [],
       "summary": "Rama is worshipped as a king in this palace-associated temple at Orchha.",
       "detail_path": "travel/temples/in-orchha-ram-raja-temple.json",
+      "card": {
+        "title": "Ram Raja Temple",
+        "subtitle": "Orchha, Madhya Pradesh",
+        "deity_label": "Rama",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Ram_Raja_Temple.jpg/250px-Ram_Raja_Temple.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Ram_Raja_Temple.jpg",
+          "author": "Yann (talk)",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:21.661680+00:00",
+          "alt": "Ram Raja Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-orchha-ram-raja-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Ram_Raja_Temple.jpg/250px-Ram_Raja_Temple.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Ram_Raja_Temple.jpg",
@@ -545,6 +848,27 @@
       "collection_ids": [],
       "summary": "A Chandela-period Shiva monument known for its soaring clustered spires and extensive sculpture.",
       "detail_path": "travel/temples/in-khajuraho-kandariya-mahadeva-temple.json",
+      "card": {
+        "title": "Kandariya Mahadeva Temple",
+        "subtitle": "Khajuraho, Madhya Pradesh",
+        "deity_label": "Shiva",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Khajuraho.KandariyaMahadeva.jpg/250px-Khajuraho.KandariyaMahadeva.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Khajuraho.KandariyaMahadeva.jpg",
+          "author": "China Crisis",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:17.210481+00:00",
+          "alt": "Kandariya Mahadeva Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-khajuraho-kandariya-mahadeva-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Khajuraho.KandariyaMahadeva.jpg/250px-Khajuraho.KandariyaMahadeva.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Khajuraho.KandariyaMahadeva.jpg",
@@ -588,6 +912,21 @@
       "collection_ids": [],
       "summary": "A hilltop Sharada shrine that forms the centre of Maihar's goddess pilgrimage.",
       "detail_path": "travel/temples/in-maihar-sharada-devi-temple-maihar.json",
+      "card": {
+        "title": "Sharada Devi Temple, Maihar",
+        "subtitle": "Maihar, Madhya Pradesh",
+        "deity_label": "Devi / Mata",
+        "image": null,
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/in-maihar-sharada-devi-temple-maihar.json"
+      },
       "photo_credit": null
     },
     {
@@ -618,6 +957,33 @@
       ],
       "summary": "A major Shiva pilgrimage in Deoghar; the identification of the Vaidyanath Jyotirlinga has regional alternatives.",
       "detail_path": "travel/temples/in-deoghar-baidyanath-temple-deoghar.json",
+      "card": {
+        "title": "Baidyanath Temple, Deoghar",
+        "subtitle": "Deoghar, Jharkhand",
+        "deity_label": "Shiva",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Baidyanath_temple_and_temple_complex%2C_Deoghar_04.jpg/250px-Baidyanath_temple_and_temple_complex%2C_Deoghar_04.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Baidyanath_temple_and_temple_complex,_Deoghar_04.jpg",
+          "author": "Pinakpani",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:10.810162+00:00",
+          "alt": "Baidyanath Temple, Deoghar",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "jyotirlinga",
+            "label": "12 Jyotirlingas",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-deoghar-baidyanath-temple-deoghar.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Baidyanath_temple_and_temple_complex%2C_Deoghar_04.jpg/250px-Baidyanath_temple_and_temple_complex%2C_Deoghar_04.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Baidyanath_temple_and_temple_complex,_Deoghar_04.jpg",
@@ -662,6 +1028,21 @@
       "collection_ids": [],
       "summary": "A Shakta shrine near the meeting of the Bhairavi and Damodar rivers.",
       "detail_path": "travel/temples/in-rajrappa-chhinnamasta-temple-rajrappa.json",
+      "card": {
+        "title": "Chhinnamasta Temple, Rajrappa",
+        "subtitle": "Rajrappa, Jharkhand",
+        "deity_label": "Devi / Mata",
+        "image": null,
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/in-rajrappa-chhinnamasta-temple-rajrappa.json"
+      },
       "photo_credit": null
     },
     {
@@ -690,6 +1071,27 @@
       "collection_ids": [],
       "summary": "A Vishnu shrine associated with the deity's footprint and Gaya's ancestral-offering pilgrimage traditions.",
       "detail_path": "travel/temples/in-gaya-vishnupad-temple.json",
+      "card": {
+        "title": "Vishnupad Temple",
+        "subtitle": "Gaya, Bihar",
+        "deity_label": "Vishnu",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Vishnupad_Temple%2CUpdated.jpg/250px-Vishnupad_Temple%2CUpdated.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Vishnupad_Temple,Updated.jpg",
+          "author": "Deeppsychological",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:24.867653+00:00",
+          "alt": "Vishnupad Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-gaya-vishnupad-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Vishnupad_Temple%2CUpdated.jpg/250px-Vishnupad_Temple%2CUpdated.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Vishnupad_Temple,Updated.jpg",
@@ -729,6 +1131,27 @@
       "collection_ids": [],
       "summary": "A prominent Hanuman temple close to Patna Junction railway station.",
       "detail_path": "travel/temples/in-patna-mahavir-mandir-patna.json",
+      "card": {
+        "title": "Mahavir Mandir, Patna",
+        "subtitle": "Patna, Bihar",
+        "deity_label": "Hanuman",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Mahavir_Mandir_from_Buddha_Smriti_Park.JPG/250px-Mahavir_Mandir_from_Buddha_Smriti_Park.JPG",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Mahavir_Mandir_from_Buddha_Smriti_Park.JPG",
+          "author": "Shivamsetu",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:21.406135+00:00",
+          "alt": "Mahavir Mandir, Patna",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-patna-mahavir-mandir-patna.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Mahavir_Mandir_from_Buddha_Smriti_Park.JPG/250px-Mahavir_Mandir_from_Buddha_Smriti_Park.JPG",
         "source_page": "https://commons.wikimedia.org/wiki/File:Mahavir_Mandir_from_Buddha_Smriti_Park.JPG",
@@ -779,6 +1202,33 @@
       "collection_ids": [],
       "summary": "A historic hill temple known for its unusual octagonal plan and continuing worship.",
       "detail_path": "travel/temples/in-paunra-mundeshwari-temple.json",
+      "card": {
+        "title": "Mundeshwari Temple",
+        "subtitle": "Paunra, Bihar",
+        "deity_label": "Devi / Mata, Shiva",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Maa_Mundeshwari_Devi.jpg/250px-Maa_Mundeshwari_Devi.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Maa_Mundeshwari_Devi.jpg",
+          "author": "Lakshya",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:14.441607+00:00",
+          "alt": "Mundeshwari Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/in-paunra-mundeshwari-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Maa_Mundeshwari_Devi.jpg/250px-Maa_Mundeshwari_Devi.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Maa_Mundeshwari_Devi.jpg",
@@ -830,6 +1280,33 @@
       ],
       "summary": "The shrine of Jagannath, Balabhadra and Subhadra anchors Puri's pilgrimage and Ratha Yatra traditions.",
       "detail_path": "travel/temples/in-puri-jagannath-temple-puri.json",
+      "card": {
+        "title": "Jagannath Temple, Puri",
+        "subtitle": "Puri, Odisha",
+        "deity_label": "Jagannath, Krishna, Balarama, Subhadra",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Shri_Jagannath_temple.jpg/250px-Shri_Jagannath_temple.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Shri_Jagannath_temple.jpg",
+          "author": "Prachites",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:19.957093+00:00",
+          "alt": "Jagannath Temple, Puri",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "char-dham",
+            "label": "Char Dham of India",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-puri-jagannath-temple-puri.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Shri_Jagannath_temple.jpg/250px-Shri_Jagannath_temple.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Shri_Jagannath_temple.jpg",
@@ -878,6 +1355,27 @@
       "collection_ids": [],
       "summary": "A major Kalinga-style temple where Harihara worship brings Shiva and Vishnu associations together.",
       "detail_path": "travel/temples/in-bhubaneswar-lingaraj-temple.json",
+      "card": {
+        "title": "Lingaraj Temple",
+        "subtitle": "Bhubaneswar, Odisha",
+        "deity_label": "Shiva, Vishnu",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Lingaraj_Temple_%2C_Bhubaneswar.jpg/250px-Lingaraj_Temple_%2C_Bhubaneswar.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Lingaraj_Temple_,_Bhubaneswar.jpg",
+          "author": "Satyakam Parthasarathy",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:12.640150+00:00",
+          "alt": "Lingaraj Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-bhubaneswar-lingaraj-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Lingaraj_Temple_%2C_Bhubaneswar.jpg/250px-Lingaraj_Temple_%2C_Bhubaneswar.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Lingaraj_Temple_,_Bhubaneswar.jpg",
@@ -915,6 +1413,27 @@
       "collection_ids": [],
       "summary": "A monumental stone chariot dedicated to Surya; the surviving temple is primarily visited as a heritage monument.",
       "detail_path": "travel/temples/in-konark-konark-sun-temple.json",
+      "card": {
+        "title": "Konark Sun Temple",
+        "subtitle": "Konark, Odisha",
+        "deity_label": "Surya",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Konarka_Temple.jpg/250px-Konarka_Temple.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Konarka_Temple.jpg",
+          "author": "Subham9423",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:11.321826+00:00",
+          "alt": "Konark Sun Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-konark-konark-sun-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Konarka_Temple.jpg/250px-Konarka_Temple.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Konarka_Temple.jpg",
@@ -955,6 +1474,27 @@
       "collection_ids": [],
       "summary": "A compact Shiva temple noted for its intricately carved arched gateway.",
       "detail_path": "travel/temples/in-bhubaneswar-mukteshwar-temple-bhubaneswar.json",
+      "card": {
+        "title": "Mukteshwar Temple, Bhubaneswar",
+        "subtitle": "Bhubaneswar, Odisha",
+        "deity_label": "Shiva",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Muktesvar_Temple.jpg/250px-Muktesvar_Temple.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Muktesvar_Temple.jpg",
+          "author": "Robin Mohapatra",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:15.959272+00:00",
+          "alt": "Mukteshwar Temple, Bhubaneswar",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-bhubaneswar-mukteshwar-temple-bhubaneswar.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Muktesvar_Temple.jpg/250px-Muktesvar_Temple.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Muktesvar_Temple.jpg",

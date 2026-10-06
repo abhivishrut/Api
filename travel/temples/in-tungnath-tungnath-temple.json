@@ -1,5 +1,5 @@
 {
-  "schema_version": "2.0.0",
+  "schema_version": "2.1.0",
   "temple": {
     "id": "in-tungnath-tungnath-temple",
     "slug": "tungnath-temple",
@@ -208,7 +208,418 @@
           "postal_code",
           "google_place_id"
         ]
+      },
+      "ui": {
+        "name_hi": null,
+        "header_title": "Tungnath Temple",
+        "section_order": [
+          "overview",
+          "significance",
+          "history",
+          "architecture",
+          "darshan",
+          "rituals",
+          "festivals",
+          "gallery",
+          "how_to_reach",
+          "location",
+          "before_visit",
+          "guidelines",
+          "nearby",
+          "related",
+          "journey"
+        ],
+        "overview": {
+          "title": "About Temple",
+          "summary": "The Panch Kedar shrine above Chopta combines a stone temple with a steep mountain walking approach.",
+          "paragraphs": [
+            "Tungnath Temple is located in Tungnath, Uttarakhand, India. The Panch Kedar shrine above Chopta combines a stone temple with a steep mountain walking approach."
+          ],
+          "status": "written_summary_needs_full_fact_check",
+          "facts": [
+            {
+              "id": "deity",
+              "label": "Main deity",
+              "value": "Shiva"
+            },
+            {
+              "id": "hours",
+              "label": "Temple timings",
+              "value": null,
+              "fallback": "Confirm current hours",
+              "status": "not_verified"
+            },
+            {
+              "id": "location",
+              "label": "Location",
+              "value": "Tungnath, Uttarakhand"
+            },
+            {
+              "id": "season",
+              "label": "Best season",
+              "value": "Confirm annual opening season",
+              "fallback": "Check local conditions"
+            }
+          ]
+        },
+        "significance": {
+          "title": "Spiritual Significance",
+          "heading": "Panch Kedar",
+          "body": {
+            "text": "The Panch Kedar shrine above Chopta combines a stone temple with a steep mountain walking approach.",
+            "source_ids": [],
+            "status": "editorial_needs_review"
+          }
+        },
+        "history": {
+          "title": "History",
+          "subtitle": "A heritage shaped by faith and renewal.",
+          "items": [],
+          "empty_message": "Historical details are being researched."
+        },
+        "architecture": {
+          "title": "Architecture",
+          "body": {
+            "text": null,
+            "source_ids": [],
+            "status": "not_verified"
+          },
+          "features": [],
+          "image": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Tungnath_temple.jpg/250px-Tungnath_temple.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Tungnath_temple.jpg",
+            "author": "Varun Shiv Kapur",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:24.781779+00:00",
+            "alt": "Tungnath Temple",
+            "role": "article_lead_photo"
+          }
+        },
+        "darshan": {
+          "title": "Darshan Timings",
+          "timezone": "Asia/Kolkata",
+          "hours": [],
+          "status": "not_verified",
+          "source_id": null,
+          "schedule": [],
+          "notice": "Confirm current hours and bookings before visiting. Festival arrangements may differ.",
+          "information_url": "https://uttarakhandtourism.gov.in/experiences/panch-kedar",
+          "empty_message": "Current timings have not been verified."
+        },
+        "rituals": {
+          "title": "Aarti & Pooja",
+          "items": [],
+          "empty_message": "Check the temple source for current rituals and bookings."
+        },
+        "festivals": {
+          "title": "Major Festivals",
+          "summary": {
+            "text": null,
+            "source_id": null,
+            "dates": [],
+            "status": "not_verified"
+          },
+          "items": [],
+          "notice": "Dates follow the Hindu calendar and vary by year and tradition.",
+          "empty_message": "Festival details are being researched."
+        },
+        "gallery": {
+          "title": "Temple Gallery",
+          "items": [
+            {
+              "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Tungnath_temple.jpg/250px-Tungnath_temple.jpg",
+              "source_page": "https://commons.wikimedia.org/wiki/File:Tungnath_temple.jpg",
+              "author": "Varun Shiv Kapur",
+              "license": "CC BY 2.0",
+              "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+              "changes": "None; Wikimedia thumbnail rendition.",
+              "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+              "link_status": "reachable_at_check",
+              "link_checked_at": "2026-10-06T07:54:24.781779+00:00",
+              "alt": "Tungnath Temple",
+              "role": "article_lead_photo"
+            }
+          ],
+          "view_all_label": "View All Photos",
+          "empty_message": "Temple photos are not yet available."
+        },
+        "how_to_reach": {
+          "title": "How to Reach",
+          "items": [],
+          "notice": "Distances and routes depend on the arrival point.",
+          "empty_message": "Use directions and confirm local access before travel."
+        },
+        "location": {
+          "latitude": 30.489444,
+          "longitude": 79.215278,
+          "coordinate_status": "reference_point",
+          "coordinate_source_id": "reference",
+          "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+          "address": "Tungnath Temple, Tungnath, Uttarakhand, India",
+          "address_precision": "locality",
+          "country": "India",
+          "country_code": "IN",
+          "state": "Uttarakhand",
+          "city": "Tungnath",
+          "district": "Rudraprayag",
+          "postal_code": null,
+          "google_place_id": null,
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tungnath+Temple%2C+Tungnath%2C+Uttarakhand%2C+India",
+          "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Tungnath+Temple%2C+Tungnath%2C+Uttarakhand%2C+India",
+          "title": "Location",
+          "map_preview_url": null,
+          "map_preview_status": "use_client_map_or_placeholder"
+        },
+        "before_visit": {
+          "title": "Before You Visit",
+          "items": [
+            {
+              "id": "dress",
+              "title": "Dress respectfully",
+              "icon": "shirt",
+              "body": {
+                "text": "Choose modest attire and confirm temple-specific dress guidance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "photography",
+              "title": "Phones & photography",
+              "icon": "camera-off",
+              "body": {
+                "text": "Confirm device and photography restrictions at the entrance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "footwear",
+              "title": "Footwear",
+              "icon": "footprints",
+              "body": {
+                "text": "Follow posted footwear and storage instructions.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "entry",
+              "title": "Entry & special darshan",
+              "icon": "ticket",
+              "body": {
+                "text": "Consult the temple source for eligibility, booking and charges.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "crowds",
+              "title": "Crowds & queues",
+              "icon": "users",
+              "body": {
+                "text": "Allow extra time on festival days and follow staff guidance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "season",
+              "title": "Choosing your visit",
+              "icon": "sun",
+              "body": {
+                "text": "Confirm annual opening season",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            }
+          ]
+        },
+        "guidelines": {
+          "title": "Temple Guidelines",
+          "items": [
+            "Follow posted footwear and dress requirements.",
+            "Ask before photographing worship, people or sanctums.",
+            "Follow the temple's current queue and offering arrangements.",
+            "Keep valuables secure and follow staff directions."
+          ],
+          "status": "general_guidance"
+        },
+        "nearby": {
+          "title": "Nearby Sacred Places",
+          "items": [],
+          "basis": "same_locality",
+          "notice": "Same-locality suggestions; distances are straight-line estimates, not travel routes.",
+          "empty_message": "No other catalogued temples in this locality."
+        },
+        "related": {
+          "title": "You May Also Like",
+          "items": [
+            {
+              "temple_id": "in-kedarnath-kedarnath-temple",
+              "card": {
+                "title": "Kedarnath Temple",
+                "subtitle": "Kedarnath, Uttarakhand",
+                "deity_label": "Shiva",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Kedarnath_Temple_in_Rainy_season.jpg/250px-Kedarnath_Temple_in_Rainy_season.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Kedarnath_Temple_in_Rainy_season.jpg",
+                  "author": "Shivam Kumar 766",
+                  "license": "CC BY-SA 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:12.323669+00:00",
+                  "alt": "Kedarnath Temple",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "jyotirlinga",
+                    "label": "12 Jyotirlingas",
+                    "basis": "pilgrimage_collection"
+                  },
+                  {
+                    "id": "chota-char-dham",
+                    "label": "Uttarakhand Char Dham",
+                    "basis": "pilgrimage_collection"
+                  },
+                  {
+                    "id": "panch-kedar",
+                    "label": "Panch Kedar",
+                    "basis": "pilgrimage_collection"
+                  }
+                ],
+                "detail_path": "travel/temples/in-kedarnath-kedarnath-temple.json"
+              }
+            },
+            {
+              "temple_id": "in-madhyamaheshwar-madhyamaheshwar-temple",
+              "card": {
+                "title": "Madhyamaheshwar Temple",
+                "subtitle": "Madhyamaheshwar, Uttarakhand",
+                "deity_label": "Shiva",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Madhyamaheshwar_Temple%2C_Uttarakhand.JPG/250px-Madhyamaheshwar_Temple%2C_Uttarakhand.JPG",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Madhyamaheshwar_Temple,_Uttarakhand.JPG",
+                  "author": "Bodhisattwa",
+                  "license": "CC BY-SA 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:12.886653+00:00",
+                  "alt": "Madhyamaheshwar Temple",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "panch-kedar",
+                    "label": "Panch Kedar",
+                    "basis": "pilgrimage_collection"
+                  }
+                ],
+                "detail_path": "travel/temples/in-madhyamaheshwar-madhyamaheshwar-temple.json"
+              }
+            },
+            {
+              "temple_id": "in-rudranath-rudranath-temple",
+              "card": {
+                "title": "Rudranath Temple",
+                "subtitle": "Rudranath, Uttarakhand",
+                "deity_label": "Shiva",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Rudranath_temple.jpg/250px-Rudranath_temple.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Rudranath_temple.jpg",
+                  "author": "rolling on",
+                  "license": "CC BY-SA 2.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:13.076711+00:00",
+                  "alt": "Rudranath Temple",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "panch-kedar",
+                    "label": "Panch Kedar",
+                    "basis": "pilgrimage_collection"
+                  }
+                ],
+                "detail_path": "travel/temples/in-rudranath-rudranath-temple.json"
+              }
+            }
+          ],
+          "basis": "shared_collection_then_deity",
+          "empty_message": "More recommendations will appear as the catalogue grows."
+        },
+        "actions": {
+          "directions": {
+            "label": "Get Directions",
+            "url": "https://www.google.com/maps/dir/?api=1&destination=Tungnath+Temple%2C+Tungnath%2C+Uttarakhand%2C+India"
+          },
+          "maps": {
+            "label": "Open in Maps",
+            "url": "https://www.google.com/maps/search/?api=1&query=Tungnath+Temple%2C+Tungnath%2C+Uttarakhand%2C+India"
+          },
+          "save": {
+            "label": "Save",
+            "saved_label": "Saved",
+            "action": "toggle_local_favorite",
+            "storage_key": "in-tungnath-tungnath-temple"
+          },
+          "share": {
+            "label": "Share",
+            "action": "native_share",
+            "text": "Tungnath Temple — Tungnath, Uttarakhand",
+            "url": "https://www.google.com/maps/search/?api=1&query=Tungnath+Temple%2C+Tungnath%2C+Uttarakhand%2C+India"
+          },
+          "read_more": {
+            "label": "Read More",
+            "action": "expand_overview"
+          }
+        },
+        "journey": {
+          "config_path": "travel/discovery.json#/journey"
+        }
       }
+    },
+    "card": {
+      "title": "Tungnath Temple",
+      "subtitle": "Tungnath, Uttarakhand",
+      "deity_label": "Shiva",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Tungnath_temple.jpg/250px-Tungnath_temple.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Tungnath_temple.jpg",
+        "author": "Varun Shiv Kapur",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:24.781779+00:00",
+        "alt": "Tungnath Temple",
+        "role": "article_lead_photo"
+      },
+      "fallback_asset": "travel/assets/temple-placeholder.svg",
+      "badges": [
+        {
+          "id": "panch-kedar",
+          "label": "Panch Kedar",
+          "basis": "pilgrimage_collection"
+        }
+      ],
+      "detail_path": "travel/temples/in-tungnath-tungnath-temple.json"
     }
   }
 }

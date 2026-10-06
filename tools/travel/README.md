@@ -1,3 +1,7 @@
+# UI update: version 2.1
+
+The eight supplied Harinaam screens are supported through `travel/discovery.json`, index cards, and each temple's `details.ui`. See [UI-CONTRACT.md](UI-CONTRACT.md) for the full screen mapping, client behavior and missing-data rules. Existing IDs and version 2 data fields remain available.
+
 # Hindu temple travel API, version 2
 
 `travel.json` is a static JSON catalogue. This update replaces the former mixed,

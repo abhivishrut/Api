@@ -1,5 +1,5 @@
 {
-  "schema_version": "2.0.0",
+  "schema_version": "2.1.0",
   "temple": {
     "id": "in-ujjain-mahakaleshwar-temple",
     "slug": "mahakaleshwar-temple",
@@ -206,7 +206,406 @@
           "postal_code",
           "google_place_id"
         ]
+      },
+      "ui": {
+        "name_hi": null,
+        "header_title": "Mahakaleshwar Temple",
+        "section_order": [
+          "overview",
+          "significance",
+          "history",
+          "architecture",
+          "darshan",
+          "rituals",
+          "festivals",
+          "gallery",
+          "how_to_reach",
+          "location",
+          "before_visit",
+          "guidelines",
+          "nearby",
+          "related",
+          "journey"
+        ],
+        "overview": {
+          "title": "About Temple",
+          "summary": "A south-facing Jyotirlinga in Ujjain, particularly associated with the Bhasma Aarti tradition.",
+          "paragraphs": [
+            "Mahakaleshwar Temple is located in Ujjain, Madhya Pradesh, India. A south-facing Jyotirlinga in Ujjain, particularly associated with the Bhasma Aarti tradition."
+          ],
+          "status": "written_summary_needs_full_fact_check",
+          "facts": [
+            {
+              "id": "deity",
+              "label": "Main deity",
+              "value": "Shiva"
+            },
+            {
+              "id": "hours",
+              "label": "Temple timings",
+              "value": null,
+              "fallback": "Confirm current hours",
+              "status": "not_verified"
+            },
+            {
+              "id": "location",
+              "label": "Location",
+              "value": "Ujjain, Madhya Pradesh"
+            },
+            {
+              "id": "season",
+              "label": "Best season",
+              "value": null,
+              "fallback": "Check local conditions"
+            }
+          ]
+        },
+        "significance": {
+          "title": "Spiritual Significance",
+          "heading": "12 Jyotirlingas",
+          "body": {
+            "text": "A south-facing Jyotirlinga in Ujjain, particularly associated with the Bhasma Aarti tradition.",
+            "source_ids": [],
+            "status": "editorial_needs_review"
+          }
+        },
+        "history": {
+          "title": "History",
+          "subtitle": "A heritage shaped by faith and renewal.",
+          "items": [],
+          "empty_message": "Historical details are being researched."
+        },
+        "architecture": {
+          "title": "Architecture",
+          "body": {
+            "text": null,
+            "source_ids": [],
+            "status": "not_verified"
+          },
+          "features": [],
+          "image": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Mahakaleshwar_Temple%2C_Ujjain.jpg/250px-Mahakaleshwar_Temple%2C_Ujjain.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Mahakaleshwar_Temple,_Ujjain.jpg",
+            "author": "Ashverse",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:15.056984+00:00",
+            "alt": "Mahakaleshwar Temple",
+            "role": "article_lead_photo"
+          }
+        },
+        "darshan": {
+          "title": "Darshan Timings",
+          "timezone": "Asia/Kolkata",
+          "hours": [],
+          "status": "not_verified",
+          "source_id": null,
+          "schedule": [],
+          "notice": "Confirm current hours and bookings before visiting. Festival arrangements may differ.",
+          "information_url": "https://ujjain.nic.in/en/tourist-place/shri-mahakaleshwar-temple/",
+          "empty_message": "Current timings have not been verified."
+        },
+        "rituals": {
+          "title": "Aarti & Pooja",
+          "items": [],
+          "empty_message": "Check the temple source for current rituals and bookings."
+        },
+        "festivals": {
+          "title": "Major Festivals",
+          "summary": {
+            "text": null,
+            "source_id": null,
+            "dates": [],
+            "status": "not_verified"
+          },
+          "items": [],
+          "notice": "Dates follow the Hindu calendar and vary by year and tradition.",
+          "empty_message": "Festival details are being researched."
+        },
+        "gallery": {
+          "title": "Temple Gallery",
+          "items": [
+            {
+              "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Mahakaleshwar_Temple%2C_Ujjain.jpg/250px-Mahakaleshwar_Temple%2C_Ujjain.jpg",
+              "source_page": "https://commons.wikimedia.org/wiki/File:Mahakaleshwar_Temple,_Ujjain.jpg",
+              "author": "Ashverse",
+              "license": "CC BY-SA 4.0",
+              "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+              "changes": "None; Wikimedia thumbnail rendition.",
+              "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+              "link_status": "reachable_at_check",
+              "link_checked_at": "2026-10-06T07:54:15.056984+00:00",
+              "alt": "Mahakaleshwar Temple",
+              "role": "article_lead_photo"
+            }
+          ],
+          "view_all_label": "View All Photos",
+          "empty_message": "Temple photos are not yet available."
+        },
+        "how_to_reach": {
+          "title": "How to Reach",
+          "items": [],
+          "notice": "Distances and routes depend on the arrival point.",
+          "empty_message": "Use directions and confirm local access before travel."
+        },
+        "location": {
+          "latitude": 23.182778,
+          "longitude": 75.768333,
+          "coordinate_status": "reference_point",
+          "coordinate_source_id": "reference",
+          "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+          "address": "Mahakaleshwar Temple, Ujjain, Madhya Pradesh, India",
+          "address_precision": "locality",
+          "country": "India",
+          "country_code": "IN",
+          "state": "Madhya Pradesh",
+          "city": "Ujjain",
+          "district": "Ujjain",
+          "postal_code": null,
+          "google_place_id": null,
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mahakaleshwar+Temple%2C+Ujjain%2C+Madhya+Pradesh%2C+India",
+          "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Mahakaleshwar+Temple%2C+Ujjain%2C+Madhya+Pradesh%2C+India",
+          "title": "Location",
+          "map_preview_url": null,
+          "map_preview_status": "use_client_map_or_placeholder"
+        },
+        "before_visit": {
+          "title": "Before You Visit",
+          "items": [
+            {
+              "id": "dress",
+              "title": "Dress respectfully",
+              "icon": "shirt",
+              "body": {
+                "text": "Choose modest attire and confirm temple-specific dress guidance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "photography",
+              "title": "Phones & photography",
+              "icon": "camera-off",
+              "body": {
+                "text": "Confirm device and photography restrictions at the entrance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "footwear",
+              "title": "Footwear",
+              "icon": "footprints",
+              "body": {
+                "text": "Follow posted footwear and storage instructions.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "entry",
+              "title": "Entry & special darshan",
+              "icon": "ticket",
+              "body": {
+                "text": "Consult the temple source for eligibility, booking and charges.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "crowds",
+              "title": "Crowds & queues",
+              "icon": "users",
+              "body": {
+                "text": "Allow extra time on festival days and follow staff guidance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "season",
+              "title": "Choosing your visit",
+              "icon": "sun",
+              "body": {
+                "text": "Check local weather and seasonal access before travelling.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            }
+          ]
+        },
+        "guidelines": {
+          "title": "Temple Guidelines",
+          "items": [
+            "Follow posted footwear and dress requirements.",
+            "Ask before photographing worship, people or sanctums.",
+            "Follow the temple's current queue and offering arrangements.",
+            "Keep valuables secure and follow staff directions."
+          ],
+          "status": "general_guidance"
+        },
+        "nearby": {
+          "title": "Nearby Sacred Places",
+          "items": [],
+          "basis": "same_locality",
+          "notice": "Same-locality suggestions; distances are straight-line estimates, not travel routes.",
+          "empty_message": "No other catalogued temples in this locality."
+        },
+        "related": {
+          "title": "You May Also Like",
+          "items": [
+            {
+              "temple_id": "in-bhimashankar-bhimashankar-temple",
+              "card": {
+                "title": "Bhimashankar Temple",
+                "subtitle": "Bhimashankar, Maharashtra",
+                "deity_label": "Shiva",
+                "image": null,
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "jyotirlinga",
+                    "label": "12 Jyotirlingas",
+                    "basis": "pilgrimage_collection"
+                  }
+                ],
+                "detail_path": "travel/temples/in-bhimashankar-bhimashankar-temple.json"
+              }
+            },
+            {
+              "temple_id": "in-deoghar-baidyanath-temple-deoghar",
+              "card": {
+                "title": "Baidyanath Temple, Deoghar",
+                "subtitle": "Deoghar, Jharkhand",
+                "deity_label": "Shiva",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Baidyanath_temple_and_temple_complex%2C_Deoghar_04.jpg/250px-Baidyanath_temple_and_temple_complex%2C_Deoghar_04.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Baidyanath_temple_and_temple_complex,_Deoghar_04.jpg",
+                  "author": "Pinakpani",
+                  "license": "CC BY 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:10.810162+00:00",
+                  "alt": "Baidyanath Temple, Deoghar",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "jyotirlinga",
+                    "label": "12 Jyotirlingas",
+                    "basis": "pilgrimage_collection"
+                  }
+                ],
+                "detail_path": "travel/temples/in-deoghar-baidyanath-temple-deoghar.json"
+              }
+            },
+            {
+              "temple_id": "in-kedarnath-kedarnath-temple",
+              "card": {
+                "title": "Kedarnath Temple",
+                "subtitle": "Kedarnath, Uttarakhand",
+                "deity_label": "Shiva",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Kedarnath_Temple_in_Rainy_season.jpg/250px-Kedarnath_Temple_in_Rainy_season.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Kedarnath_Temple_in_Rainy_season.jpg",
+                  "author": "Shivam Kumar 766",
+                  "license": "CC BY-SA 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:12.323669+00:00",
+                  "alt": "Kedarnath Temple",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "jyotirlinga",
+                    "label": "12 Jyotirlingas",
+                    "basis": "pilgrimage_collection"
+                  },
+                  {
+                    "id": "chota-char-dham",
+                    "label": "Uttarakhand Char Dham",
+                    "basis": "pilgrimage_collection"
+                  },
+                  {
+                    "id": "panch-kedar",
+                    "label": "Panch Kedar",
+                    "basis": "pilgrimage_collection"
+                  }
+                ],
+                "detail_path": "travel/temples/in-kedarnath-kedarnath-temple.json"
+              }
+            }
+          ],
+          "basis": "shared_collection_then_deity",
+          "empty_message": "More recommendations will appear as the catalogue grows."
+        },
+        "actions": {
+          "directions": {
+            "label": "Get Directions",
+            "url": "https://www.google.com/maps/dir/?api=1&destination=Mahakaleshwar+Temple%2C+Ujjain%2C+Madhya+Pradesh%2C+India"
+          },
+          "maps": {
+            "label": "Open in Maps",
+            "url": "https://www.google.com/maps/search/?api=1&query=Mahakaleshwar+Temple%2C+Ujjain%2C+Madhya+Pradesh%2C+India"
+          },
+          "save": {
+            "label": "Save",
+            "saved_label": "Saved",
+            "action": "toggle_local_favorite",
+            "storage_key": "in-ujjain-mahakaleshwar-temple"
+          },
+          "share": {
+            "label": "Share",
+            "action": "native_share",
+            "text": "Mahakaleshwar Temple — Ujjain, Madhya Pradesh",
+            "url": "https://www.google.com/maps/search/?api=1&query=Mahakaleshwar+Temple%2C+Ujjain%2C+Madhya+Pradesh%2C+India"
+          },
+          "read_more": {
+            "label": "Read More",
+            "action": "expand_overview"
+          }
+        },
+        "journey": {
+          "config_path": "travel/discovery.json#/journey"
+        }
       }
+    },
+    "card": {
+      "title": "Mahakaleshwar Temple",
+      "subtitle": "Ujjain, Madhya Pradesh",
+      "deity_label": "Shiva",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Mahakaleshwar_Temple%2C_Ujjain.jpg/250px-Mahakaleshwar_Temple%2C_Ujjain.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Mahakaleshwar_Temple,_Ujjain.jpg",
+        "author": "Ashverse",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:15.056984+00:00",
+        "alt": "Mahakaleshwar Temple",
+        "role": "article_lead_photo"
+      },
+      "fallback_asset": "travel/assets/temple-placeholder.svg",
+      "badges": [
+        {
+          "id": "jyotirlinga",
+          "label": "12 Jyotirlingas",
+          "basis": "pilgrimage_collection"
+        }
+      ],
+      "detail_path": "travel/temples/in-ujjain-mahakaleshwar-temple.json"
     }
   }
 }

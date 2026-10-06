@@ -1,5 +1,5 @@
 {
-  "schema_version": "2.0.0",
+  "schema_version": "2.1.0",
   "temple": {
     "id": "in-tarapith-tarapith-temple",
     "slug": "tarapith-temple",
@@ -175,7 +175,370 @@
           "postal_code",
           "google_place_id"
         ]
+      },
+      "ui": {
+        "name_hi": null,
+        "header_title": "Tarapith Temple",
+        "section_order": [
+          "overview",
+          "significance",
+          "history",
+          "architecture",
+          "darshan",
+          "rituals",
+          "festivals",
+          "gallery",
+          "how_to_reach",
+          "location",
+          "before_visit",
+          "guidelines",
+          "nearby",
+          "related",
+          "journey"
+        ],
+        "overview": {
+          "title": "About Temple",
+          "summary": "A Tara pilgrimage centre associated with Shakta practice and the saint Bamakhepa.",
+          "paragraphs": [
+            "Tarapith Temple is located in Tarapith, West Bengal, India. A Tara pilgrimage centre associated with Shakta practice and the saint Bamakhepa."
+          ],
+          "status": "written_summary_needs_full_fact_check",
+          "facts": [
+            {
+              "id": "deity",
+              "label": "Main deity",
+              "value": "Devi / Mata"
+            },
+            {
+              "id": "hours",
+              "label": "Temple timings",
+              "value": null,
+              "fallback": "Confirm current hours",
+              "status": "not_verified"
+            },
+            {
+              "id": "location",
+              "label": "Location",
+              "value": "Tarapith, West Bengal"
+            },
+            {
+              "id": "season",
+              "label": "Best season",
+              "value": null,
+              "fallback": "Check local conditions"
+            }
+          ]
+        },
+        "significance": {
+          "title": "Spiritual Significance",
+          "heading": "Devi Temple",
+          "body": {
+            "text": "A Tara pilgrimage centre associated with Shakta practice and the saint Bamakhepa.",
+            "source_ids": [],
+            "status": "editorial_needs_review"
+          }
+        },
+        "history": {
+          "title": "History",
+          "subtitle": "A heritage shaped by faith and renewal.",
+          "items": [],
+          "empty_message": "Historical details are being researched."
+        },
+        "architecture": {
+          "title": "Architecture",
+          "body": {
+            "text": null,
+            "source_ids": [],
+            "status": "not_verified"
+          },
+          "features": [],
+          "image": null
+        },
+        "darshan": {
+          "title": "Darshan Timings",
+          "timezone": "Asia/Kolkata",
+          "hours": [],
+          "status": "not_verified",
+          "source_id": null,
+          "schedule": [],
+          "notice": "Confirm current hours and bookings before visiting. Festival arrangements may differ.",
+          "information_url": null,
+          "empty_message": "Current timings have not been verified."
+        },
+        "rituals": {
+          "title": "Aarti & Pooja",
+          "items": [],
+          "empty_message": "Check the temple source for current rituals and bookings."
+        },
+        "festivals": {
+          "title": "Major Festivals",
+          "summary": {
+            "text": null,
+            "source_id": null,
+            "dates": [],
+            "status": "not_verified"
+          },
+          "items": [],
+          "notice": "Dates follow the Hindu calendar and vary by year and tradition.",
+          "empty_message": "Festival details are being researched."
+        },
+        "gallery": {
+          "title": "Temple Gallery",
+          "items": [],
+          "view_all_label": "View All Photos",
+          "empty_message": "Temple photos are not yet available."
+        },
+        "how_to_reach": {
+          "title": "How to Reach",
+          "items": [],
+          "notice": "Distances and routes depend on the arrival point.",
+          "empty_message": "Use directions and confirm local access before travel."
+        },
+        "location": {
+          "latitude": 24.116667,
+          "longitude": 87.8,
+          "coordinate_status": "locality_reference_only",
+          "coordinate_source_id": "reference",
+          "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+          "address": "Tarapith Temple, Tarapith, West Bengal, India",
+          "address_precision": "locality",
+          "country": "India",
+          "country_code": "IN",
+          "state": "West Bengal",
+          "city": "Tarapith",
+          "district": "Birbhum",
+          "postal_code": null,
+          "google_place_id": null,
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tarapith+Temple%2C+Tarapith%2C+West+Bengal%2C+India",
+          "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Tarapith+Temple%2C+Tarapith%2C+West+Bengal%2C+India",
+          "title": "Location",
+          "map_preview_url": null,
+          "map_preview_status": "use_client_map_or_placeholder"
+        },
+        "before_visit": {
+          "title": "Before You Visit",
+          "items": [
+            {
+              "id": "dress",
+              "title": "Dress respectfully",
+              "icon": "shirt",
+              "body": {
+                "text": "Choose modest attire and confirm temple-specific dress guidance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "photography",
+              "title": "Phones & photography",
+              "icon": "camera-off",
+              "body": {
+                "text": "Confirm device and photography restrictions at the entrance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "footwear",
+              "title": "Footwear",
+              "icon": "footprints",
+              "body": {
+                "text": "Follow posted footwear and storage instructions.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "entry",
+              "title": "Entry & special darshan",
+              "icon": "ticket",
+              "body": {
+                "text": "Consult the temple source for eligibility, booking and charges.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "crowds",
+              "title": "Crowds & queues",
+              "icon": "users",
+              "body": {
+                "text": "Allow extra time on festival days and follow staff guidance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "season",
+              "title": "Choosing your visit",
+              "icon": "sun",
+              "body": {
+                "text": "Check local weather and seasonal access before travelling.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            }
+          ]
+        },
+        "guidelines": {
+          "title": "Temple Guidelines",
+          "items": [
+            "Follow posted footwear and dress requirements.",
+            "Ask before photographing worship, people or sanctums.",
+            "Follow the temple's current queue and offering arrangements.",
+            "Keep valuables secure and follow staff directions."
+          ],
+          "status": "general_guidance"
+        },
+        "nearby": {
+          "title": "Nearby Sacred Places",
+          "items": [],
+          "basis": "same_locality",
+          "notice": "Same-locality suggestions; distances are straight-line estimates, not travel routes.",
+          "empty_message": "No other catalogued temples in this locality."
+        },
+        "related": {
+          "title": "You May Also Like",
+          "items": [
+            {
+              "temple_id": "ae-abu-mureikha-baps-hindu-mandir-abu-dhabi",
+              "card": {
+                "title": "BAPS Hindu Mandir, Abu Dhabi",
+                "subtitle": "Abu Mureikha, Abu Dhabi",
+                "deity_label": "Swaminarayan, Shiva, Rama, Krishna, Ganesha, Hanuman, Devi / Mata",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/BAPS_Abu_Dhabi_Mandir.jpg/250px-BAPS_Abu_Dhabi_Mandir.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:BAPS_Abu_Dhabi_Mandir.jpg",
+                  "author": "Unknown authorUnknown author",
+                  "license": "CC BY-SA 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:15.816847+00:00",
+                  "alt": "BAPS Hindu Mandir, Abu Dhabi",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "devi",
+                    "label": "Devi Temple",
+                    "basis": "deity_category"
+                  }
+                ],
+                "detail_path": "travel/temples/ae-abu-mureikha-baps-hindu-mandir-abu-dhabi.json"
+              }
+            },
+            {
+              "temple_id": "ae-jebel-ali-hindu-temple-dubai",
+              "card": {
+                "title": "Hindu Temple Dubai",
+                "subtitle": "Jebel Ali, Dubai",
+                "deity_label": "Shiva, Vishnu, Ganesha, Devi / Mata",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Hindu_Temple_Dubai.jpg/250px-Hindu_Temple_Dubai.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Hindu_Temple_Dubai.jpg",
+                  "author": "Sathiyaraj",
+                  "license": "CC BY-SA 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:13.941506+00:00",
+                  "alt": "Hindu Temple Dubai",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "devi",
+                    "label": "Devi Temple",
+                    "basis": "deity_category"
+                  }
+                ],
+                "detail_path": "travel/temples/ae-jebel-ali-hindu-temple-dubai.json"
+              }
+            },
+            {
+              "temple_id": "bd-dhaka-dhakeshwari-temple",
+              "card": {
+                "title": "Dhakeshwari Temple",
+                "subtitle": "Dhaka, Dhaka Division",
+                "deity_label": "Devi / Mata",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Main_Temple_of_Dhakeswari.jpg/250px-Main_Temple_of_Dhakeswari.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Main_Temple_of_Dhakeswari.jpg",
+                  "author": "Ishrat jahan",
+                  "license": "CC BY-SA 3.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:15.291359+00:00",
+                  "alt": "Dhakeshwari Temple",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "devi",
+                    "label": "Devi Temple",
+                    "basis": "deity_category"
+                  }
+                ],
+                "detail_path": "travel/temples/bd-dhaka-dhakeshwari-temple.json"
+              }
+            }
+          ],
+          "basis": "shared_collection_then_deity",
+          "empty_message": "More recommendations will appear as the catalogue grows."
+        },
+        "actions": {
+          "directions": {
+            "label": "Get Directions",
+            "url": "https://www.google.com/maps/dir/?api=1&destination=Tarapith+Temple%2C+Tarapith%2C+West+Bengal%2C+India"
+          },
+          "maps": {
+            "label": "Open in Maps",
+            "url": "https://www.google.com/maps/search/?api=1&query=Tarapith+Temple%2C+Tarapith%2C+West+Bengal%2C+India"
+          },
+          "save": {
+            "label": "Save",
+            "saved_label": "Saved",
+            "action": "toggle_local_favorite",
+            "storage_key": "in-tarapith-tarapith-temple"
+          },
+          "share": {
+            "label": "Share",
+            "action": "native_share",
+            "text": "Tarapith Temple — Tarapith, West Bengal",
+            "url": "https://www.google.com/maps/search/?api=1&query=Tarapith+Temple%2C+Tarapith%2C+West+Bengal%2C+India"
+          },
+          "read_more": {
+            "label": "Read More",
+            "action": "expand_overview"
+          }
+        },
+        "journey": {
+          "config_path": "travel/discovery.json#/journey"
+        }
       }
+    },
+    "card": {
+      "title": "Tarapith Temple",
+      "subtitle": "Tarapith, West Bengal",
+      "deity_label": "Devi / Mata",
+      "image": null,
+      "fallback_asset": "travel/assets/temple-placeholder.svg",
+      "badges": [
+        {
+          "id": "devi",
+          "label": "Devi Temple",
+          "basis": "deity_category"
+        }
+      ],
+      "detail_path": "travel/temples/in-tarapith-tarapith-temple.json"
     }
   }
 }

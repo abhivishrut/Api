@@ -1,5 +1,5 @@
 {
-  "schema_version": "2.0.0",
+  "schema_version": "2.1.0",
   "temple": {
     "id": "in-orchha-ram-raja-temple",
     "slug": "ram-raja-temple",
@@ -184,7 +184,384 @@
           "postal_code",
           "google_place_id"
         ]
+      },
+      "ui": {
+        "name_hi": null,
+        "header_title": "Ram Raja Temple",
+        "section_order": [
+          "overview",
+          "significance",
+          "history",
+          "architecture",
+          "darshan",
+          "rituals",
+          "festivals",
+          "gallery",
+          "how_to_reach",
+          "location",
+          "before_visit",
+          "guidelines",
+          "nearby",
+          "related",
+          "journey"
+        ],
+        "overview": {
+          "title": "About Temple",
+          "summary": "Rama is worshipped as a king in this palace-associated temple at Orchha.",
+          "paragraphs": [
+            "Ram Raja Temple is located in Orchha, Madhya Pradesh, India. Rama is worshipped as a king in this palace-associated temple at Orchha."
+          ],
+          "status": "written_summary_needs_full_fact_check",
+          "facts": [
+            {
+              "id": "deity",
+              "label": "Main deity",
+              "value": "Rama"
+            },
+            {
+              "id": "hours",
+              "label": "Temple timings",
+              "value": null,
+              "fallback": "Confirm current hours",
+              "status": "not_verified"
+            },
+            {
+              "id": "location",
+              "label": "Location",
+              "value": "Orchha, Madhya Pradesh"
+            },
+            {
+              "id": "season",
+              "label": "Best season",
+              "value": null,
+              "fallback": "Check local conditions"
+            }
+          ]
+        },
+        "significance": {
+          "title": "Spiritual Significance",
+          "heading": "Rama",
+          "body": {
+            "text": "Rama is worshipped as a king in this palace-associated temple at Orchha.",
+            "source_ids": [],
+            "status": "editorial_needs_review"
+          }
+        },
+        "history": {
+          "title": "History",
+          "subtitle": "A heritage shaped by faith and renewal.",
+          "items": [],
+          "empty_message": "Historical details are being researched."
+        },
+        "architecture": {
+          "title": "Architecture",
+          "body": {
+            "text": null,
+            "source_ids": [],
+            "status": "not_verified"
+          },
+          "features": [],
+          "image": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Ram_Raja_Temple.jpg/250px-Ram_Raja_Temple.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Ram_Raja_Temple.jpg",
+            "author": "Yann (talk)",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:21.661680+00:00",
+            "alt": "Ram Raja Temple",
+            "role": "article_lead_photo"
+          }
+        },
+        "darshan": {
+          "title": "Darshan Timings",
+          "timezone": "Asia/Kolkata",
+          "hours": [],
+          "status": "not_verified",
+          "source_id": null,
+          "schedule": [],
+          "notice": "Confirm current hours and bookings before visiting. Festival arrangements may differ.",
+          "information_url": null,
+          "empty_message": "Current timings have not been verified."
+        },
+        "rituals": {
+          "title": "Aarti & Pooja",
+          "items": [],
+          "empty_message": "Check the temple source for current rituals and bookings."
+        },
+        "festivals": {
+          "title": "Major Festivals",
+          "summary": {
+            "text": "Makar Sankranti, Vasant Panchami, Shivratri, Ram Navami, Kartik Purnima and Vivaha Panchami",
+            "source_id": "reference",
+            "dates": [],
+            "status": "reference_extracted_dates_not_verified"
+          },
+          "items": [],
+          "notice": "Dates follow the Hindu calendar and vary by year and tradition.",
+          "empty_message": "Festival details are being researched."
+        },
+        "gallery": {
+          "title": "Temple Gallery",
+          "items": [
+            {
+              "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Ram_Raja_Temple.jpg/250px-Ram_Raja_Temple.jpg",
+              "source_page": "https://commons.wikimedia.org/wiki/File:Ram_Raja_Temple.jpg",
+              "author": "Yann (talk)",
+              "license": "CC BY-SA 4.0",
+              "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+              "changes": "None; Wikimedia thumbnail rendition.",
+              "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+              "link_status": "reachable_at_check",
+              "link_checked_at": "2026-10-06T07:54:21.661680+00:00",
+              "alt": "Ram Raja Temple",
+              "role": "article_lead_photo"
+            }
+          ],
+          "view_all_label": "View All Photos",
+          "empty_message": "Temple photos are not yet available."
+        },
+        "how_to_reach": {
+          "title": "How to Reach",
+          "items": [],
+          "notice": "Distances and routes depend on the arrival point.",
+          "empty_message": "Use directions and confirm local access before travel."
+        },
+        "location": {
+          "latitude": 25.350833,
+          "longitude": 78.639167,
+          "coordinate_status": "reference_point",
+          "coordinate_source_id": "reference",
+          "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+          "address": "Ram Raja Temple, Orchha, Madhya Pradesh, India",
+          "address_precision": "locality",
+          "country": "India",
+          "country_code": "IN",
+          "state": "Madhya Pradesh",
+          "city": "Orchha",
+          "district": "Niwari district",
+          "postal_code": null,
+          "google_place_id": null,
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ram+Raja+Temple%2C+Orchha%2C+Madhya+Pradesh%2C+India",
+          "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Ram+Raja+Temple%2C+Orchha%2C+Madhya+Pradesh%2C+India",
+          "title": "Location",
+          "map_preview_url": null,
+          "map_preview_status": "use_client_map_or_placeholder"
+        },
+        "before_visit": {
+          "title": "Before You Visit",
+          "items": [
+            {
+              "id": "dress",
+              "title": "Dress respectfully",
+              "icon": "shirt",
+              "body": {
+                "text": "Choose modest attire and confirm temple-specific dress guidance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "photography",
+              "title": "Phones & photography",
+              "icon": "camera-off",
+              "body": {
+                "text": "Confirm device and photography restrictions at the entrance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "footwear",
+              "title": "Footwear",
+              "icon": "footprints",
+              "body": {
+                "text": "Follow posted footwear and storage instructions.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "entry",
+              "title": "Entry & special darshan",
+              "icon": "ticket",
+              "body": {
+                "text": "Consult the temple source for eligibility, booking and charges.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "crowds",
+              "title": "Crowds & queues",
+              "icon": "users",
+              "body": {
+                "text": "Allow extra time on festival days and follow staff guidance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "season",
+              "title": "Choosing your visit",
+              "icon": "sun",
+              "body": {
+                "text": "Check local weather and seasonal access before travelling.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            }
+          ]
+        },
+        "guidelines": {
+          "title": "Temple Guidelines",
+          "items": [
+            "Follow posted footwear and dress requirements.",
+            "Ask before photographing worship, people or sanctums.",
+            "Follow the temple's current queue and offering arrangements.",
+            "Keep valuables secure and follow staff directions."
+          ],
+          "status": "general_guidance"
+        },
+        "nearby": {
+          "title": "Nearby Sacred Places",
+          "items": [],
+          "basis": "same_locality",
+          "notice": "Same-locality suggestions; distances are straight-line estimates, not travel routes.",
+          "empty_message": "No other catalogued temples in this locality."
+        },
+        "related": {
+          "title": "You May Also Like",
+          "items": [
+            {
+              "temple_id": "ae-abu-mureikha-baps-hindu-mandir-abu-dhabi",
+              "card": {
+                "title": "BAPS Hindu Mandir, Abu Dhabi",
+                "subtitle": "Abu Mureikha, Abu Dhabi",
+                "deity_label": "Swaminarayan, Shiva, Rama, Krishna, Ganesha, Hanuman, Devi / Mata",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/BAPS_Abu_Dhabi_Mandir.jpg/250px-BAPS_Abu_Dhabi_Mandir.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:BAPS_Abu_Dhabi_Mandir.jpg",
+                  "author": "Unknown authorUnknown author",
+                  "license": "CC BY-SA 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:15.816847+00:00",
+                  "alt": "BAPS Hindu Mandir, Abu Dhabi",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "devi",
+                    "label": "Devi Temple",
+                    "basis": "deity_category"
+                  }
+                ],
+                "detail_path": "travel/temples/ae-abu-mureikha-baps-hindu-mandir-abu-dhabi.json"
+              }
+            },
+            {
+              "temple_id": "in-ayodhya-kanak-bhawan",
+              "card": {
+                "title": "Kanak Bhawan",
+                "subtitle": "Ayodhya, Uttar Pradesh",
+                "deity_label": "Rama, Sita, Devi / Mata",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Kanak_Bhawan.jpg/250px-Kanak_Bhawan.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Kanak_Bhawan.jpg",
+                  "author": "Shalini Tomar",
+                  "license": "CC BY-SA 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:09.721599+00:00",
+                  "alt": "Kanak Bhawan",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "devi",
+                    "label": "Devi Temple",
+                    "basis": "deity_category"
+                  }
+                ],
+                "detail_path": "travel/temples/in-ayodhya-kanak-bhawan.json"
+              }
+            },
+            {
+              "temple_id": "in-ayodhya-shri-ram-janmabhoomi-temple",
+              "card": {
+                "title": "Shri Ram Janmabhoomi Temple",
+                "subtitle": "Ayodhya, Uttar Pradesh",
+                "deity_label": "Rama",
+                "image": null,
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [],
+                "detail_path": "travel/temples/in-ayodhya-shri-ram-janmabhoomi-temple.json"
+              }
+            }
+          ],
+          "basis": "shared_collection_then_deity",
+          "empty_message": "More recommendations will appear as the catalogue grows."
+        },
+        "actions": {
+          "directions": {
+            "label": "Get Directions",
+            "url": "https://www.google.com/maps/dir/?api=1&destination=Ram+Raja+Temple%2C+Orchha%2C+Madhya+Pradesh%2C+India"
+          },
+          "maps": {
+            "label": "Open in Maps",
+            "url": "https://www.google.com/maps/search/?api=1&query=Ram+Raja+Temple%2C+Orchha%2C+Madhya+Pradesh%2C+India"
+          },
+          "save": {
+            "label": "Save",
+            "saved_label": "Saved",
+            "action": "toggle_local_favorite",
+            "storage_key": "in-orchha-ram-raja-temple"
+          },
+          "share": {
+            "label": "Share",
+            "action": "native_share",
+            "text": "Ram Raja Temple — Orchha, Madhya Pradesh",
+            "url": "https://www.google.com/maps/search/?api=1&query=Ram+Raja+Temple%2C+Orchha%2C+Madhya+Pradesh%2C+India"
+          },
+          "read_more": {
+            "label": "Read More",
+            "action": "expand_overview"
+          }
+        },
+        "journey": {
+          "config_path": "travel/discovery.json#/journey"
+        }
       }
+    },
+    "card": {
+      "title": "Ram Raja Temple",
+      "subtitle": "Orchha, Madhya Pradesh",
+      "deity_label": "Rama",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Ram_Raja_Temple.jpg/250px-Ram_Raja_Temple.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ram_Raja_Temple.jpg",
+        "author": "Yann (talk)",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:21.661680+00:00",
+        "alt": "Ram Raja Temple",
+        "role": "article_lead_photo"
+      },
+      "fallback_asset": "travel/assets/temple-placeholder.svg",
+      "badges": [],
+      "detail_path": "travel/temples/in-orchha-ram-raja-temple.json"
     }
   }
 }

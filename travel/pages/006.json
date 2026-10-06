@@ -1,5 +1,5 @@
 {
-  "schema_version": "2.0.0",
+  "schema_version": "2.1.0",
   "page": 6,
   "page_size": 24,
   "total_items": 214,
@@ -38,6 +38,27 @@
       "collection_ids": [],
       "summary": "A hill pilgrimage devoted to Lakshmi Narasimha, also widely known as Yadagirigutta.",
       "detail_path": "travel/temples/in-yadagirigutta-yadadri-lakshmi-narasimha-temple.json",
+      "card": {
+        "title": "Yadadri Lakshmi Narasimha Temple",
+        "subtitle": "Yadagirigutta, Telangana",
+        "deity_label": "Vishnu, Narasimha",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Yadadri_Temple_on_the_hilltop.jpg/250px-Yadadri_Temple_on_the_hilltop.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Yadadri_Temple_on_the_hilltop.jpg",
+          "author": "Saket789",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:09.488140+00:00",
+          "alt": "Yadadri Lakshmi Narasimha Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-yadagirigutta-yadadri-lakshmi-narasimha-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Yadadri_Temple_on_the_hilltop.jpg/250px-Yadadri_Temple_on_the_hilltop.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Yadadri_Temple_on_the_hilltop.jpg",
@@ -90,6 +111,27 @@
       "collection_ids": [],
       "summary": "A Kakatiya temple complex associated with Rudreshwara and noted for its carved stone pillars.",
       "detail_path": "travel/temples/in-hanamkonda-thousand-pillar-temple.json",
+      "card": {
+        "title": "Thousand Pillar Temple",
+        "subtitle": "Hanamkonda, Telangana",
+        "deity_label": "Shiva, Vishnu, Surya",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/1000pillar_temple_warangal.jpg/250px-1000pillar_temple_warangal.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:1000pillar_temple_warangal.jpg",
+          "author": "Nikhil B",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:10.471263+00:00",
+          "alt": "Thousand Pillar Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-hanamkonda-thousand-pillar-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/1000pillar_temple_warangal.jpg/250px-1000pillar_temple_warangal.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:1000pillar_temple_warangal.jpg",
@@ -129,6 +171,27 @@
       "collection_ids": [],
       "summary": "A Kakatiya-period Rudreshwara temple renowned for its sculpted brackets and distinctive construction.",
       "detail_path": "travel/temples/in-palampet-ramappa-temple.json",
+      "card": {
+        "title": "Ramappa Temple",
+        "subtitle": "Palampet, Telangana",
+        "deity_label": "Shiva",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Ramappa_Temple_%28Human_Scale%29.jpg/330px-Ramappa_Temple_%28Human_Scale%29.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Ramappa_Temple_(Human_Scale).jpg",
+          "author": "Nirav Lad",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:09.166255+00:00",
+          "alt": "Ramappa Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-palampet-ramappa-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Ramappa_Temple_%28Human_Scale%29.jpg/330px-Ramappa_Temple_%28Human_Scale%29.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Ramappa_Temple_(Human_Scale).jpg",
@@ -177,6 +240,33 @@
       "collection_ids": [],
       "summary": "A Saraswati shrine associated with the initiation of children into learning.",
       "detail_path": "travel/temples/in-basar-gnana-saraswati-temple.json",
+      "card": {
+        "title": "Gnana Saraswati Temple",
+        "subtitle": "Basar, Telangana",
+        "deity_label": "Saraswati, Devi / Mata",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Basar_Temple_view_02.jpg/250px-Basar_Temple_view_02.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Basar_Temple_view_02.jpg",
+          "author": "RameshSharma",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:16.890525+00:00",
+          "alt": "Gnana Saraswati Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/in-basar-gnana-saraswati-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Basar_Temple_view_02.jpg/250px-Basar_Temple_view_02.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Basar_Temple_view_02.jpg",
@@ -221,6 +311,33 @@
       "collection_ids": [],
       "summary": "A goddess shrine at Alampur, near the historic Navabrahma group of Shiva temples.",
       "detail_path": "travel/temples/in-alampur-jogulamba-temple.json",
+      "card": {
+        "title": "Jogulamba Temple",
+        "subtitle": "Alampur, Telangana",
+        "deity_label": "Devi / Mata",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Jogulamba_temple_gopuram_alampur.JPG/250px-Jogulamba_temple_gopuram_alampur.JPG",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Jogulamba_temple_gopuram_alampur.JPG",
+          "author": "రహ్మానుద్దీన్",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:16.689278+00:00",
+          "alt": "Jogulamba Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/in-alampur-jogulamba-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Jogulamba_temple_gopuram_alampur.JPG/250px-Jogulamba_temple_gopuram_alampur.JPG",
         "source_page": "https://commons.wikimedia.org/wiki/File:Jogulamba_temple_gopuram_alampur.JPG",
@@ -272,6 +389,33 @@
       "collection_ids": [],
       "summary": "Meenakshi and Sundareswarar are worshipped in a vast temple complex at the heart of Madurai.",
       "detail_path": "travel/temples/in-madurai-meenakshi-amman-temple.json",
+      "card": {
+        "title": "Meenakshi Amman Temple",
+        "subtitle": "Madurai, Tamil Nadu",
+        "deity_label": "Devi / Mata, Shiva",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/An_aerial_view_of_Madurai_city_from_atop_of_Meenakshi_Amman_temple.jpg/250px-An_aerial_view_of_Madurai_city_from_atop_of_Meenakshi_Amman_temple.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:An_aerial_view_of_Madurai_city_from_atop_of_Meenakshi_Amman_temple.jpg",
+          "author": "எஸ்ஸார்",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:23.841949+00:00",
+          "alt": "Meenakshi Amman Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/in-madurai-meenakshi-amman-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/An_aerial_view_of_Madurai_city_from_atop_of_Meenakshi_Amman_temple.jpg/250px-An_aerial_view_of_Madurai_city_from_atop_of_Meenakshi_Amman_temple.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:An_aerial_view_of_Madurai_city_from_atop_of_Meenakshi_Amman_temple.jpg",
@@ -314,6 +458,38 @@
       ],
       "summary": "A Shiva shrine associated with Rama's pilgrimage tradition, known for long corridors and sacred wells.",
       "detail_path": "travel/temples/in-rameswaram-ramanathaswamy-temple.json",
+      "card": {
+        "title": "Ramanathaswamy Temple",
+        "subtitle": "Rameswaram, Tamil Nadu",
+        "deity_label": "Shiva",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Ramanathaswamy_temple7.JPG/250px-Ramanathaswamy_temple7.JPG",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Ramanathaswamy_temple7.JPG",
+          "author": "Ssriram mt",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:16.390338+00:00",
+          "alt": "Ramanathaswamy Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "jyotirlinga",
+            "label": "12 Jyotirlingas",
+            "basis": "pilgrimage_collection"
+          },
+          {
+            "id": "char-dham",
+            "label": "Char Dham of India",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-rameswaram-ramanathaswamy-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Ramanathaswamy_temple7.JPG/250px-Ramanathaswamy_temple7.JPG",
         "source_page": "https://commons.wikimedia.org/wiki/File:Ramanathaswamy_temple7.JPG",
@@ -355,6 +531,27 @@
       "collection_ids": [],
       "summary": "A large concentric temple-town complex devoted to reclining Ranganatha on the island of Srirangam.",
       "detail_path": "travel/temples/in-tiruchirappalli-sri-ranganathaswamy-temple-srirangam.json",
+      "card": {
+        "title": "Sri Ranganathaswamy Temple, Srirangam",
+        "subtitle": "Tiruchirappalli, Tamil Nadu",
+        "deity_label": "Vishnu",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Ranganathaswamy_temple_tiruchirappalli.jpg/250px-Ranganathaswamy_temple_tiruchirappalli.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Ranganathaswamy_temple_tiruchirappalli.jpg",
+          "author": "RUPESH MAURYA",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:18.305946+00:00",
+          "alt": "Sri Ranganathaswamy Temple, Srirangam",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-tiruchirappalli-sri-ranganathaswamy-temple-srirangam.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Ranganathaswamy_temple_tiruchirappalli.jpg/250px-Ranganathaswamy_temple_tiruchirappalli.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Ranganathaswamy_temple_tiruchirappalli.jpg",
@@ -397,6 +594,33 @@
       ],
       "summary": "Rajaraja Chola's great stone Shiva temple is distinguished by its monumental vimana.",
       "detail_path": "travel/temples/in-thanjavur-brihadisvara-temple-thanjavur.json",
+      "card": {
+        "title": "Brihadisvara Temple, Thanjavur",
+        "subtitle": "Thanjavur, Tamil Nadu",
+        "deity_label": "Shiva",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_%28edit%29.jpg/250px-Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_%28edit%29.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_(edit).jpg",
+          "author": "Original: Rainer Halama Derivative work: UnpetitproleX",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:22.973748+00:00",
+          "alt": "Brihadisvara Temple, Thanjavur",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "great-living-chola",
+            "label": "Great Living Chola Temples",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-thanjavur-brihadisvara-temple-thanjavur.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_%28edit%29.jpg/250px-Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_%28edit%29.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_(edit).jpg",
@@ -439,6 +663,33 @@
       ],
       "summary": "Rajendra Chola's royal temple continues the monumental Chola tradition at his former capital.",
       "detail_path": "travel/temples/in-gangaikonda-cholapuram-gangaikonda-cholapuram-temple.json",
+      "card": {
+        "title": "Gangaikonda Cholapuram Temple",
+        "subtitle": "Gangaikonda Cholapuram, Tamil Nadu",
+        "deity_label": "Shiva",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Gangaikondacholapuram_Temple_4.jpg/250px-Gangaikondacholapuram_Temple_4.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Gangaikondacholapuram_Temple_4.jpg",
+          "author": "QiNi",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:18.824146+00:00",
+          "alt": "Gangaikonda Cholapuram Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "great-living-chola",
+            "label": "Great Living Chola Temples",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-gangaikonda-cholapuram-gangaikonda-cholapuram-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Gangaikondacholapuram_Temple_4.jpg/250px-Gangaikondacholapuram_Temple_4.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Gangaikondacholapuram_Temple_4.jpg",
@@ -480,6 +731,33 @@
       ],
       "summary": "A Chola-period Shiva temple celebrated for its finely carved, chariot-like architectural details.",
       "detail_path": "travel/temples/in-darasuram-airavatesvara-temple.json",
+      "card": {
+        "title": "Airavatesvara Temple",
+        "subtitle": "Darasuram, Tamil Nadu",
+        "deity_label": "Shiva",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/A_different_view_of_Airavatesvara_Temple.jpg/250px-A_different_view_of_Airavatesvara_Temple.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:A_different_view_of_Airavatesvara_Temple.jpg",
+          "author": "Supraja kannan",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:18.104137+00:00",
+          "alt": "Airavatesvara Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "great-living-chola",
+            "label": "Great Living Chola Temples",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-darasuram-airavatesvara-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/A_different_view_of_Airavatesvara_Temple.jpg/250px-A_different_view_of_Airavatesvara_Temple.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:A_different_view_of_Airavatesvara_Temple.jpg",
@@ -522,6 +800,33 @@
       ],
       "summary": "Shiva as Nataraja is worshipped through dance symbolism; the temple represents space in the five-element tradition.",
       "detail_path": "travel/temples/in-chidambaram-thillai-nataraja-temple.json",
+      "card": {
+        "title": "Thillai Nataraja Temple",
+        "subtitle": "Chidambaram, Tamil Nadu",
+        "deity_label": "Shiva",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Le_temple_de_Shiva_Nataraja_%28Chidambaram%2C_Inde%29_%2814037020332%29.jpg/250px-Le_temple_de_Shiva_Nataraja_%28Chidambaram%2C_Inde%29_%2814037020332%29.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Le_temple_de_Shiva_Nataraja_(Chidambaram,_Inde)_(14037020332).jpg",
+          "author": "Jean-Pierre Dalbéra from Paris, France",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:11.043288+00:00",
+          "alt": "Thillai Nataraja Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "pancha-bhoota",
+            "label": "Pancha Bhoota Shiva Temples",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-chidambaram-thillai-nataraja-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Le_temple_de_Shiva_Nataraja_%28Chidambaram%2C_Inde%29_%2814037020332%29.jpg/250px-Le_temple_de_Shiva_Nataraja_%28Chidambaram%2C_Inde%29_%2814037020332%29.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Le_temple_de_Shiva_Nataraja_(Chidambaram,_Inde)_(14037020332).jpg",
@@ -564,6 +869,33 @@
       ],
       "summary": "A Shiva temple at the foot of Arunachala, associated with fire and the hill-circumambulation tradition.",
       "detail_path": "travel/temples/in-tiruvannamalai-arunachaleswarar-temple.json",
+      "card": {
+        "title": "Arunachaleswarar Temple",
+        "subtitle": "Tiruvannamalai, Tamil Nadu",
+        "deity_label": "Shiva",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Arunachalam_temple_from_a_nearby_hill.jpg/250px-Arunachalam_temple_from_a_nearby_hill.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Arunachalam_temple_from_a_nearby_hill.jpg",
+          "author": "Adarsh Pidugu",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:08.924637+00:00",
+          "alt": "Arunachaleswarar Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "pancha-bhoota",
+            "label": "Pancha Bhoota Shiva Temples",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-tiruvannamalai-arunachaleswarar-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Arunachalam_temple_from_a_nearby_hill.jpg/250px-Arunachalam_temple_from_a_nearby_hill.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Arunachalam_temple_from_a_nearby_hill.jpg",
@@ -606,6 +938,33 @@
       ],
       "summary": "A major Shiva temple associated with the earth element in the Pancha Bhoota tradition.",
       "detail_path": "travel/temples/in-kanchipuram-ekambareswarar-temple.json",
+      "card": {
+        "title": "Ekambareswarar Temple",
+        "subtitle": "Kanchipuram, Tamil Nadu",
+        "deity_label": "Shiva",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Ekambareswarar5.jpg/250px-Ekambareswarar5.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Ekambareswarar5.jpg",
+          "author": "Ssriram mt",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:05.319260+00:00",
+          "alt": "Ekambareswarar Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "pancha-bhoota",
+            "label": "Pancha Bhoota Shiva Temples",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-kanchipuram-ekambareswarar-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Ekambareswarar5.jpg/250px-Ekambareswarar5.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Ekambareswarar5.jpg",
@@ -648,6 +1007,33 @@
       ],
       "summary": "The Thiruvanaikaval shrine represents water in the five-element Shiva temple tradition.",
       "detail_path": "travel/temples/in-tiruchirappalli-jambukeswarar-temple.json",
+      "card": {
+        "title": "Jambukeswarar Temple",
+        "subtitle": "Tiruchirappalli, Tamil Nadu",
+        "deity_label": "Shiva",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Tiruvanaikaval5.jpg/250px-Tiruvanaikaval5.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Tiruvanaikaval5.jpg",
+          "author": "Ssriram mt",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:13.723534+00:00",
+          "alt": "Jambukeswarar Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "pancha-bhoota",
+            "label": "Pancha Bhoota Shiva Temples",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-tiruchirappalli-jambukeswarar-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Tiruvanaikaval5.jpg/250px-Tiruvanaikaval5.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Tiruvanaikaval5.jpg",
@@ -691,6 +1077,33 @@
       "collection_ids": [],
       "summary": "A principal Shakta shrine of Kanchipuram centred on Kamakshi.",
       "detail_path": "travel/temples/in-kanchipuram-kamakshi-amman-temple.json",
+      "card": {
+        "title": "Kamakshi Amman Temple",
+        "subtitle": "Kanchipuram, Tamil Nadu",
+        "deity_label": "Devi / Mata",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Kanchipuram.in_Kamakshi-Amman_Temple_-_panoramio_-_SINHA_%28cropped%29.jpg/250px-Kanchipuram.in_Kamakshi-Amman_Temple_-_panoramio_-_SINHA_%28cropped%29.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Kanchipuram.in_Kamakshi-Amman_Temple_-_panoramio_-_SINHA_(cropped).jpg",
+          "author": "SINHA",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:17.720070+00:00",
+          "alt": "Kamakshi Amman Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/in-kanchipuram-kamakshi-amman-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Kanchipuram.in_Kamakshi-Amman_Temple_-_panoramio_-_SINHA_%28cropped%29.jpg/250px-Kanchipuram.in_Kamakshi-Amman_Temple_-_panoramio_-_SINHA_%28cropped%29.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Kanchipuram.in_Kamakshi-Amman_Temple_-_panoramio_-_SINHA_(cropped).jpg",
@@ -741,6 +1154,33 @@
       "collection_ids": [],
       "summary": "A Mylapore temple dedicated to Kapaleeshwarar and Karpagambal, with a prominent tank and gopuram.",
       "detail_path": "travel/temples/in-chennai-kapaleeshwarar-temple.json",
+      "card": {
+        "title": "Kapaleeshwarar Temple",
+        "subtitle": "Chennai, Tamil Nadu",
+        "deity_label": "Shiva, Devi / Mata",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Kapaleeswarar1.jpg/250px-Kapaleeswarar1.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Kapaleeswarar1.jpg",
+          "author": "Mohan Krishnan (en:User talk:Nsmohan",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:18.236207+00:00",
+          "alt": "Kapaleeshwarar Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/in-chennai-kapaleeshwarar-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Kapaleeswarar1.jpg/250px-Kapaleeswarar1.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Kapaleeswarar1.jpg",
@@ -789,6 +1229,27 @@
       "collection_ids": [],
       "summary": "The Triplicane temple honours Krishna as Arjuna's charioteer and includes other Vishnu forms.",
       "detail_path": "travel/temples/in-chennai-parthasarathy-temple.json",
+      "card": {
+        "title": "Parthasarathy Temple",
+        "subtitle": "Chennai, Tamil Nadu",
+        "deity_label": "Krishna, Vishnu",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Tiruvallikeni1.jpg/250px-Tiruvallikeni1.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Tiruvallikeni1.jpg",
+          "author": "Mohan Krishnan (talk)",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:07.150661+00:00",
+          "alt": "Parthasarathy Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-chennai-parthasarathy-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Tiruvallikeni1.jpg/250px-Tiruvallikeni1.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Tiruvallikeni1.jpg",
@@ -845,6 +1306,33 @@
       "collection_ids": [],
       "summary": "A Vaishnava pilgrimage associated with the poet-saint Andal and Vatapatrasayi.",
       "detail_path": "travel/temples/in-srivilliputhur-andal-temple-srivilliputhur.json",
+      "card": {
+        "title": "Andal Temple, Srivilliputhur",
+        "subtitle": "Srivilliputhur, Tamil Nadu",
+        "deity_label": "Andal, Devi / Mata, Vishnu",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Srivilliputhur_Andal_temple_%2829%29.jpg/250px-Srivilliputhur_Andal_temple_%2829%29.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Srivilliputhur_Andal_temple_(29).jpg",
+          "author": "Ssriram mt",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:08.160269+00:00",
+          "alt": "Andal Temple, Srivilliputhur",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/in-srivilliputhur-andal-temple-srivilliputhur.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Srivilliputhur_Andal_temple_%2829%29.jpg/250px-Srivilliputhur_Andal_temple_%2829%29.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Srivilliputhur_Andal_temple_(29).jpg",
@@ -887,6 +1375,33 @@
       ],
       "summary": "Murugan is worshipped as Dhandayuthapani at this hilltop pilgrimage destination.",
       "detail_path": "travel/temples/in-palani-dhandayuthapani-swamy-temple-palani.json",
+      "card": {
+        "title": "Dhandayuthapani Swamy Temple, Palani",
+        "subtitle": "Palani, Tamil Nadu",
+        "deity_label": "Murugan",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Palanihills.JPG/330px-Palanihills.JPG",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Palanihills.JPG",
+          "author": "Thiagupillai",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:15.171456+00:00",
+          "alt": "Dhandayuthapani Swamy Temple, Palani",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "arupadai-veedu",
+            "label": "Six Abodes of Murugan",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-palani-dhandayuthapani-swamy-temple-palani.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Palanihills.JPG/330px-Palanihills.JPG",
         "source_page": "https://commons.wikimedia.org/wiki/File:Palanihills.JPG",
@@ -928,6 +1443,33 @@
       ],
       "summary": "A coastal Murugan temple and one of the six traditional sacred abodes.",
       "detail_path": "travel/temples/in-tiruchendur-subramaniya-swamy-temple-tiruchendur.json",
+      "card": {
+        "title": "Subramaniya Swamy Temple, Tiruchendur",
+        "subtitle": "Tiruchendur, Tamil Nadu",
+        "deity_label": "Murugan",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Thiruchendur11.jpg/250px-Thiruchendur11.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Thiruchendur11.jpg",
+          "author": "Ssriram mt",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:24.265297+00:00",
+          "alt": "Subramaniya Swamy Temple, Tiruchendur",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "arupadai-veedu",
+            "label": "Six Abodes of Murugan",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-tiruchendur-subramaniya-swamy-temple-tiruchendur.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Thiruchendur11.jpg/250px-Thiruchendur11.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Thiruchendur11.jpg",
@@ -969,6 +1511,33 @@
       ],
       "summary": "A rock-cut-associated Murugan shrine near Madurai, linked with his marriage to Devasena in tradition.",
       "detail_path": "travel/temples/in-thiruparankundram-subramaniya-swamy-temple-thiruparankundram.json",
+      "card": {
+        "title": "Subramaniya Swamy Temple, Thiruparankundram",
+        "subtitle": "Thiruparankundram, Tamil Nadu",
+        "deity_label": "Murugan",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Thiruparamkundram_%281%29.jpg/250px-Thiruparamkundram_%281%29.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Thiruparamkundram_(1).jpg",
+          "author": "Ssriram mt",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:14.778434+00:00",
+          "alt": "Subramaniya Swamy Temple, Thiruparankundram",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "arupadai-veedu",
+            "label": "Six Abodes of Murugan",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-thiruparankundram-subramaniya-swamy-temple-thiruparankundram.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Thiruparamkundram_%281%29.jpg/250px-Thiruparamkundram_%281%29.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Thiruparamkundram_(1).jpg",
@@ -1011,6 +1580,33 @@
       ],
       "summary": "A Murugan shrine near Kumbakonam associated with the deity's role as a teacher of sacred wisdom.",
       "detail_path": "travel/temples/in-swamimalai-swamimalai-swaminathaswamy-temple.json",
+      "card": {
+        "title": "Swamimalai Swaminathaswamy Temple",
+        "subtitle": "Swamimalai, Tamil Nadu",
+        "deity_label": "Murugan",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swamimalai_Murugan_Temple.jpg/250px-Swamimalai_Murugan_Temple.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Swamimalai_Murugan_Temple.jpg",
+          "author": "Ravichandar84 (The original uploader was Ravichandar84 at English Wikipedia.)",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:15.572707+00:00",
+          "alt": "Swamimalai Swaminathaswamy Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "arupadai-veedu",
+            "label": "Six Abodes of Murugan",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-swamimalai-swamimalai-swaminathaswamy-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swamimalai_Murugan_Temple.jpg/250px-Swamimalai_Murugan_Temple.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Swamimalai_Murugan_Temple.jpg",
@@ -1052,6 +1648,33 @@
       ],
       "summary": "A hilltop Murugan pilgrimage in northern Tamil Nadu and one of the six sacred abodes.",
       "detail_path": "travel/temples/in-tiruttani-subramaniya-swamy-temple-tiruttani.json",
+      "card": {
+        "title": "Subramaniya Swamy Temple, Tiruttani",
+        "subtitle": "Tiruttani, Tamil Nadu",
+        "deity_label": "Murugan",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Thiruttani_Temple_Rajagopuram.jpg/250px-Thiruttani_Temple_Rajagopuram.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Thiruttani_Temple_Rajagopuram.jpg",
+          "author": "Shivashanky",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:23.236729+00:00",
+          "alt": "Subramaniya Swamy Temple, Tiruttani",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "arupadai-veedu",
+            "label": "Six Abodes of Murugan",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-tiruttani-subramaniya-swamy-temple-tiruttani.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Thiruttani_Temple_Rajagopuram.jpg/250px-Thiruttani_Temple_Rajagopuram.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Thiruttani_Temple_Rajagopuram.jpg",

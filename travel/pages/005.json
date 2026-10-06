@@ -1,5 +1,5 @@
 {
-  "schema_version": "2.0.0",
+  "schema_version": "2.1.0",
   "page": 5,
   "page_size": 24,
   "total_items": 214,
@@ -36,6 +36,33 @@
       "collection_ids": [],
       "summary": "A goddess shrine in the historic sacred town of Jajpur.",
       "detail_path": "travel/temples/in-jajpur-biraja-temple.json",
+      "card": {
+        "title": "Biraja Temple",
+        "subtitle": "Jajpur, Odisha",
+        "deity_label": "Devi / Mata",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Biraja_Temple%2C_Jajpur%2C_Odisha%2C_India%2C_13th_century.jpg/250px-Biraja_Temple%2C_Jajpur%2C_Odisha%2C_India%2C_13th_century.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Biraja_Temple,_Jajpur,_Odisha,_India,_13th_century.jpg",
+          "author": "Odisha1",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:19.079103+00:00",
+          "alt": "Biraja Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/in-jajpur-biraja-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Biraja_Temple%2C_Jajpur%2C_Odisha%2C_India%2C_13th_century.jpg/250px-Biraja_Temple%2C_Jajpur%2C_Odisha%2C_India%2C_13th_century.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Biraja_Temple,_Jajpur,_Odisha,_India,_13th_century.jpg",
@@ -79,6 +106,33 @@
       "collection_ids": [],
       "summary": "A riverside Kali complex associated with Rani Rashmoni and the spiritual life of Ramakrishna.",
       "detail_path": "travel/temples/in-dakshineswar-dakshineswar-kali-temple.json",
+      "card": {
+        "title": "Dakshineswar Kali Temple",
+        "subtitle": "Dakshineswar, West Bengal",
+        "deity_label": "Devi / Mata",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Dakhineshwar_Temple_beside_the_Hoogly%2C_West_Bengal.JPG/250px-Dakhineshwar_Temple_beside_the_Hoogly%2C_West_Bengal.JPG",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Dakhineshwar_Temple_beside_the_Hoogly,_West_Bengal.JPG",
+          "author": "Knath",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:09.916212+00:00",
+          "alt": "Dakshineswar Kali Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/in-dakshineswar-dakshineswar-kali-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Dakhineshwar_Temple_beside_the_Hoogly%2C_West_Bengal.JPG/250px-Dakhineshwar_Temple_beside_the_Hoogly%2C_West_Bengal.JPG",
         "source_page": "https://commons.wikimedia.org/wiki/File:Dakhineshwar_Temple_beside_the_Hoogly,_West_Bengal.JPG",
@@ -122,6 +176,33 @@
       "collection_ids": [],
       "summary": "A major Kali shrine within Kolkata's densely populated Kalighat neighbourhood.",
       "detail_path": "travel/temples/in-kolkata-kalighat-kali-temple.json",
+      "card": {
+        "title": "Kalighat Kali Temple",
+        "subtitle": "Kolkata, West Bengal",
+        "deity_label": "Devi / Mata",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Kalighat_Kali_Temple_after_renovation.jpg/250px-Kalighat_Kali_Temple_after_renovation.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Kalighat_Kali_Temple_after_renovation.jpg",
+          "author": "Ku423winz1",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:17.970155+00:00",
+          "alt": "Kalighat Kali Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/in-kolkata-kalighat-kali-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Kalighat_Kali_Temple_after_renovation.jpg/250px-Kalighat_Kali_Temple_after_renovation.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Kalighat_Kali_Temple_after_renovation.jpg",
@@ -165,6 +246,21 @@
       "collection_ids": [],
       "summary": "A Tara pilgrimage centre associated with Shakta practice and the saint Bamakhepa.",
       "detail_path": "travel/temples/in-tarapith-tarapith-temple.json",
+      "card": {
+        "title": "Tarapith Temple",
+        "subtitle": "Tarapith, West Bengal",
+        "deity_label": "Devi / Mata",
+        "image": null,
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/in-tarapith-tarapith-temple.json"
+      },
       "photo_credit": null
     },
     {
@@ -200,6 +296,15 @@
       "collection_ids": [],
       "summary": "A Gaudiya Vaishnava pilgrimage centre associated with Chaitanya and the international ISKCON community.",
       "detail_path": "travel/temples/in-mayapur-iskcon-mayapur.json",
+      "card": {
+        "title": "ISKCON Mayapur",
+        "subtitle": "Mayapur, West Bengal",
+        "deity_label": "Krishna, Radha, Chaitanya",
+        "image": null,
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-mayapur-iskcon-mayapur.json"
+      },
       "photo_credit": null
     },
     {
@@ -231,6 +336,33 @@
       "collection_ids": [],
       "summary": "A major Shakta shrine on Nilachal Hill, with a distinctive annual Ambubachi observance.",
       "detail_path": "travel/temples/in-guwahati-kamakhya-temple.json",
+      "card": {
+        "title": "Kamakhya Temple",
+        "subtitle": "Guwahati, Assam",
+        "deity_label": "Devi / Mata",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Kamakhya_Temple_-_DEV_8829.jpg/250px-Kamakhya_Temple_-_DEV_8829.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Kamakhya_Temple_-_DEV_8829.jpg",
+          "author": "Devkmaravi",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:11.564797+00:00",
+          "alt": "Kamakhya Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/in-guwahati-kamakhya-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Kamakhya_Temple_-_DEV_8829.jpg/250px-Kamakhya_Temple_-_DEV_8829.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Kamakhya_Temple_-_DEV_8829.jpg",
@@ -270,6 +402,27 @@
       "collection_ids": [],
       "summary": "A Shiva shrine on an island in the Brahmaputra, approached by river transport.",
       "detail_path": "travel/temples/in-guwahati-umananda-temple.json",
+      "card": {
+        "title": "Umananda Temple",
+        "subtitle": "Guwahati, Assam",
+        "deity_label": "Shiva",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Chandrasekhar_Temple%2C_Umananda.jpg/250px-Chandrasekhar_Temple%2C_Umananda.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Chandrasekhar_Temple,_Umananda.jpg",
+          "author": "Extreminatethejuice",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:20.647626+00:00",
+          "alt": "Umananda Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-guwahati-umananda-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Chandrasekhar_Temple%2C_Umananda.jpg/250px-Chandrasekhar_Temple%2C_Umananda.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Chandrasekhar_Temple,_Umananda.jpg",
@@ -313,6 +466,33 @@
       "collection_ids": [],
       "summary": "The Matabari shrine honours Tripura Sundari and is a principal pilgrimage destination in Tripura.",
       "detail_path": "travel/temples/in-udaipur-tripura-sundari-temple.json",
+      "card": {
+        "title": "Tripura Sundari Temple",
+        "subtitle": "Udaipur, Tripura",
+        "deity_label": "Devi / Mata",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Tripura_Sundari_Temple%2C_Udaipur.jpg/250px-Tripura_Sundari_Temple%2C_Udaipur.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Tripura_Sundari_Temple,_Udaipur.jpg",
+          "author": "No machine-readable author provided. Soman assumed (based on copyright claims).",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:20.927522+00:00",
+          "alt": "Tripura Sundari Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/in-udaipur-tripura-sundari-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Tripura_Sundari_Temple%2C_Udaipur.jpg/250px-Tripura_Sundari_Temple%2C_Udaipur.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Tripura_Sundari_Temple,_Udaipur.jpg",
@@ -357,6 +537,27 @@
       "collection_ids": [],
       "summary": "A Vaishnava temple beside Imphal's former royal palace precinct.",
       "detail_path": "travel/temples/in-imphal-govindajee-temple.json",
+      "card": {
+        "title": "Govindajee Temple",
+        "subtitle": "Imphal, Manipur",
+        "deity_label": "Krishna, Radha",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/FB7A9290.jpg/250px-FB7A9290.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:FB7A9290.jpg",
+          "author": "Bimal thongam",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:20.936855+00:00",
+          "alt": "Govindajee Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-imphal-govindajee-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/FB7A9290.jpg/250px-FB7A9290.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:FB7A9290.jpg",
@@ -400,6 +601,27 @@
       "collection_ids": [],
       "summary": "A river pilgrimage associated with Parashurama; this is a sacred bathing site rather than a conventional temple building.",
       "detail_path": "travel/temples/in-lohit-valley-parshuram-kund.json",
+      "card": {
+        "title": "Parshuram Kund",
+        "subtitle": "Lohit Valley, Arunachal Pradesh",
+        "deity_label": "Parashurama, Vishnu",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Parshuram_Kund_.jpg/250px-Parshuram_Kund_.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Parshuram_Kund_.jpg",
+          "author": "Trideep Dutta Photography",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:14.523236+00:00",
+          "alt": "Parshuram Kund",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-lohit-valley-parshuram-kund.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Parshuram_Kund_.jpg/250px-Parshuram_Kund_.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Parshuram_Kund_.jpg",
@@ -439,6 +661,15 @@
       "collection_ids": [],
       "summary": "A small Ganesh shrine on a hill above Gangtok, combined with a scenic viewpoint.",
       "detail_path": "travel/temples/in-gangtok-ganesh-tok.json",
+      "card": {
+        "title": "Ganesh Tok",
+        "subtitle": "Gangtok, Sikkim",
+        "deity_label": "Ganesha",
+        "image": null,
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-gangtok-ganesh-tok.json"
+      },
       "photo_credit": null
     },
     {
@@ -470,6 +701,33 @@
       "collection_ids": [],
       "summary": "A goddess shrine connected with the Jaintia region's royal and religious heritage.",
       "detail_path": "travel/temples/in-nartiang-nartiang-durga-temple.json",
+      "card": {
+        "title": "Nartiang Durga Temple",
+        "subtitle": "Nartiang, Meghalaya",
+        "deity_label": "Devi / Mata",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Nartiang_Durga_temple.jpg/250px-Nartiang_Durga_temple.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Nartiang_Durga_temple.jpg",
+          "author": "Oliver walsher",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:13.987324+00:00",
+          "alt": "Nartiang Durga Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/in-nartiang-nartiang-durga-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Nartiang_Durga_temple.jpg/250px-Nartiang_Durga_temple.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Nartiang_Durga_temple.jpg",
@@ -513,6 +771,33 @@
       "collection_ids": [],
       "summary": "A major goddess shrine closely connected with Bastar's religious traditions.",
       "detail_path": "travel/temples/in-dantewada-danteshwari-temple.json",
+      "card": {
+        "title": "Danteshwari Temple",
+        "subtitle": "Dantewada, Chhattisgarh",
+        "deity_label": "Devi / Mata",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Danteswari_Temple_0034.jpg/250px-Danteswari_Temple_0034.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Danteswari_Temple_0034.jpg",
+          "author": "Ratnesh1948",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:24.323784+00:00",
+          "alt": "Danteshwari Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/in-dantewada-danteshwari-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Danteswari_Temple_0034.jpg/250px-Danteswari_Temple_0034.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Danteswari_Temple_0034.jpg",
@@ -552,6 +837,27 @@
       "collection_ids": [],
       "summary": "A carved stone Shiva temple near Kawardha, surrounded by a rural hill landscape.",
       "detail_path": "travel/temples/in-chaura-bhoramdeo-temple.json",
+      "card": {
+        "title": "Bhoramdeo Temple",
+        "subtitle": "Chaura, Chhattisgarh",
+        "deity_label": "Shiva",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Bhoramdeo_Temple%2C_Kawardha.jpg/250px-Bhoramdeo_Temple%2C_Kawardha.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Bhoramdeo_Temple,_Kawardha.jpg",
+          "author": "Pankaj Oudhia",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:19.608799+00:00",
+          "alt": "Bhoramdeo Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-chaura-bhoramdeo-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Bhoramdeo_Temple%2C_Kawardha.jpg/250px-Bhoramdeo_Temple%2C_Kawardha.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Bhoramdeo_Temple,_Kawardha.jpg",
@@ -591,6 +897,27 @@
       "collection_ids": [],
       "summary": "A Goan Shiva shrine distinguished by its lamp tower and temple-tank setting.",
       "detail_path": "travel/temples/in-mangeshi-mangeshi-temple.json",
+      "card": {
+        "title": "Mangeshi Temple",
+        "subtitle": "Mangeshi, Goa",
+        "deity_label": "Shiva",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Shri-Mangesh-Temple%2CGoa.JPG/250px-Shri-Mangesh-Temple%2CGoa.JPG",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Shri-Mangesh-Temple,Goa.JPG",
+          "author": "Aruna at Malayalam Wikipedia",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:16.099932+00:00",
+          "alt": "Mangeshi Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-mangeshi-mangeshi-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Shri-Mangesh-Temple%2CGoa.JPG/250px-Shri-Mangesh-Temple%2CGoa.JPG",
         "source_page": "https://commons.wikimedia.org/wiki/File:Shri-Mangesh-Temple,Goa.JPG",
@@ -634,6 +961,33 @@
       "collection_ids": [],
       "summary": "A goddess temple at Kavlem with the characteristic architecture of Goa's temple complexes.",
       "detail_path": "travel/temples/in-kavlem-shanta-durga-temple.json",
+      "card": {
+        "title": "Shanta Durga Temple",
+        "subtitle": "Kavlem, Goa",
+        "deity_label": "Devi / Mata",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Shantadurga_temple.jpg/250px-Shantadurga_temple.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Shantadurga_temple.jpg",
+          "author": "Nkodikal",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:12.381531+00:00",
+          "alt": "Shanta Durga Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/in-kavlem-shanta-durga-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Shantadurga_temple.jpg/250px-Shantadurga_temple.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Shantadurga_temple.jpg",
@@ -675,6 +1029,27 @@
       "collection_ids": [],
       "summary": "The hill shrine of Venkateswara is administered by Tirumala Tirupati Devasthanams and has multiple darshan arrangements.",
       "detail_path": "travel/temples/in-tirumala-tirumala-venkateswara-temple.json",
+      "card": {
+        "title": "Tirumala Venkateswara Temple",
+        "subtitle": "Tirumala, Andhra Pradesh",
+        "deity_label": "Vishnu",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Tirumala_090615.jpg/250px-Tirumala_090615.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Tirumala_090615.jpg",
+          "author": "Nikhilb239",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:11.596642+00:00",
+          "alt": "Tirumala Venkateswara Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-tirumala-tirumala-venkateswara-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Tirumala_090615.jpg/250px-Tirumala_090615.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Tirumala_090615.jpg",
@@ -719,6 +1094,33 @@
       "collection_ids": [],
       "summary": "A major Padmavathi shrine at Tiruchanur, commonly visited with Tirumala.",
       "detail_path": "travel/temples/in-tiruchanur-sri-padmavathi-ammavari-temple.json",
+      "card": {
+        "title": "Sri Padmavathi Ammavari Temple",
+        "subtitle": "Tiruchanur, Andhra Pradesh",
+        "deity_label": "Devi / Mata",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Padmavathi_Ammavari_Temple.JPG/250px-Padmavathi_Ammavari_Temple.JPG",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Padmavathi_Ammavari_Temple.JPG",
+          "author": "Vedamurthy.j",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:08.678185+00:00",
+          "alt": "Sri Padmavathi Ammavari Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/in-tiruchanur-sri-padmavathi-ammavari-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Padmavathi_Ammavari_Temple.JPG/250px-Padmavathi_Ammavari_Temple.JPG",
         "source_page": "https://commons.wikimedia.org/wiki/File:Padmavathi_Ammavari_Temple.JPG",
@@ -771,6 +1173,21 @@
       ],
       "summary": "Mallikarjuna and Bhramaramba are worshipped within the Srisailam pilgrimage complex in the Nallamala hills.",
       "detail_path": "travel/temples/in-srisailam-mallikarjuna-temple-srisailam.json",
+      "card": {
+        "title": "Mallikarjuna Temple, Srisailam",
+        "subtitle": "Srisailam, Andhra Pradesh",
+        "deity_label": "Shiva, Devi / Mata",
+        "image": null,
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "jyotirlinga",
+            "label": "12 Jyotirlingas",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-srisailam-mallikarjuna-temple-srisailam.json"
+      },
       "photo_credit": null
     },
     {
@@ -801,6 +1218,33 @@
       ],
       "summary": "Shiva is associated with the air element at this temple beside the Swarnamukhi river.",
       "detail_path": "travel/temples/in-srikalahasti-srikalahasti-temple.json",
+      "card": {
+        "title": "Srikalahasti Temple",
+        "subtitle": "Srikalahasti, Andhra Pradesh",
+        "deity_label": "Shiva",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sri_Kala_Hasti.jpg/330px-Sri_Kala_Hasti.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Sri_Kala_Hasti.jpg",
+          "author": "Kalyan Kumar",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:18.048128+00:00",
+          "alt": "Srikalahasti Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "pancha-bhoota",
+            "label": "Pancha Bhoota Shiva Temples",
+            "basis": "pilgrimage_collection"
+          }
+        ],
+        "detail_path": "travel/temples/in-srikalahasti-srikalahasti-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sri_Kala_Hasti.jpg/330px-Sri_Kala_Hasti.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Sri_Kala_Hasti.jpg",
@@ -844,6 +1288,33 @@
       "collection_ids": [],
       "summary": "The Indrakeeladri hill shrine overlooks the Krishna river and is a major Dasara pilgrimage centre.",
       "detail_path": "travel/temples/in-vijayawada-kanaka-durga-temple.json",
+      "card": {
+        "title": "Kanaka Durga Temple",
+        "subtitle": "Vijayawada, Andhra Pradesh",
+        "deity_label": "Devi / Mata",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Kanakadurga_Temple_gopuram.jpg/250px-Kanakadurga_Temple_gopuram.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Kanakadurga_Temple_gopuram.jpg",
+          "author": "Srikar Kashyap",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:20.403803+00:00",
+          "alt": "Kanaka Durga Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [
+          {
+            "id": "devi",
+            "label": "Devi Temple",
+            "basis": "deity_category"
+          }
+        ],
+        "detail_path": "travel/temples/in-vijayawada-kanaka-durga-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Kanakadurga_Temple_gopuram.jpg/250px-Kanakadurga_Temple_gopuram.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Kanakadurga_Temple_gopuram.jpg",
@@ -889,6 +1360,27 @@
       "collection_ids": [],
       "summary": "A hill temple where Vishnu is worshipped in the combined Varaha-Narasimha form.",
       "detail_path": "travel/temples/in-visakhapatnam-simhachalam-temple.json",
+      "card": {
+        "title": "Simhachalam Temple",
+        "subtitle": "Visakhapatnam, Andhra Pradesh",
+        "deity_label": "Vishnu, Narasimha",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Simhachalam_temple_from_a_hilltop.jpg/250px-Simhachalam_temple_from_a_hilltop.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Simhachalam_temple_from_a_hilltop.jpg",
+          "author": "eclicks_by_bunny",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:08.150817+00:00",
+          "alt": "Simhachalam Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-visakhapatnam-simhachalam-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Simhachalam_temple_from_a_hilltop.jpg/250px-Simhachalam_temple_from_a_hilltop.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Simhachalam_temple_from_a_hilltop.jpg",
@@ -929,6 +1421,27 @@
       "collection_ids": [],
       "summary": "A Ganapati pilgrimage centre at Kanipakam, associated with a water-filled sanctum tradition.",
       "detail_path": "travel/temples/in-kanipakam-kanipakam-vinayaka-temple.json",
+      "card": {
+        "title": "Kanipakam Vinayaka Temple",
+        "subtitle": "Kanipakam, Andhra Pradesh",
+        "deity_label": "Ganesha",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Kanipakam_Temple.jpg/250px-Kanipakam_Temple.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Kanipakam_Temple.jpg",
+          "author": "Vin09",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:17.469368+00:00",
+          "alt": "Kanipakam Vinayaka Temple",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-kanipakam-kanipakam-vinayaka-temple.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Kanipakam_Temple.jpg/250px-Kanipakam_Temple.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Kanipakam_Temple.jpg",
@@ -971,6 +1484,27 @@
       "collection_ids": [],
       "summary": "A Godavari-side shrine devoted to Rama and Sita, associated with the devotee Bhadradri Ramadasu.",
       "detail_path": "travel/temples/in-bhadrachalam-sita-ramachandraswamy-temple-bhadrachalam.json",
+      "card": {
+        "title": "Sita Ramachandraswamy Temple, Bhadrachalam",
+        "subtitle": "Bhadrachalam, Telangana",
+        "deity_label": "Rama, Sita",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Sri_sita_rama_temple_bhadrachalam_temple_view.jpg/250px-Sri_sita_rama_temple_bhadrachalam_temple_view.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Sri_sita_rama_temple_bhadrachalam_temple_view.jpg",
+          "author": "WithShivaram",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "changes": "None; Wikimedia thumbnail rendition.",
+          "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+          "link_status": "reachable_at_check",
+          "link_checked_at": "2026-10-06T07:54:17.804152+00:00",
+          "alt": "Sita Ramachandraswamy Temple, Bhadrachalam",
+          "role": "article_lead_photo"
+        },
+        "fallback_asset": "travel/assets/temple-placeholder.svg",
+        "badges": [],
+        "detail_path": "travel/temples/in-bhadrachalam-sita-ramachandraswamy-temple-bhadrachalam.json"
+      },
       "photo_credit": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Sri_sita_rama_temple_bhadrachalam_temple_view.jpg/250px-Sri_sita_rama_temple_bhadrachalam_temple_view.jpg",
         "source_page": "https://commons.wikimedia.org/wiki/File:Sri_sita_rama_temple_bhadrachalam_temple_view.jpg",

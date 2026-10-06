@@ -1,5 +1,5 @@
 {
-  "schema_version": "2.0.0",
+  "schema_version": "2.1.0",
   "temple": {
     "id": "in-swamimalai-swamimalai-swaminathaswamy-temple",
     "slug": "swamimalai-swaminathaswamy-temple",
@@ -206,7 +206,408 @@
           "postal_code",
           "google_place_id"
         ]
+      },
+      "ui": {
+        "name_hi": null,
+        "header_title": "Swamimalai Swaminathaswamy Temple",
+        "section_order": [
+          "overview",
+          "significance",
+          "history",
+          "architecture",
+          "darshan",
+          "rituals",
+          "festivals",
+          "gallery",
+          "how_to_reach",
+          "location",
+          "before_visit",
+          "guidelines",
+          "nearby",
+          "related",
+          "journey"
+        ],
+        "overview": {
+          "title": "About Temple",
+          "summary": "A Murugan shrine near Kumbakonam associated with the deity's role as a teacher of sacred wisdom.",
+          "paragraphs": [
+            "Swamimalai Swaminathaswamy Temple is located in Swamimalai, Tamil Nadu, India. A Murugan shrine near Kumbakonam associated with the deity's role as a teacher of sacred wisdom."
+          ],
+          "status": "written_summary_needs_full_fact_check",
+          "facts": [
+            {
+              "id": "deity",
+              "label": "Main deity",
+              "value": "Murugan"
+            },
+            {
+              "id": "hours",
+              "label": "Temple timings",
+              "value": null,
+              "fallback": "Confirm current hours",
+              "status": "not_verified"
+            },
+            {
+              "id": "location",
+              "label": "Location",
+              "value": "Swamimalai, Tamil Nadu"
+            },
+            {
+              "id": "season",
+              "label": "Best season",
+              "value": null,
+              "fallback": "Check local conditions"
+            }
+          ]
+        },
+        "significance": {
+          "title": "Spiritual Significance",
+          "heading": "Six Abodes of Murugan",
+          "body": {
+            "text": "A Murugan shrine near Kumbakonam associated with the deity's role as a teacher of sacred wisdom.",
+            "source_ids": [],
+            "status": "editorial_needs_review"
+          }
+        },
+        "history": {
+          "title": "History",
+          "subtitle": "A heritage shaped by faith and renewal.",
+          "items": [],
+          "empty_message": "Historical details are being researched."
+        },
+        "architecture": {
+          "title": "Architecture",
+          "body": {
+            "text": null,
+            "source_ids": [],
+            "status": "not_verified"
+          },
+          "features": [],
+          "image": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swamimalai_Murugan_Temple.jpg/250px-Swamimalai_Murugan_Temple.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Swamimalai_Murugan_Temple.jpg",
+            "author": "Ravichandar84 (The original uploader was Ravichandar84 at English Wikipedia.)",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:15.572707+00:00",
+            "alt": "Swamimalai Swaminathaswamy Temple",
+            "role": "article_lead_photo"
+          }
+        },
+        "darshan": {
+          "title": "Darshan Timings",
+          "timezone": "Asia/Kolkata",
+          "hours": [],
+          "status": "not_verified",
+          "source_id": null,
+          "schedule": [],
+          "notice": "Confirm current hours and bookings before visiting. Festival arrangements may differ.",
+          "information_url": "https://www.kamakoti.org/kamakoti/notemplate/SVP/AboutSwamimalai.html",
+          "empty_message": "Current timings have not been verified."
+        },
+        "rituals": {
+          "title": "Aarti & Pooja",
+          "items": [],
+          "empty_message": "Check the temple source for current rituals and bookings."
+        },
+        "festivals": {
+          "title": "Major Festivals",
+          "summary": {
+            "text": null,
+            "source_id": null,
+            "dates": [],
+            "status": "not_verified"
+          },
+          "items": [],
+          "notice": "Dates follow the Hindu calendar and vary by year and tradition.",
+          "empty_message": "Festival details are being researched."
+        },
+        "gallery": {
+          "title": "Temple Gallery",
+          "items": [
+            {
+              "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swamimalai_Murugan_Temple.jpg/250px-Swamimalai_Murugan_Temple.jpg",
+              "source_page": "https://commons.wikimedia.org/wiki/File:Swamimalai_Murugan_Temple.jpg",
+              "author": "Ravichandar84 (The original uploader was Ravichandar84 at English Wikipedia.)",
+              "license": "CC BY-SA 3.0",
+              "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+              "changes": "None; Wikimedia thumbnail rendition.",
+              "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+              "link_status": "reachable_at_check",
+              "link_checked_at": "2026-10-06T07:54:15.572707+00:00",
+              "alt": "Swamimalai Swaminathaswamy Temple",
+              "role": "article_lead_photo"
+            }
+          ],
+          "view_all_label": "View All Photos",
+          "empty_message": "Temple photos are not yet available."
+        },
+        "how_to_reach": {
+          "title": "How to Reach",
+          "items": [],
+          "notice": "Distances and routes depend on the arrival point.",
+          "empty_message": "Use directions and confirm local access before travel."
+        },
+        "location": {
+          "latitude": 10.956944,
+          "longitude": 79.325833,
+          "coordinate_status": "reference_point",
+          "coordinate_source_id": "reference",
+          "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+          "address": "Swamimalai Swaminathaswamy Temple, Swamimalai, Tamil Nadu, India",
+          "address_precision": "locality",
+          "country": "India",
+          "country_code": "IN",
+          "state": "Tamil Nadu",
+          "city": "Swamimalai",
+          "district": "Thanjavur district, Nagapattinam district, Tiruvarur district, Mayiladuthurai district (Chola Nadu)",
+          "postal_code": null,
+          "google_place_id": null,
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Swamimalai+Swaminathaswamy+Temple%2C+Swamimalai%2C+Tamil+Nadu%2C+India",
+          "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Swamimalai+Swaminathaswamy+Temple%2C+Swamimalai%2C+Tamil+Nadu%2C+India",
+          "title": "Location",
+          "map_preview_url": null,
+          "map_preview_status": "use_client_map_or_placeholder"
+        },
+        "before_visit": {
+          "title": "Before You Visit",
+          "items": [
+            {
+              "id": "dress",
+              "title": "Dress respectfully",
+              "icon": "shirt",
+              "body": {
+                "text": "Choose modest attire and confirm temple-specific dress guidance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "photography",
+              "title": "Phones & photography",
+              "icon": "camera-off",
+              "body": {
+                "text": "Confirm device and photography restrictions at the entrance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "footwear",
+              "title": "Footwear",
+              "icon": "footprints",
+              "body": {
+                "text": "Follow posted footwear and storage instructions.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "entry",
+              "title": "Entry & special darshan",
+              "icon": "ticket",
+              "body": {
+                "text": "Consult the temple source for eligibility, booking and charges.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "crowds",
+              "title": "Crowds & queues",
+              "icon": "users",
+              "body": {
+                "text": "Allow extra time on festival days and follow staff guidance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "season",
+              "title": "Choosing your visit",
+              "icon": "sun",
+              "body": {
+                "text": "Check local weather and seasonal access before travelling.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            }
+          ]
+        },
+        "guidelines": {
+          "title": "Temple Guidelines",
+          "items": [
+            "Follow posted footwear and dress requirements.",
+            "Ask before photographing worship, people or sanctums.",
+            "Follow the temple's current queue and offering arrangements.",
+            "Keep valuables secure and follow staff directions."
+          ],
+          "status": "general_guidance"
+        },
+        "nearby": {
+          "title": "Nearby Sacred Places",
+          "items": [],
+          "basis": "same_locality",
+          "notice": "Same-locality suggestions; distances are straight-line estimates, not travel routes.",
+          "empty_message": "No other catalogued temples in this locality."
+        },
+        "related": {
+          "title": "You May Also Like",
+          "items": [
+            {
+              "temple_id": "in-near-madurai-pazhamudircholai-temple",
+              "card": {
+                "title": "Pazhamudircholai Temple",
+                "subtitle": "Near Madurai, Tamil Nadu",
+                "deity_label": "Murugan",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Pazhamuthir_solai_Murugan_1.JPG/250px-Pazhamuthir_solai_Murugan_1.JPG",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Pazhamuthir_solai_Murugan_1.JPG",
+                  "author": "Ssriram mt",
+                  "license": "CC BY-SA 3.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:22.806846+00:00",
+                  "alt": "Pazhamudircholai Temple",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "arupadai-veedu",
+                    "label": "Six Abodes of Murugan",
+                    "basis": "pilgrimage_collection"
+                  }
+                ],
+                "detail_path": "travel/temples/in-near-madurai-pazhamudircholai-temple.json"
+              }
+            },
+            {
+              "temple_id": "in-palani-dhandayuthapani-swamy-temple-palani",
+              "card": {
+                "title": "Dhandayuthapani Swamy Temple, Palani",
+                "subtitle": "Palani, Tamil Nadu",
+                "deity_label": "Murugan",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Palanihills.JPG/330px-Palanihills.JPG",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Palanihills.JPG",
+                  "author": "Thiagupillai",
+                  "license": "CC BY-SA 3.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:15.171456+00:00",
+                  "alt": "Dhandayuthapani Swamy Temple, Palani",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "arupadai-veedu",
+                    "label": "Six Abodes of Murugan",
+                    "basis": "pilgrimage_collection"
+                  }
+                ],
+                "detail_path": "travel/temples/in-palani-dhandayuthapani-swamy-temple-palani.json"
+              }
+            },
+            {
+              "temple_id": "in-thiruparankundram-subramaniya-swamy-temple-thiruparankundram",
+              "card": {
+                "title": "Subramaniya Swamy Temple, Thiruparankundram",
+                "subtitle": "Thiruparankundram, Tamil Nadu",
+                "deity_label": "Murugan",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Thiruparamkundram_%281%29.jpg/250px-Thiruparamkundram_%281%29.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Thiruparamkundram_(1).jpg",
+                  "author": "Ssriram mt",
+                  "license": "CC BY-SA 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:14.778434+00:00",
+                  "alt": "Subramaniya Swamy Temple, Thiruparankundram",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "arupadai-veedu",
+                    "label": "Six Abodes of Murugan",
+                    "basis": "pilgrimage_collection"
+                  }
+                ],
+                "detail_path": "travel/temples/in-thiruparankundram-subramaniya-swamy-temple-thiruparankundram.json"
+              }
+            }
+          ],
+          "basis": "shared_collection_then_deity",
+          "empty_message": "More recommendations will appear as the catalogue grows."
+        },
+        "actions": {
+          "directions": {
+            "label": "Get Directions",
+            "url": "https://www.google.com/maps/dir/?api=1&destination=Swamimalai+Swaminathaswamy+Temple%2C+Swamimalai%2C+Tamil+Nadu%2C+India"
+          },
+          "maps": {
+            "label": "Open in Maps",
+            "url": "https://www.google.com/maps/search/?api=1&query=Swamimalai+Swaminathaswamy+Temple%2C+Swamimalai%2C+Tamil+Nadu%2C+India"
+          },
+          "save": {
+            "label": "Save",
+            "saved_label": "Saved",
+            "action": "toggle_local_favorite",
+            "storage_key": "in-swamimalai-swamimalai-swaminathaswamy-temple"
+          },
+          "share": {
+            "label": "Share",
+            "action": "native_share",
+            "text": "Swamimalai Swaminathaswamy Temple — Swamimalai, Tamil Nadu",
+            "url": "https://www.google.com/maps/search/?api=1&query=Swamimalai+Swaminathaswamy+Temple%2C+Swamimalai%2C+Tamil+Nadu%2C+India"
+          },
+          "read_more": {
+            "label": "Read More",
+            "action": "expand_overview"
+          }
+        },
+        "journey": {
+          "config_path": "travel/discovery.json#/journey"
+        }
       }
+    },
+    "card": {
+      "title": "Swamimalai Swaminathaswamy Temple",
+      "subtitle": "Swamimalai, Tamil Nadu",
+      "deity_label": "Murugan",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swamimalai_Murugan_Temple.jpg/250px-Swamimalai_Murugan_Temple.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Swamimalai_Murugan_Temple.jpg",
+        "author": "Ravichandar84 (The original uploader was Ravichandar84 at English Wikipedia.)",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:15.572707+00:00",
+        "alt": "Swamimalai Swaminathaswamy Temple",
+        "role": "article_lead_photo"
+      },
+      "fallback_asset": "travel/assets/temple-placeholder.svg",
+      "badges": [
+        {
+          "id": "arupadai-veedu",
+          "label": "Six Abodes of Murugan",
+          "basis": "pilgrimage_collection"
+        }
+      ],
+      "detail_path": "travel/temples/in-swamimalai-swamimalai-swaminathaswamy-temple.json"
     }
   }
 }

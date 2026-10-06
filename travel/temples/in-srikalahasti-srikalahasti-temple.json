@@ -1,5 +1,5 @@
 {
-  "schema_version": "2.0.0",
+  "schema_version": "2.1.0",
   "temple": {
     "id": "in-srikalahasti-srikalahasti-temple",
     "slug": "srikalahasti-temple",
@@ -190,7 +190,408 @@
           "postal_code",
           "google_place_id"
         ]
+      },
+      "ui": {
+        "name_hi": null,
+        "header_title": "Srikalahasti Temple",
+        "section_order": [
+          "overview",
+          "significance",
+          "history",
+          "architecture",
+          "darshan",
+          "rituals",
+          "festivals",
+          "gallery",
+          "how_to_reach",
+          "location",
+          "before_visit",
+          "guidelines",
+          "nearby",
+          "related",
+          "journey"
+        ],
+        "overview": {
+          "title": "About Temple",
+          "summary": "Shiva is associated with the air element at this temple beside the Swarnamukhi river.",
+          "paragraphs": [
+            "Srikalahasti Temple is located in Srikalahasti, Andhra Pradesh, India. Shiva is associated with the air element at this temple beside the Swarnamukhi river."
+          ],
+          "status": "written_summary_needs_full_fact_check",
+          "facts": [
+            {
+              "id": "deity",
+              "label": "Main deity",
+              "value": "Shiva"
+            },
+            {
+              "id": "hours",
+              "label": "Temple timings",
+              "value": null,
+              "fallback": "Confirm current hours",
+              "status": "not_verified"
+            },
+            {
+              "id": "location",
+              "label": "Location",
+              "value": "Srikalahasti, Andhra Pradesh"
+            },
+            {
+              "id": "season",
+              "label": "Best season",
+              "value": null,
+              "fallback": "Check local conditions"
+            }
+          ]
+        },
+        "significance": {
+          "title": "Spiritual Significance",
+          "heading": "Pancha Bhoota Shiva Temples",
+          "body": {
+            "text": "Shiva is associated with the air element at this temple beside the Swarnamukhi river.",
+            "source_ids": [],
+            "status": "editorial_needs_review"
+          }
+        },
+        "history": {
+          "title": "History",
+          "subtitle": "A heritage shaped by faith and renewal.",
+          "items": [],
+          "empty_message": "Historical details are being researched."
+        },
+        "architecture": {
+          "title": "Architecture",
+          "body": {
+            "text": null,
+            "source_ids": [],
+            "status": "not_verified"
+          },
+          "features": [],
+          "image": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sri_Kala_Hasti.jpg/330px-Sri_Kala_Hasti.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Sri_Kala_Hasti.jpg",
+            "author": "Kalyan Kumar",
+            "license": "CC BY-SA 2.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:18.048128+00:00",
+            "alt": "Srikalahasti Temple",
+            "role": "article_lead_photo"
+          }
+        },
+        "darshan": {
+          "title": "Darshan Timings",
+          "timezone": "Asia/Kolkata",
+          "hours": [],
+          "status": "not_verified",
+          "source_id": null,
+          "schedule": [],
+          "notice": "Confirm current hours and bookings before visiting. Festival arrangements may differ.",
+          "information_url": null,
+          "empty_message": "Current timings have not been verified."
+        },
+        "rituals": {
+          "title": "Aarti & Pooja",
+          "items": [],
+          "empty_message": "Check the temple source for current rituals and bookings."
+        },
+        "festivals": {
+          "title": "Major Festivals",
+          "summary": {
+            "text": null,
+            "source_id": null,
+            "dates": [],
+            "status": "not_verified"
+          },
+          "items": [],
+          "notice": "Dates follow the Hindu calendar and vary by year and tradition.",
+          "empty_message": "Festival details are being researched."
+        },
+        "gallery": {
+          "title": "Temple Gallery",
+          "items": [
+            {
+              "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sri_Kala_Hasti.jpg/330px-Sri_Kala_Hasti.jpg",
+              "source_page": "https://commons.wikimedia.org/wiki/File:Sri_Kala_Hasti.jpg",
+              "author": "Kalyan Kumar",
+              "license": "CC BY-SA 2.0",
+              "license_url": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+              "changes": "None; Wikimedia thumbnail rendition.",
+              "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+              "link_status": "reachable_at_check",
+              "link_checked_at": "2026-10-06T07:54:18.048128+00:00",
+              "alt": "Srikalahasti Temple",
+              "role": "article_lead_photo"
+            }
+          ],
+          "view_all_label": "View All Photos",
+          "empty_message": "Temple photos are not yet available."
+        },
+        "how_to_reach": {
+          "title": "How to Reach",
+          "items": [],
+          "notice": "Distances and routes depend on the arrival point.",
+          "empty_message": "Use directions and confirm local access before travel."
+        },
+        "location": {
+          "latitude": 13.749444,
+          "longitude": 79.698333,
+          "coordinate_status": "reference_point",
+          "coordinate_source_id": "reference",
+          "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+          "address": "Srikalahasti Temple, Srikalahasti, Andhra Pradesh, India",
+          "address_precision": "locality",
+          "country": "India",
+          "country_code": "IN",
+          "state": "Andhra Pradesh",
+          "city": "Srikalahasti",
+          "district": "Tirupati",
+          "postal_code": null,
+          "google_place_id": null,
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Srikalahasti+Temple%2C+Srikalahasti%2C+Andhra+Pradesh%2C+India",
+          "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Srikalahasti+Temple%2C+Srikalahasti%2C+Andhra+Pradesh%2C+India",
+          "title": "Location",
+          "map_preview_url": null,
+          "map_preview_status": "use_client_map_or_placeholder"
+        },
+        "before_visit": {
+          "title": "Before You Visit",
+          "items": [
+            {
+              "id": "dress",
+              "title": "Dress respectfully",
+              "icon": "shirt",
+              "body": {
+                "text": "Choose modest attire and confirm temple-specific dress guidance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "photography",
+              "title": "Phones & photography",
+              "icon": "camera-off",
+              "body": {
+                "text": "Confirm device and photography restrictions at the entrance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "footwear",
+              "title": "Footwear",
+              "icon": "footprints",
+              "body": {
+                "text": "Follow posted footwear and storage instructions.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "entry",
+              "title": "Entry & special darshan",
+              "icon": "ticket",
+              "body": {
+                "text": "Consult the temple source for eligibility, booking and charges.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "crowds",
+              "title": "Crowds & queues",
+              "icon": "users",
+              "body": {
+                "text": "Allow extra time on festival days and follow staff guidance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "season",
+              "title": "Choosing your visit",
+              "icon": "sun",
+              "body": {
+                "text": "Check local weather and seasonal access before travelling.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            }
+          ]
+        },
+        "guidelines": {
+          "title": "Temple Guidelines",
+          "items": [
+            "Follow posted footwear and dress requirements.",
+            "Ask before photographing worship, people or sanctums.",
+            "Follow the temple's current queue and offering arrangements.",
+            "Keep valuables secure and follow staff directions."
+          ],
+          "status": "general_guidance"
+        },
+        "nearby": {
+          "title": "Nearby Sacred Places",
+          "items": [],
+          "basis": "same_locality",
+          "notice": "Same-locality suggestions; distances are straight-line estimates, not travel routes.",
+          "empty_message": "No other catalogued temples in this locality."
+        },
+        "related": {
+          "title": "You May Also Like",
+          "items": [
+            {
+              "temple_id": "in-chidambaram-thillai-nataraja-temple",
+              "card": {
+                "title": "Thillai Nataraja Temple",
+                "subtitle": "Chidambaram, Tamil Nadu",
+                "deity_label": "Shiva",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Le_temple_de_Shiva_Nataraja_%28Chidambaram%2C_Inde%29_%2814037020332%29.jpg/250px-Le_temple_de_Shiva_Nataraja_%28Chidambaram%2C_Inde%29_%2814037020332%29.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Le_temple_de_Shiva_Nataraja_(Chidambaram,_Inde)_(14037020332).jpg",
+                  "author": "Jean-Pierre Dalbéra from Paris, France",
+                  "license": "CC BY 2.0",
+                  "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:11.043288+00:00",
+                  "alt": "Thillai Nataraja Temple",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "pancha-bhoota",
+                    "label": "Pancha Bhoota Shiva Temples",
+                    "basis": "pilgrimage_collection"
+                  }
+                ],
+                "detail_path": "travel/temples/in-chidambaram-thillai-nataraja-temple.json"
+              }
+            },
+            {
+              "temple_id": "in-kanchipuram-ekambareswarar-temple",
+              "card": {
+                "title": "Ekambareswarar Temple",
+                "subtitle": "Kanchipuram, Tamil Nadu",
+                "deity_label": "Shiva",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Ekambareswarar5.jpg/250px-Ekambareswarar5.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Ekambareswarar5.jpg",
+                  "author": "Ssriram mt",
+                  "license": "CC BY-SA 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:05.319260+00:00",
+                  "alt": "Ekambareswarar Temple",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "pancha-bhoota",
+                    "label": "Pancha Bhoota Shiva Temples",
+                    "basis": "pilgrimage_collection"
+                  }
+                ],
+                "detail_path": "travel/temples/in-kanchipuram-ekambareswarar-temple.json"
+              }
+            },
+            {
+              "temple_id": "in-tiruchirappalli-jambukeswarar-temple",
+              "card": {
+                "title": "Jambukeswarar Temple",
+                "subtitle": "Tiruchirappalli, Tamil Nadu",
+                "deity_label": "Shiva",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Tiruvanaikaval5.jpg/250px-Tiruvanaikaval5.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Tiruvanaikaval5.jpg",
+                  "author": "Ssriram mt",
+                  "license": "CC BY-SA 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:13.723534+00:00",
+                  "alt": "Jambukeswarar Temple",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "pancha-bhoota",
+                    "label": "Pancha Bhoota Shiva Temples",
+                    "basis": "pilgrimage_collection"
+                  }
+                ],
+                "detail_path": "travel/temples/in-tiruchirappalli-jambukeswarar-temple.json"
+              }
+            }
+          ],
+          "basis": "shared_collection_then_deity",
+          "empty_message": "More recommendations will appear as the catalogue grows."
+        },
+        "actions": {
+          "directions": {
+            "label": "Get Directions",
+            "url": "https://www.google.com/maps/dir/?api=1&destination=Srikalahasti+Temple%2C+Srikalahasti%2C+Andhra+Pradesh%2C+India"
+          },
+          "maps": {
+            "label": "Open in Maps",
+            "url": "https://www.google.com/maps/search/?api=1&query=Srikalahasti+Temple%2C+Srikalahasti%2C+Andhra+Pradesh%2C+India"
+          },
+          "save": {
+            "label": "Save",
+            "saved_label": "Saved",
+            "action": "toggle_local_favorite",
+            "storage_key": "in-srikalahasti-srikalahasti-temple"
+          },
+          "share": {
+            "label": "Share",
+            "action": "native_share",
+            "text": "Srikalahasti Temple — Srikalahasti, Andhra Pradesh",
+            "url": "https://www.google.com/maps/search/?api=1&query=Srikalahasti+Temple%2C+Srikalahasti%2C+Andhra+Pradesh%2C+India"
+          },
+          "read_more": {
+            "label": "Read More",
+            "action": "expand_overview"
+          }
+        },
+        "journey": {
+          "config_path": "travel/discovery.json#/journey"
+        }
       }
+    },
+    "card": {
+      "title": "Srikalahasti Temple",
+      "subtitle": "Srikalahasti, Andhra Pradesh",
+      "deity_label": "Shiva",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sri_Kala_Hasti.jpg/330px-Sri_Kala_Hasti.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Sri_Kala_Hasti.jpg",
+        "author": "Kalyan Kumar",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:18.048128+00:00",
+        "alt": "Srikalahasti Temple",
+        "role": "article_lead_photo"
+      },
+      "fallback_asset": "travel/assets/temple-placeholder.svg",
+      "badges": [
+        {
+          "id": "pancha-bhoota",
+          "label": "Pancha Bhoota Shiva Temples",
+          "basis": "pilgrimage_collection"
+        }
+      ],
+      "detail_path": "travel/temples/in-srikalahasti-srikalahasti-temple.json"
     }
   }
 }

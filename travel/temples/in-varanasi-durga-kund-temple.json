@@ -1,5 +1,5 @@
 {
-  "schema_version": "2.0.0",
+  "schema_version": "2.1.0",
   "temple": {
     "id": "in-varanasi-durga-kund-temple",
     "slug": "durga-kund-temple",
@@ -208,7 +208,501 @@
           "postal_code",
           "google_place_id"
         ]
+      },
+      "ui": {
+        "name_hi": null,
+        "header_title": "Durga Kund Temple",
+        "section_order": [
+          "overview",
+          "significance",
+          "history",
+          "architecture",
+          "darshan",
+          "rituals",
+          "festivals",
+          "gallery",
+          "how_to_reach",
+          "location",
+          "before_visit",
+          "guidelines",
+          "nearby",
+          "related",
+          "journey"
+        ],
+        "overview": {
+          "title": "About Temple",
+          "summary": "A red-coloured Durga temple beside the Durga Kund tank in southern Varanasi.",
+          "paragraphs": [
+            "Durga Kund Temple is located in Varanasi, Uttar Pradesh, India. A red-coloured Durga temple beside the Durga Kund tank in southern Varanasi."
+          ],
+          "status": "written_summary_needs_full_fact_check",
+          "facts": [
+            {
+              "id": "deity",
+              "label": "Main deity",
+              "value": "Devi / Mata"
+            },
+            {
+              "id": "hours",
+              "label": "Temple timings",
+              "value": null,
+              "fallback": "Confirm current hours",
+              "status": "not_verified"
+            },
+            {
+              "id": "location",
+              "label": "Location",
+              "value": "Varanasi, Uttar Pradesh"
+            },
+            {
+              "id": "season",
+              "label": "Best season",
+              "value": null,
+              "fallback": "Check local conditions"
+            }
+          ]
+        },
+        "significance": {
+          "title": "Spiritual Significance",
+          "heading": "Devi Temple",
+          "body": {
+            "text": "A red-coloured Durga temple beside the Durga Kund tank in southern Varanasi.",
+            "source_ids": [],
+            "status": "editorial_needs_review"
+          }
+        },
+        "history": {
+          "title": "History",
+          "subtitle": "A heritage shaped by faith and renewal.",
+          "items": [],
+          "empty_message": "Historical details are being researched."
+        },
+        "architecture": {
+          "title": "Architecture",
+          "body": {
+            "text": null,
+            "source_ids": [],
+            "status": "not_verified"
+          },
+          "features": [],
+          "image": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Durga_Temple_gate.JPG/250px-Durga_Temple_gate.JPG",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Durga_Temple_gate.JPG",
+            "author": "AKS.9955",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:19.610021+00:00",
+            "alt": "Durga Kund Temple",
+            "role": "article_lead_photo"
+          }
+        },
+        "darshan": {
+          "title": "Darshan Timings",
+          "timezone": "Asia/Kolkata",
+          "hours": [],
+          "status": "not_verified",
+          "source_id": null,
+          "schedule": [],
+          "notice": "Confirm current hours and bookings before visiting. Festival arrangements may differ.",
+          "information_url": "https://varanasi.nic.in/temples-of-importance/",
+          "empty_message": "Current timings have not been verified."
+        },
+        "rituals": {
+          "title": "Aarti & Pooja",
+          "items": [],
+          "empty_message": "Check the temple source for current rituals and bookings."
+        },
+        "festivals": {
+          "title": "Major Festivals",
+          "summary": {
+            "text": "Durga Puja, Navratri",
+            "source_id": "reference",
+            "dates": [],
+            "status": "reference_extracted_dates_not_verified"
+          },
+          "items": [],
+          "notice": "Dates follow the Hindu calendar and vary by year and tradition.",
+          "empty_message": "Festival details are being researched."
+        },
+        "gallery": {
+          "title": "Temple Gallery",
+          "items": [
+            {
+              "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Durga_Temple_gate.JPG/250px-Durga_Temple_gate.JPG",
+              "source_page": "https://commons.wikimedia.org/wiki/File:Durga_Temple_gate.JPG",
+              "author": "AKS.9955",
+              "license": "CC BY-SA 4.0",
+              "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+              "changes": "None; Wikimedia thumbnail rendition.",
+              "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+              "link_status": "reachable_at_check",
+              "link_checked_at": "2026-10-06T07:54:19.610021+00:00",
+              "alt": "Durga Kund Temple",
+              "role": "article_lead_photo"
+            }
+          ],
+          "view_all_label": "View All Photos",
+          "empty_message": "Temple photos are not yet available."
+        },
+        "how_to_reach": {
+          "title": "How to Reach",
+          "items": [],
+          "notice": "Distances and routes depend on the arrival point.",
+          "empty_message": "Use directions and confirm local access before travel."
+        },
+        "location": {
+          "latitude": 25.288611,
+          "longitude": 82.999167,
+          "coordinate_status": "reference_point",
+          "coordinate_source_id": "reference",
+          "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+          "address": "Durga Kund Temple, Varanasi, Uttar Pradesh, India",
+          "address_precision": "locality",
+          "country": "India",
+          "country_code": "IN",
+          "state": "Uttar Pradesh",
+          "city": "Varanasi",
+          "district": "Varanasi",
+          "postal_code": null,
+          "google_place_id": null,
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Durga+Kund+Temple%2C+Varanasi%2C+Uttar+Pradesh%2C+India",
+          "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Durga+Kund+Temple%2C+Varanasi%2C+Uttar+Pradesh%2C+India",
+          "title": "Location",
+          "map_preview_url": null,
+          "map_preview_status": "use_client_map_or_placeholder"
+        },
+        "before_visit": {
+          "title": "Before You Visit",
+          "items": [
+            {
+              "id": "dress",
+              "title": "Dress respectfully",
+              "icon": "shirt",
+              "body": {
+                "text": "Choose modest attire and confirm temple-specific dress guidance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "photography",
+              "title": "Phones & photography",
+              "icon": "camera-off",
+              "body": {
+                "text": "Confirm device and photography restrictions at the entrance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "footwear",
+              "title": "Footwear",
+              "icon": "footprints",
+              "body": {
+                "text": "Follow posted footwear and storage instructions.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "entry",
+              "title": "Entry & special darshan",
+              "icon": "ticket",
+              "body": {
+                "text": "Consult the temple source for eligibility, booking and charges.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "crowds",
+              "title": "Crowds & queues",
+              "icon": "users",
+              "body": {
+                "text": "Allow extra time on festival days and follow staff guidance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "season",
+              "title": "Choosing your visit",
+              "icon": "sun",
+              "body": {
+                "text": "Check local weather and seasonal access before travelling.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            }
+          ]
+        },
+        "guidelines": {
+          "title": "Temple Guidelines",
+          "items": [
+            "Follow posted footwear and dress requirements.",
+            "Ask before photographing worship, people or sanctums.",
+            "Follow the temple's current queue and offering arrangements.",
+            "Keep valuables secure and follow staff directions."
+          ],
+          "status": "general_guidance"
+        },
+        "nearby": {
+          "title": "Nearby Sacred Places",
+          "items": [
+            {
+              "temple_id": "in-varanasi-shri-kashi-vishwanath-temple",
+              "card": {
+                "title": "Shri Kashi Vishwanath Temple",
+                "subtitle": "Varanasi, Uttar Pradesh",
+                "deity_label": "Shiva",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Kashi_Vishwanath.jpg/250px-Kashi_Vishwanath.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Kashi_Vishwanath.jpg",
+                  "author": "Architkumar1234",
+                  "license": "CC BY-SA 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:24.864449+00:00",
+                  "alt": "Shri Kashi Vishwanath Temple",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "jyotirlinga",
+                    "label": "12 Jyotirlingas",
+                    "basis": "pilgrimage_collection"
+                  }
+                ],
+                "detail_path": "travel/temples/in-varanasi-shri-kashi-vishwanath-temple.json"
+              },
+              "distance_km": 2.7,
+              "distance_kind": "approximate_straight_line"
+            },
+            {
+              "temple_id": "in-varanasi-sankat-mochan-hanuman-temple",
+              "card": {
+                "title": "Sankat Mochan Hanuman Temple",
+                "subtitle": "Varanasi, Uttar Pradesh",
+                "deity_label": "Hanuman",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Sankat_Mochan_temple_entrance%2C_Varanasi_-_IRCTC_2017_%281%29.jpg/250px-Sankat_Mochan_temple_entrance%2C_Varanasi_-_IRCTC_2017_%281%29.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Sankat_Mochan_temple_entrance,_Varanasi_-_IRCTC_2017_(1).jpg",
+                  "author": "Vinayaraj",
+                  "license": "CC BY-SA 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:08.699227+00:00",
+                  "alt": "Sankat Mochan Hanuman Temple",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [],
+                "detail_path": "travel/temples/in-varanasi-sankat-mochan-hanuman-temple.json"
+              },
+              "distance_km": 0.7,
+              "distance_kind": "approximate_straight_line"
+            },
+            {
+              "temple_id": "in-varanasi-annapurna-devi-temple",
+              "card": {
+                "title": "Annapurna Devi Temple",
+                "subtitle": "Varanasi, Uttar Pradesh",
+                "deity_label": "Devi / Mata",
+                "image": null,
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "devi",
+                    "label": "Devi Temple",
+                    "basis": "deity_category"
+                  }
+                ],
+                "detail_path": "travel/temples/in-varanasi-annapurna-devi-temple.json"
+              },
+              "distance_km": 4.1,
+              "distance_kind": "approximate_straight_line"
+            },
+            {
+              "temple_id": "in-varanasi-kaal-bhairav-temple-varanasi",
+              "card": {
+                "title": "Kaal Bhairav Temple, Varanasi",
+                "subtitle": "Varanasi, Uttar Pradesh",
+                "deity_label": "Bhairava, Shiva",
+                "image": null,
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [],
+                "detail_path": "travel/temples/in-varanasi-kaal-bhairav-temple-varanasi.json"
+              },
+              "distance_km": null,
+              "distance_kind": "unknown"
+            }
+          ],
+          "basis": "same_locality",
+          "notice": "Same-locality suggestions; distances are straight-line estimates, not travel routes.",
+          "empty_message": "No other catalogued temples in this locality."
+        },
+        "related": {
+          "title": "You May Also Like",
+          "items": [
+            {
+              "temple_id": "ae-abu-mureikha-baps-hindu-mandir-abu-dhabi",
+              "card": {
+                "title": "BAPS Hindu Mandir, Abu Dhabi",
+                "subtitle": "Abu Mureikha, Abu Dhabi",
+                "deity_label": "Swaminarayan, Shiva, Rama, Krishna, Ganesha, Hanuman, Devi / Mata",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/BAPS_Abu_Dhabi_Mandir.jpg/250px-BAPS_Abu_Dhabi_Mandir.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:BAPS_Abu_Dhabi_Mandir.jpg",
+                  "author": "Unknown authorUnknown author",
+                  "license": "CC BY-SA 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:15.816847+00:00",
+                  "alt": "BAPS Hindu Mandir, Abu Dhabi",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "devi",
+                    "label": "Devi Temple",
+                    "basis": "deity_category"
+                  }
+                ],
+                "detail_path": "travel/temples/ae-abu-mureikha-baps-hindu-mandir-abu-dhabi.json"
+              }
+            },
+            {
+              "temple_id": "ae-jebel-ali-hindu-temple-dubai",
+              "card": {
+                "title": "Hindu Temple Dubai",
+                "subtitle": "Jebel Ali, Dubai",
+                "deity_label": "Shiva, Vishnu, Ganesha, Devi / Mata",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Hindu_Temple_Dubai.jpg/250px-Hindu_Temple_Dubai.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Hindu_Temple_Dubai.jpg",
+                  "author": "Sathiyaraj",
+                  "license": "CC BY-SA 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:13.941506+00:00",
+                  "alt": "Hindu Temple Dubai",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "devi",
+                    "label": "Devi Temple",
+                    "basis": "deity_category"
+                  }
+                ],
+                "detail_path": "travel/temples/ae-jebel-ali-hindu-temple-dubai.json"
+              }
+            },
+            {
+              "temple_id": "bd-dhaka-dhakeshwari-temple",
+              "card": {
+                "title": "Dhakeshwari Temple",
+                "subtitle": "Dhaka, Dhaka Division",
+                "deity_label": "Devi / Mata",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Main_Temple_of_Dhakeswari.jpg/250px-Main_Temple_of_Dhakeswari.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Main_Temple_of_Dhakeswari.jpg",
+                  "author": "Ishrat jahan",
+                  "license": "CC BY-SA 3.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:15.291359+00:00",
+                  "alt": "Dhakeshwari Temple",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "devi",
+                    "label": "Devi Temple",
+                    "basis": "deity_category"
+                  }
+                ],
+                "detail_path": "travel/temples/bd-dhaka-dhakeshwari-temple.json"
+              }
+            }
+          ],
+          "basis": "shared_collection_then_deity",
+          "empty_message": "More recommendations will appear as the catalogue grows."
+        },
+        "actions": {
+          "directions": {
+            "label": "Get Directions",
+            "url": "https://www.google.com/maps/dir/?api=1&destination=Durga+Kund+Temple%2C+Varanasi%2C+Uttar+Pradesh%2C+India"
+          },
+          "maps": {
+            "label": "Open in Maps",
+            "url": "https://www.google.com/maps/search/?api=1&query=Durga+Kund+Temple%2C+Varanasi%2C+Uttar+Pradesh%2C+India"
+          },
+          "save": {
+            "label": "Save",
+            "saved_label": "Saved",
+            "action": "toggle_local_favorite",
+            "storage_key": "in-varanasi-durga-kund-temple"
+          },
+          "share": {
+            "label": "Share",
+            "action": "native_share",
+            "text": "Durga Kund Temple — Varanasi, Uttar Pradesh",
+            "url": "https://www.google.com/maps/search/?api=1&query=Durga+Kund+Temple%2C+Varanasi%2C+Uttar+Pradesh%2C+India"
+          },
+          "read_more": {
+            "label": "Read More",
+            "action": "expand_overview"
+          }
+        },
+        "journey": {
+          "config_path": "travel/discovery.json#/journey"
+        }
       }
+    },
+    "card": {
+      "title": "Durga Kund Temple",
+      "subtitle": "Varanasi, Uttar Pradesh",
+      "deity_label": "Devi / Mata",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Durga_Temple_gate.JPG/250px-Durga_Temple_gate.JPG",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Durga_Temple_gate.JPG",
+        "author": "AKS.9955",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:19.610021+00:00",
+        "alt": "Durga Kund Temple",
+        "role": "article_lead_photo"
+      },
+      "fallback_asset": "travel/assets/temple-placeholder.svg",
+      "badges": [
+        {
+          "id": "devi",
+          "label": "Devi Temple",
+          "basis": "deity_category"
+        }
+      ],
+      "detail_path": "travel/temples/in-varanasi-durga-kund-temple.json"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "schema_version": "2.0.0",
+  "schema_version": "2.1.0",
   "temple": {
     "id": "in-puri-jagannath-temple-puri",
     "slug": "jagannath-temple-puri",
@@ -213,7 +213,418 @@
           "postal_code",
           "google_place_id"
         ]
+      },
+      "ui": {
+        "name_hi": null,
+        "header_title": "Jagannath Temple, Puri",
+        "section_order": [
+          "overview",
+          "significance",
+          "history",
+          "architecture",
+          "darshan",
+          "rituals",
+          "festivals",
+          "gallery",
+          "how_to_reach",
+          "location",
+          "before_visit",
+          "guidelines",
+          "nearby",
+          "related",
+          "journey"
+        ],
+        "overview": {
+          "title": "About Temple",
+          "summary": "The shrine of Jagannath, Balabhadra and Subhadra anchors Puri's pilgrimage and Ratha Yatra traditions.",
+          "paragraphs": [
+            "Jagannath Temple, Puri is located in Puri, Odisha, India. The shrine of Jagannath, Balabhadra and Subhadra anchors Puri's pilgrimage and Ratha Yatra traditions."
+          ],
+          "status": "written_summary_needs_full_fact_check",
+          "facts": [
+            {
+              "id": "deity",
+              "label": "Main deity",
+              "value": "Jagannath, Krishna, Balarama, Subhadra"
+            },
+            {
+              "id": "hours",
+              "label": "Temple timings",
+              "value": null,
+              "fallback": "Confirm current hours",
+              "status": "not_verified"
+            },
+            {
+              "id": "location",
+              "label": "Location",
+              "value": "Puri, Odisha"
+            },
+            {
+              "id": "season",
+              "label": "Best season",
+              "value": null,
+              "fallback": "Check local conditions"
+            }
+          ]
+        },
+        "significance": {
+          "title": "Spiritual Significance",
+          "heading": "Char Dham of India",
+          "body": {
+            "text": "The shrine of Jagannath, Balabhadra and Subhadra anchors Puri's pilgrimage and Ratha Yatra traditions.",
+            "source_ids": [],
+            "status": "editorial_needs_review"
+          }
+        },
+        "history": {
+          "title": "History",
+          "subtitle": "A heritage shaped by faith and renewal.",
+          "items": [],
+          "empty_message": "Historical details are being researched."
+        },
+        "architecture": {
+          "title": "Architecture",
+          "body": {
+            "text": null,
+            "source_ids": [],
+            "status": "not_verified"
+          },
+          "features": [],
+          "image": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Shri_Jagannath_temple.jpg/250px-Shri_Jagannath_temple.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Shri_Jagannath_temple.jpg",
+            "author": "Prachites",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:19.957093+00:00",
+            "alt": "Jagannath Temple, Puri",
+            "role": "article_lead_photo"
+          }
+        },
+        "darshan": {
+          "title": "Darshan Timings",
+          "timezone": "Asia/Kolkata",
+          "hours": [],
+          "status": "not_verified",
+          "source_id": null,
+          "schedule": [],
+          "notice": "Confirm current hours and bookings before visiting. Festival arrangements may differ.",
+          "information_url": "https://odishatourism.gov.in/east-odisha",
+          "empty_message": "Current timings have not been verified."
+        },
+        "rituals": {
+          "title": "Aarti & Pooja",
+          "items": [],
+          "empty_message": "Check the temple source for current rituals and bookings."
+        },
+        "festivals": {
+          "title": "Major Festivals",
+          "summary": {
+            "text": "Chandan Yatra Dola Yatra Panchaka Nabakalebara 2015 Rath Yatra Snana Yatra Besha Suna Besha",
+            "source_id": "reference",
+            "dates": [],
+            "status": "reference_extracted_dates_not_verified"
+          },
+          "items": [],
+          "notice": "Dates follow the Hindu calendar and vary by year and tradition.",
+          "empty_message": "Festival details are being researched."
+        },
+        "gallery": {
+          "title": "Temple Gallery",
+          "items": [
+            {
+              "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Shri_Jagannath_temple.jpg/250px-Shri_Jagannath_temple.jpg",
+              "source_page": "https://commons.wikimedia.org/wiki/File:Shri_Jagannath_temple.jpg",
+              "author": "Prachites",
+              "license": "CC BY-SA 3.0",
+              "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+              "changes": "None; Wikimedia thumbnail rendition.",
+              "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+              "link_status": "reachable_at_check",
+              "link_checked_at": "2026-10-06T07:54:19.957093+00:00",
+              "alt": "Jagannath Temple, Puri",
+              "role": "article_lead_photo"
+            }
+          ],
+          "view_all_label": "View All Photos",
+          "empty_message": "Temple photos are not yet available."
+        },
+        "how_to_reach": {
+          "title": "How to Reach",
+          "items": [],
+          "notice": "Distances and routes depend on the arrival point.",
+          "empty_message": "Use directions and confirm local access before travel."
+        },
+        "location": {
+          "latitude": 19.804722,
+          "longitude": 85.818333,
+          "coordinate_status": "reference_point",
+          "coordinate_source_id": "reference",
+          "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+          "address": "Jagannath Temple, Puri, Puri, Odisha, India",
+          "address_precision": "locality",
+          "country": "India",
+          "country_code": "IN",
+          "state": "Odisha",
+          "city": "Puri",
+          "district": "Puri",
+          "postal_code": null,
+          "google_place_id": null,
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jagannath+Temple%2C+Puri%2C+Puri%2C+Odisha%2C+India",
+          "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Jagannath+Temple%2C+Puri%2C+Puri%2C+Odisha%2C+India",
+          "title": "Location",
+          "map_preview_url": null,
+          "map_preview_status": "use_client_map_or_placeholder"
+        },
+        "before_visit": {
+          "title": "Before You Visit",
+          "items": [
+            {
+              "id": "dress",
+              "title": "Dress respectfully",
+              "icon": "shirt",
+              "body": {
+                "text": "Choose modest attire and confirm temple-specific dress guidance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "photography",
+              "title": "Phones & photography",
+              "icon": "camera-off",
+              "body": {
+                "text": "Confirm device and photography restrictions at the entrance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "footwear",
+              "title": "Footwear",
+              "icon": "footprints",
+              "body": {
+                "text": "Follow posted footwear and storage instructions.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "entry",
+              "title": "Entry & special darshan",
+              "icon": "ticket",
+              "body": {
+                "text": "Consult the temple source for eligibility, booking and charges.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "crowds",
+              "title": "Crowds & queues",
+              "icon": "users",
+              "body": {
+                "text": "Allow extra time on festival days and follow staff guidance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "season",
+              "title": "Choosing your visit",
+              "icon": "sun",
+              "body": {
+                "text": "Check local weather and seasonal access before travelling.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            }
+          ]
+        },
+        "guidelines": {
+          "title": "Temple Guidelines",
+          "items": [
+            "Follow posted footwear and dress requirements.",
+            "Ask before photographing worship, people or sanctums.",
+            "Follow the temple's current queue and offering arrangements.",
+            "Keep valuables secure and follow staff directions."
+          ],
+          "status": "general_guidance"
+        },
+        "nearby": {
+          "title": "Nearby Sacred Places",
+          "items": [],
+          "basis": "same_locality",
+          "notice": "Same-locality suggestions; distances are straight-line estimates, not travel routes.",
+          "empty_message": "No other catalogued temples in this locality."
+        },
+        "related": {
+          "title": "You May Also Like",
+          "items": [
+            {
+              "temple_id": "in-badrinath-badrinath-temple",
+              "card": {
+                "title": "Badrinath Temple",
+                "subtitle": "Badrinath, Uttarakhand",
+                "deity_label": "Vishnu",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Badrinath_Temple_%2C_Uttarakhand.jpg/250px-Badrinath_Temple_%2C_Uttarakhand.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Badrinath_Temple_,_Uttarakhand.jpg",
+                  "author": "Anubha khare",
+                  "license": "CC BY-SA 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:24.543146+00:00",
+                  "alt": "Badrinath Temple",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "char-dham",
+                    "label": "Char Dham of India",
+                    "basis": "pilgrimage_collection"
+                  },
+                  {
+                    "id": "chota-char-dham",
+                    "label": "Uttarakhand Char Dham",
+                    "basis": "pilgrimage_collection"
+                  }
+                ],
+                "detail_path": "travel/temples/in-badrinath-badrinath-temple.json"
+              }
+            },
+            {
+              "temple_id": "in-dwarka-dwarkadhish-temple",
+              "card": {
+                "title": "Dwarkadhish Temple",
+                "subtitle": "Dwarka, Gujarat",
+                "deity_label": "Krishna",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Dwarakadheesh_Temple%2C_2014.jpg/250px-Dwarakadheesh_Temple%2C_2014.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Dwarakadheesh_Temple,_2014.jpg",
+                  "author": "Vishnupranay.k",
+                  "license": "CC BY-SA 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:07.150314+00:00",
+                  "alt": "Dwarkadhish Temple",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "char-dham",
+                    "label": "Char Dham of India",
+                    "basis": "pilgrimage_collection"
+                  }
+                ],
+                "detail_path": "travel/temples/in-dwarka-dwarkadhish-temple.json"
+              }
+            },
+            {
+              "temple_id": "in-rameswaram-ramanathaswamy-temple",
+              "card": {
+                "title": "Ramanathaswamy Temple",
+                "subtitle": "Rameswaram, Tamil Nadu",
+                "deity_label": "Shiva",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Ramanathaswamy_temple7.JPG/250px-Ramanathaswamy_temple7.JPG",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Ramanathaswamy_temple7.JPG",
+                  "author": "Ssriram mt",
+                  "license": "CC BY-SA 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:16.390338+00:00",
+                  "alt": "Ramanathaswamy Temple",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "jyotirlinga",
+                    "label": "12 Jyotirlingas",
+                    "basis": "pilgrimage_collection"
+                  },
+                  {
+                    "id": "char-dham",
+                    "label": "Char Dham of India",
+                    "basis": "pilgrimage_collection"
+                  }
+                ],
+                "detail_path": "travel/temples/in-rameswaram-ramanathaswamy-temple.json"
+              }
+            }
+          ],
+          "basis": "shared_collection_then_deity",
+          "empty_message": "More recommendations will appear as the catalogue grows."
+        },
+        "actions": {
+          "directions": {
+            "label": "Get Directions",
+            "url": "https://www.google.com/maps/dir/?api=1&destination=Jagannath+Temple%2C+Puri%2C+Puri%2C+Odisha%2C+India"
+          },
+          "maps": {
+            "label": "Open in Maps",
+            "url": "https://www.google.com/maps/search/?api=1&query=Jagannath+Temple%2C+Puri%2C+Puri%2C+Odisha%2C+India"
+          },
+          "save": {
+            "label": "Save",
+            "saved_label": "Saved",
+            "action": "toggle_local_favorite",
+            "storage_key": "in-puri-jagannath-temple-puri"
+          },
+          "share": {
+            "label": "Share",
+            "action": "native_share",
+            "text": "Jagannath Temple, Puri — Puri, Odisha",
+            "url": "https://www.google.com/maps/search/?api=1&query=Jagannath+Temple%2C+Puri%2C+Puri%2C+Odisha%2C+India"
+          },
+          "read_more": {
+            "label": "Read More",
+            "action": "expand_overview"
+          }
+        },
+        "journey": {
+          "config_path": "travel/discovery.json#/journey"
+        }
       }
+    },
+    "card": {
+      "title": "Jagannath Temple, Puri",
+      "subtitle": "Puri, Odisha",
+      "deity_label": "Jagannath, Krishna, Balarama, Subhadra",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Shri_Jagannath_temple.jpg/250px-Shri_Jagannath_temple.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Shri_Jagannath_temple.jpg",
+        "author": "Prachites",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:19.957093+00:00",
+        "alt": "Jagannath Temple, Puri",
+        "role": "article_lead_photo"
+      },
+      "fallback_asset": "travel/assets/temple-placeholder.svg",
+      "badges": [
+        {
+          "id": "char-dham",
+          "label": "Char Dham of India",
+          "basis": "pilgrimage_collection"
+        }
+      ],
+      "detail_path": "travel/temples/in-puri-jagannath-temple-puri.json"
     }
   }
 }

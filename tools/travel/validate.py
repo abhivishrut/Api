@@ -61,7 +61,7 @@ def validate():
         reference_state = references.get(row[1], {}).get('infobox', {}).get('State')
         if row[2] == 'IN' and reference_state:
             assert row[3].lower() in reference_state.lower().replace('&', 'and'), f'Reference state mismatch: {row[0]} / {reference_state}'
-    assert data['schema_version'] == '2.0.0'
+    assert data['schema_version'] == '2.1.0'
     all_temples = [t for state in data['states'] for t in state['temples']] + data['international_temples']
     ids = [t['id'] for t in all_temples]
     assert len(ids) == len(set(ids)), 'Duplicate temple IDs'
@@ -165,6 +165,8 @@ def validate():
     assert len(visited) == math.ceil(len(ids)/24)
     for summary in pages:
         assert (ROOT/summary['detail_path']).is_file()
+    from validate_ui import validate_ui
+    validate_ui(data, all_temples, index)
     migration=read(ROOT/'tools/travel/migration.json')
     original=gzip.decompress((ROOT/'tools/travel/legacy.travel.json.gz').read_bytes())
     assert hashlib.sha256(original).hexdigest() == migration['original_sha256']

@@ -1,5 +1,5 @@
 {
-  "schema_version": "2.0.0",
+  "schema_version": "2.1.0",
   "temple": {
     "id": "in-vrindavan-radha-raman-temple",
     "slug": "radha-raman-temple",
@@ -189,7 +189,469 @@
           "postal_code",
           "google_place_id"
         ]
+      },
+      "ui": {
+        "name_hi": null,
+        "header_title": "Radha Raman Temple",
+        "section_order": [
+          "overview",
+          "significance",
+          "history",
+          "architecture",
+          "darshan",
+          "rituals",
+          "festivals",
+          "gallery",
+          "how_to_reach",
+          "location",
+          "before_visit",
+          "guidelines",
+          "nearby",
+          "related",
+          "journey"
+        ],
+        "overview": {
+          "title": "About Temple",
+          "summary": "A Gaudiya Vaishnava shrine associated with Gopala Bhatta Goswami and the Radha Raman deity.",
+          "paragraphs": [
+            "Radha Raman Temple is located in Vrindavan, Uttar Pradesh, India. A Gaudiya Vaishnava shrine associated with Gopala Bhatta Goswami and the Radha Raman deity."
+          ],
+          "status": "written_summary_needs_full_fact_check",
+          "facts": [
+            {
+              "id": "deity",
+              "label": "Main deity",
+              "value": "Krishna, Radha"
+            },
+            {
+              "id": "hours",
+              "label": "Temple timings",
+              "value": null,
+              "fallback": "Confirm current hours",
+              "status": "not_verified"
+            },
+            {
+              "id": "location",
+              "label": "Location",
+              "value": "Vrindavan, Uttar Pradesh"
+            },
+            {
+              "id": "season",
+              "label": "Best season",
+              "value": null,
+              "fallback": "Check local conditions"
+            }
+          ]
+        },
+        "significance": {
+          "title": "Spiritual Significance",
+          "heading": "Krishna, Radha",
+          "body": {
+            "text": "A Gaudiya Vaishnava shrine associated with Gopala Bhatta Goswami and the Radha Raman deity.",
+            "source_ids": [],
+            "status": "editorial_needs_review"
+          }
+        },
+        "history": {
+          "title": "History",
+          "subtitle": "A heritage shaped by faith and renewal.",
+          "items": [],
+          "empty_message": "Historical details are being researched."
+        },
+        "architecture": {
+          "title": "Architecture",
+          "body": {
+            "text": null,
+            "source_ids": [],
+            "status": "not_verified"
+          },
+          "features": [],
+          "image": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Radha_Raman_Temple_2.jpg/250px-Radha_Raman_Temple_2.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Radha_Raman_Temple_2.jpg",
+            "author": "Kridha20",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:21.709741+00:00",
+            "alt": "Radha Raman Temple",
+            "role": "article_lead_photo"
+          }
+        },
+        "darshan": {
+          "title": "Darshan Timings",
+          "timezone": "Asia/Kolkata",
+          "hours": [],
+          "status": "not_verified",
+          "source_id": null,
+          "schedule": [],
+          "notice": "Confirm current hours and bookings before visiting. Festival arrangements may differ.",
+          "information_url": null,
+          "empty_message": "Current timings have not been verified."
+        },
+        "rituals": {
+          "title": "Aarti & Pooja",
+          "items": [],
+          "empty_message": "Check the temple source for current rituals and bookings."
+        },
+        "festivals": {
+          "title": "Major Festivals",
+          "summary": {
+            "text": null,
+            "source_id": null,
+            "dates": [],
+            "status": "not_verified"
+          },
+          "items": [],
+          "notice": "Dates follow the Hindu calendar and vary by year and tradition.",
+          "empty_message": "Festival details are being researched."
+        },
+        "gallery": {
+          "title": "Temple Gallery",
+          "items": [
+            {
+              "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Radha_Raman_Temple_2.jpg/250px-Radha_Raman_Temple_2.jpg",
+              "source_page": "https://commons.wikimedia.org/wiki/File:Radha_Raman_Temple_2.jpg",
+              "author": "Kridha20",
+              "license": "CC BY-SA 4.0",
+              "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+              "changes": "None; Wikimedia thumbnail rendition.",
+              "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+              "link_status": "reachable_at_check",
+              "link_checked_at": "2026-10-06T07:54:21.709741+00:00",
+              "alt": "Radha Raman Temple",
+              "role": "article_lead_photo"
+            }
+          ],
+          "view_all_label": "View All Photos",
+          "empty_message": "Temple photos are not yet available."
+        },
+        "how_to_reach": {
+          "title": "How to Reach",
+          "items": [],
+          "notice": "Distances and routes depend on the arrival point.",
+          "empty_message": "Use directions and confirm local access before travel."
+        },
+        "location": {
+          "latitude": 27.585371,
+          "longitude": 77.698767,
+          "coordinate_status": "reference_point",
+          "coordinate_source_id": "reference",
+          "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+          "address": "Radha Raman Temple, Vrindavan, Uttar Pradesh, India",
+          "address_precision": "locality",
+          "country": "India",
+          "country_code": "IN",
+          "state": "Uttar Pradesh",
+          "city": "Vrindavan",
+          "district": "Mathura",
+          "postal_code": null,
+          "google_place_id": null,
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Radha+Raman+Temple%2C+Vrindavan%2C+Uttar+Pradesh%2C+India",
+          "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Radha+Raman+Temple%2C+Vrindavan%2C+Uttar+Pradesh%2C+India",
+          "title": "Location",
+          "map_preview_url": null,
+          "map_preview_status": "use_client_map_or_placeholder"
+        },
+        "before_visit": {
+          "title": "Before You Visit",
+          "items": [
+            {
+              "id": "dress",
+              "title": "Dress respectfully",
+              "icon": "shirt",
+              "body": {
+                "text": "Choose modest attire and confirm temple-specific dress guidance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "photography",
+              "title": "Phones & photography",
+              "icon": "camera-off",
+              "body": {
+                "text": "Confirm device and photography restrictions at the entrance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "footwear",
+              "title": "Footwear",
+              "icon": "footprints",
+              "body": {
+                "text": "Follow posted footwear and storage instructions.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "entry",
+              "title": "Entry & special darshan",
+              "icon": "ticket",
+              "body": {
+                "text": "Consult the temple source for eligibility, booking and charges.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "crowds",
+              "title": "Crowds & queues",
+              "icon": "users",
+              "body": {
+                "text": "Allow extra time on festival days and follow staff guidance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "season",
+              "title": "Choosing your visit",
+              "icon": "sun",
+              "body": {
+                "text": "Check local weather and seasonal access before travelling.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            }
+          ]
+        },
+        "guidelines": {
+          "title": "Temple Guidelines",
+          "items": [
+            "Follow posted footwear and dress requirements.",
+            "Ask before photographing worship, people or sanctums.",
+            "Follow the temple's current queue and offering arrangements.",
+            "Keep valuables secure and follow staff directions."
+          ],
+          "status": "general_guidance"
+        },
+        "nearby": {
+          "title": "Nearby Sacred Places",
+          "items": [
+            {
+              "temple_id": "in-vrindavan-banke-bihari-temple",
+              "card": {
+                "title": "Banke Bihari Temple",
+                "subtitle": "Vrindavan, Uttar Pradesh",
+                "deity_label": "Krishna, Radha",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Banke_Bihari_Vrindavan.jpg/250px-Banke_Bihari_Vrindavan.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Banke_Bihari_Vrindavan.jpg",
+                  "author": "Kridha20",
+                  "license": "CC BY-SA 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:23.519570+00:00",
+                  "alt": "Banke Bihari Temple",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [],
+                "detail_path": "travel/temples/in-vrindavan-banke-bihari-temple.json"
+              },
+              "distance_km": 1.0,
+              "distance_kind": "approximate_straight_line"
+            },
+            {
+              "temple_id": "in-vrindavan-prem-mandir",
+              "card": {
+                "title": "Prem Mandir",
+                "subtitle": "Vrindavan, Uttar Pradesh",
+                "deity_label": "Krishna, Radha, Rama, Sita",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/PremMandirSideViewFromCanteen.jpg/250px-PremMandirSideViewFromCanteen.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:PremMandirSideViewFromCanteen.jpg",
+                  "author": "KuwarOnline",
+                  "license": "CC BY-SA 3.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:17.495726+00:00",
+                  "alt": "Prem Mandir",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [],
+                "detail_path": "travel/temples/in-vrindavan-prem-mandir.json"
+              },
+              "distance_km": 3.0,
+              "distance_kind": "approximate_straight_line"
+            },
+            {
+              "temple_id": "in-vrindavan-iskcon-krishna-balaram-mandir",
+              "card": {
+                "title": "ISKCON Krishna Balaram Mandir",
+                "subtitle": "Vrindavan, Uttar Pradesh",
+                "deity_label": "Krishna, Balarama, Radha",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Vrindavan%2C_India_%2821178969102%29.jpg/250px-Vrindavan%2C_India_%2821178969102%29.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Vrindavan,_India_(21178969102).jpg",
+                  "author": "Aleksandr Zykov from Russia",
+                  "license": "CC BY-SA 2.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:11.819827+00:00",
+                  "alt": "ISKCON Krishna Balaram Mandir",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [],
+                "detail_path": "travel/temples/in-vrindavan-iskcon-krishna-balaram-mandir.json"
+              },
+              "distance_km": 2.5,
+              "distance_kind": "approximate_straight_line"
+            }
+          ],
+          "basis": "same_locality",
+          "notice": "Same-locality suggestions; distances are straight-line estimates, not travel routes.",
+          "empty_message": "No other catalogued temples in this locality."
+        },
+        "related": {
+          "title": "You May Also Like",
+          "items": [
+            {
+              "temple_id": "ae-abu-mureikha-baps-hindu-mandir-abu-dhabi",
+              "card": {
+                "title": "BAPS Hindu Mandir, Abu Dhabi",
+                "subtitle": "Abu Mureikha, Abu Dhabi",
+                "deity_label": "Swaminarayan, Shiva, Rama, Krishna, Ganesha, Hanuman, Devi / Mata",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/BAPS_Abu_Dhabi_Mandir.jpg/250px-BAPS_Abu_Dhabi_Mandir.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:BAPS_Abu_Dhabi_Mandir.jpg",
+                  "author": "Unknown authorUnknown author",
+                  "license": "CC BY-SA 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:15.816847+00:00",
+                  "alt": "BAPS Hindu Mandir, Abu Dhabi",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "devi",
+                    "label": "Devi Temple",
+                    "basis": "deity_category"
+                  }
+                ],
+                "detail_path": "travel/temples/ae-abu-mureikha-baps-hindu-mandir-abu-dhabi.json"
+              }
+            },
+            {
+              "temple_id": "gb-aldenham-bhaktivedanta-manor",
+              "card": {
+                "title": "Bhaktivedanta Manor",
+                "subtitle": "Aldenham, England",
+                "deity_label": "Krishna, Radha",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Bhaktivedanta_Manor_crop.jpg/250px-Bhaktivedanta_Manor_crop.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Bhaktivedanta_Manor_crop.jpg",
+                  "author": "user:Dn9ahx",
+                  "license": "CC BY-SA 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:12.878559+00:00",
+                  "alt": "Bhaktivedanta Manor",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [],
+                "detail_path": "travel/temples/gb-aldenham-bhaktivedanta-manor.json"
+              }
+            },
+            {
+              "temple_id": "in-ambalappuzha-ambalappuzha-sri-krishna-temple",
+              "card": {
+                "title": "Ambalappuzha Sri Krishna Temple",
+                "subtitle": "Ambalappuzha, Kerala",
+                "deity_label": "Krishna",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Ambalappuzha_Temple.JPG/250px-Ambalappuzha_Temple.JPG",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Ambalappuzha_Temple.JPG",
+                  "author": "Pradeep717",
+                  "license": "CC BY-SA 3.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:24.614347+00:00",
+                  "alt": "Ambalappuzha Sri Krishna Temple",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [],
+                "detail_path": "travel/temples/in-ambalappuzha-ambalappuzha-sri-krishna-temple.json"
+              }
+            }
+          ],
+          "basis": "shared_collection_then_deity",
+          "empty_message": "More recommendations will appear as the catalogue grows."
+        },
+        "actions": {
+          "directions": {
+            "label": "Get Directions",
+            "url": "https://www.google.com/maps/dir/?api=1&destination=Radha+Raman+Temple%2C+Vrindavan%2C+Uttar+Pradesh%2C+India"
+          },
+          "maps": {
+            "label": "Open in Maps",
+            "url": "https://www.google.com/maps/search/?api=1&query=Radha+Raman+Temple%2C+Vrindavan%2C+Uttar+Pradesh%2C+India"
+          },
+          "save": {
+            "label": "Save",
+            "saved_label": "Saved",
+            "action": "toggle_local_favorite",
+            "storage_key": "in-vrindavan-radha-raman-temple"
+          },
+          "share": {
+            "label": "Share",
+            "action": "native_share",
+            "text": "Radha Raman Temple — Vrindavan, Uttar Pradesh",
+            "url": "https://www.google.com/maps/search/?api=1&query=Radha+Raman+Temple%2C+Vrindavan%2C+Uttar+Pradesh%2C+India"
+          },
+          "read_more": {
+            "label": "Read More",
+            "action": "expand_overview"
+          }
+        },
+        "journey": {
+          "config_path": "travel/discovery.json#/journey"
+        }
       }
+    },
+    "card": {
+      "title": "Radha Raman Temple",
+      "subtitle": "Vrindavan, Uttar Pradesh",
+      "deity_label": "Krishna, Radha",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Radha_Raman_Temple_2.jpg/250px-Radha_Raman_Temple_2.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Radha_Raman_Temple_2.jpg",
+        "author": "Kridha20",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:21.709741+00:00",
+        "alt": "Radha Raman Temple",
+        "role": "article_lead_photo"
+      },
+      "fallback_asset": "travel/assets/temple-placeholder.svg",
+      "badges": [],
+      "detail_path": "travel/temples/in-vrindavan-radha-raman-temple.json"
     }
   }
 }

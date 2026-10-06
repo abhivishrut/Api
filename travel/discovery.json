@@ -1,0 +1,1667 @@
+{
+  "schema_version": "2.1.0",
+  "title": "Famous Temples",
+  "brand": "HARINAAM",
+  "eyebrow": "YOUR HERITAGE COMPANION",
+  "hero": {
+    "title": "Explore Sacred Temples",
+    "description": "Discover sacred temples across India and the world, their heritage, traditions and visitor guidance.",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Kashi_Vishwanath.jpg/250px-Kashi_Vishwanath.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Kashi_Vishwanath.jpg",
+      "author": "Architkumar1234",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+      "changes": "None; Wikimedia thumbnail rendition.",
+      "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+      "link_status": "reachable_at_check",
+      "link_checked_at": "2026-10-06T07:54:24.864449+00:00",
+      "alt": "Shri Kashi Vishwanath Temple",
+      "role": "article_lead_photo"
+    },
+    "fallback_asset": "travel/assets/temple-placeholder.svg"
+  },
+  "search": {
+    "placeholder": "Search temples, cities or deities",
+    "fields": [
+      "name",
+      "search_keywords",
+      "city",
+      "state_name"
+    ],
+    "matching": "case-insensitive substring; Unicode NFKC normalization"
+  },
+  "categories": [
+    {
+      "id": "all",
+      "label": "All",
+      "group": "all",
+      "temple_ids": [
+        "in-badrinath-badrinath-temple",
+        "in-kedarnath-kedarnath-temple",
+        "in-gangotri-gangotri-temple",
+        "in-yamunotri-yamunotri-temple",
+        "in-tungnath-tungnath-temple",
+        "in-rudranath-rudranath-temple",
+        "in-madhyamaheshwar-madhyamaheshwar-temple",
+        "in-urgam-valley-kalpeshwar-temple",
+        "in-jageshwar-jageshwar-temples",
+        "in-near-rishikesh-neelkanth-mahadev-temple",
+        "in-haridwar-mansa-devi-temple-haridwar",
+        "in-haridwar-chandi-devi-temple-haridwar",
+        "in-kalyasaur-dhari-devi-temple",
+        "in-gopeshwar-gopinath-temple-gopeshwar",
+        "in-katra-vaishno-devi-temple",
+        "in-amarnath-amarnath-cave-temple",
+        "in-srinagar-shankaracharya-temple",
+        "in-jammu-raghunath-temple-jammu",
+        "in-tulmulla-kheer-bhawani-temple",
+        "in-ayodhya-shri-ram-janmabhoomi-temple",
+        "in-ayodhya-hanuman-garhi-ayodhya",
+        "in-ayodhya-kanak-bhawan",
+        "in-varanasi-shri-kashi-vishwanath-temple",
+        "in-varanasi-sankat-mochan-hanuman-temple",
+        "in-varanasi-durga-kund-temple",
+        "in-varanasi-annapurna-devi-temple",
+        "in-varanasi-kaal-bhairav-temple-varanasi",
+        "in-mathura-krishna-janmasthan-temple-complex",
+        "in-vrindavan-banke-bihari-temple",
+        "in-vrindavan-prem-mandir",
+        "in-vrindavan-radha-raman-temple",
+        "in-vrindavan-iskcon-krishna-balaram-mandir",
+        "in-vindhyachal-vindhyavasini-temple",
+        "in-gorakhpur-gorakhnath-temple",
+        "in-pushkar-brahma-temple-pushkar",
+        "in-deshnoke-karni-mata-temple",
+        "in-khatu-khatu-shyam-temple",
+        "in-salasar-salasar-balaji-temple",
+        "in-mehandipur-mehandipur-balaji-temple",
+        "in-nathdwara-shrinathji-temple",
+        "in-jaipur-govind-dev-ji-temple",
+        "in-kailashpuri-eklingji-temple",
+        "in-jwalamukhi-jwala-ji-temple",
+        "in-chintpurni-chintpurni-temple",
+        "in-naina-devi-naina-devi-temple-bilaspur",
+        "in-chamunda-chamunda-devi-temple",
+        "in-kangra-bajreshwari-devi-temple",
+        "in-baijnath-baijnath-temple",
+        "in-shimla-jakhu-temple",
+        "in-sarahan-bhimakali-temple",
+        "in-panchkula-mata-mansa-devi-temple-panchkula",
+        "in-thanesar-sthaneshwar-mahadev-temple",
+        "in-amritsar-durgiana-temple",
+        "in-new-delhi-swaminarayan-akshardham-delhi",
+        "in-new-delhi-chhatarpur-temple",
+        "in-new-delhi-kalkaji-temple",
+        "in-prabhas-patan-somnath-temple",
+        "in-near-dwarka-nageshwar-jyotirlinga",
+        "in-dwarka-dwarkadhish-temple",
+        "in-ambaji-ambaji-temple",
+        "in-pavagadh-kalika-mata-temple-pavagadh",
+        "in-dakor-ranchhodraiji-temple-dakor",
+        "in-modhera-modhera-sun-temple",
+        "in-salangpur-kashtabhanjan-hanuman-temple",
+        "in-mumbai-siddhivinayak-temple-mumbai",
+        "in-pune-dagadusheth-halwai-ganapati-temple",
+        "in-trimbak-trimbakeshwar-temple",
+        "in-bhimashankar-bhimashankar-temple",
+        "in-verul-grishneshwar-temple",
+        "in-kolhapur-mahalakshmi-temple-kolhapur",
+        "in-tuljapur-tulja-bhavani-temple",
+        "in-vani-saptashrungi-temple",
+        "in-pandharpur-vitthal-rukmini-temple",
+        "in-shirdi-shirdi-sai-baba-temple",
+        "in-morgaon-mayureshwar-temple-morgaon",
+        "in-siddhatek-siddhivinayak-temple-siddhatek",
+        "in-pali-ballaleshwar-temple-pali",
+        "in-mahad-khalapur-varadvinayak-temple",
+        "in-theur-chintamani-temple-theur",
+        "in-lenyadri-girijatmaj-temple-lenyadri",
+        "in-ozar-vighneshwar-temple-ozar",
+        "in-ranjangaon-mahaganapati-temple-ranjangaon",
+        "in-ujjain-mahakaleshwar-temple",
+        "in-omkareshwar-omkareshwar-temple",
+        "in-orchha-ram-raja-temple",
+        "in-khajuraho-kandariya-mahadeva-temple",
+        "in-maihar-sharada-devi-temple-maihar",
+        "in-deoghar-baidyanath-temple-deoghar",
+        "in-rajrappa-chhinnamasta-temple-rajrappa",
+        "in-gaya-vishnupad-temple",
+        "in-patna-mahavir-mandir-patna",
+        "in-paunra-mundeshwari-temple",
+        "in-puri-jagannath-temple-puri",
+        "in-bhubaneswar-lingaraj-temple",
+        "in-konark-konark-sun-temple",
+        "in-bhubaneswar-mukteshwar-temple-bhubaneswar",
+        "in-jajpur-biraja-temple",
+        "in-dakshineswar-dakshineswar-kali-temple",
+        "in-kolkata-kalighat-kali-temple",
+        "in-tarapith-tarapith-temple",
+        "in-mayapur-iskcon-mayapur",
+        "in-guwahati-kamakhya-temple",
+        "in-guwahati-umananda-temple",
+        "in-udaipur-tripura-sundari-temple",
+        "in-imphal-govindajee-temple",
+        "in-lohit-valley-parshuram-kund",
+        "in-gangtok-ganesh-tok",
+        "in-nartiang-nartiang-durga-temple",
+        "in-dantewada-danteshwari-temple",
+        "in-chaura-bhoramdeo-temple",
+        "in-mangeshi-mangeshi-temple",
+        "in-kavlem-shanta-durga-temple",
+        "in-tirumala-tirumala-venkateswara-temple",
+        "in-tiruchanur-sri-padmavathi-ammavari-temple",
+        "in-srisailam-mallikarjuna-temple-srisailam",
+        "in-srikalahasti-srikalahasti-temple",
+        "in-vijayawada-kanaka-durga-temple",
+        "in-visakhapatnam-simhachalam-temple",
+        "in-kanipakam-kanipakam-vinayaka-temple",
+        "in-bhadrachalam-sita-ramachandraswamy-temple-bhadrachalam",
+        "in-yadagirigutta-yadadri-lakshmi-narasimha-temple",
+        "in-hanamkonda-thousand-pillar-temple",
+        "in-palampet-ramappa-temple",
+        "in-basar-gnana-saraswati-temple",
+        "in-alampur-jogulamba-temple",
+        "in-madurai-meenakshi-amman-temple",
+        "in-rameswaram-ramanathaswamy-temple",
+        "in-tiruchirappalli-sri-ranganathaswamy-temple-srirangam",
+        "in-thanjavur-brihadisvara-temple-thanjavur",
+        "in-gangaikonda-cholapuram-gangaikonda-cholapuram-temple",
+        "in-darasuram-airavatesvara-temple",
+        "in-chidambaram-thillai-nataraja-temple",
+        "in-tiruvannamalai-arunachaleswarar-temple",
+        "in-kanchipuram-ekambareswarar-temple",
+        "in-tiruchirappalli-jambukeswarar-temple",
+        "in-kanchipuram-kamakshi-amman-temple",
+        "in-chennai-kapaleeshwarar-temple",
+        "in-chennai-parthasarathy-temple",
+        "in-srivilliputhur-andal-temple-srivilliputhur",
+        "in-palani-dhandayuthapani-swamy-temple-palani",
+        "in-tiruchendur-subramaniya-swamy-temple-tiruchendur",
+        "in-thiruparankundram-subramaniya-swamy-temple-thiruparankundram",
+        "in-swamimalai-swamimalai-swaminathaswamy-temple",
+        "in-tiruttani-subramaniya-swamy-temple-tiruttani",
+        "in-near-madurai-pazhamudircholai-temple",
+        "in-kanyakumari-kumari-amman-temple",
+        "in-puducherry-manakula-vinayagar-temple",
+        "in-thiruvananthapuram-sree-padmanabhaswamy-temple",
+        "in-guruvayur-guruvayur-temple",
+        "in-sabarimala-sabarimala-temple",
+        "in-thiruvananthapuram-attukal-bhagavathy-temple",
+        "in-chottanikkara-chottanikkara-temple",
+        "in-thrissur-vadakkunnathan-temple",
+        "in-ambalappuzha-ambalappuzha-sri-krishna-temple",
+        "in-haripad-mannarasala-temple",
+        "in-udupi-udupi-sri-krishna-matha",
+        "in-hampi-virupaksha-temple-hampi",
+        "in-hampi-vijaya-vittala-temple",
+        "in-kollur-kollur-mookambika-temple",
+        "in-dharmasthala-dharmasthala-manjunatha-temple",
+        "in-subramanya-kukke-subramanya-temple",
+        "in-murudeshwar-murudeshwar-temple",
+        "in-gokarna-mahabaleshwar-temple-gokarna",
+        "in-mysuru-chamundeshwari-temple",
+        "in-horanadu-horanadu-annapoorneshwari-temple",
+        "in-sringeri-sringeri-sharadamba-temple",
+        "in-belur-chennakeshava-temple-belur",
+        "in-halebidu-hoysaleswara-temple",
+        "in-bengaluru-dodda-ganapathi-temple",
+        "np-kathmandu-pashupatinath-temple",
+        "np-janakpur-janaki-mandir",
+        "np-muktinath-muktinath-temple",
+        "np-changunarayan-changu-narayan-temple",
+        "np-manakamana-manakamana-temple",
+        "np-dakshinkali-dakshinkali-temple",
+        "lk-jaffna-nallur-kandaswamy-temple",
+        "lk-trincomalee-koneswaram-temple",
+        "lk-chilaw-munneswaram-temple",
+        "lk-seetha-eliya-seetha-amman-temple",
+        "my-batu-caves-batu-caves-sri-subramaniar-temple",
+        "my-kuala-lumpur-sri-mahamariamman-temple-kuala-lumpur",
+        "my-johor-bahru-arulmigu-sri-rajakaliamman-glass-temple",
+        "sg-singapore-sri-mariamman-temple-singapore",
+        "sg-singapore-sri-veeramakaliamman-temple",
+        "sg-singapore-sri-thendayuthapani-temple",
+        "sg-singapore-sri-srinivasa-perumal-temple",
+        "id-besakih-besakih-temple",
+        "id-beraban-tanah-lot-temple",
+        "id-pecatu-uluwatu-temple",
+        "id-candikuning-ulun-danu-beratan-temple",
+        "id-prambanan-prambanan-temple-compounds",
+        "th-bangkok-erawan-shrine",
+        "th-bangkok-sri-maha-mariamman-temple-bangkok",
+        "bd-dhaka-dhakeshwari-temple",
+        "pk-hingol-hinglaj-mata-temple",
+        "pk-katas-katas-raj-temples",
+        "mu-grand-bassin-ganga-talao-temples",
+        "ae-abu-mureikha-baps-hindu-mandir-abu-dhabi",
+        "ae-jebel-ali-hindu-temple-dubai",
+        "gb-london-baps-shri-swaminarayan-mandir-london",
+        "gb-aldenham-bhaktivedanta-manor",
+        "gb-tividale-shri-venkateswara-balaji-temple-tividale",
+        "us-robbinsville-baps-swaminarayan-akshardham-robbinsville",
+        "us-penn-hills-sri-venkateswara-temple-pittsburgh",
+        "us-flushing-sri-maha-vallabha-ganapati-devasthanam",
+        "us-calabasas-malibu-hindu-temple",
+        "us-lanham-sri-siva-vishnu-temple-maryland",
+        "ca-toronto-baps-shri-swaminarayan-mandir-toronto",
+        "au-carrum-downs-shri-shiva-vishnu-temple-melbourne",
+        "au-helensburgh-sri-venkateswara-temple-helensburgh",
+        "fj-nadi-sri-siva-subramaniya-temple",
+        "za-chatsworth-sri-sri-radha-radhanath-temple",
+        "tt-waterloo-temple-in-the-sea",
+        "tt-carapichaima-dattatreya-temple-and-hanuman-statue"
+      ]
+    },
+    {
+      "id": "shiva",
+      "label": "Shiva",
+      "group": "deity",
+      "temple_ids": [
+        "in-kedarnath-kedarnath-temple",
+        "in-tungnath-tungnath-temple",
+        "in-rudranath-rudranath-temple",
+        "in-madhyamaheshwar-madhyamaheshwar-temple",
+        "in-urgam-valley-kalpeshwar-temple",
+        "in-jageshwar-jageshwar-temples",
+        "in-near-rishikesh-neelkanth-mahadev-temple",
+        "in-gopeshwar-gopinath-temple-gopeshwar",
+        "in-amarnath-amarnath-cave-temple",
+        "in-srinagar-shankaracharya-temple",
+        "in-varanasi-shri-kashi-vishwanath-temple",
+        "in-varanasi-kaal-bhairav-temple-varanasi",
+        "in-gorakhpur-gorakhnath-temple",
+        "in-kailashpuri-eklingji-temple",
+        "in-baijnath-baijnath-temple",
+        "in-thanesar-sthaneshwar-mahadev-temple",
+        "in-prabhas-patan-somnath-temple",
+        "in-near-dwarka-nageshwar-jyotirlinga",
+        "in-trimbak-trimbakeshwar-temple",
+        "in-bhimashankar-bhimashankar-temple",
+        "in-verul-grishneshwar-temple",
+        "in-ujjain-mahakaleshwar-temple",
+        "in-omkareshwar-omkareshwar-temple",
+        "in-khajuraho-kandariya-mahadeva-temple",
+        "in-deoghar-baidyanath-temple-deoghar",
+        "in-paunra-mundeshwari-temple",
+        "in-bhubaneswar-lingaraj-temple",
+        "in-bhubaneswar-mukteshwar-temple-bhubaneswar",
+        "in-guwahati-umananda-temple",
+        "in-chaura-bhoramdeo-temple",
+        "in-mangeshi-mangeshi-temple",
+        "in-srisailam-mallikarjuna-temple-srisailam",
+        "in-srikalahasti-srikalahasti-temple",
+        "in-hanamkonda-thousand-pillar-temple",
+        "in-palampet-ramappa-temple",
+        "in-madurai-meenakshi-amman-temple",
+        "in-rameswaram-ramanathaswamy-temple",
+        "in-thanjavur-brihadisvara-temple-thanjavur",
+        "in-gangaikonda-cholapuram-gangaikonda-cholapuram-temple",
+        "in-darasuram-airavatesvara-temple",
+        "in-chidambaram-thillai-nataraja-temple",
+        "in-tiruvannamalai-arunachaleswarar-temple",
+        "in-kanchipuram-ekambareswarar-temple",
+        "in-tiruchirappalli-jambukeswarar-temple",
+        "in-chennai-kapaleeshwarar-temple",
+        "in-thrissur-vadakkunnathan-temple",
+        "in-hampi-virupaksha-temple-hampi",
+        "in-dharmasthala-dharmasthala-manjunatha-temple",
+        "in-murudeshwar-murudeshwar-temple",
+        "in-gokarna-mahabaleshwar-temple-gokarna",
+        "in-halebidu-hoysaleswara-temple",
+        "np-kathmandu-pashupatinath-temple",
+        "lk-trincomalee-koneswaram-temple",
+        "lk-chilaw-munneswaram-temple",
+        "id-besakih-besakih-temple",
+        "id-pecatu-uluwatu-temple",
+        "id-prambanan-prambanan-temple-compounds",
+        "pk-katas-katas-raj-temples",
+        "mu-grand-bassin-ganga-talao-temples",
+        "ae-abu-mureikha-baps-hindu-mandir-abu-dhabi",
+        "ae-jebel-ali-hindu-temple-dubai",
+        "us-calabasas-malibu-hindu-temple",
+        "us-lanham-sri-siva-vishnu-temple-maryland",
+        "au-carrum-downs-shri-shiva-vishnu-temple-melbourne",
+        "au-helensburgh-sri-venkateswara-temple-helensburgh",
+        "tt-waterloo-temple-in-the-sea"
+      ]
+    },
+    {
+      "id": "vishnu",
+      "label": "Vishnu",
+      "group": "deity",
+      "temple_ids": [
+        "in-badrinath-badrinath-temple",
+        "in-amritsar-durgiana-temple",
+        "in-pandharpur-vitthal-rukmini-temple",
+        "in-gaya-vishnupad-temple",
+        "in-bhubaneswar-lingaraj-temple",
+        "in-lohit-valley-parshuram-kund",
+        "in-tirumala-tirumala-venkateswara-temple",
+        "in-visakhapatnam-simhachalam-temple",
+        "in-yadagirigutta-yadadri-lakshmi-narasimha-temple",
+        "in-hanamkonda-thousand-pillar-temple",
+        "in-tiruchirappalli-sri-ranganathaswamy-temple-srirangam",
+        "in-chennai-parthasarathy-temple",
+        "in-srivilliputhur-andal-temple-srivilliputhur",
+        "in-thiruvananthapuram-sree-padmanabhaswamy-temple",
+        "in-guruvayur-guruvayur-temple",
+        "in-hampi-vijaya-vittala-temple",
+        "in-belur-chennakeshava-temple-belur",
+        "np-muktinath-muktinath-temple",
+        "np-changunarayan-changu-narayan-temple",
+        "sg-singapore-sri-srinivasa-perumal-temple",
+        "id-besakih-besakih-temple",
+        "id-prambanan-prambanan-temple-compounds",
+        "ae-jebel-ali-hindu-temple-dubai",
+        "gb-tividale-shri-venkateswara-balaji-temple-tividale",
+        "us-penn-hills-sri-venkateswara-temple-pittsburgh",
+        "us-calabasas-malibu-hindu-temple",
+        "us-lanham-sri-siva-vishnu-temple-maryland",
+        "au-carrum-downs-shri-shiva-vishnu-temple-melbourne",
+        "au-helensburgh-sri-venkateswara-temple-helensburgh"
+      ]
+    },
+    {
+      "id": "krishna",
+      "label": "Krishna",
+      "group": "deity",
+      "temple_ids": [
+        "in-mathura-krishna-janmasthan-temple-complex",
+        "in-vrindavan-banke-bihari-temple",
+        "in-vrindavan-prem-mandir",
+        "in-vrindavan-radha-raman-temple",
+        "in-vrindavan-iskcon-krishna-balaram-mandir",
+        "in-khatu-khatu-shyam-temple",
+        "in-nathdwara-shrinathji-temple",
+        "in-jaipur-govind-dev-ji-temple",
+        "in-dwarka-dwarkadhish-temple",
+        "in-dakor-ranchhodraiji-temple-dakor",
+        "in-pandharpur-vitthal-rukmini-temple",
+        "in-puri-jagannath-temple-puri",
+        "in-mayapur-iskcon-mayapur",
+        "in-imphal-govindajee-temple",
+        "in-chennai-parthasarathy-temple",
+        "in-guruvayur-guruvayur-temple",
+        "in-ambalappuzha-ambalappuzha-sri-krishna-temple",
+        "in-udupi-udupi-sri-krishna-matha",
+        "in-hampi-vijaya-vittala-temple",
+        "ae-abu-mureikha-baps-hindu-mandir-abu-dhabi",
+        "gb-aldenham-bhaktivedanta-manor",
+        "za-chatsworth-sri-sri-radha-radhanath-temple"
+      ]
+    },
+    {
+      "id": "hanuman",
+      "label": "Hanuman",
+      "group": "deity",
+      "temple_ids": [
+        "in-ayodhya-hanuman-garhi-ayodhya",
+        "in-varanasi-sankat-mochan-hanuman-temple",
+        "in-salasar-salasar-balaji-temple",
+        "in-mehandipur-mehandipur-balaji-temple",
+        "in-shimla-jakhu-temple",
+        "in-salangpur-kashtabhanjan-hanuman-temple",
+        "in-patna-mahavir-mandir-patna",
+        "ae-abu-mureikha-baps-hindu-mandir-abu-dhabi",
+        "tt-carapichaima-dattatreya-temple-and-hanuman-statue"
+      ]
+    },
+    {
+      "id": "devi",
+      "label": "Devi",
+      "group": "deity",
+      "temple_ids": [
+        "in-gangotri-gangotri-temple",
+        "in-yamunotri-yamunotri-temple",
+        "in-haridwar-mansa-devi-temple-haridwar",
+        "in-haridwar-chandi-devi-temple-haridwar",
+        "in-kalyasaur-dhari-devi-temple",
+        "in-katra-vaishno-devi-temple",
+        "in-tulmulla-kheer-bhawani-temple",
+        "in-ayodhya-kanak-bhawan",
+        "in-varanasi-durga-kund-temple",
+        "in-varanasi-annapurna-devi-temple",
+        "in-vindhyachal-vindhyavasini-temple",
+        "in-deshnoke-karni-mata-temple",
+        "in-jwalamukhi-jwala-ji-temple",
+        "in-chintpurni-chintpurni-temple",
+        "in-naina-devi-naina-devi-temple-bilaspur",
+        "in-chamunda-chamunda-devi-temple",
+        "in-kangra-bajreshwari-devi-temple",
+        "in-sarahan-bhimakali-temple",
+        "in-panchkula-mata-mansa-devi-temple-panchkula",
+        "in-amritsar-durgiana-temple",
+        "in-new-delhi-chhatarpur-temple",
+        "in-new-delhi-kalkaji-temple",
+        "in-ambaji-ambaji-temple",
+        "in-pavagadh-kalika-mata-temple-pavagadh",
+        "in-kolhapur-mahalakshmi-temple-kolhapur",
+        "in-tuljapur-tulja-bhavani-temple",
+        "in-vani-saptashrungi-temple",
+        "in-pandharpur-vitthal-rukmini-temple",
+        "in-maihar-sharada-devi-temple-maihar",
+        "in-rajrappa-chhinnamasta-temple-rajrappa",
+        "in-paunra-mundeshwari-temple",
+        "in-jajpur-biraja-temple",
+        "in-dakshineswar-dakshineswar-kali-temple",
+        "in-kolkata-kalighat-kali-temple",
+        "in-tarapith-tarapith-temple",
+        "in-guwahati-kamakhya-temple",
+        "in-udaipur-tripura-sundari-temple",
+        "in-nartiang-nartiang-durga-temple",
+        "in-dantewada-danteshwari-temple",
+        "in-kavlem-shanta-durga-temple",
+        "in-tiruchanur-sri-padmavathi-ammavari-temple",
+        "in-srisailam-mallikarjuna-temple-srisailam",
+        "in-vijayawada-kanaka-durga-temple",
+        "in-basar-gnana-saraswati-temple",
+        "in-alampur-jogulamba-temple",
+        "in-madurai-meenakshi-amman-temple",
+        "in-kanchipuram-kamakshi-amman-temple",
+        "in-chennai-kapaleeshwarar-temple",
+        "in-srivilliputhur-andal-temple-srivilliputhur",
+        "in-kanyakumari-kumari-amman-temple",
+        "in-thiruvananthapuram-attukal-bhagavathy-temple",
+        "in-chottanikkara-chottanikkara-temple",
+        "in-kollur-kollur-mookambika-temple",
+        "in-mysuru-chamundeshwari-temple",
+        "in-horanadu-horanadu-annapoorneshwari-temple",
+        "in-sringeri-sringeri-sharadamba-temple",
+        "np-janakpur-janaki-mandir",
+        "np-manakamana-manakamana-temple",
+        "np-dakshinkali-dakshinkali-temple",
+        "lk-chilaw-munneswaram-temple",
+        "my-kuala-lumpur-sri-mahamariamman-temple-kuala-lumpur",
+        "my-johor-bahru-arulmigu-sri-rajakaliamman-glass-temple",
+        "sg-singapore-sri-mariamman-temple-singapore",
+        "sg-singapore-sri-veeramakaliamman-temple",
+        "id-candikuning-ulun-danu-beratan-temple",
+        "th-bangkok-sri-maha-mariamman-temple-bangkok",
+        "bd-dhaka-dhakeshwari-temple",
+        "pk-hingol-hinglaj-mata-temple",
+        "mu-grand-bassin-ganga-talao-temples",
+        "ae-abu-mureikha-baps-hindu-mandir-abu-dhabi",
+        "ae-jebel-ali-hindu-temple-dubai"
+      ]
+    },
+    {
+      "id": "ganesha",
+      "label": "Ganesh",
+      "group": "deity",
+      "temple_ids": [
+        "in-mumbai-siddhivinayak-temple-mumbai",
+        "in-pune-dagadusheth-halwai-ganapati-temple",
+        "in-morgaon-mayureshwar-temple-morgaon",
+        "in-siddhatek-siddhivinayak-temple-siddhatek",
+        "in-pali-ballaleshwar-temple-pali",
+        "in-mahad-khalapur-varadvinayak-temple",
+        "in-theur-chintamani-temple-theur",
+        "in-lenyadri-girijatmaj-temple-lenyadri",
+        "in-ozar-vighneshwar-temple-ozar",
+        "in-ranjangaon-mahaganapati-temple-ranjangaon",
+        "in-gangtok-ganesh-tok",
+        "in-kanipakam-kanipakam-vinayaka-temple",
+        "in-puducherry-manakula-vinayagar-temple",
+        "in-bengaluru-dodda-ganapathi-temple",
+        "ae-abu-mureikha-baps-hindu-mandir-abu-dhabi",
+        "ae-jebel-ali-hindu-temple-dubai",
+        "us-flushing-sri-maha-vallabha-ganapati-devasthanam"
+      ]
+    },
+    {
+      "id": "rama",
+      "label": "Ram",
+      "group": "deity",
+      "temple_ids": [
+        "in-jammu-raghunath-temple-jammu",
+        "in-ayodhya-shri-ram-janmabhoomi-temple",
+        "in-ayodhya-kanak-bhawan",
+        "in-vrindavan-prem-mandir",
+        "in-orchha-ram-raja-temple",
+        "in-bhadrachalam-sita-ramachandraswamy-temple-bhadrachalam",
+        "np-janakpur-janaki-mandir",
+        "lk-seetha-eliya-seetha-amman-temple",
+        "ae-abu-mureikha-baps-hindu-mandir-abu-dhabi"
+      ]
+    },
+    {
+      "id": "jyotirlinga",
+      "label": "Jyotirlinga",
+      "group": "circuit",
+      "temple_ids": [
+        "in-kedarnath-kedarnath-temple",
+        "in-varanasi-shri-kashi-vishwanath-temple",
+        "in-prabhas-patan-somnath-temple",
+        "in-near-dwarka-nageshwar-jyotirlinga",
+        "in-trimbak-trimbakeshwar-temple",
+        "in-bhimashankar-bhimashankar-temple",
+        "in-verul-grishneshwar-temple",
+        "in-ujjain-mahakaleshwar-temple",
+        "in-omkareshwar-omkareshwar-temple",
+        "in-deoghar-baidyanath-temple-deoghar",
+        "in-srisailam-mallikarjuna-temple-srisailam",
+        "in-rameswaram-ramanathaswamy-temple"
+      ]
+    },
+    {
+      "id": "shakti-peeth",
+      "label": "Shakti Peeth",
+      "group": "circuit",
+      "temple_ids": [
+        "in-guwahati-kamakhya-temple"
+      ],
+      "coverage": "Selected sourced sites; not a complete list. Traditions differ.",
+      "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati/kamakhya-temple"
+    },
+    {
+      "id": "char-dham",
+      "label": "Char Dham",
+      "group": "circuit",
+      "temple_ids": [
+        "in-badrinath-badrinath-temple",
+        "in-dwarka-dwarkadhish-temple",
+        "in-puri-jagannath-temple-puri",
+        "in-rameswaram-ramanathaswamy-temple"
+      ]
+    }
+  ],
+  "additional_deities": [
+    {
+      "id": "shiva",
+      "name": "Shiva",
+      "name_hi": "शिव",
+      "aliases": [
+        "Shiv",
+        "Mahadev",
+        "Shankar",
+        "Bholenath"
+      ],
+      "temple_count": 66
+    },
+    {
+      "id": "rama",
+      "name": "Rama",
+      "name_hi": "राम",
+      "aliases": [
+        "Ram",
+        "Raghunath",
+        "Ram Lalla"
+      ],
+      "temple_count": 9
+    },
+    {
+      "id": "vishnu",
+      "name": "Vishnu",
+      "name_hi": "विष्णु",
+      "aliases": [
+        "Narayan",
+        "Narayana",
+        "Venkateswara",
+        "Balaji",
+        "Perumal"
+      ],
+      "temple_count": 29
+    },
+    {
+      "id": "krishna",
+      "name": "Krishna",
+      "name_hi": "कृष्ण",
+      "aliases": [
+        "Kanha",
+        "Govind",
+        "Gopal",
+        "Shyam"
+      ],
+      "temple_count": 22
+    },
+    {
+      "id": "hanuman",
+      "name": "Hanuman",
+      "name_hi": "हनुमान",
+      "aliases": [
+        "Bajrangbali",
+        "Anjaneya",
+        "Maruti"
+      ],
+      "temple_count": 9
+    },
+    {
+      "id": "ganesha",
+      "name": "Ganesha",
+      "name_hi": "गणेश",
+      "aliases": [
+        "Ganesh",
+        "Ganapati",
+        "Ganpati",
+        "Vinayaka"
+      ],
+      "temple_count": 17
+    },
+    {
+      "id": "devi",
+      "name": "Devi / Mata",
+      "name_hi": "माता",
+      "aliases": [
+        "Maa",
+        "Shakti",
+        "Durga",
+        "Kali",
+        "Amman",
+        "Bhagavathy",
+        "Parvati",
+        "Lakshmi"
+      ],
+      "temple_count": 71
+    },
+    {
+      "id": "murugan",
+      "name": "Murugan",
+      "name_hi": "कार्तिकेय",
+      "aliases": [
+        "Kartikeya",
+        "Skanda",
+        "Subramanya",
+        "Subramaniar"
+      ],
+      "temple_count": 11
+    },
+    {
+      "id": "brahma",
+      "name": "Brahma",
+      "name_hi": "ब्रह्मा",
+      "aliases": [
+        "Phra Phrom"
+      ],
+      "temple_count": 4
+    },
+    {
+      "id": "surya",
+      "name": "Surya",
+      "name_hi": "सूर्य",
+      "aliases": [
+        "Sun",
+        "Aditya"
+      ],
+      "temple_count": 3
+    },
+    {
+      "id": "ayyappa",
+      "name": "Ayyappa",
+      "name_hi": "अय्यप्पा",
+      "aliases": [
+        "Sastha"
+      ],
+      "temple_count": 1
+    },
+    {
+      "id": "swaminarayan",
+      "name": "Swaminarayan",
+      "name_hi": "स्वामिनारायण",
+      "aliases": [
+        "Sahajanand"
+      ],
+      "temple_count": 5
+    },
+    {
+      "id": "sita",
+      "name": "Sita",
+      "name_hi": "सीता",
+      "aliases": [
+        "Janaki"
+      ],
+      "temple_count": 5
+    },
+    {
+      "id": "radha",
+      "name": "Radha",
+      "name_hi": "राधा",
+      "aliases": [
+        "Radharani"
+      ],
+      "temple_count": 9
+    },
+    {
+      "id": "ganga",
+      "name": "Ganga",
+      "name_hi": "गंगा",
+      "aliases": [],
+      "temple_count": 1
+    },
+    {
+      "id": "yamuna",
+      "name": "Yamuna",
+      "name_hi": "यमुना",
+      "aliases": [],
+      "temple_count": 1
+    },
+    {
+      "id": "saraswati",
+      "name": "Saraswati",
+      "name_hi": "सरस्वती",
+      "aliases": [
+        "Sharada"
+      ],
+      "temple_count": 2
+    },
+    {
+      "id": "andal",
+      "name": "Andal",
+      "name_hi": "आंडाल",
+      "aliases": [
+        "Goda"
+      ],
+      "temple_count": 1
+    },
+    {
+      "id": "bhairava",
+      "name": "Bhairava",
+      "name_hi": "भैरव",
+      "aliases": [
+        "Bhairav",
+        "Kaal Bhairav"
+      ],
+      "temple_count": 1
+    },
+    {
+      "id": "jagannath",
+      "name": "Jagannath",
+      "name_hi": "जगन्नाथ",
+      "aliases": [],
+      "temple_count": 1
+    },
+    {
+      "id": "balarama",
+      "name": "Balarama",
+      "name_hi": "बलराम",
+      "aliases": [
+        "Balabhadra"
+      ],
+      "temple_count": 2
+    },
+    {
+      "id": "subhadra",
+      "name": "Subhadra",
+      "name_hi": "सुभद्रा",
+      "aliases": [],
+      "temple_count": 1
+    },
+    {
+      "id": "narasimha",
+      "name": "Narasimha",
+      "name_hi": "नरसिंह",
+      "aliases": [
+        "Narsingh"
+      ],
+      "temple_count": 2
+    },
+    {
+      "id": "nagaraja",
+      "name": "Nagaraja",
+      "name_hi": "नागराज",
+      "aliases": [
+        "Naga",
+        "Serpent deities"
+      ],
+      "temple_count": 2
+    },
+    {
+      "id": "khatu-shyam",
+      "name": "Khatu Shyam",
+      "name_hi": "खाटू श्याम",
+      "aliases": [
+        "Barbarika"
+      ],
+      "temple_count": 1
+    },
+    {
+      "id": "gorakhnath",
+      "name": "Gorakhnath",
+      "name_hi": "गोरखनाथ",
+      "aliases": [],
+      "temple_count": 1
+    },
+    {
+      "id": "sai-baba",
+      "name": "Sai Baba",
+      "name_hi": "साईं बाबा",
+      "aliases": [],
+      "temple_count": 1
+    },
+    {
+      "id": "chaitanya",
+      "name": "Chaitanya",
+      "name_hi": "चैतन्य",
+      "aliases": [
+        "Gauranga"
+      ],
+      "temple_count": 1
+    },
+    {
+      "id": "parashurama",
+      "name": "Parashurama",
+      "name_hi": "परशुराम",
+      "aliases": [],
+      "temple_count": 1
+    },
+    {
+      "id": "dattatreya",
+      "name": "Dattatreya",
+      "name_hi": "दत्तात्रेय",
+      "aliases": [
+        "Datta"
+      ],
+      "temple_count": 1
+    },
+    {
+      "id": "sea-deity",
+      "name": "Balinese sea deity tradition",
+      "name_hi": null,
+      "aliases": [
+        "Dewa Baruna",
+        "Bhatara Segara"
+      ],
+      "temple_count": 1
+    }
+  ],
+  "locations": [
+    {
+      "country_code": "IN",
+      "country_name": "India",
+      "temple_count": 169,
+      "regions": [
+        {
+          "region_name": "Andhra Pradesh",
+          "temple_ids": [
+            "in-tirumala-tirumala-venkateswara-temple",
+            "in-tiruchanur-sri-padmavathi-ammavari-temple",
+            "in-srisailam-mallikarjuna-temple-srisailam",
+            "in-srikalahasti-srikalahasti-temple",
+            "in-vijayawada-kanaka-durga-temple",
+            "in-visakhapatnam-simhachalam-temple",
+            "in-kanipakam-kanipakam-vinayaka-temple"
+          ]
+        },
+        {
+          "region_name": "Arunachal Pradesh",
+          "temple_ids": [
+            "in-lohit-valley-parshuram-kund"
+          ]
+        },
+        {
+          "region_name": "Assam",
+          "temple_ids": [
+            "in-guwahati-kamakhya-temple",
+            "in-guwahati-umananda-temple"
+          ]
+        },
+        {
+          "region_name": "Bihar",
+          "temple_ids": [
+            "in-gaya-vishnupad-temple",
+            "in-patna-mahavir-mandir-patna",
+            "in-paunra-mundeshwari-temple"
+          ]
+        },
+        {
+          "region_name": "Chhattisgarh",
+          "temple_ids": [
+            "in-dantewada-danteshwari-temple",
+            "in-chaura-bhoramdeo-temple"
+          ]
+        },
+        {
+          "region_name": "Delhi",
+          "temple_ids": [
+            "in-new-delhi-swaminarayan-akshardham-delhi",
+            "in-new-delhi-chhatarpur-temple",
+            "in-new-delhi-kalkaji-temple"
+          ]
+        },
+        {
+          "region_name": "Goa",
+          "temple_ids": [
+            "in-mangeshi-mangeshi-temple",
+            "in-kavlem-shanta-durga-temple"
+          ]
+        },
+        {
+          "region_name": "Gujarat",
+          "temple_ids": [
+            "in-prabhas-patan-somnath-temple",
+            "in-near-dwarka-nageshwar-jyotirlinga",
+            "in-dwarka-dwarkadhish-temple",
+            "in-ambaji-ambaji-temple",
+            "in-pavagadh-kalika-mata-temple-pavagadh",
+            "in-dakor-ranchhodraiji-temple-dakor",
+            "in-modhera-modhera-sun-temple",
+            "in-salangpur-kashtabhanjan-hanuman-temple"
+          ]
+        },
+        {
+          "region_name": "Haryana",
+          "temple_ids": [
+            "in-panchkula-mata-mansa-devi-temple-panchkula",
+            "in-thanesar-sthaneshwar-mahadev-temple"
+          ]
+        },
+        {
+          "region_name": "Himachal Pradesh",
+          "temple_ids": [
+            "in-jwalamukhi-jwala-ji-temple",
+            "in-chintpurni-chintpurni-temple",
+            "in-naina-devi-naina-devi-temple-bilaspur",
+            "in-chamunda-chamunda-devi-temple",
+            "in-kangra-bajreshwari-devi-temple",
+            "in-baijnath-baijnath-temple",
+            "in-shimla-jakhu-temple",
+            "in-sarahan-bhimakali-temple"
+          ]
+        },
+        {
+          "region_name": "Jammu and Kashmir",
+          "temple_ids": [
+            "in-katra-vaishno-devi-temple",
+            "in-amarnath-amarnath-cave-temple",
+            "in-srinagar-shankaracharya-temple",
+            "in-jammu-raghunath-temple-jammu",
+            "in-tulmulla-kheer-bhawani-temple"
+          ]
+        },
+        {
+          "region_name": "Jharkhand",
+          "temple_ids": [
+            "in-deoghar-baidyanath-temple-deoghar",
+            "in-rajrappa-chhinnamasta-temple-rajrappa"
+          ]
+        },
+        {
+          "region_name": "Karnataka",
+          "temple_ids": [
+            "in-udupi-udupi-sri-krishna-matha",
+            "in-hampi-virupaksha-temple-hampi",
+            "in-hampi-vijaya-vittala-temple",
+            "in-kollur-kollur-mookambika-temple",
+            "in-dharmasthala-dharmasthala-manjunatha-temple",
+            "in-subramanya-kukke-subramanya-temple",
+            "in-murudeshwar-murudeshwar-temple",
+            "in-gokarna-mahabaleshwar-temple-gokarna",
+            "in-mysuru-chamundeshwari-temple",
+            "in-horanadu-horanadu-annapoorneshwari-temple",
+            "in-sringeri-sringeri-sharadamba-temple",
+            "in-belur-chennakeshava-temple-belur",
+            "in-halebidu-hoysaleswara-temple",
+            "in-bengaluru-dodda-ganapathi-temple"
+          ]
+        },
+        {
+          "region_name": "Kerala",
+          "temple_ids": [
+            "in-thiruvananthapuram-sree-padmanabhaswamy-temple",
+            "in-guruvayur-guruvayur-temple",
+            "in-sabarimala-sabarimala-temple",
+            "in-thiruvananthapuram-attukal-bhagavathy-temple",
+            "in-chottanikkara-chottanikkara-temple",
+            "in-thrissur-vadakkunnathan-temple",
+            "in-ambalappuzha-ambalappuzha-sri-krishna-temple",
+            "in-haripad-mannarasala-temple"
+          ]
+        },
+        {
+          "region_name": "Madhya Pradesh",
+          "temple_ids": [
+            "in-ujjain-mahakaleshwar-temple",
+            "in-omkareshwar-omkareshwar-temple",
+            "in-orchha-ram-raja-temple",
+            "in-khajuraho-kandariya-mahadeva-temple",
+            "in-maihar-sharada-devi-temple-maihar"
+          ]
+        },
+        {
+          "region_name": "Maharashtra",
+          "temple_ids": [
+            "in-mumbai-siddhivinayak-temple-mumbai",
+            "in-pune-dagadusheth-halwai-ganapati-temple",
+            "in-trimbak-trimbakeshwar-temple",
+            "in-bhimashankar-bhimashankar-temple",
+            "in-verul-grishneshwar-temple",
+            "in-kolhapur-mahalakshmi-temple-kolhapur",
+            "in-tuljapur-tulja-bhavani-temple",
+            "in-vani-saptashrungi-temple",
+            "in-pandharpur-vitthal-rukmini-temple",
+            "in-shirdi-shirdi-sai-baba-temple",
+            "in-morgaon-mayureshwar-temple-morgaon",
+            "in-siddhatek-siddhivinayak-temple-siddhatek",
+            "in-pali-ballaleshwar-temple-pali",
+            "in-mahad-khalapur-varadvinayak-temple",
+            "in-theur-chintamani-temple-theur",
+            "in-lenyadri-girijatmaj-temple-lenyadri",
+            "in-ozar-vighneshwar-temple-ozar",
+            "in-ranjangaon-mahaganapati-temple-ranjangaon"
+          ]
+        },
+        {
+          "region_name": "Manipur",
+          "temple_ids": [
+            "in-imphal-govindajee-temple"
+          ]
+        },
+        {
+          "region_name": "Meghalaya",
+          "temple_ids": [
+            "in-nartiang-nartiang-durga-temple"
+          ]
+        },
+        {
+          "region_name": "Odisha",
+          "temple_ids": [
+            "in-puri-jagannath-temple-puri",
+            "in-bhubaneswar-lingaraj-temple",
+            "in-konark-konark-sun-temple",
+            "in-bhubaneswar-mukteshwar-temple-bhubaneswar",
+            "in-jajpur-biraja-temple"
+          ]
+        },
+        {
+          "region_name": "Puducherry",
+          "temple_ids": [
+            "in-puducherry-manakula-vinayagar-temple"
+          ]
+        },
+        {
+          "region_name": "Punjab",
+          "temple_ids": [
+            "in-amritsar-durgiana-temple"
+          ]
+        },
+        {
+          "region_name": "Rajasthan",
+          "temple_ids": [
+            "in-pushkar-brahma-temple-pushkar",
+            "in-deshnoke-karni-mata-temple",
+            "in-khatu-khatu-shyam-temple",
+            "in-salasar-salasar-balaji-temple",
+            "in-mehandipur-mehandipur-balaji-temple",
+            "in-nathdwara-shrinathji-temple",
+            "in-jaipur-govind-dev-ji-temple",
+            "in-kailashpuri-eklingji-temple"
+          ]
+        },
+        {
+          "region_name": "Sikkim",
+          "temple_ids": [
+            "in-gangtok-ganesh-tok"
+          ]
+        },
+        {
+          "region_name": "Tamil Nadu",
+          "temple_ids": [
+            "in-madurai-meenakshi-amman-temple",
+            "in-rameswaram-ramanathaswamy-temple",
+            "in-tiruchirappalli-sri-ranganathaswamy-temple-srirangam",
+            "in-thanjavur-brihadisvara-temple-thanjavur",
+            "in-gangaikonda-cholapuram-gangaikonda-cholapuram-temple",
+            "in-darasuram-airavatesvara-temple",
+            "in-chidambaram-thillai-nataraja-temple",
+            "in-tiruvannamalai-arunachaleswarar-temple",
+            "in-kanchipuram-ekambareswarar-temple",
+            "in-tiruchirappalli-jambukeswarar-temple",
+            "in-kanchipuram-kamakshi-amman-temple",
+            "in-chennai-kapaleeshwarar-temple",
+            "in-chennai-parthasarathy-temple",
+            "in-srivilliputhur-andal-temple-srivilliputhur",
+            "in-palani-dhandayuthapani-swamy-temple-palani",
+            "in-tiruchendur-subramaniya-swamy-temple-tiruchendur",
+            "in-thiruparankundram-subramaniya-swamy-temple-thiruparankundram",
+            "in-swamimalai-swamimalai-swaminathaswamy-temple",
+            "in-tiruttani-subramaniya-swamy-temple-tiruttani",
+            "in-near-madurai-pazhamudircholai-temple",
+            "in-kanyakumari-kumari-amman-temple"
+          ]
+        },
+        {
+          "region_name": "Telangana",
+          "temple_ids": [
+            "in-bhadrachalam-sita-ramachandraswamy-temple-bhadrachalam",
+            "in-yadagirigutta-yadadri-lakshmi-narasimha-temple",
+            "in-hanamkonda-thousand-pillar-temple",
+            "in-palampet-ramappa-temple",
+            "in-basar-gnana-saraswati-temple",
+            "in-alampur-jogulamba-temple"
+          ]
+        },
+        {
+          "region_name": "Tripura",
+          "temple_ids": [
+            "in-udaipur-tripura-sundari-temple"
+          ]
+        },
+        {
+          "region_name": "Uttar Pradesh",
+          "temple_ids": [
+            "in-ayodhya-shri-ram-janmabhoomi-temple",
+            "in-ayodhya-hanuman-garhi-ayodhya",
+            "in-ayodhya-kanak-bhawan",
+            "in-varanasi-shri-kashi-vishwanath-temple",
+            "in-varanasi-sankat-mochan-hanuman-temple",
+            "in-varanasi-durga-kund-temple",
+            "in-varanasi-annapurna-devi-temple",
+            "in-varanasi-kaal-bhairav-temple-varanasi",
+            "in-mathura-krishna-janmasthan-temple-complex",
+            "in-vrindavan-banke-bihari-temple",
+            "in-vrindavan-prem-mandir",
+            "in-vrindavan-radha-raman-temple",
+            "in-vrindavan-iskcon-krishna-balaram-mandir",
+            "in-vindhyachal-vindhyavasini-temple",
+            "in-gorakhpur-gorakhnath-temple"
+          ]
+        },
+        {
+          "region_name": "Uttarakhand",
+          "temple_ids": [
+            "in-badrinath-badrinath-temple",
+            "in-kedarnath-kedarnath-temple",
+            "in-gangotri-gangotri-temple",
+            "in-yamunotri-yamunotri-temple",
+            "in-tungnath-tungnath-temple",
+            "in-rudranath-rudranath-temple",
+            "in-madhyamaheshwar-madhyamaheshwar-temple",
+            "in-urgam-valley-kalpeshwar-temple",
+            "in-jageshwar-jageshwar-temples",
+            "in-near-rishikesh-neelkanth-mahadev-temple",
+            "in-haridwar-mansa-devi-temple-haridwar",
+            "in-haridwar-chandi-devi-temple-haridwar",
+            "in-kalyasaur-dhari-devi-temple",
+            "in-gopeshwar-gopinath-temple-gopeshwar"
+          ]
+        },
+        {
+          "region_name": "West Bengal",
+          "temple_ids": [
+            "in-dakshineswar-dakshineswar-kali-temple",
+            "in-kolkata-kalighat-kali-temple",
+            "in-tarapith-tarapith-temple",
+            "in-mayapur-iskcon-mayapur"
+          ]
+        }
+      ]
+    },
+    {
+      "country_code": "NP",
+      "country_name": "Nepal",
+      "temple_count": 6,
+      "regions": [
+        {
+          "region_name": "Bagmati",
+          "temple_ids": [
+            "np-kathmandu-pashupatinath-temple",
+            "np-changunarayan-changu-narayan-temple",
+            "np-dakshinkali-dakshinkali-temple"
+          ]
+        },
+        {
+          "region_name": "Gandaki",
+          "temple_ids": [
+            "np-muktinath-muktinath-temple",
+            "np-manakamana-manakamana-temple"
+          ]
+        },
+        {
+          "region_name": "Madhesh",
+          "temple_ids": [
+            "np-janakpur-janaki-mandir"
+          ]
+        }
+      ]
+    },
+    {
+      "country_code": "LK",
+      "country_name": "Sri Lanka",
+      "temple_count": 4,
+      "regions": [
+        {
+          "region_name": "Central Province",
+          "temple_ids": [
+            "lk-seetha-eliya-seetha-amman-temple"
+          ]
+        },
+        {
+          "region_name": "Eastern Province",
+          "temple_ids": [
+            "lk-trincomalee-koneswaram-temple"
+          ]
+        },
+        {
+          "region_name": "North Western Province",
+          "temple_ids": [
+            "lk-chilaw-munneswaram-temple"
+          ]
+        },
+        {
+          "region_name": "Northern Province",
+          "temple_ids": [
+            "lk-jaffna-nallur-kandaswamy-temple"
+          ]
+        }
+      ]
+    },
+    {
+      "country_code": "MY",
+      "country_name": "Malaysia",
+      "temple_count": 3,
+      "regions": [
+        {
+          "region_name": "Johor",
+          "temple_ids": [
+            "my-johor-bahru-arulmigu-sri-rajakaliamman-glass-temple"
+          ]
+        },
+        {
+          "region_name": "Kuala Lumpur",
+          "temple_ids": [
+            "my-kuala-lumpur-sri-mahamariamman-temple-kuala-lumpur"
+          ]
+        },
+        {
+          "region_name": "Selangor",
+          "temple_ids": [
+            "my-batu-caves-batu-caves-sri-subramaniar-temple"
+          ]
+        }
+      ]
+    },
+    {
+      "country_code": "SG",
+      "country_name": "Singapore",
+      "temple_count": 4,
+      "regions": [
+        {
+          "region_name": "Singapore",
+          "temple_ids": [
+            "sg-singapore-sri-mariamman-temple-singapore",
+            "sg-singapore-sri-veeramakaliamman-temple",
+            "sg-singapore-sri-thendayuthapani-temple",
+            "sg-singapore-sri-srinivasa-perumal-temple"
+          ]
+        }
+      ]
+    },
+    {
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "temple_count": 5,
+      "regions": [
+        {
+          "region_name": "Bali",
+          "temple_ids": [
+            "id-besakih-besakih-temple",
+            "id-beraban-tanah-lot-temple",
+            "id-pecatu-uluwatu-temple",
+            "id-candikuning-ulun-danu-beratan-temple"
+          ]
+        },
+        {
+          "region_name": "Special Region of Yogyakarta",
+          "temple_ids": [
+            "id-prambanan-prambanan-temple-compounds"
+          ]
+        }
+      ]
+    },
+    {
+      "country_code": "TH",
+      "country_name": "Thailand",
+      "temple_count": 2,
+      "regions": [
+        {
+          "region_name": "Bangkok",
+          "temple_ids": [
+            "th-bangkok-erawan-shrine",
+            "th-bangkok-sri-maha-mariamman-temple-bangkok"
+          ]
+        }
+      ]
+    },
+    {
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "temple_count": 1,
+      "regions": [
+        {
+          "region_name": "Dhaka Division",
+          "temple_ids": [
+            "bd-dhaka-dhakeshwari-temple"
+          ]
+        }
+      ]
+    },
+    {
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "temple_count": 2,
+      "regions": [
+        {
+          "region_name": "Balochistan",
+          "temple_ids": [
+            "pk-hingol-hinglaj-mata-temple"
+          ]
+        },
+        {
+          "region_name": "Punjab",
+          "temple_ids": [
+            "pk-katas-katas-raj-temples"
+          ]
+        }
+      ]
+    },
+    {
+      "country_code": "MU",
+      "country_name": "Mauritius",
+      "temple_count": 1,
+      "regions": [
+        {
+          "region_name": "Savanne",
+          "temple_ids": [
+            "mu-grand-bassin-ganga-talao-temples"
+          ]
+        }
+      ]
+    },
+    {
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "temple_count": 2,
+      "regions": [
+        {
+          "region_name": "Abu Dhabi",
+          "temple_ids": [
+            "ae-abu-mureikha-baps-hindu-mandir-abu-dhabi"
+          ]
+        },
+        {
+          "region_name": "Dubai",
+          "temple_ids": [
+            "ae-jebel-ali-hindu-temple-dubai"
+          ]
+        }
+      ]
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "temple_count": 3,
+      "regions": [
+        {
+          "region_name": "England",
+          "temple_ids": [
+            "gb-london-baps-shri-swaminarayan-mandir-london",
+            "gb-aldenham-bhaktivedanta-manor",
+            "gb-tividale-shri-venkateswara-balaji-temple-tividale"
+          ]
+        }
+      ]
+    },
+    {
+      "country_code": "US",
+      "country_name": "United States",
+      "temple_count": 5,
+      "regions": [
+        {
+          "region_name": "California",
+          "temple_ids": [
+            "us-calabasas-malibu-hindu-temple"
+          ]
+        },
+        {
+          "region_name": "Maryland",
+          "temple_ids": [
+            "us-lanham-sri-siva-vishnu-temple-maryland"
+          ]
+        },
+        {
+          "region_name": "New Jersey",
+          "temple_ids": [
+            "us-robbinsville-baps-swaminarayan-akshardham-robbinsville"
+          ]
+        },
+        {
+          "region_name": "New York",
+          "temple_ids": [
+            "us-flushing-sri-maha-vallabha-ganapati-devasthanam"
+          ]
+        },
+        {
+          "region_name": "Pennsylvania",
+          "temple_ids": [
+            "us-penn-hills-sri-venkateswara-temple-pittsburgh"
+          ]
+        }
+      ]
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "temple_count": 1,
+      "regions": [
+        {
+          "region_name": "Ontario",
+          "temple_ids": [
+            "ca-toronto-baps-shri-swaminarayan-mandir-toronto"
+          ]
+        }
+      ]
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "temple_count": 2,
+      "regions": [
+        {
+          "region_name": "New South Wales",
+          "temple_ids": [
+            "au-helensburgh-sri-venkateswara-temple-helensburgh"
+          ]
+        },
+        {
+          "region_name": "Victoria",
+          "temple_ids": [
+            "au-carrum-downs-shri-shiva-vishnu-temple-melbourne"
+          ]
+        }
+      ]
+    },
+    {
+      "country_code": "FJ",
+      "country_name": "Fiji",
+      "temple_count": 1,
+      "regions": [
+        {
+          "region_name": "Western Division",
+          "temple_ids": [
+            "fj-nadi-sri-siva-subramaniya-temple"
+          ]
+        }
+      ]
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "temple_count": 1,
+      "regions": [
+        {
+          "region_name": "KwaZulu-Natal",
+          "temple_ids": [
+            "za-chatsworth-sri-sri-radha-radhanath-temple"
+          ]
+        }
+      ]
+    },
+    {
+      "country_code": "TT",
+      "country_name": "Trinidad and Tobago",
+      "temple_count": 2,
+      "regions": [
+        {
+          "region_name": "Chaguanas",
+          "temple_ids": [
+            "tt-carapichaima-dattatreya-temple-and-hanuman-statue"
+          ]
+        },
+        {
+          "region_name": "Couva-Tabaquite-Talparo",
+          "temple_ids": [
+            "tt-waterloo-temple-in-the-sea"
+          ]
+        }
+      ]
+    }
+  ],
+  "filters": {
+    "title": "Explore your way",
+    "description": "Choose locations and sacred categories.",
+    "location_title": "Explore by Location",
+    "category_title": "Deity & sacred circuit",
+    "all_locations_label": "All locations",
+    "selected_count_template": "{count} selected",
+    "reset_label": "Reset",
+    "apply_label": "Apply Filters",
+    "notice": "Selections are combined to refine temple discovery.",
+    "within_group": "OR",
+    "between_groups": "AND",
+    "location_key": [
+      "country_code",
+      "region_name"
+    ],
+    "all_behavior": "Clear deity and circuit selections; retain location and search.",
+    "execution": "client_side_over_complete_index"
+  },
+  "featured": {
+    "title": "Featured Temples",
+    "view_all_label": "View All",
+    "temple_ids": [
+      "in-kedarnath-kedarnath-temple",
+      "in-prabhas-patan-somnath-temple",
+      "in-varanasi-shri-kashi-vishwanath-temple"
+    ],
+    "selection": "editorial"
+  },
+  "popular": {
+    "title": "Popular Temples",
+    "subtitle": "Sacred places, cherished across generations.",
+    "temple_ids": [
+      "in-varanasi-shri-kashi-vishwanath-temple",
+      "in-puri-jagannath-temple-puri",
+      "in-vrindavan-banke-bihari-temple",
+      "in-madurai-meenakshi-amman-temple",
+      "in-tirumala-tirumala-venkateswara-temple",
+      "in-varanasi-sankat-mochan-hanuman-temple",
+      "in-mumbai-siddhivinayak-temple-mumbai"
+    ],
+    "selection": "editorial; not live visitor rankings"
+  },
+  "states": {
+    "loading": {
+      "message": "Loading temples...",
+      "skeleton_sections": [
+        "hero",
+        "search",
+        "categories",
+        "featured",
+        "popular"
+      ]
+    },
+    "empty": {
+      "title": "No temples found",
+      "message": "Try another location or category.",
+      "action_label": "Reset Filters"
+    },
+    "error": {
+      "title": "Unable to load temples",
+      "message": "Check your connection and try again.",
+      "action_label": "Retry"
+    },
+    "offline": {
+      "message": "Showing saved catalogue. Details may have changed."
+    }
+  },
+  "labels": {
+    "favorites": "Saved Temples",
+    "back": "Back",
+    "close": "Close",
+    "view_all": "View All",
+    "photo_credit": "Photo credit",
+    "unknown": "Not yet verified"
+  },
+  "footer": "Discover with reverence. Plan with care.",
+  "section_titles": {
+    "overview": "About Temple",
+    "significance": "Spiritual Significance",
+    "history": "History",
+    "architecture": "Architecture",
+    "darshan": "Darshan Timings",
+    "rituals": "Aarti & Pooja",
+    "festivals": "Major Festivals",
+    "gallery": "Temple Gallery",
+    "how_to_reach": "How to Reach",
+    "location": "Location",
+    "before_visit": "Before You Visit",
+    "guidelines": "Temple Guidelines",
+    "nearby": "Nearby Sacred Places",
+    "related": "You May Also Like",
+    "journey": "Continue your spiritual journey"
+  },
+  "journey": {
+    "brand": "HARINAAM",
+    "title": "Continue your spiritual journey",
+    "subtitle": "Carry a little of this sacred stillness into your everyday practice.",
+    "items": [
+      {
+        "id": "bhagavad-gita",
+        "title": "Bhagavad Gita",
+        "subtitle": "Wisdom for daily life",
+        "icon": "book-open",
+        "action": "app_route",
+        "route_key": "bhagavad-gita"
+      },
+      {
+        "id": "bhajans-mantras",
+        "title": "Bhajans & Mantras",
+        "subtitle": "Listen with devotion",
+        "icon": "music",
+        "action": "app_route",
+        "route_key": "bhajans-mantras"
+      },
+      {
+        "id": "mala-jaap",
+        "title": "Mala Jaap",
+        "subtitle": "Make time for your practice",
+        "icon": "circle",
+        "action": "app_route",
+        "route_key": "mala-jaap"
+      },
+      {
+        "id": "panchang",
+        "title": "Panchang",
+        "subtitle": "Stay connected to sacred days",
+        "icon": "calendar",
+        "action": "app_route",
+        "route_key": "panchang"
+      },
+      {
+        "id": "home",
+        "title": "Explore Harinaam",
+        "subtitle": "More stories and devotional content",
+        "icon": "compass",
+        "action": "app_route",
+        "route_key": "home"
+      }
+    ]
+  },
+  "client_contract": {
+    "favorites": "Store locally per stable temple ID; never shared catalogue state.",
+    "navigation": "Map route_key to existing app destinations; keys are not executable URLs. Hide unsupported destinations.",
+    "bootstrap": "Bundle this configuration for first-load skeleton and error labels.",
+    "images": "Use attributed media only; design images are not licensed API assets.",
+    "map": "Render coordinates with a map provider or show a placeholder; do not treat the design illustration as navigation."
+  }
+}

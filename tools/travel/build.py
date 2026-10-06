@@ -13,6 +13,7 @@ from pathlib import Path
 from urllib.parse import urlencode
 
 from research import rows
+from ui import enrich, VERSION
 
 BASE = Path(__file__).resolve().parent
 ROOT = BASE.parent.parent
@@ -246,6 +247,8 @@ def main():
     deity_catalogue = [{'id': key, 'name': label, 'name_hi': hi, 'aliases': aliases,
                         'temple_count': sum(key in t['details']['deity_ids'] for t in temples)}
                        for key, (label, hi, aliases) in DEITIES.items()]
+    discovery = enrich(temples, collections, deity_catalogue, countries)
+    write(ROOT/'travel/discovery.json', discovery)
     stats = {'temples': len(temples), 'india_temples': len(temples)-len(international),
              'international_temples': len(international), 'countries': len(countries), 'india_states_and_uts':len(states),
              'with_reference_coordinates': sum(t['details']['location']['latitude'] is not None for t in temples),
@@ -260,9 +263,9 @@ def main():
                 'source_policy':'Primary excerpts corroborate selected facts. Encyclopedia retrieval does not verify every claim. Current arrangements require rechecking.',
                 'legacy_archive':'tools/travel/legacy.travel.json.gz', 'api_guide':'tools/travel/README.md',
                 'schema':'travel.schema.json',
-                'index':'travel/index.json', 'first_page':'travel/pages/001.json'}
-    data = {'schema_version':'2.0.0', 'metadata':metadata, 'deities':deity_catalogue, 'collections':collections,
-            'countries':countries, 'states':states, 'international_temples':international}
+                'discovery':'travel/discovery.json', 'index':'travel/index.json', 'first_page':'travel/pages/001.json'}
+    data = {'schema_version':VERSION, 'metadata':metadata, 'deities':deity_catalogue, 'collections':collections,
+            'discovery':discovery, 'countries':countries, 'states':states, 'international_temples':international}
     write(ROOT/'travel.json', data)
     summaries=[]
     for t in temples:
@@ -270,17 +273,17 @@ def main():
         summaries.append({key:t[key] for key in ['id','name','thumbnail','country_code','state_name','search_keywords']} |
                          {'city':d['city'], 'deity_ids':d['deity_ids'], 'collection_ids':d['collection_ids'],
                           'summary':d['highlights'][0], 'detail_path':f'travel/temples/{t["id"]}.json',
-                          'photo_credit': d['media']['items'][0] if d['media']['items'] else None})
-        write(ROOT/f'travel/temples/{t["id"]}.json', {'schema_version':'2.0.0','temple':t})
+                          'card': t['card'], 'photo_credit': d['media']['items'][0] if d['media']['items'] else None})
+        write(ROOT/f'travel/temples/{t["id"]}.json', {'schema_version':VERSION,'temple':t})
     page_size=24
     total_pages=math.ceil(len(summaries)/page_size)
     for i in range(total_pages):
-        write(ROOT/f'travel/pages/{i+1:03}.json', {'schema_version':'2.0.0','page':i+1,'page_size':page_size,
+        write(ROOT/f'travel/pages/{i+1:03}.json', {'schema_version':VERSION,'page':i+1,'page_size':page_size,
               'total_items':len(summaries),'total_pages':total_pages,
               'previous':f'travel/pages/{i:03}.json' if i else None,
               'next':f'travel/pages/{i+2:03}.json' if i+1<total_pages else None,
               'items':summaries[i*page_size:(i+1)*page_size]})
-    write(ROOT/'travel/index.json', {'schema_version':'2.0.0','metadata':metadata, 'deities':deity_catalogue,
+    write(ROOT/'travel/index.json', {'schema_version':VERSION,'metadata':metadata, 'deities':deity_catalogue,
           'collections':collections,'countries':countries,'items':summaries})
     name_index=defaultdict(list)
     for t in temples:

@@ -3,110 +3,718 @@
   "title": "Hindu Temple Travel Catalogue v2",
   "description": "Static research catalogue. Null indicates unknown, never false, zero or free.",
   "type": "object",
-  "required": ["schema_version", "metadata", "deities", "collections", "countries", "states", "international_temples"],
+  "required": [
+    "schema_version",
+    "metadata",
+    "deities",
+    "collections",
+    "countries",
+    "states",
+    "international_temples",
+    "discovery"
+  ],
   "additionalProperties": false,
   "properties": {
-    "schema_version": {"const": "2.0.0"},
-    "metadata": {"type": "object", "required": ["title", "updated_on", "statistics", "coverage", "null_policy", "map_policy"]},
-    "deities": {"type": "array", "items": {"type": "object", "required": ["id", "name", "name_hi", "aliases", "temple_count"]}},
-    "collections": {"type": "array", "items": {"type": "object", "required": ["id", "name", "expected_count", "notes", "temple_ids"]}},
-    "countries": {"type": "array", "items": {"type": "object", "required": ["country_code", "country_name", "temple_count", "regions"]}},
+    "schema_version": {
+      "const": "2.1.0"
+    },
+    "metadata": {
+      "type": "object",
+      "required": [
+        "title",
+        "updated_on",
+        "statistics",
+        "coverage",
+        "null_policy",
+        "map_policy"
+      ]
+    },
+    "deities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "name",
+          "name_hi",
+          "aliases",
+          "temple_count"
+        ]
+      }
+    },
+    "collections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "name",
+          "expected_count",
+          "notes",
+          "temple_ids"
+        ]
+      }
+    },
+    "countries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "country_code",
+          "country_name",
+          "temple_count",
+          "regions"
+        ]
+      }
+    },
     "states": {
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["state_name", "country_code", "temple_count", "temples"],
+        "required": [
+          "state_name",
+          "country_code",
+          "temple_count",
+          "temples"
+        ],
         "properties": {
-          "state_name": {"type": "string", "minLength": 1},
-          "country_code": {"const": "IN"},
-          "temple_count": {"type": "integer", "minimum": 1},
-          "temples": {"type": "array", "items": {"$ref": "#/$defs/temple"}}
+          "state_name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "country_code": {
+            "const": "IN"
+          },
+          "temple_count": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "temples": {
+            "type": "array",
+            "items": {
+              "$ref": "#/$defs/temple"
+            }
+          }
         }
       }
     },
-    "international_temples": {"type": "array", "items": {"$ref": "#/$defs/temple"}}
+    "international_temples": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/temple"
+      }
+    },
+    "discovery": {
+      "type": "object",
+      "required": [
+        "categories",
+        "filters",
+        "featured",
+        "popular",
+        "states",
+        "journey"
+      ]
+    }
   },
   "$defs": {
-    "nullableString": {"type": ["string", "null"]},
-    "nullableBoolean": {"type": ["boolean", "null"]},
+    "nullableString": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "nullableBoolean": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
     "temple": {
       "type": "object",
-      "required": ["id", "slug", "name", "thumbnail", "aliases", "country_code", "state_name", "search_keywords", "details"],
+      "required": [
+        "id",
+        "slug",
+        "name",
+        "thumbnail",
+        "aliases",
+        "country_code",
+        "state_name",
+        "search_keywords",
+        "details",
+        "card"
+      ],
       "additionalProperties": false,
       "properties": {
-        "id": {"type": "string", "minLength": 3},
-        "slug": {"type": "string", "minLength": 1},
-        "name": {"type": "string", "minLength": 1},
-        "thumbnail": {"type": "string"},
-        "aliases": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
-        "country_code": {"type": "string", "minLength": 2},
-        "state_name": {"type": "string", "minLength": 1},
-        "search_keywords": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
-        "details": {"$ref": "#/$defs/details"}
+        "id": {
+          "type": "string",
+          "minLength": 3
+        },
+        "slug": {
+          "type": "string",
+          "minLength": 1
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "thumbnail": {
+          "type": "string"
+        },
+        "aliases": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        },
+        "country_code": {
+          "type": "string",
+          "minLength": 2
+        },
+        "state_name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "search_keywords": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        },
+        "details": {
+          "$ref": "#/$defs/details"
+        },
+        "card": {
+          "type": "object",
+          "required": [
+            "title",
+            "subtitle",
+            "deity_label",
+            "image",
+            "badges",
+            "detail_path"
+          ]
+        }
       }
     },
     "details": {
       "type": "object",
-      "required": ["name", "thumbnail", "gallery", "facilities", "opening_time", "closing_time", "location", "description", "city", "district", "religion", "category", "best_time_to_visit", "denotes_to", "deity_ids", "primary_deity_id", "dedication", "collection_ids", "highlights", "architecture", "festivals", "visiting", "contact", "media", "sources", "data_quality"],
+      "required": [
+        "name",
+        "thumbnail",
+        "gallery",
+        "facilities",
+        "opening_time",
+        "closing_time",
+        "location",
+        "description",
+        "city",
+        "district",
+        "religion",
+        "category",
+        "best_time_to_visit",
+        "denotes_to",
+        "deity_ids",
+        "primary_deity_id",
+        "dedication",
+        "collection_ids",
+        "highlights",
+        "architecture",
+        "festivals",
+        "visiting",
+        "contact",
+        "media",
+        "sources",
+        "data_quality",
+        "ui"
+      ],
       "properties": {
-        "name": {"type": "string"},
-        "thumbnail": {"type": "string"},
-        "gallery": {"type": "array", "items": {"type": "string"}},
-        "description": {"type": "string", "minLength": 60},
-        "city": {"type": "string"},
-        "district": {"$ref": "#/$defs/nullableString"},
-        "religion": {"const": "Hindu"},
-        "category": {"enum": ["Temple", "Heritage temple", "Sacred site"]},
-        "best_time_to_visit": {"$ref": "#/$defs/nullableString"},
-        "opening_time": {"$ref": "#/$defs/nullableString"},
-        "closing_time": {"$ref": "#/$defs/nullableString"},
-        "denotes_to": {"type": "string"},
-        "deity_ids": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
-        "primary_deity_id": {"type": "string"},
-        "collection_ids": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
-        "highlights": {"type": "array", "items": {"type": "string"}},
-        "dedication": {"type": "object", "required": ["text", "source_id", "status"]},
-        "architecture": {"type": "object", "required": ["text", "source_id", "status"]},
-        "festivals": {"type": "object", "required": ["text", "source_id", "dates", "status"]},
+        "name": {
+          "type": "string"
+        },
+        "thumbnail": {
+          "type": "string"
+        },
+        "gallery": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "description": {
+          "type": "string",
+          "minLength": 60
+        },
+        "city": {
+          "type": "string"
+        },
+        "district": {
+          "$ref": "#/$defs/nullableString"
+        },
+        "religion": {
+          "const": "Hindu"
+        },
+        "category": {
+          "enum": [
+            "Temple",
+            "Heritage temple",
+            "Sacred site"
+          ]
+        },
+        "best_time_to_visit": {
+          "$ref": "#/$defs/nullableString"
+        },
+        "opening_time": {
+          "$ref": "#/$defs/nullableString"
+        },
+        "closing_time": {
+          "$ref": "#/$defs/nullableString"
+        },
+        "denotes_to": {
+          "type": "string"
+        },
+        "deity_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        },
+        "primary_deity_id": {
+          "type": "string"
+        },
+        "collection_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        },
+        "highlights": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "dedication": {
+          "type": "object",
+          "required": [
+            "text",
+            "source_id",
+            "status"
+          ]
+        },
+        "architecture": {
+          "type": "object",
+          "required": [
+            "text",
+            "source_id",
+            "status"
+          ]
+        },
+        "festivals": {
+          "type": "object",
+          "required": [
+            "text",
+            "source_id",
+            "dates",
+            "status"
+          ]
+        },
         "facilities": {
           "type": "object",
-          "required": ["wheelchair_accessible", "parking", "food_available", "locker", "washroom", "medical_facility"],
-          "additionalProperties": {"$ref": "#/$defs/nullableBoolean"}
+          "required": [
+            "wheelchair_accessible",
+            "parking",
+            "food_available",
+            "locker",
+            "washroom",
+            "medical_facility"
+          ],
+          "additionalProperties": {
+            "$ref": "#/$defs/nullableBoolean"
+          }
         },
         "location": {
           "type": "object",
-          "required": ["latitude", "longitude", "coordinate_status", "coordinate_source_id", "address", "address_precision", "country", "country_code", "state", "city", "google_place_id", "google_maps_url", "directions_url"],
+          "required": [
+            "latitude",
+            "longitude",
+            "coordinate_status",
+            "coordinate_source_id",
+            "address",
+            "address_precision",
+            "country",
+            "country_code",
+            "state",
+            "city",
+            "google_place_id",
+            "google_maps_url",
+            "directions_url"
+          ],
           "properties": {
-            "latitude": {"type": ["number", "null"], "minimum": -90, "maximum": 90},
-            "longitude": {"type": ["number", "null"], "minimum": -180, "maximum": 180},
-            "coordinate_status": {"enum": ["reference_point", "locality_reference_only", "coordinates_pending"]},
-            "google_place_id": {"type": "null"},
-            "google_maps_url": {"type": "string"},
-            "directions_url": {"type": "string"},
-            "address_precision": {"enum": ["locality", "street"]}
+            "latitude": {
+              "type": [
+                "number",
+                "null"
+              ],
+              "minimum": -90,
+              "maximum": 90
+            },
+            "longitude": {
+              "type": [
+                "number",
+                "null"
+              ],
+              "minimum": -180,
+              "maximum": 180
+            },
+            "coordinate_status": {
+              "enum": [
+                "reference_point",
+                "locality_reference_only",
+                "coordinates_pending"
+              ]
+            },
+            "google_place_id": {
+              "type": "null"
+            },
+            "google_maps_url": {
+              "type": "string"
+            },
+            "directions_url": {
+              "type": "string"
+            },
+            "address_precision": {
+              "enum": [
+                "locality",
+                "street"
+              ]
+            }
           }
         },
         "visiting": {
           "type": "object",
-          "required": ["timezone", "hours", "hours_status", "entry_fee", "booking", "accessibility", "notes"],
+          "required": [
+            "timezone",
+            "hours",
+            "hours_status",
+            "entry_fee",
+            "booking",
+            "accessibility",
+            "notes"
+          ],
           "properties": {
-            "timezone": {"type": "string"},
-            "hours": {"type": "array"},
-            "hours_status": {"enum": ["not_verified", "source_checked_recheck_before_visit"]},
-            "notes": {"type": "array", "items": {"type": "string"}}
+            "timezone": {
+              "type": "string"
+            },
+            "hours": {
+              "type": "array"
+            },
+            "hours_status": {
+              "enum": [
+                "not_verified",
+                "source_checked_recheck_before_visit"
+              ]
+            },
+            "notes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
           }
         },
-        "contact": {"type": "object", "required": ["phone", "email", "information_url"]},
+        "contact": {
+          "type": "object",
+          "required": [
+            "phone",
+            "email",
+            "information_url"
+          ]
+        },
         "media": {
           "type": "object",
-          "required": ["items", "status", "fallback_asset", "fallback_is_temple_photo"],
+          "required": [
+            "items",
+            "status",
+            "fallback_asset",
+            "fallback_is_temple_photo"
+          ],
           "properties": {
-            "fallback_is_temple_photo": {"const": false},
-            "items": {"type": "array", "items": {"type": "object", "required": ["url", "source_page", "author", "license", "license_url", "changes", "verification", "alt", "role"]}}
+            "fallback_is_temple_photo": {
+              "const": false
+            },
+            "items": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "required": [
+                  "url",
+                  "source_page",
+                  "author",
+                  "license",
+                  "license_url",
+                  "changes",
+                  "verification",
+                  "alt",
+                  "role"
+                ]
+              }
+            }
           }
         },
-        "sources": {"type": "array", "items": {"type": "object", "required": ["id", "url", "type", "scope", "review_method"]}},
-        "data_quality": {"type": "object", "required": ["identity", "editorial", "visitor_information", "google_maps_listing_verified", "last_editorial_update", "unverified_fields"]}
+        "sources": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "url",
+              "type",
+              "scope",
+              "review_method"
+            ]
+          }
+        },
+        "data_quality": {
+          "type": "object",
+          "required": [
+            "identity",
+            "editorial",
+            "visitor_information",
+            "google_maps_listing_verified",
+            "last_editorial_update",
+            "unverified_fields"
+          ]
+        },
+        "ui": {
+          "type": "object",
+          "required": [
+            "name_hi",
+            "header_title",
+            "section_order",
+            "overview",
+            "significance",
+            "history",
+            "architecture",
+            "darshan",
+            "rituals",
+            "festivals",
+            "gallery",
+            "how_to_reach",
+            "location",
+            "before_visit",
+            "guidelines",
+            "nearby",
+            "related",
+            "actions",
+            "journey"
+          ],
+          "properties": {
+            "name_hi": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "header_title": {
+              "type": "string",
+              "minLength": 1
+            },
+            "section_order": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "uniqueItems": true
+            },
+            "overview": {
+              "type": "object",
+              "required": [
+                "title",
+                "summary",
+                "paragraphs",
+                "facts"
+              ]
+            },
+            "significance": {
+              "type": "object",
+              "required": [
+                "title",
+                "heading",
+                "body"
+              ]
+            },
+            "history": {
+              "type": "object",
+              "required": [
+                "title",
+                "items",
+                "empty_message"
+              ],
+              "properties": {
+                "items": {
+                  "type": "array"
+                }
+              }
+            },
+            "architecture": {
+              "type": "object",
+              "required": [
+                "title",
+                "body",
+                "features",
+                "image"
+              ]
+            },
+            "darshan": {
+              "type": "object",
+              "required": [
+                "title",
+                "timezone",
+                "hours",
+                "status",
+                "source_id",
+                "schedule",
+                "notice",
+                "information_url"
+              ]
+            },
+            "rituals": {
+              "type": "object",
+              "required": [
+                "title",
+                "items",
+                "empty_message"
+              ],
+              "properties": {
+                "items": {
+                  "type": "array"
+                }
+              }
+            },
+            "festivals": {
+              "type": "object",
+              "required": [
+                "title",
+                "items",
+                "notice"
+              ],
+              "properties": {
+                "items": {
+                  "type": "array"
+                }
+              }
+            },
+            "gallery": {
+              "type": "object",
+              "required": [
+                "title",
+                "items",
+                "empty_message"
+              ],
+              "properties": {
+                "items": {
+                  "type": "array"
+                }
+              }
+            },
+            "how_to_reach": {
+              "type": "object",
+              "required": [
+                "title",
+                "items",
+                "empty_message"
+              ],
+              "properties": {
+                "items": {
+                  "type": "array"
+                }
+              }
+            },
+            "location": {
+              "type": "object",
+              "required": [
+                "title",
+                "latitude",
+                "longitude",
+                "google_maps_url",
+                "directions_url",
+                "map_preview_status"
+              ]
+            },
+            "before_visit": {
+              "type": "object",
+              "required": [
+                "title",
+                "items"
+              ],
+              "properties": {
+                "items": {
+                  "type": "array"
+                }
+              }
+            },
+            "guidelines": {
+              "type": "object",
+              "required": [
+                "title",
+                "items",
+                "status"
+              ],
+              "properties": {
+                "items": {
+                  "type": "array"
+                }
+              }
+            },
+            "nearby": {
+              "type": "object",
+              "required": [
+                "title",
+                "items",
+                "basis",
+                "notice"
+              ],
+              "properties": {
+                "items": {
+                  "type": "array"
+                }
+              }
+            },
+            "related": {
+              "type": "object",
+              "required": [
+                "title",
+                "items",
+                "basis"
+              ],
+              "properties": {
+                "items": {
+                  "type": "array"
+                }
+              }
+            },
+            "actions": {
+              "type": "object",
+              "required": [
+                "directions",
+                "maps",
+                "save",
+                "share",
+                "read_more"
+              ]
+            },
+            "journey": {
+              "type": "object",
+              "required": [
+                "config_path"
+              ]
+            }
+          }
+        }
       }
     }
   }

@@ -1,5 +1,5 @@
 {
-  "schema_version": "2.0.0",
+  "schema_version": "2.1.0",
   "temple": {
     "id": "in-varanasi-shri-kashi-vishwanath-temple",
     "slug": "shri-kashi-vishwanath-temple",
@@ -37,8 +37,8 @@
         "washroom": null,
         "medical_facility": null
       },
-      "opening_time": null,
-      "closing_time": null,
+      "opening_time": "03:00",
+      "closing_time": "23:00",
       "location": {
         "latitude": 25.310775,
         "longitude": 83.010614,
@@ -92,9 +92,27 @@
       },
       "visiting": {
         "timezone": "Asia/Kolkata",
-        "hours": [],
-        "hours_status": "not_verified",
-        "hours_source_id": null,
+        "hours": [
+          {
+            "days": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday",
+              "Sunday"
+            ],
+            "sessions": [
+              {
+                "opens": "03:00",
+                "closes": "23:00"
+              }
+            ]
+          }
+        ],
+        "hours_status": "source_checked_recheck_before_visit",
+        "hours_source_id": "visitor-faq",
         "seasonal_opening": false,
         "seasonal_opening_dates": null,
         "entry_fee": {
@@ -113,12 +131,15 @@
           "status": "not_verified"
         },
         "dress_code": {
-          "text": null,
-          "status": "confirm_with_temple"
+          "text": "Modest clothing advised.",
+          "status": "source_checked_recheck_before_visit",
+          "source_id": "visitor-faq"
         },
         "photography": {
           "allowed": null,
-          "status": "confirm_with_temple"
+          "text": "Gadgets are prohibited inside; confirm storage arrangements.",
+          "status": "source_checked_recheck_before_visit",
+          "source_id": "visitor-faq"
         },
         "entry_eligibility": {
           "text": null,
@@ -186,12 +207,57 @@
             "infobox_named_facts"
           ],
           "title": "Kashi Vishwanath Temple - Wikipedia"
+        },
+        {
+          "id": "visitor-faq",
+          "url": "https://www.shrikashivishwanath.org/pdffile/FAQ_SHRI_KASHI_VISHWANTH_TEMPLE_2_0_pdf.pdf",
+          "type": "temple_or_public_institution",
+          "reviewed_on": "2026-10-06",
+          "review_method": "web_page_or_official_pdf",
+          "scope": [
+            "hours",
+            "rituals",
+            "transport",
+            "visitor_rules",
+            "festivals"
+          ]
+        },
+        {
+          "id": "district",
+          "url": "https://varanasi.nic.in/tourist-place/shri-kashi-vishwanath-temple/",
+          "type": "temple_or_public_institution",
+          "reviewed_on": "2026-10-06",
+          "review_method": "web_page_or_official_pdf",
+          "scope": [
+            "significance"
+          ]
+        },
+        {
+          "id": "heritage",
+          "url": "https://www.prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/varanasi/vishwanath-mandir.html",
+          "type": "temple_or_public_institution",
+          "reviewed_on": "2026-10-06",
+          "review_method": "web_page_or_official_pdf",
+          "scope": [
+            "history",
+            "architecture"
+          ]
+        },
+        {
+          "id": "dham",
+          "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1780884",
+          "type": "temple_or_public_institution",
+          "reviewed_on": "2026-10-06",
+          "review_method": "web_page_or_official_pdf",
+          "scope": [
+            "history"
+          ]
         }
       ],
       "data_quality": {
         "identity": "primary_source_located",
         "editorial": "written_summary_needs_full_fact_check",
-        "visitor_information": "not_verified",
+        "visitor_information": "source_checked_recheck_before_visit",
         "google_maps_listing_verified": false,
         "last_editorial_update": "2026-10-06",
         "unverified_fields": [
@@ -206,7 +272,707 @@
           "postal_code",
           "google_place_id"
         ]
+      },
+      "ui": {
+        "name_hi": "श्री काशी विश्वनाथ मंदिर",
+        "header_title": "Kashi Vishwanath",
+        "section_order": [
+          "overview",
+          "significance",
+          "history",
+          "architecture",
+          "darshan",
+          "rituals",
+          "festivals",
+          "gallery",
+          "how_to_reach",
+          "location",
+          "before_visit",
+          "guidelines",
+          "nearby",
+          "related",
+          "journey"
+        ],
+        "overview": {
+          "title": "About Temple",
+          "summary": "The Vishwanath lingam anchors Shiva worship in Kashi, close to the Ganga and the old city's lanes.",
+          "paragraphs": [
+            "Shri Kashi Vishwanath Temple is located in Varanasi, Uttar Pradesh, India. The Vishwanath lingam anchors Shiva worship in Kashi, close to the Ganga and the old city's lanes."
+          ],
+          "status": "written_summary_needs_full_fact_check",
+          "facts": [
+            {
+              "id": "deity",
+              "label": "Main deity",
+              "value": "Shiva"
+            },
+            {
+              "id": "hours",
+              "label": "Temple timings",
+              "value": "3:00 AM–11:00 PM",
+              "fallback": "Confirm current hours",
+              "status": "source_checked_recheck_before_visit"
+            },
+            {
+              "id": "location",
+              "label": "Location",
+              "value": "Varanasi, Uttar Pradesh"
+            },
+            {
+              "id": "season",
+              "label": "Best season",
+              "value": null,
+              "fallback": "Check local conditions"
+            }
+          ]
+        },
+        "significance": {
+          "title": "Spiritual Significance",
+          "heading": "One of the twelve Jyotirlingas",
+          "body": {
+            "text": "Kashi Vishwanath is a Shiva shrine beside the Ganga in Varanasi. Its Jyotirlinga holds a central place in the pilgrimage traditions of Kashi.",
+            "source_ids": [
+              "district"
+            ],
+            "status": "source_checked"
+          }
+        },
+        "history": {
+          "title": "History",
+          "subtitle": "A heritage shaped by faith and renewal.",
+          "items": [
+            {
+              "period": "1780",
+              "title": "Rebuilt under Ahilyabai Holkar",
+              "body": {
+                "text": "The present temple took shape under the patronage of the queen of Indore.",
+                "source_ids": [
+                  "heritage"
+                ],
+                "status": "source_checked"
+              }
+            },
+            {
+              "period": "2021-12-13",
+              "title": "Kashi Vishwanath Dham inaugurated",
+              "body": {
+                "text": "The Dham project renewed the precinct and its connection to the Ganga.",
+                "source_ids": [
+                  "dham"
+                ],
+                "status": "source_checked"
+              }
+            }
+          ],
+          "empty_message": "Historical details are being researched."
+        },
+        "architecture": {
+          "title": "Architecture",
+          "body": {
+            "text": "The gilded spire and dome distinguish the temple in the old city skyline.",
+            "source_ids": [
+              "heritage"
+            ],
+            "status": "source_checked"
+          },
+          "features": [
+            "Spire",
+            "Gold-covered dome"
+          ],
+          "image": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Kashi_Vishwanath.jpg/250px-Kashi_Vishwanath.jpg",
+            "source_page": "https://commons.wikimedia.org/wiki/File:Kashi_Vishwanath.jpg",
+            "author": "Architkumar1234",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+            "changes": "None; Wikimedia thumbnail rendition.",
+            "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+            "link_status": "reachable_at_check",
+            "link_checked_at": "2026-10-06T07:54:24.864449+00:00",
+            "alt": "Shri Kashi Vishwanath Temple",
+            "role": "article_lead_photo"
+          }
+        },
+        "darshan": {
+          "title": "Darshan Timings",
+          "timezone": "Asia/Kolkata",
+          "hours": [
+            {
+              "days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+              ],
+              "sessions": [
+                {
+                  "opens": "03:00",
+                  "closes": "23:00"
+                }
+              ]
+            }
+          ],
+          "status": "source_checked_recheck_before_visit",
+          "source_id": "visitor-faq",
+          "schedule": [
+            {
+              "label": "Mangala Aarti",
+              "opens": "03:00",
+              "closes": "04:00",
+              "source_id": "visitor-faq",
+              "status": "source_checked_recheck_before_visit"
+            },
+            {
+              "label": "General Darshan",
+              "opens": "04:00",
+              "closes": "11:00",
+              "source_id": "visitor-faq",
+              "status": "source_checked_recheck_before_visit"
+            },
+            {
+              "label": "Bhog Aarti",
+              "opens": "11:15",
+              "closes": "12:20",
+              "source_id": "visitor-faq",
+              "status": "source_checked_recheck_before_visit"
+            },
+            {
+              "label": "General Darshan",
+              "opens": "12:20",
+              "closes": "19:00",
+              "source_id": "visitor-faq",
+              "status": "source_checked_recheck_before_visit"
+            },
+            {
+              "label": "Sapta Rishi Aarti",
+              "opens": "19:00",
+              "closes": "20:15",
+              "source_id": "visitor-faq",
+              "status": "source_checked_recheck_before_visit"
+            },
+            {
+              "label": "General Darshan",
+              "opens": "20:30",
+              "closes": "21:00",
+              "source_id": "visitor-faq",
+              "status": "source_checked_recheck_before_visit"
+            },
+            {
+              "label": "Shringar Aarti",
+              "opens": "21:00",
+              "closes": "22:15",
+              "source_id": "visitor-faq",
+              "status": "source_checked_recheck_before_visit"
+            }
+          ],
+          "notice": "Confirm current hours and bookings before visiting. Festival arrangements may differ.",
+          "information_url": "https://varanasi.nic.in/temples-of-importance/",
+          "empty_message": "Current timings have not been verified."
+        },
+        "rituals": {
+          "title": "Aarti & Pooja",
+          "items": [
+            {
+              "id": "mangala-aarti",
+              "title": "Mangala Aarti",
+              "icon": "sunrise",
+              "description": "Early morning worship.",
+              "learn_more_label": "Learn More",
+              "url": "https://shrikashivishwanath.org/",
+              "source_id": "visitor-faq"
+            },
+            {
+              "id": "rudrabhishek",
+              "title": "Rudrabhishek",
+              "icon": "droplets",
+              "description": "Shiva abhishek; booking information online.",
+              "learn_more_label": "Learn More",
+              "url": "https://shrikashivishwanath.org/",
+              "source_id": "visitor-faq"
+            }
+          ],
+          "empty_message": "Check the temple source for current rituals and bookings."
+        },
+        "festivals": {
+          "title": "Major Festivals",
+          "summary": {
+            "text": null,
+            "source_id": null,
+            "dates": [],
+            "status": "not_verified"
+          },
+          "items": [
+            {
+              "id": "0",
+              "name": "Rangbhari Ekadashi",
+              "icon": "flower",
+              "month_label": null,
+              "dates": [],
+              "source_id": "visitor-faq"
+            },
+            {
+              "id": "1",
+              "name": "Diwali",
+              "icon": "flower",
+              "month_label": null,
+              "dates": [],
+              "source_id": "visitor-faq"
+            },
+            {
+              "id": "2",
+              "name": "Monthly Shivratri",
+              "icon": "flower",
+              "month_label": null,
+              "dates": [],
+              "source_id": "visitor-faq"
+            },
+            {
+              "id": "3",
+              "name": "Mahashivratri",
+              "icon": "flower",
+              "month_label": null,
+              "dates": [],
+              "source_id": "visitor-faq"
+            },
+            {
+              "id": "4",
+              "name": "Kartik observances",
+              "icon": "flower",
+              "month_label": null,
+              "dates": [],
+              "source_id": "visitor-faq"
+            }
+          ],
+          "notice": "Dates follow the Hindu calendar and vary by year and tradition.",
+          "empty_message": "Festival details are being researched."
+        },
+        "gallery": {
+          "title": "Temple Gallery",
+          "items": [
+            {
+              "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Kashi_Vishwanath.jpg/250px-Kashi_Vishwanath.jpg",
+              "source_page": "https://commons.wikimedia.org/wiki/File:Kashi_Vishwanath.jpg",
+              "author": "Architkumar1234",
+              "license": "CC BY-SA 4.0",
+              "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+              "changes": "None; Wikimedia thumbnail rendition.",
+              "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+              "link_status": "reachable_at_check",
+              "link_checked_at": "2026-10-06T07:54:24.864449+00:00",
+              "alt": "Shri Kashi Vishwanath Temple",
+              "role": "article_lead_photo"
+            }
+          ],
+          "view_all_label": "View All Photos",
+          "empty_message": "Temple photos are not yet available."
+        },
+        "how_to_reach": {
+          "title": "How to Reach",
+          "items": [
+            {
+              "mode": "air",
+              "title": "By air",
+              "icon": "plane",
+              "arrival_point": "Lal Bahadur Shastri International Airport",
+              "distance_km": null,
+              "body": {
+                "text": "Arrange onward local transport and confirm the drop-off point.",
+                "source_ids": [
+                  "visitor-faq"
+                ],
+                "status": "source_checked"
+              },
+              "source_id": "visitor-faq"
+            },
+            {
+              "mode": "rail",
+              "title": "By rail",
+              "icon": "train",
+              "arrival_point": "Varanasi Junction",
+              "distance_km": null,
+              "body": {
+                "text": "Arrange onward local transport and confirm the drop-off point.",
+                "source_ids": [
+                  "visitor-faq"
+                ],
+                "status": "source_checked"
+              },
+              "source_id": "visitor-faq"
+            },
+            {
+              "mode": "road",
+              "title": "By road",
+              "icon": "bus",
+              "arrival_point": "Chaudhary Charan Singh Bus Stand",
+              "distance_km": null,
+              "body": {
+                "text": "Arrange onward local transport and confirm the drop-off point.",
+                "source_ids": [
+                  "visitor-faq"
+                ],
+                "status": "source_checked"
+              },
+              "source_id": "visitor-faq"
+            }
+          ],
+          "notice": "Distances and routes depend on the arrival point.",
+          "empty_message": "Use directions and confirm local access before travel."
+        },
+        "location": {
+          "latitude": 25.310775,
+          "longitude": 83.010614,
+          "coordinate_status": "reference_point",
+          "coordinate_source_id": "reference",
+          "coordinate_precision": "Approximate reference position; not a verified visitor entrance.",
+          "address": "Shri Kashi Vishwanath Temple, Varanasi, Uttar Pradesh, India",
+          "address_precision": "locality",
+          "country": "India",
+          "country_code": "IN",
+          "state": "Uttar Pradesh",
+          "city": "Varanasi",
+          "district": "Varanasi",
+          "postal_code": null,
+          "google_place_id": null,
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Shri+Kashi+Vishwanath+Temple%2C+Varanasi%2C+Uttar+Pradesh%2C+India",
+          "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Shri+Kashi+Vishwanath+Temple%2C+Varanasi%2C+Uttar+Pradesh%2C+India",
+          "title": "Location",
+          "map_preview_url": null,
+          "map_preview_status": "use_client_map_or_placeholder"
+        },
+        "before_visit": {
+          "title": "Before You Visit",
+          "items": [
+            {
+              "id": "dress",
+              "title": "Dress respectfully",
+              "icon": "shirt",
+              "body": {
+                "text": "Modest clothing advised.",
+                "source_ids": [
+                  "visitor-faq"
+                ],
+                "status": "source_checked_recheck_before_visit"
+              }
+            },
+            {
+              "id": "photography",
+              "title": "Phones & photography",
+              "icon": "camera-off",
+              "body": {
+                "text": "Gadgets are prohibited inside; confirm storage arrangements.",
+                "source_ids": [
+                  "visitor-faq"
+                ],
+                "status": "source_checked_recheck_before_visit"
+              }
+            },
+            {
+              "id": "footwear",
+              "title": "Footwear",
+              "icon": "footprints",
+              "body": {
+                "text": "Follow posted footwear and storage instructions.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "entry",
+              "title": "Entry & special darshan",
+              "icon": "ticket",
+              "body": {
+                "text": "Consult the temple source for eligibility, booking and charges.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "crowds",
+              "title": "Crowds & queues",
+              "icon": "users",
+              "body": {
+                "text": "Allow extra time on festival days and follow staff guidance.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            },
+            {
+              "id": "season",
+              "title": "Choosing your visit",
+              "icon": "sun",
+              "body": {
+                "text": "Check local weather and seasonal access before travelling.",
+                "source_ids": [],
+                "status": "general_guidance"
+              }
+            }
+          ]
+        },
+        "guidelines": {
+          "title": "Temple Guidelines",
+          "items": [
+            "Follow posted footwear and dress requirements.",
+            "Ask before photographing worship, people or sanctums.",
+            "Follow the temple's current queue and offering arrangements.",
+            "Keep valuables secure and follow staff directions."
+          ],
+          "status": "general_guidance"
+        },
+        "nearby": {
+          "title": "Nearby Sacred Places",
+          "items": [
+            {
+              "temple_id": "in-varanasi-sankat-mochan-hanuman-temple",
+              "card": {
+                "title": "Sankat Mochan Hanuman Temple",
+                "subtitle": "Varanasi, Uttar Pradesh",
+                "deity_label": "Hanuman",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Sankat_Mochan_temple_entrance%2C_Varanasi_-_IRCTC_2017_%281%29.jpg/250px-Sankat_Mochan_temple_entrance%2C_Varanasi_-_IRCTC_2017_%281%29.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Sankat_Mochan_temple_entrance,_Varanasi_-_IRCTC_2017_(1).jpg",
+                  "author": "Vinayaraj",
+                  "license": "CC BY-SA 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:08.699227+00:00",
+                  "alt": "Sankat Mochan Hanuman Temple",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [],
+                "detail_path": "travel/temples/in-varanasi-sankat-mochan-hanuman-temple.json"
+              },
+              "distance_km": 3.3,
+              "distance_kind": "approximate_straight_line"
+            },
+            {
+              "temple_id": "in-varanasi-durga-kund-temple",
+              "card": {
+                "title": "Durga Kund Temple",
+                "subtitle": "Varanasi, Uttar Pradesh",
+                "deity_label": "Devi / Mata",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Durga_Temple_gate.JPG/250px-Durga_Temple_gate.JPG",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Durga_Temple_gate.JPG",
+                  "author": "AKS.9955",
+                  "license": "CC BY-SA 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:19.610021+00:00",
+                  "alt": "Durga Kund Temple",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "devi",
+                    "label": "Devi Temple",
+                    "basis": "deity_category"
+                  }
+                ],
+                "detail_path": "travel/temples/in-varanasi-durga-kund-temple.json"
+              },
+              "distance_km": 2.7,
+              "distance_kind": "approximate_straight_line"
+            },
+            {
+              "temple_id": "in-varanasi-annapurna-devi-temple",
+              "card": {
+                "title": "Annapurna Devi Temple",
+                "subtitle": "Varanasi, Uttar Pradesh",
+                "deity_label": "Devi / Mata",
+                "image": null,
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "devi",
+                    "label": "Devi Temple",
+                    "basis": "deity_category"
+                  }
+                ],
+                "detail_path": "travel/temples/in-varanasi-annapurna-devi-temple.json"
+              },
+              "distance_km": 3.8,
+              "distance_kind": "approximate_straight_line"
+            },
+            {
+              "temple_id": "in-varanasi-kaal-bhairav-temple-varanasi",
+              "card": {
+                "title": "Kaal Bhairav Temple, Varanasi",
+                "subtitle": "Varanasi, Uttar Pradesh",
+                "deity_label": "Bhairava, Shiva",
+                "image": null,
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [],
+                "detail_path": "travel/temples/in-varanasi-kaal-bhairav-temple-varanasi.json"
+              },
+              "distance_km": null,
+              "distance_kind": "unknown"
+            }
+          ],
+          "basis": "same_locality",
+          "notice": "Same-locality suggestions; distances are straight-line estimates, not travel routes.",
+          "empty_message": "No other catalogued temples in this locality."
+        },
+        "related": {
+          "title": "You May Also Like",
+          "items": [
+            {
+              "temple_id": "in-bhimashankar-bhimashankar-temple",
+              "card": {
+                "title": "Bhimashankar Temple",
+                "subtitle": "Bhimashankar, Maharashtra",
+                "deity_label": "Shiva",
+                "image": null,
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "jyotirlinga",
+                    "label": "12 Jyotirlingas",
+                    "basis": "pilgrimage_collection"
+                  }
+                ],
+                "detail_path": "travel/temples/in-bhimashankar-bhimashankar-temple.json"
+              }
+            },
+            {
+              "temple_id": "in-deoghar-baidyanath-temple-deoghar",
+              "card": {
+                "title": "Baidyanath Temple, Deoghar",
+                "subtitle": "Deoghar, Jharkhand",
+                "deity_label": "Shiva",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Baidyanath_temple_and_temple_complex%2C_Deoghar_04.jpg/250px-Baidyanath_temple_and_temple_complex%2C_Deoghar_04.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Baidyanath_temple_and_temple_complex,_Deoghar_04.jpg",
+                  "author": "Pinakpani",
+                  "license": "CC BY 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:10.810162+00:00",
+                  "alt": "Baidyanath Temple, Deoghar",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "jyotirlinga",
+                    "label": "12 Jyotirlingas",
+                    "basis": "pilgrimage_collection"
+                  }
+                ],
+                "detail_path": "travel/temples/in-deoghar-baidyanath-temple-deoghar.json"
+              }
+            },
+            {
+              "temple_id": "in-kedarnath-kedarnath-temple",
+              "card": {
+                "title": "Kedarnath Temple",
+                "subtitle": "Kedarnath, Uttarakhand",
+                "deity_label": "Shiva",
+                "image": {
+                  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Kedarnath_Temple_in_Rainy_season.jpg/250px-Kedarnath_Temple_in_Rainy_season.jpg",
+                  "source_page": "https://commons.wikimedia.org/wiki/File:Kedarnath_Temple_in_Rainy_season.jpg",
+                  "author": "Shivam Kumar 766",
+                  "license": "CC BY-SA 4.0",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                  "changes": "None; Wikimedia thumbnail rendition.",
+                  "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+                  "link_status": "reachable_at_check",
+                  "link_checked_at": "2026-10-06T07:54:12.323669+00:00",
+                  "alt": "Kedarnath Temple",
+                  "role": "article_lead_photo"
+                },
+                "fallback_asset": "travel/assets/temple-placeholder.svg",
+                "badges": [
+                  {
+                    "id": "jyotirlinga",
+                    "label": "12 Jyotirlingas",
+                    "basis": "pilgrimage_collection"
+                  },
+                  {
+                    "id": "chota-char-dham",
+                    "label": "Uttarakhand Char Dham",
+                    "basis": "pilgrimage_collection"
+                  },
+                  {
+                    "id": "panch-kedar",
+                    "label": "Panch Kedar",
+                    "basis": "pilgrimage_collection"
+                  }
+                ],
+                "detail_path": "travel/temples/in-kedarnath-kedarnath-temple.json"
+              }
+            }
+          ],
+          "basis": "shared_collection_then_deity",
+          "empty_message": "More recommendations will appear as the catalogue grows."
+        },
+        "actions": {
+          "directions": {
+            "label": "Get Directions",
+            "url": "https://www.google.com/maps/dir/?api=1&destination=Shri+Kashi+Vishwanath+Temple%2C+Varanasi%2C+Uttar+Pradesh%2C+India"
+          },
+          "maps": {
+            "label": "Open in Maps",
+            "url": "https://www.google.com/maps/search/?api=1&query=Shri+Kashi+Vishwanath+Temple%2C+Varanasi%2C+Uttar+Pradesh%2C+India"
+          },
+          "save": {
+            "label": "Save",
+            "saved_label": "Saved",
+            "action": "toggle_local_favorite",
+            "storage_key": "in-varanasi-shri-kashi-vishwanath-temple"
+          },
+          "share": {
+            "label": "Share",
+            "action": "native_share",
+            "text": "Shri Kashi Vishwanath Temple — Varanasi, Uttar Pradesh",
+            "url": "https://www.google.com/maps/search/?api=1&query=Shri+Kashi+Vishwanath+Temple%2C+Varanasi%2C+Uttar+Pradesh%2C+India"
+          },
+          "read_more": {
+            "label": "Read More",
+            "action": "expand_overview"
+          }
+        },
+        "journey": {
+          "config_path": "travel/discovery.json#/journey"
+        }
       }
+    },
+    "card": {
+      "title": "Shri Kashi Vishwanath Temple",
+      "subtitle": "Varanasi, Uttar Pradesh",
+      "deity_label": "Shiva",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Kashi_Vishwanath.jpg/250px-Kashi_Vishwanath.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Kashi_Vishwanath.jpg",
+        "author": "Architkumar1234",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "changes": "None; Wikimedia thumbnail rendition.",
+        "verification": "license_and_article_association_checked; visual_identity_not_reviewed",
+        "link_status": "reachable_at_check",
+        "link_checked_at": "2026-10-06T07:54:24.864449+00:00",
+        "alt": "Shri Kashi Vishwanath Temple",
+        "role": "article_lead_photo"
+      },
+      "fallback_asset": "travel/assets/temple-placeholder.svg",
+      "badges": [
+        {
+          "id": "jyotirlinga",
+          "label": "12 Jyotirlingas",
+          "basis": "pilgrimage_collection"
+        }
+      ],
+      "detail_path": "travel/temples/in-varanasi-shri-kashi-vishwanath-temple.json"
     }
   }
 }
