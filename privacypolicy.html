@@ -3,92 +3,172 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy - Harinaam</title>
+    <meta name="description" content="Privacy Policy for HariNaam – Japa & Bhakti App. Learn what data is stored locally and what may be processed by AI, weather, analytics, and advertising providers.">
+    <meta name="robots" content="index, follow">
+    <title>Privacy Policy - HariNaam</title>
     <style>
+        :root {
+            color-scheme: light;
+            --background: #f6efe3;
+            --text: #5c3a21;
+            --accent: #934c16;
+            --accent-light: #c77b3b;
+            --surface: #fffaf2;
+            --border: #e7d7c2;
+        }
+        * { box-sizing: border-box; }
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #f6efe3;
-            color: #5c3a21;
+            background-color: var(--background);
+            color: var(--text);
             margin: 0;
-            padding: 0;
-            line-height: 1.6;
+            line-height: 1.7;
         }
         .header {
-            background: linear-gradient(to right, #a25c19, #c77b3b);
+            background: linear-gradient(115deg, #a25c19, #c77b3b);
             color: #ffffff;
-            padding: 40px 20px;
+            padding: 38px 20px;
         }
-        .header h1 {
-            margin: 0 0 15px 0;
-            font-size: 32px;
-        }
-        .header p {
-            margin: 0;
-            font-size: 16px;
-            max-width: 900px;
-        }
-        .content {
-            padding: 40px 20px;
-            max-width: 900px;
+        .header-inner, .content {
+            width: min(100% - 32px, 920px);
             margin: 0 auto;
         }
+        .header h1 {
+            margin: 0 0 10px;
+            font-size: clamp(28px, 5vw, 36px);
+            line-height: 1.2;
+        }
+        .header p { margin: 0; font-size: 16px; max-width: 850px; }
+        .updated { display: inline-block; margin-top: 12px; font-size: 13px; opacity: .95; }
+        .content { padding: 28px 0 48px; }
         h2 {
-            font-size: 20px;
-            color: #934c16;
-            margin-top: 30px;
-            margin-bottom: 12px;
+            font-size: 21px;
+            color: var(--accent);
+            margin: 30px 0 10px;
+            line-height: 1.35;
         }
-        p, ul {
-            margin-bottom: 15px;
-            font-size: 15px;
+        h3 { font-size: 17px; color: var(--accent); margin: 20px 0 8px; }
+        p, ul { margin: 0 0 14px; font-size: 15px; }
+        ul { padding-left: 23px; }
+        li { margin-bottom: 7px; }
+        a { color: #81400f; overflow-wrap: anywhere; }
+        .note {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 16px 18px;
+            margin: 18px 0;
         }
-        ul {
-            padding-left: 20px;
+        .service-list {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 16px 18px;
+            margin: 14px 0;
         }
         .footer-text {
             text-align: center;
-            margin-top: 60px;
+            margin-top: 42px;
             font-size: 15px;
-            color: #934c16;
+            color: var(--accent);
             font-style: italic;
+        }
+        @media (max-width: 520px) {
+            .header { padding: 30px 0; }
+            .content { padding-top: 18px; }
+            h2 { font-size: 19px; }
         }
     </style>
 </head>
 <body>
-
-    <div class="header">
-        <div style="max-width: 900px; margin: 0 auto;">
+    <header class="header">
+        <div class="header-inner">
             <h1>Privacy Policy</h1>
-            <p>Namaste, and welcome to Harinaam. We deeply respect your privacy and the sacredness of your spiritual journey. This Privacy Policy outlines our practices regarding any information you may provide while using our application.</p>
+            <p>Namaste, and welcome to HariNaam – Japa &amp; Bhakti App. We respect your privacy and want you to understand what information is stored on your device and what may be processed by services that power app features.</p>
+            <span class="updated">Last updated: 11 October 2026</span>
         </div>
-    </div>
+    </header>
 
-    <div class="content">
+    <main class="content">
         <h2>1. No Account Required</h2>
-        <p>We respect your privacy. The Harinaam app does <strong>not</strong> require you to create an account, register, or log in. We have deliberately removed all login modules to ensure you can practice your devotion completely anonymously.</p>
+        <p>HariNaam does not require you to create an account, register, or sign in. We do not operate a user-account database for the app. Some optional features, however, send limited information directly to third-party providers, as explained below.</p>
 
-        <h2>2. Data Collection and Local Storage</h2>
-        <p><strong>We do not collect, transmit, or store your personal data on any external servers or databases.</strong></p>
-        <p>All your personal app data, including your chanting progress, streaks, and preferences, is stored <strong>strictly locally</strong> on your device's internal storage or cache. This means you have full ownership and control over your data. Because the data never leaves your device, we have absolutely no access to it.</p>
+        <h2>2. Information Stored on Your Device</h2>
+        <p>The app stores certain information locally to provide its features. This may include japa and activity progress, streaks, points, preferences, search history, AI chat history, and information used to display a local donation receipt. This information is stored in the app's local storage and is not uploaded to a HariNaam-operated account server.</p>
+        <p>You can remove local app data by clearing HariNaam's storage in your Android settings or uninstalling the app. Android device backup behavior may also depend on your device, Android version, and backup settings.</p>
 
-        <h2>3. Data Retention and Deletion Policy</h2>
-        <p>To comply with data safety standards, please note our strict data retention and deletion practices:</p>
+        <h2>3. Approximate Location and Weather</h2>
+        <p>HariNaam uses Android's coarse location permission to request approximate location for the weather feature. When location access is granted and a location is available, approximate coordinates are sent over HTTPS to <a href="https://openweathermap.org/" target="_blank" rel="noopener noreferrer">OpenWeather</a> to retrieve current weather and forecast information. The app does not need your precise GPS location for this feature.</p>
+        <p>If you deny location permission or a location is unavailable, the app uses a default weather location (Vrindavan, India). You can revoke location permission at any time in Android settings. OpenWeather processes requests under its own terms and privacy practices.</p>
+
+        <h2>4. AI Chat Features</h2>
+        <p>If you use HariNaam's AI devotional chat features, the text you submit and the context needed to answer your question may be sent over HTTPS directly to the relevant AI service provider. Depending on the feature, the app uses <a href="https://openrouter.ai/" target="_blank" rel="noopener noreferrer">OpenRouter</a> and/or <a href="https://www.nvidia.com/" target="_blank" rel="noopener noreferrer">NVIDIA</a>. OpenRouter may route a prompt to an underlying model provider to generate a response.</p>
+        <p>Your AI chat history may also be saved locally on your device so you can revisit it. AI providers may process or retain submitted prompts and responses under their own terms and privacy policies; HariNaam does not control their retention practices. Please do not enter passwords, payment credentials, or sensitive personal information into AI chats.</p>
+
+        <h2>5. Analytics, Diagnostics, Notifications, and App Configuration</h2>
+        <p>HariNaam integrates Firebase services, including Google Analytics for Firebase, Firebase Crashlytics, Firebase Cloud Messaging, and Firebase Remote Config. Depending on the feature and SDK behavior, these services may process:</p>
         <ul>
-            <li><strong>Data Retention:</strong> Because we do not collect or transmit your data to our servers, we do not retain any of your data on our end. Your data is retained only locally on your physical device for as long as you keep the Harinaam app installed.</li>
-            <li><strong>Data Deletion:</strong> Because your data is only stored locally on your device, you have complete control over its deletion. You can instantly delete all your personal data and progress at any time by simply <strong>uninstalling the app</strong> or by <strong>clearing the app's data and cache</strong> in your phone's Settings menu. Once uninstalled or cleared, the data is permanently removed.</li>
+            <li>App interaction events, such as opening a Gita chapter, starting or completing japa, playing bhajans, opening or downloading wallpapers, and sharing content.</li>
+            <li>Crash reports, diagnostic information, app version, and technical details needed to understand errors and improve stability.</li>
+            <li>App-instance or device identifiers and a messaging registration token needed for analytics, app configuration, or delivery of notifications.</li>
+        </ul>
+        <p>These services help us understand app usage, diagnose problems, configure app features, and deliver notifications. Data handled by Firebase is subject to Google's/Firebase's terms and privacy practices.</p>
+
+        <h2>6. Advertising and Mediation Services</h2>
+        <p>HariNaam uses Google Mobile Ads and includes mediation adapters for Meta Audience Network and AppLovin. When ads or mediation services are used, these providers and their SDKs may process information such as IP address, advertising or device identifiers where available, ad impressions and interactions, app/device information, and diagnostics. Providers may use this information for ad delivery, measurement, analytics, frequency controls, and fraud prevention, depending on their configuration and your device privacy settings.</p>
+        <p>Advertising providers handle data under their own privacy policies. You can review or change available advertising and privacy controls in your Android and Google account settings, where supported.</p>
+
+        <div class="service-list">
+            <h3>Third-party privacy information</h3>
+            <ul>
+                <li><a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Google Privacy Policy</a> and <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener noreferrer">Google advertising information</a></li>
+                <li><a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener noreferrer">Firebase privacy and data processing information</a></li>
+                <li><a href="https://openweathermap.org/" target="_blank" rel="noopener noreferrer">OpenWeather</a></li>
+                <li><a href="https://openrouter.ai/privacy" target="_blank" rel="noopener noreferrer">OpenRouter Privacy Policy</a></li>
+                <li><a href="https://www.nvidia.com/en-us/about-nvidia/privacy-policy/" target="_blank" rel="noopener noreferrer">NVIDIA Privacy Policy</a></li>
+                <li><a href="https://www.facebook.com/privacy/policy/" target="_blank" rel="noopener noreferrer">Meta Privacy Policy</a></li>
+                <li><a href="https://www.applovin.com/privacy/" target="_blank" rel="noopener noreferrer">AppLovin Privacy Policy</a></li>
+            </ul>
+            <p>Third-party services may update their practices or policies independently. Please review their current policies for details about their data handling and retention.</p>
+        </div>
+
+        <h2>7. Support and Query Forms</h2>
+        <p>If you submit a query or support request in the app, you may enter your name, mobile number, email address, category, subject, and message or description. The app opens an email application with these details prepared in a message. The information is sent to our support team only if you choose an email application and send the email. Your email provider may also process the message.</p>
+        <p>We use support messages to review and respond to your request. Messages delivered to our support mailbox may be retained for as long as reasonably needed to handle the request and maintain relevant support records.</p>
+
+        <h2>8. Donations and UPI Payments</h2>
+        <p>If you choose to donate, HariNaam opens a compatible UPI or payment application. The selected payment provider and your bank handle the payment. HariNaam does not ask for or store your UPI PIN, bank password, or payment credentials. The payment application may return a transaction response that the app uses to display a receipt. The payment provider's own privacy policy applies to the payment process.</p>
+
+        <h2>9. How Information Is Shared</h2>
+        <p>HariNaam does not operate its own account server or user database for the information described in this policy. However, data is sent directly from your device to third-party providers when required for the features and SDKs described above, including weather requests, AI responses, analytics, crash reporting, notifications, and advertising. These providers process data under their own terms and privacy policies.</p>
+        <p>We do not receive AI prompts or approximate weather coordinates on a HariNaam-operated application server. Support information is delivered to us only if you choose to send the prepared email.</p>
+
+        <h2>10. Data Retention and Deletion</h2>
+        <ul>
+            <li><strong>Local app data:</strong> Remains on your device until you clear the app's data or uninstall the app, subject to Android backup behavior.</li>
+            <li><strong>AI, weather, analytics, crash, messaging, and advertising data:</strong> Retention is controlled by the relevant third-party provider and its settings and policies.</li>
+            <li><strong>Support emails:</strong> May be retained in the support mailbox for as long as reasonably needed to respond to and document the request.</li>
+        </ul>
+        <p>HariNaam does not provide an in-app account or account-deletion feature because an account is not required. To manage or request deletion of information held by a third-party provider, use that provider's available privacy controls or contact the provider directly. You may contact us if you need help identifying the relevant service.</p>
+
+        <h2>11. Security</h2>
+        <p>Network requests made by the app use HTTPS where supported by the relevant service. Local app data is stored within Android's app storage environment. No method of electronic storage or transmission is completely secure, and the security practices of third-party providers are governed by their own policies.</p>
+
+        <h2>12. Your Choices</h2>
+        <ul>
+            <li>You can deny or revoke location permission; weather will use the default location when needed.</li>
+            <li>AI chat is optional. You can choose not to submit messages to AI features.</li>
+            <li>You can clear local app data or uninstall HariNaam to remove data stored locally by the app.</li>
+            <li>You can manage notification, advertising, and other available privacy settings through Android or the relevant provider's settings.</li>
         </ul>
 
-        <h2>4. Third-Party Services (Crash Reporting)</h2>
-        <p>While we do not collect personal data, the app may use trusted third-party services (such as Firebase Crashlytics) solely for the purpose of ensuring the app runs smoothly. These services may collect completely anonymous, non-personal diagnostic data (like crash logs or device models) if the app crashes, helping us fix issues faster. They do not use this data to identify you.</p>
+        <h2>13. Changes to This Policy</h2>
+        <p>We may update this Privacy Policy when app features, service providers, or applicable requirements change. The latest version will be published at this page, with the revision date shown at the top. Please review it periodically.</p>
 
-        <h2>5. Changes to This Privacy Policy</h2>
-        <p>We may update our Privacy Policy from time to time. We will notify you of any changes by updating the policy in the app and on our website.</p>
-
-        <h2>6. Contact Us</h2>
-        <p>If you have any questions or concerns about this policy or how your data is handled, please don't hesitate to contact us at <strong>codewatipvtltd@gmail.com</strong>. We are here to listen and help.</p>
+        <h2>14. Contact Us</h2>
+        <p>For privacy questions about HariNaam, contact us at <a href="mailto:codewatipvtltd@gmail.com">codewatipvtltd@gmail.com</a>. For in-app support requests, the app may prepare an email to <a href="mailto:support@codewati.com">support@codewati.com</a>.</p>
 
         <p class="footer-text">May you find peace and focus in your daily practice.</p>
-    </div>
-
+    </main>
 </body>
 </html>
